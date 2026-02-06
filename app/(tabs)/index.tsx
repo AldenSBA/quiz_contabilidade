@@ -1,45 +1,79 @@
-import { ScrollView, Text, View, TouchableOpacity } from "react-native";
-
+import { ScrollView, Text, View, TouchableOpacity, FlatList } from "react-native";
+import { useRouter } from "expo-router";
 import { ScreenContainer } from "@/components/screen-container";
+import { questionsData } from "@/lib/questions-data";
+import { BookOpen, TrendingUp } from "lucide-react-native";
 
-/**
- * Home Screen - NativeWind Example
- *
- * This template uses NativeWind (Tailwind CSS for React Native).
- * You can use familiar Tailwind classes directly in className props.
- *
- * Key patterns:
- * - Use `className` instead of `style` for most styling
- * - Theme colors: use tokens directly (bg-background, text-foreground, bg-primary, etc.); no dark: prefix needed
- * - Responsive: standard Tailwind breakpoints work on web
- * - Custom colors defined in tailwind.config.js
- */
 export default function HomeScreen() {
+  const router = useRouter();
+
+  const handleModulePress = (moduleId: string) => {
+    router.push({
+      pathname: "/quiz",
+      params: { moduleId }
+    });
+  };
+
   return (
-    <ScreenContainer className="p-6">
+    <ScreenContainer className="p-4">
       <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
-        <View className="flex-1 gap-8">
-          {/* Hero Section */}
-          <View className="items-center gap-2">
-            <Text className="text-4xl font-bold text-foreground">Welcome</Text>
+        <View className="flex-1 gap-6">
+          {/* Header */}
+          <View className="items-center gap-2 mt-4">
+            <View className="flex-row items-center gap-2">
+              <BookOpen size={32} color="#0a7ea4" />
+              <Text className="text-3xl font-bold text-foreground">Quiz Contabilidade</Text>
+            </View>
             <Text className="text-base text-muted text-center">
-              Edit app/(tabs)/index.tsx to get started
+              Estude contabilidade com questões de V/F e múltipla escolha
             </Text>
           </View>
 
-          {/* Example Card */}
-          <View className="w-full max-w-sm self-center bg-surface rounded-2xl p-6 shadow-sm border border-border">
-            <Text className="text-lg font-semibold text-foreground mb-2">NativeWind Ready</Text>
-            <Text className="text-sm text-muted leading-relaxed">
-              Use Tailwind CSS classes directly in your React Native components.
-            </Text>
+          {/* Stats Card */}
+          <View className="bg-surface rounded-2xl p-4 border border-border">
+            <View className="flex-row items-center gap-3">
+              <View className="bg-primary/20 rounded-lg p-3">
+                <TrendingUp size={24} color="#0a7ea4" />
+              </View>
+              <View className="flex-1">
+                <Text className="text-sm text-muted">Total de Questões</Text>
+                <Text className="text-2xl font-bold text-foreground">
+                  {questionsData.reduce((sum, m) => sum + m.questions.length, 0)}
+                </Text>
+              </View>
+            </View>
           </View>
 
-          {/* Example Button */}
-          <View className="items-center">
-            <TouchableOpacity className="bg-primary px-6 py-3 rounded-full active:opacity-80">
-              <Text className="text-background font-semibold">Get Started</Text>
-            </TouchableOpacity>
+          {/* Modules List */}
+          <View className="gap-3">
+            <Text className="text-lg font-semibold text-foreground">Aulas Disponíveis</Text>
+            <FlatList
+              scrollEnabled={false}
+              data={questionsData}
+              keyExtractor={(item) => item.id}
+              renderItem={({ item: module }) => (
+                <TouchableOpacity
+                  onPress={() => handleModulePress(module.id)}
+                  activeOpacity={0.7}
+                  className="bg-surface rounded-xl p-4 border border-border mb-3"
+                >
+                  <View className="gap-2">
+                    <Text className="text-base font-semibold text-foreground">
+                      {module.title}
+                    </Text>
+                    <Text className="text-sm text-muted">
+                      {module.description}
+                    </Text>
+                    <View className="flex-row items-center justify-between mt-2">
+                      <Text className="text-xs font-medium text-primary">
+                        {module.questions.length} questões
+                      </Text>
+                      <Text className="text-xs text-muted">→</Text>
+                    </View>
+                  </View>
+                </TouchableOpacity>
+              )}
+            />
           </View>
         </View>
       </ScrollView>

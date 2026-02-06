@@ -14,8 +14,12 @@
 ## Status
 
 - [x] Projeto inicializado com Expo
-- [ ] Dados de questões importados
-- [ ] Telas implementadas
-- [ ] Lógica de quiz funcional
-- [ ] Persistência de dados
-- [ ] Build APK
+- [x] Dados de questões importados (4 aulas, 30+ questões)
+- [x] Telas implementadas (Home, Quiz, Results)
+- [x] Lógica de quiz funcional (V/F e Múltipla Escolha)
+- [x] Navegação entre questões
+- [x] Explicações detalhadas
+- [x] Pontuação em tempo real
+- [x] Guia de geração de APK
+- [ ] Persistência de dados com AsyncStorage (próximo)
+- [ ] Sincronização com backend (opcional)

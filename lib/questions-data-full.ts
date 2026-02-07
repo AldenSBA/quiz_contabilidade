@@ -17,459 +17,2492 @@ export interface Module {
 
 export const questionsData: Module[] = [
   {
-    id: 'aula04',
-    title: 'Aula 04: Ativo Circulante e Não Circulante',
-    description: 'Questões sobre classificação de ativos e estrutura do balanço patrimonial',
-    color: 'bg-blue-600',
-    questions: [
+    "id": "aula00",
+    "title": "Aula 00: Contabilidade",
+    "description": "Questões da Aula 00",
+    "color": "bg-blue-600",
+    "questions": [
       {
-        id: 'a04_q1',
-        question: "A entidade deve elaborar o conjunto de suas demonstrações contábeis por meio da utilização do regime de competência, sendo vedada a utilização de outro regime contábil.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "É muito importante que você saiba que as demonstrações contábeis devem ser elaboradas de acordo com o regime de competência! Então, as demonstrações se referirão à data de encerramento do exercício social, e as receitas e despesas consideradas ali são as que incorreram no exercício, independente de pagamento ou recebimento. A exceção fica por conta da demonstração dos fluxos de caixa. Esta é elaborada de acordo com o regime de caixa!",
-        type: 'true-false'
+        "id": "a00_q1",
+        "question": "Na ciência contábil, o patrimônio líquido de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nNeste quesito a banca trouxe como “casca de banana” a definição de “Patrimônio” para “Patrimônio líquido”.\nEscorregou? Fique Atento! As seguintes definições:\n•\n•\n•\n\nPatrimônio é definido como sendo os bens, direitos e obrigações de uma empresa\nPatrimônio Bruto é o Ativo (bens e direitos).\nPatrimônio líquido é a participação residual nos ativos da entidade após a dedução de todos os seus\npassivos.\n\nO PL é a participação residual, isto é, o que “sobra” dos ativos, após pagar as dívidas, os passivos. Funciona\nassim: se determinada entidade vender todos os seus bens e direitos, ou sej",
+        "type": "true-false"
       },
       {
-        id: 'a04_q2',
-        question: "O total do ativo da referida empresa é de R$ 5.500.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Inicialmente, classifiquemos conforme o grupo patrimonial: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 ações em tesouraria → Retificadora do PL caixa →Ativo capital social → PL clientes →Ativo contas a pagar em 3 anos → Passivo contas a receber em 1.000 dias → Ativo depreciação acumulada → Retificadora do Ativo estoques → Ativo fornecedores → Passivo impostos a recolher → Passivo máquinas → Ativo provisões cíveis → Passivo reserva legal → PL terrenos→ Ativo Selecionando as contas do ativo, fica assim: contas saldos caixa 100 clientes 600 contas a receber em 1.000 dias 2.500 (-) depreciação acumulada (200) estoques 500 máquinas 700 terrenos 800 Total do ativo 5.000 Portanto, o total do ativo da referida empresa é de R$ 5.000.",
-        type: 'true-false'
+        "id": "a00_q2",
+        "question": "Coletar informações, sintetizá-las e registrá-las são algumas das",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA Ciência Contábil surge e se aperfeiçoa com a missão de captar, escriturar, interpretar fatos que afetavam\no PATRIMÔNIO de pessoas. O objeto de estudo da contabilidade é o patrimônio.\nNossa querida Contabilidade estuda e cuida do controle, do registro, de todos os eventos que, de alguma\nforma, modificam o patrimônio das entidades. Esse patrimônio de uma pessoa que é gerido de maneira\norganizada é chamado de Azienda. Ele é o campo de aplicação da contabilidade:\nAziendas = patrimônio + gestão\nA seguir, duas importantes definições:\nContabilidade é a ciência que estuda a pratica as f",
+        "type": "true-false"
       },
       {
-        id: 'a04_q3',
-        question: "As disponibilidades da empresa em questão totalizam R$ 100.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata, como a conta caixa, bancos conta movimento. Exemplos de disponibilidades: - Caixa. - Contas bancárias de livre movimentação; - Contas especiais para pagamentos específicos, como dividendos, folha de pagamento, filiais; SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 - Contas especiais de cobrança; - Numerários em trânsito, como por exemplo, remessas para filiais, depósitos, ordem de pagamento; - Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. - Título do governo ou do tesouro (pode entender como sinônimos): • • Um título do tesouro comprado três meses antes do vencimento normalmente é considerado equivalente de caixa. Mas, se for comprado, digamos, 2 anos antes do vencimento, não entra como equivalente de caixa. Passa o tempo, o título fica próximo do vencimento (90 dias), mas não é reclassificado para equivalente, pois não houve movimentação efetiva de caixa. Continua sendo considerado com \"não equivalente de caixa\", ainda que esteja próximo ao vencimento. Compra agora um título do governo ou do tesouro (pode entender como sinônimos) que vence em 90 dias, entra como equivalente de caixa. Revisão feita! Filtremos as contas de disponibilidades apresentadas no balancete de verificação: contas saldos caixa 100 Total das disponibilidades 100",
-        type: 'true-false'
+        "id": "a00_q3",
+        "question": "O objetivo fundamental da contabilidade, hoje, é fornecer",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nPara facilitar, vamos analisar em duas partes:\nParte 1 - O objetivo fundamental da contabilidade, hoje, é fornecer informações\nA finalidade principal da ciência contábil, que algumas vezes é confundida com o objetivo da contabilidade,\né fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade. Ocorre que o\nCEBRASPE não trata esses termos como sinônimos.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situaçã",
+        "type": "true-false"
       },
       {
-        id: 'a04_q4',
-        question: "Na contratação de um seguro anual por uma entidade, a contabilização correta, pelo montante total da despesa, é a apresentada a seguir. Débito – despesas de seguros Crédito – caixa, bancos ou seguros a pagar",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu (Mês segurado). Enquanto não ocorre, a entidade contabilizará um ativo. Contabilização inicial (contratação de um seguro anual): D – Seguros Antecipados (↑Ativo Circulante) C – Caixa/Bancos (↓Ativo Circulante) A cada mês, apropriaremos 1/12 como despesa de seguro: D – Despesas de seguros (↓Resultado = Despesa) C – Seguros Antecipados (↓Ativo) SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04",
-        type: 'true-false'
+        "id": "a00_q4",
+        "question": "A contabilidade estuda o patrimônio em seus aspectos",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, o objeto de estudo da Contabilidade é o patrimônio, isto é, os bens, direitos e obrigações de\numa entidade. Dessa forma, estuda os aspectos qualitativos desse patrimônio, como por exemplo, os\nelementos que compõe esse acervo patrimonial, e aspectos também quantitativos, isto é, o valor monetário\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n35\n\nwww.estrategiaconcursos.com.br\n\n61\n\n\fLuciano Rosa, Júlio Cardozo\nAula 00\n\nesses itens. Além disso, o objetivo da Ciência Contábil é fornecer informações uteis aos seus usuári",
+        "type": "true-false"
       },
       {
-        id: 'a04_q5',
-        question: "Devem ser classificados no ativo circulante os ativos financeiros que estejam sendo mantidos essencialmente com o propósito de serem negociados, bem como a parcela a realizar no prazo de até doze meses após a data do balanço de ativos financeiros não circulantes.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Para facilitar a visualização, vamos analisar em duas partes: Parte 1 - Devem ser classificados no ativo circulante os ativos financeiros que estejam sendo mantidos essencialmente com o propósito de serem negociados Certo, pois é um critério previsto no Pronunciamento Técnico CPC 26 (R1) – Apresentação das Demonstrações Contábeis: Ativo circulante 66. O ativo deve ser classificado como circulante quando satisfizer qualquer dos seguintes critérios: (a) espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no decurso normal do ciclo operacional da entidade; (b) está mantido essencialmente com o propósito de ser negociado; (c) espera-se que seja realizado até doze meses após a data do balanço; ou (d) é caixa ou equivalente de caixa (conforme definido no Pronunciamento Técnico CPC 03 – Demonstração dos Fluxos de Caixa), a menos que sua troca ou uso para liquidação de passivo se encontre vedada durante pelo menos doze meses após a data do balanço. Todos os demais ativos devem ser classificados como não circulantes. 67. Este Pronunciamento utiliza a expressão “não circulante” para incluir ativos tangíveis, intangíveis e ativos financeiros de natureza de longo prazo. Não se proíbe o uso de descrições alternativas desde que seu sentido seja claro. Parte 2- bem como a parcela a realizar no prazo de até doze meses após a data do balanço de ativos financeiros não circulantes. Também é um critério previsto na referida norma, especificadamente na alínea c. A ideia é a seguinte: quando ao ativo for de longo prazo deve ser segregada em ativo circulante e não circulante – realizável em longo prazo, pois o prazo de vigência é de superior a 12 meses. Em síntese: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 • • Ativo Circulante: a parte realizável até doze meses após a data do balanço Ativo Não Circulante: a parte realizável após esse prazo.",
-        type: 'true-false'
+        "id": "a00_q5",
+        "question": "Atualmente, a corrente majoritária de pensadores da área",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nAo longo do seu desenvolvimento, a Contabilidade já foi considerada uma técnica e até mesmo uma forma\nde arte (aqui eu tenho que concordar rsrs). Contudo, o pensamento mais atual é aquele que considera a\nContabilidade como uma Ciência Social.\nDefinição oficial de contabilidade: Contabilidade é a ciência que estuda e pratica as funções de orientação,\nde controle e de registro dos atos e fatos de uma administração econômica (1º Congresso Brasileiro de\nContabilidade/1924).",
+        "type": "true-false"
       },
       {
-        id: 'a04_q6',
-        question: "O ativo não circulante é composto por ativo realizável a longo prazo, investimentos, imobilizado e intangível.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O ativo não circulante deve ser subdividido em realizável a longo prazo, investimentos, imobilizado e intangível. Vejamos suas respectivas definições previstas na lei 6.404/76: • ativo realizável a longo prazo: Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia; • investimentos Art. 179. III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa; • imobilizado Art. 179. IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens; (Redação dada pela Lei nº 11.638,de 2007) • intangível Art. 179. VI – no intangível: os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido. (Incluído pela Lei nº 11.638, de 2007)",
-        type: 'true-false'
+        "id": "a00_q6",
+        "question": "A razão de ser da contabilidade é oferecer aos",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nO objetivo da contabilidade (A razão de ser) é fornecer a seus usuários informações sobre a situação\npatrimonial e financeira da entidade. Portanto, correto, pois agentes econômicos, como famílias, firmas e\ngoverno podem ser considerados usuários da Contabilidade e usam as informações produzidas por essa\nciência para tomarem suas decisões.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q7',
-        question: "De acordo com as disposições da Lei n.º 6.404/1976 em vigor, assinale a opção correta. A O ativo não circulante é composto por ativo realizável a longo prazo, investimentos, imobilizado e permanente. B No ativo, as contas deverão ser dispostas em ordem crescente do grau de liquidez. C As participações permanentes em outras sociedades que não se destinem à manutenção da atividade da companhia ou da empresa devem ser contabilizadas no ativo intangível. D Os bens corpóreos destinados à manutenção das atividades da companhia deverão ser contabilizados no ativo imobilizado. E Quando o ciclo operacional da empresa tiver duração menor que doze meses, a classificação no circulante ou no longo prazo terá por base o prazo desse ciclo.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "A O ativo não circulante é composto por ativo realizável a longo prazo, investimentos, imobilizado e permanente. Na verdade, esta é a composição do ativo não circulante: realizável a longo prazo, investimentos, imobilizado e intangível. Alternativa errada. B No ativo, as contas deverão ser dispostas em ordem crescente do grau de liquidez. Verdade seja dita: ordem DECRESCENTE do grau de liquidez. Alternativa errada. C As participações permanentes em outras sociedades que não se destinem à manutenção da atividade da companhia ou da empresa devem ser contabilizadas no ativo intangível. Na realidade, elas devem ser contabilizadas no subgrupo investimentos, vejam: Art. 179. III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa; Alternativa errada. D Os bens corpóreos destinados à manutenção das atividades da companhia deverão ser contabilizados no ativo imobilizado. Certo, isso é previsto na lei 6.404/76: Art. 179. IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens; (Redação dada pela Lei nº 11.638,de 2007) SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 E Quando o ciclo operacional da empresa tiver duração menor que doze meses, a classificação no circulante ou no longo prazo terá por base o prazo desse ciclo. Destaquemos o texto da referida lei: Art. 179. Parágrafo único. Na companhia em que o ciclo operacional da empresa tiver duração maior que o exercício social, a classificação no circulante ou longo prazo terá por base o prazo desse ciclo. Observa-se que essa classificação terá por base o exercício social quando a duração do ciclo operacional for menor que doze meses. Alternativa errada.",
-        type: 'multiple-choice'
+        "id": "a00_q7",
+        "question": "Contabilidade geral e contabilidade societária são",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n36\n\nwww.estrategiaconcursos.com.br\n\n61\n\n\fLuciano Rosa, Júlio Cardozo\nAula 00\n\nErrado, pessoal, Contabilidade pode ser aplicada em ramos específicos, como a Contabilidade Societária,\nContabilidade Geral, Contabilidade Aplicada ao Setor Público, Contabilidade Gerencial, Contabilidade de\nCustos, Contabilidade Bancária, assim por diante.\nContabilidade Geral e a Contabilidade Societária não são sinônimos de ciência contábil, logo, item errado.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q8',
-        question: "Conforme a mais recente estrutura conceitual da contabilidade, o balanço patrimonial A é um retrato estático das informações de eventos passados da entidade. B representa de forma exata a realidade da entidade. C é produzido sem qualquer tipo de estimativa. D representa os fluxos de caixa passados da entidade. E é uma projeção dinâmica das informações futuras da entidade.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "A é um retrato estático das informações de eventos passados da entidade. O Balanço Patrimonial mostra a posição patrimonial e financeira da entidade. Ela evidencia uma situação estática da entidade, como fosse uma foto da entidade naquele dado momento. Alternativa certa. B representa de forma exata a realidade da entidade. Em grande medida, relatórios financeiros baseiam-se em estimativas, julgamentos e modelos e, não, em representações exatas. Alternativa errada. C é produzido sem qualquer tipo de estimativa. O uso de estimativas razoáveis é parte essencial da elaboração de informações financeiras e não prejudica a utilidade das informações se as estimativas são descritas e explicadas de forma clara e precisa. Alternativa errada. D representa os fluxos de caixa passados da entidade. Por meio das demonstrações de fluxo de caixa, podemos obter essas informações. Alternativa errada. E é uma projeção dinâmica das informações futuras da entidade. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 O Balaço Patrimonial é uma demonstração estática. Alternativa errada.",
-        type: 'multiple-choice'
+        "id": "a00_q8",
+        "question": "Se um trabalhador controla rigorosamente, em um",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA Contabilidade alcança seu objetivo através do registro de todos os fatos relacionados com a formação,\nmovimentação e variações do patrimônio administrado. No caso apresentado na questão, o trabalhador\nregistra todos os eventos que geram alterações no seu patrimônio e com essas informações geradas, toma\nsuas decisões. Logo, está fornecendo informações sobre a situação patrimonial e financeira da entidade,\nmuitas vezes chamada também de objetivo final/fundamental.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q9',
-        question: "Caso um título de crédito se torne incobrável, sendo baixado do ativo por constituir uma perda de crédito da entidade, a representação desse evento deve ser feita por meio de um lançamento de primeira fórmula, sem impacto no montante do patrimônio da entidade.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Quando a PECLD é constituída, nós lançamos: D – Despesa com PCLD C – PCLD (redutora ativo) Posteriormente, se a perda for reconhecida como efetiva, quando o cliente é considerado incobrável, nós fazemos o seguinte: D – PCLD (redutora ativo) C – Duplicatas a receber (ativo) O quesito acabou focando nesse lançamento. Então, vamos julgar as demais partes com base nele. • a representação desse evento deve ser feita por meio de um lançamento de primeira fórmula Lançamento 1a fórmula 2a fórmula 3a fórmula 4a fórmula Débito 1 1 2 2 Crédito 1 2 1 2 Tipo Simples Composto Composto Complexo É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. No tocante ao tipo de fórmula, esse lançamento é de 1º fórmula (uma conta debitada e uma conta creditada) • sem impacto no montante do patrimônio da entidade. Os Fatos Permutativos são aqueles que não alteram o valor do patrimônio líquido, constituindo apenas permutações entre elementos patrimoniais. As trocas podem ser entre elementos do ativo, passivo, de ambos, ou entre elementos da situação líquida. Observa-se que o lançamento do crédito considerado SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 incobrável, ocorre apenas uma permuta entre elementos do ativo. Ou melhor, sem impacto no montante do patrimônio da entidade. Essa parte também está certa.",
-        type: 'true-false'
+        "id": "a00_q9",
+        "question": "Contabilidade é a ciência social que",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nÉ verdade que a contabilidade é uma ciência social, todavia ela não é a única. Sabendo disto a banca trouxe\ncomo “casca de banana” a definição de “Administração” para “Contabilidade”. Escorregou? Fique Atento!\nAs seguintes definições:\nAdministração:\nAdministração é a tomada de decisão sobre recursos disponíveis, trabalhando com e através de pessoas para\natingir objetivos, é o gerenciamento de uma organização, levando em conta as informações fornecidas por\noutros profissionais e também pensando previamente as consequências de suas decisões. É também a\nciência social que estuda e si",
+        "type": "true-false"
       },
       {
-        id: 'a04_q10',
-        question: "Uma entidade que adiantar recursos às empresas que lhe prestem serviços deverá registrar esses adiantamentos a débito de uma conta de despesa e a crédito de uma conta de ativo.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Errado, pessoal, considerando a aplicação do Regime de Competência, a concessão de um adiantamento para um prestador de serviços não pode ser contabilizada como despesas, visto que o respectivo fato gerador não ocorreu. A contabilização a ser feita seria: D - Adiantamento a Prestador de Serviço - Despesa Antecipada - Ativo Circulante C - Bancos Quando o serviço for efetivamente prestado, vamos reconhecer a despesa: D - Despesas com serviços C - Adiantamento a Prestador de Serviço - Despesa Antecipada - Ativo Circulante",
-        type: 'true-false'
+        "id": "a00_q10",
+        "question": "A ciência",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n38\n\nwww.estrategiaconcursos.com.br\n\n61\n\n\fLuciano Rosa, Júlio Cardozo\nAula 00\n\nA Ciência Contábil surge e se aperfeiçoa com a missão de captar, escriturar, interpretar fatos que afetavam\no PATRIMÔNIO de pessoas. Para se enquadrar como ciência e se diferenciar de outras ciências ligadas, o\npatrimônio foi definido como seu objeto de estudo.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q11',
-        question: "A despesa antecipada é um direito que pode ser classificado no balanço patrimonial como ativo circulante ou como ativo realizável a longo prazo, conforme o prazo para a conversão desse direito em bens ou serviços.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "As aplicações de recursos em despesas do exercício seguinte (também chamadas despesas antecipadas) são despesas que foram pagas pela empresa com antecedência ou serão pagas no curto prazo e ainda não foram para o resultado pelo regime de competência. Podemos ter despesas antecipadas classificadas no ativo circulante ou no ativo não circulante - realizável a longo prazo, de acordo com o prazo de conversão desse direito em bens ou serviços.",
-        type: 'true-false'
+        "id": "a00_q11",
+        "question": "A contabilidade é a ciência social",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nParte 1 - A contabilidade é a ciência social que estuda e controla o patrimônio das entidades\nA contabilidade é uma ciência social, a qual vem se desenvolvendo desde que a Humanidade começou a\nsentir a necessidade de acumular e registrar riqueza e a fazer operações mercantis. A Ciência Contábil surge\ne se aperfeiçoa com a missão de captar, escriturar, interpretar fatos que afetavam o patrimônio de pessoas.\nDefinição oficial de contabilidade: Contabilidade é a ciência que estuda e pratica as funções de orientação,\nde controle e de registro dos atos e fatos de uma administração econ",
+        "type": "true-false"
       },
       {
-        id: 'a04_q12',
-        question: "As perdas esperadas em créditos de liquidação duvidosa são estimativas contábeis que devem ser registradas em contas retificadoras de ativo.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Item correto, pessoal. A conta perdas estimadas com créditos de liquidação duvidosa é retificadora da conta clientes/duplicatas a receber. Expliquemos! Uma empresa vendeu R$ 100.000,00 a prazo, e constitui perdas estimadas com créditos de liquidação duvidosa de 3%. Na venda dos R$ 100.000,00: D – Clientes (ativo) 100.000,00 C – Receita de vendas (resultado) 100.000,00 A constituição da provisão para devedores duvidosos: D – Despesa com perdas estimadas com créditos de liquidação duvidosa (despesa) 3.000,00 C – Perdas estimadas com créditos de liquidação duvidosa (retificadora do ativo) 3.000,00",
-        type: 'true-false'
+        "id": "a00_q12",
+        "question": "A ciência contábil tem múltiplas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA finalidade principal da ciência contábil, que algumas vezes é confundida com o objetivo da contabilidade,\né fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade. Ocorre que o\nCEBRASPE não trata esses termos como sinônimos.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\nFINALIDADE = controlar o patrimônio das aziendas.\nPodemos utilizar o seguinte Macete na",
+        "type": "true-false"
       },
       {
-        id: 'a04_q13',
-        question: "O lançamento de aluguéis antecipados, no valor de R$ 1.920, referentes a 12 meses, e contratados em 1.º/4/20X1, é mostrado corretamente a seguir. data 2/5/20X1 conta e histórico débito crédito despesa de aluguéis 1.920 aluguéis antecipados 1.920 aluguel antecipado de 12 meses de uma sala comercial",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "O lançamento de aluguéis antecipados, no valor de R$ 1.920, referentes a 12 meses, e contratados em 1.º/4/20X1, é mostrado corretamente a seguir. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 Na contabilidade utilizamos o regime de competência, no qual as despesas são reconhecidas quando ocorridas e independente do pagamento. Assim, caso a entidade pague antecipado, ela não poderá reconhecer uma despesa, dado que o fato gerador dessa obrigação não ocorreu (Mês segurado). Enquanto não ocorre, a entidade contabilizará um ativo. Contabilização inicial (contratação de um seguro anual): D – Seguros Antecipados (↑Ativo Circulante) R$ 1.920 C – Caixa/Bancos (↓Ativo Circulante) R$ 1.920 Ao comparamos com o lançamento descrito no enunciado, percebe-se que houve um erro ao reconhecer uma despesa no momento da contratação. Isso desrespeita o regime de competência. Salientamos que apropriaremos, mês a mês, R$ 160 (1.920/12) como despesa de seguro: D – Despesas de seguro (↓Resultado = Despesa) R$ 160 C – Seguros Antecipados (↓Ativo) R$ 160",
-        type: 'true-false'
+        "id": "a00_q13",
+        "question": "Contribuir para a tomada de decisão",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nTraduzindo: Contribuir para a tomada de decisão sobre comprar, vender ou manter instrumento de\npatrimônio e de dívida = Fornecer a seus usuários informações sobre a situação patrimonial e financeira da\nentidade\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\nFINALIDADE = controlar o patrimônio das aziendas.\nPodemos utilizar o seguinte Macete nas questões Cebraspe:\nNesse quesito a banca utilizou a expressão “um dos fins da contab",
+        "type": "true-false"
       },
       {
-        id: 'a04_q14',
-        question: "Conforme a Lei n.º 6.404/1976, também conhecida como Lei das S/A, as ações de outras companhias, que não são mantidas para venda, devem ser classificadas no grupo do balanço patrimonial denominado A despesas antecipadas (ativo circulante). B investimentos (ativo não circulante). C intangível (ativo não circulante). D reservas de capital (patrimônio líquido). E imobilizado (ativo não circulante).",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "A despesas antecipadas (ativo circulante). Errado, apenas as despesas que foram pagas pela empresa com antecedência ou serão pagas no curto prazo e ainda não foram para o resultado pelo regime de competência. B investimentos (ativo não circulante). Certo, com base na lei 6.404/76: Art. 179. III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa; SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 C intangível (ativo não circulante). Errado, pois classificam-se nesse subgrupo os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido. bens (Art. 179. VI da lei 6.404/76). D reservas de capital (patrimônio líquido). As reservas de capital são valores recebidos pela empresa (dos sócios ou de terceiros) que não se configuram como receita, isto é, não transitam pelo resultado do exercício, sendo contabilizadas diretamente à conta de Patrimônio Líquido. Alternativa errada. E imobilizado (ativo não circulante). Errado, nesse subgrupo vamos classificar os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens (Art. 179. IV da lei 6.404/76).",
-        type: 'multiple-choice'
+        "id": "a00_q14",
+        "question": "O objetivo das demonstrações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA finalidade principal da ciência contábil, que algumas vezes é confundida com o objetivo da contabilidade,\né fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade. Ocorre que o\nCEBRASPE não trata esses termos como sinônimos.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (P",
+        "type": "true-false"
       },
       {
-        id: 'a04_q15',
-        question: "No balanço patrimonial, as contas do ativo são classificadas em circulantes e não circulantes. Assinale a opção que apresenta conta registrada no ativo circulante. A empréstimos a receber no longo prazo B contas a receber de clientes após o exercício seguinte C investimento em controlada não negociável no curto prazo D veículos registrados na contabilidade da empresa como imobilizados E estoques de mercadorias disponíveis para venda",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O ativo se divide em: 1) Ativo circulante; e Segundo a Lei 6.404: Art. 179. As contas serão classificadas do seguinte modo: I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte; O quesito trouxe o seguinte exemplo: estoques de mercadorias disponíveis para venda 2) Ativo não circulante. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 2.1 Ativo realizável a longo prazo: Art. 179. II – No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia; O quesito trouxe os seguintes exemplos: empréstimos a receber no longo prazo e contas a receber de clientes após o exercício seguinte 2.2 investimentos Art. 179. III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa; O quesito trouxe o seguinte exemplo: investimento em controlada não negociável no curto prazo 2.3 imobilizado Art. 179. IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle desses bens; (Redação dada pela Lei nº 11.638,de 2007) O quesito trouxe o seguinte exemplo: veículos registrados na contabilidade da empresa como imobilizados 2.4 intangível Art. 179. VI – no intangível: os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido. (Incluído pela Lei nº 11.638, de 2007) Não temos exemplos entre as alternativas.",
-        type: 'multiple-choice'
+        "id": "a00_q15",
+        "question": "Uma finalidade da ciência",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nTraduzindo:\nObservar se a riqueza administrativa está atingindo os fins propostos pelo sujeito contábil = Controlar.\nIsto é, o quesito quer saber, o seguinte: Controlar é a finalidade da contabilidade?\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\nFINALIDADE = controlar o patrimônio das aziendas.\nPodemos utilizar o seguinte Macete nas questões Cebraspe:\nO objetivo é ficar OFF: Objetivo = Fornecer\nA finalidade é Futebol Clube: ",
+        "type": "true-false"
       },
       {
-        id: 'a04_q16',
-        question: "Adiantamentos ou empréstimos a sociedades coligadas ou controladas registram-se no ativo circulante quando houver previsão de recebimento no curso dos 12 meses seguintes à elaboração do balanço. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Segundo a Lei 6.404: Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia; Portanto, adiantamentos ou empréstimos a sociedades coligadas ou controladas devem ser classificados como Ativo Não Circulante – Realizável a longo prazo, independente do prazo estabelecido na operação. Exemplo: a empresa efetua um empréstimo a sociedades coligadas ou controladas com o prazo de quitação de 300 dias; mesmo que pelo prazo o direito seja realizável no presente exercício, em virtude na natureza da operação, ele deve ser classificado como Ativo Não Circulante – Realizável a longo prazo.",
-        type: 'true-false'
+        "id": "a00_q16",
+        "question": "O fornecimento de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nA finalidade principal da ciência contábil, que algumas vezes é confundida com o objetivo da contabilidade,\né fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade. Ocorre que o\nCEBRASPE não trata esses termos como sinônimos.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\nFINALIDADE = controlar o patrimônio das aziendas.\nPodemos utilizar o seguinte Macete na",
+        "type": "true-false"
       },
       {
-        id: 'a04_q17',
-        question: "Os ativos devem ser segregados em circulantes e não circulantes, sendo estes últimos compostos por ativo realizável a longo prazo, investimentos, imobilizado e intangível.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O ativo se divide em: 1) Ativo circulante; e 2) Ativo não circulante: Ativo realizável a longo prazo, investimentos, imobilizado e intangível Isso é previsto na lei 6.404/76: Art. 178. No balanço, as contas serão classificadas segundo os elementos do patrimônio que registrem, e agrupadas de modo a facilitar o conhecimento e a análise da situação financeira da companhia. § 1º No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez dos elementos nelas registrados, nos seguintes grupos: I – ativo circulante; e (Incluído pela Lei nº 11.941, de 2009) SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 II – ativo não circulante, composto por ativo realizável a longo prazo, investimentos, imobilizado e intangível. (Incluído pela Lei nº 11.941, de 2009)",
-        type: 'true-false'
+        "id": "a00_q17",
+        "question": "O patrimônio de uma entidade é representado, nas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nO patrimônio, em Contabilidade, é definido como um conjunto de bens, direitos e obrigações da entidade.\nVejamos nosso esquema:\n\nPatrimônio\nBens\n\nDireitos\n\nObrigações\n\nO conjunto de bens e direitos chamamos de ativo, parte positiva do patrimônio. Por seu turno, as obrigações\nserão chamadas de passivo, parte negativa do patrimônio. Assim, gravemos:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n43\n\nwww.estrategiaconcursos.com.br\n\n61\n\n\fLuciano Rosa, Júlio Cardozo\nAula 00\n\nAtivo: bens e direitos\nPassivo: obrigações",
+        "type": "true-false"
       },
       {
-        id: 'a04_q18',
-        question: "Aplicações de recursos em despesas do exercício seguinte devem ser classificadas em ativos não circulantes.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Na verdade, as aplicações de recursos em despesas do exercício seguinte devem ser classificadas no ativo circulante. Isso é previsto na Lei 6.404/76: Art. 179. As contas serão classificadas do seguinte modo: I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social subsequente e as aplicações de recursos em despesas do exercício seguinte;",
-        type: 'true-false'
+        "id": "a00_q18",
+        "question": "Na equação patrimonial,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA equação fundamental do patrimônio é a seguinte: Ativo = Passivo + PL.\nEm termos matemáticos, o patrimônio líquido e o passivo estão diretamente relacionados com o ativo, isto\né, aumento nesses grupos, refletem positivamente no ativo e vice-versa. E o patrimônio líquido está\ninversamente relacionado com o passivo.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q19',
-        question: "No balanço patrimonial, um imóvel adquirido por uma empresa industrial com o intuito de auferir receitas de aluguel deve ser classificado no ativo não circulante, no subgrupo investimentos.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Filtremos as palavras chaves: IMÓVEL + COM O INTUITO DE AUFERIR RECEITAS DE ALUGUEL. Essas são características da propriedade para investimento. Sua definição é a seguinte: a propriedade mantida para auferir aluguel ou para valorização (ou ambas), contanto que não sejam utilizadas para finalidades administrativas e nem sejam vendidas como curso ordinário, isto é, no funcionamento normal, do negócio. Ela pode ser composta por terreno ou edifício – ou parte de edifício – ou ambos. A propriedade para investimento é classificada no ativo não circulante investimentos",
-        type: 'true-false'
+        "id": "a00_q19",
+        "question": "Segundo a teoria contábil contemporânea, a",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA Contabilidade é classificada como ciência social aplicada e não como ciência exata, como o senso comum\npode indicar.\nA contabilidade tem uma definição formal, que é a seguinte:\nDefinição formal de contabilidade: Contabilidade é a ciência que estuda a pratica as\nfunções de orientação, de controle e de registro dos atos e fatos de uma administração\neconômica (1º Congresso Brasileiro de Contabilidade/1924).",
+        "type": "true-false"
       },
       {
-        id: 'a04_q20',
-        question: "Ao final de cada exercício civil, deve ser levantado o balanço patrimonial do respectivo período.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Na verdade, é ao fim de cada exercício social. Vejam o texto da lei 6.404/76: Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração mercantil da companhia, as seguintes demonstrações financeiras, que deverão exprimir com clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício: I - balanço patrimonial; II - demonstração dos lucros ou prejuízos acumulados; III - demonstração do resultado do exercício; e IV – demonstração dos fluxos de caixa; e (Redação dada pela Lei nº 11.638,de 2007) V – se companhia aberta, demonstração do valor adicionado. (Incluído pela Lei nº 11.638, de 2007) O intervalo de tempo ao qual as demonstrações contábeis se referem é chamado de exercício social. Para a LSA o exercício social terá duração de 1 (um) ano e a data do término será fixada no estatuto (LSA, art. 175). Na constituição da companhia e nos casos de alteração estatutária o exercício social poderá ter duração diversa (LSA, art. 175, parágrafo único). Assim, se a companhia foi constituída regularmente e a data do término foi fixada em 31 de março, o exercício social terá a duração de 01 de abril a 31 de março. Ressaltamos que não há exigência de que o exercício social se inicie em 01 de janeiro e termine em 31 de dezembro, isto é, ano civil.",
-        type: 'true-false'
+        "id": "a00_q20",
+        "question": "A contabilidade tem por objeto",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nPor ser uma ciência, a Contabilidade possui objeto de estudo próprio que é o patrimônio das entidades. Por\npatrimônio, entenda o conjunto de bens, direitos e obrigações da entidade.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q21',
-        question: "De acordo com a legislação societária, as contas representativas de empréstimos concedidos a acionistas por empresas comerciais devem ser classificadas no ativo circulante ou no ativo realizável a longo prazo, a depender dos prazos para que esses empréstimos se tornem realizáveis.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "As contas representativas de empréstimos concedidos a acionistas por empresas comerciais devem ser classificadas como Ativo Não Circulante – Realizável a longo prazo, independente do prazo estabelecido na operação. Isso é previsto na Lei 6.404: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 Art. 179. II - No ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios usuais na exploração do objeto da companhia; Nesse ponto, deve-se ficar atento para que os três requisitos sejam atendidos, a espécie do direito, a operação ser não usual e pessoa ligada (devedor). Se essas condições não forem atendidas, seguimos a regra geral. Esquematizemos: Ativo não circulante - Realizável a Longo Prazo Direito realizáveis após o término do exercício social subsequente Direito derivado de Venda Coligadas/Controladas Adiantamento Diretores, administradores, sócios Empréstimo Acionistas ou participantes do lucro Não usual",
-        type: 'true-false'
+        "id": "a00_q21",
+        "question": "Com relação a conceitos, objetivos e finalidade",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nI. O principal objetivo da contabilidade inclui fornecer informação útil ao usuário, para a tomada de\ndecisão.\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\nFINALIDADE = controlar o patrimônio das aziendas.\nPodemos utilizar o seguinte Macete nas questões Cebraspe:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n45\n\nwww.estrategiaconcursos.com.br\n\n61\n\n\fLuciano Rosa, Júlio Cardo",
+        "type": "true-false"
       },
       {
-        id: 'a04_q22',
-        question: "Investimento com risco significativo de mudança de valor, ainda que circulante, não se qualifica como equivalente de caixa.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "As disponibilidades são elementos que representam dinheiro ou que nele possam ser convertidos de forma imediata, como a conta caixa, bancos conta movimento. Entre seus exemplos, temos as aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. O enunciado avisou que o investimento possui RISCO SIGNIFICATIVO, por conta disso não pode se enquadrar em caixa e equivalentes de caixa.",
-        type: 'true-false'
+        "id": "a00_q22",
+        "question": "Fornecer informações úteis que subsidiem o processo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nApesar de haver divergências doutrinárias, entende-se que é o OBJETIVO da Contabilidade é controlar o\npatrimônio das aziendas. Só que algumas bancas confundem o objetivo com a finalidade da Contabilidade.\nFoi o que aconteceu nessa questão, mas temos que ser “malandros”, no bom sentido, e jogar com as\nalternativas que a banca nos oferece, pois não podemos contar que a banca irá anular as questões.\nEnfim, devemos seguir o entendimento do Cebraspe:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\n\nSEFAZ-RN (Auditor Fiscal do Tesou",
+        "type": "true-false"
       },
       {
-        id: 'a04_q23',
-        question: "Assinale a opção em que todas as rubricas contábeis apresentadas representam elementos patrimoniais classificáveis no ativo no balanço patrimonial. A adiantamentos a fornecedores, reservas de capital, aplicações financeiras, ações de outras empresas e estoques B despesas antecipadas, provisões para pagamentos a efetuar, depósitos bancários, ações em tesouraria e direitos de uso SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 C obras em andamento, empréstimos a sócios, ajustes de avaliação patrimonial, marcas e material de consumo D reservas de lucros, adiantamentos de clientes, impostos a recuperar, títulos públicos e patentes E despesas antecipadas, adiantamentos a fornecedores, ações de outras empresas, empréstimos a sócios e aplicações financeiras",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Segundo o CPC 00 (R2) – Estrutura conceitual básica da contabilidade, temos as seguintes definições para os grupos patrimoniais: Ativo é um recurso econômico presente controlado pela entidade como resultado de eventos passados. Recurso econômico é um direito que tem o potencial de produzir benefícios econômicos. O quesito trouxe os seguintes exemplos: • • • • • • • • • • • • • • Adiantamentos a fornecedores Aplicações financeiras, Ações de outras empresas Estoques Despesas antecipadas Depósitos bancários, Direitos de uso Obras em andamento Empréstimos a sócios Marcas Material de consumo Impostos a recuperar Títulos públicos Patentes Passivo é a obrigação presente da entidade de transferir um recurso econômico como resultado de eventos passados. O quesito trouxe os seguintes exemplos: • • Provisões para pagamentos a efetuar Adiantamentos de clientes Patrimônio Líquido é participação residual nos ativos da entidade após a dedução de todos os seus passivos. O quesito trouxe os seguintes exemplos: • • • Reservas de capital, Ações em tesouraria Ajustes de avaliação patrimonial SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 • Reservas de lucros Diante do exposto, a alternativa E apresenta apenas elementos patrimoniais classificáveis no ativo no balanço patrimonial",
-        type: 'multiple-choice'
+        "id": "a00_q23",
+        "question": "Segundo o Comitê de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nDe acordo com o CPC 00 (R2):\n1.5 Muitos investidores, credores por empréstimos e outros credores, existentes e\npotenciais, não podem exigir que as entidades que reportam forneçam informações\ndiretamente a eles, devendo se basear em relatórios financeiros para fins gerais para\nmuitas das informações financeiras de que necessitam. Consequentemente, eles são os\nprincipais usuários aos quais se destinam relatórios financeiros para fins gerais.\nPortanto, em que pese estarmos dizendo que os usuários podem ser externos ou internos, há também\naqueles que são os usuários PRINCIPAIS, ou sej",
+        "type": "true-false"
       },
       {
-        id: 'a04_q24',
-        question: "Ao reavaliar o risco de crédito da sua carteira de duplicatas a receber, determinada companhia constatou que o valor estimado das perdas relacionadas a créditos de liquidação duvidosa apresentava-se superior ao montante que já tinha sido reconhecido contabilmente pela entidade até então. Nessa situação hipotética, para a adequação das demonstrações contábeis da entidade à nova estimação de perdas associadas a créditos de liquidação duvidosa, deve ser feito registro a débito A de uma conta de despesa e a crédito de uma conta retificadora de duplicatas a receber. B de uma conta de despesa e a crédito da conta duplicatas a receber. C da conta ajustes de avaliação patrimonial e a crédito de uma conta retificadora de duplicatas a receber. D de uma conta de despesa e a crédito de uma conta do passivo. E da conta duplicatas a receber e a crédito de uma conta de despesa.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "A conta perdas estimadas com créditos de liquidação duvidosa é retificadora da conta clientes/duplicatas a receber. Expliquemos! Uma empresa vendeu R$ 100.000,00 a prazo, e constitui Perdas estimadas com créditos de liquidação duvidosa de 3%. Na venda dos R$ 100.000,00: D – Clientes (ativo) 100.000,00 C – Receita de vendas (resultado) 100.000,00 Na constituição da Perdas estimadas com créditos de liquidação duvidosa: D – Despesa com Perdas estimadas com créditos de liquidação duvidosa (despesa) 3.000,00 C – Perdas estimadas com créditos de liquidação duvidosa sos (retificadora do ativo) 3.000,00 Ao reavaliar o risco de crédito da sua carteira de duplicatas a receber, determinada companhia constatou que o valor estimado das perdas relacionadas a créditos de liquidação duvidosa é de R$ 5.000,00 e o montante que já tinha sido reconhecido contabilmente pela entidade era de R$ 3.000,00. Neste caso, como já temos R$ 3.000,00 na conta PECLD, constituiremos somente R$ 2.000,00: D – Despesa com perdas estimadas com créditos de liquidação duvidosa (despesa) 2.000,00 C – Perdas estimadas com créditos de liquidação duvidosa (retificadora do ativo) 2.000,00 SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04",
-        type: 'multiple-choice'
+        "id": "a00_q24",
+        "question": "O principal objetivo da contabilidade é fornecer",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA finalidade principal da ciência contábil, que algumas vezes é confundida com o objetivo da contabilidade,\né fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade. Ocorre que o\nCEBRASPE não trata esses termos como sinônimos.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! Apesar de haver divergências doutrinárias, essa banca entende o seguinte:\nOBJETIVO = fornecer a seus usuários informações sobre a situação patrimonial e financeira da entidade.\nFINALIDADE = controlar o patrimônio das aziendas.\nPodemos utilizar o seguinte Macete na",
+        "type": "true-false"
       },
       {
-        id: 'a04_q25',
-        question: "A Lei das Sociedades por Ações (Lei n.º 6.404/1976) determina que, ao final de cada exercício social, toda empresa elabore suas demonstrações financeiras. De acordo com essa legislação, assinale a opção que indica demonstração financeira estabelecida como obrigatória para todas as entidades. A demonstração do resultado abrangente B demonstração do valor adicionado C demonstração das mutações do patrimônio líquido D demonstração de lucros ou prejuízos acumulados E demonstração dos fluxos de caixa",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "As Demonstrações Contábeis obrigatórias estão previstas na Lei das SAs, da seguinte forma: Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração mercantil da companhia, as seguintes demonstrações financeiras, que deverão exprimir com clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício: I - balanço patrimonial; II - demonstração dos lucros ou prejuízos acumulados; III - demonstração do resultado do exercício; e IV – demonstração dos fluxos de caixa; e (Redação dada pela Lei nº 11.638,de 2007) V – se companhia aberta, demonstração do valor adicionado. (Incluído pela Lei nº 11.638, de 2007) § 6o A companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da demonstração dos fluxos de caixa. As sociedades por ações podem ser do tipo aberta (quando comercializam títulos e valores mobiliários no mercado de valores mobiliários) e fechadas (quando não o fazem). As demonstrações contábeis são diferentes conforme estejamos frente a um ou outro tipo societário. Assim, pela lei das Lei n.º 6.404/1976, apenas o Balanço Patrimonial, a Demonstração do Resultado do Exercício e a Demonstração de Lucros ou Prejuízos Acumulados são obrigatória para todas as entidades. Vejamos nosso esquema: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 COMPANHIA DEMONSTRAÇÃO CONTÁBIL ABERTA FECHADA Balanço Patrimonial X X Demonstração do Resultado do Exercício X X Demonstração de Lucros ou Prejuízos Acumulados X X Demonstração dos Fluxos de Caixa X PL > 2 MI Demonstração do Valor Adicionado X Agora, vamos analisar cada alternativa: A demonstração do resultado abrangente. Errado, a DRA - Demonstração do Resultado Abrangente não faz parte das demonstrações contábeis obrigatórias pela LSA. B demonstração do valor adicionado. Errado, apenas se companhia for aberta, a demonstração do valor adicionado será obrigatória. C demonstração das mutações do patrimônio líquido. Errado, a DRA - Demonstração do Resultado Abrangente não faz parte das demonstrações contábeis obrigatórias pela LSA. D demonstração de lucros ou prejuízos acumulados. Correto, a DLPA é uma demonstração obrigatória para sociedades por ações de capital fechado ou aberto. E demonstração dos fluxos de caixa. Errado, pois as companhias fechadas com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não serão obrigadas à elaboração e publicação da demonstração dos fluxos de caixa.",
-        type: 'multiple-choice'
+        "id": "a00_q25",
+        "question": "O objeto de estudo da contabilidade são as",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nItem errado, pessoal, o objeto de estudo da contabilidade é o PATRIMÔNIO das entidades econômicoadministrativas, isto é, as aziendas.\nA doutrina costuma classificar a azienda, quanto ao fim a que se destina, em três tipos, a saber:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n48\n\nwww.estrategiaconcursos.com.br\n\n61\n\n\fLuciano Rosa, Júlio Cardozo\nAula 00\n\n1) azienda econômica: Como, por exemplo, as empresas. Objetivo de lucro.\n2) aziendas econômico-sociais: São exemplo as associações, cuja sobra líquida é destinada a outros fins q",
+        "type": "true-false"
       },
       {
-        id: 'a04_q26',
-        question: "Com relação ao balanço patrimonial, o ativo deve ser classificado como não circulante quando A for mantido essencialmente com o propósito de ser negociado. B a sua realização for esperada para até doze meses após a data do balanço. C o seu consumo for pretendido no decurso normal do ciclo operacional da entidade. D for mantido, por mais de um período, para uso na produção ou no fornecimento de mercadorias. E for um equivalente de caixa.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 75 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 04 Nesse quesito vamos recorrer ao item 66 do CPC 26 (R1) - Apresentação das Demonstrações Contábeis: 66. O ativo deve ser classificado como circulante quando satisfizer qualquer dos seguintes critérios: (a) espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no decurso normal do ciclo operacional da entidade; (b) está mantido essencialmente com o propósito de ser negociado; (c) espera-se que seja realizado até doze meses após a data do balanço; ou (d) é caixa ou equivalente de caixa (conforme definido no Pronunciamento Técnico CPC 03 – Demonstração dos Fluxos de Caixa), a menos que sua troca ou uso para liquidação de passivo se encontre vedada durante pelo menos doze meses após a data do balanço. Todos os demais ativos devem ser classificados como não circulantes A for mantido essencialmente com o propósito de ser negociado. Errado. Tratar-se de um ativo circulante, consoante o item 66, alínea b. B a sua realização for esperada para até doze meses após a data do balanço. Errado. Tratar-se de um ativo circulante, consoante o item 66, alínea c. C o seu consumo for pretendido no decurso normal do ciclo operacional da entidade. Errado. Tratar-se de um ativo circulante, consoante o item 66, alínea a. D for mantido, por mais de um período, para uso na produção ou no fornecimento de mercadorias. Como não se enquadra no item 66, então temos um ativo não circulante. Lembrando que todos os demais ativos devem ser classificados como não circulantes. E for um equivalente de caixa. Errado. Tratar-se de um ativo circulante, consoante o item 66, alínea e.",
-        type: 'multiple-choice'
+        "id": "a00_q26",
+        "question": "A análise de balanços não é considerada uma",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nErrado, São quatro as técnicas utilizadas na contabilidade: escrituração, elaboração das demonstrações\ncontábeis, auditoria e análise das demonstrações contábeis.\nDepois que as demonstrações foram publicadas e auditadas, os seus usuários têm interesse nas informações\nnelas contidas.\nUm investidor desejará saber, por exemplo, o quanto essa empresa está dando de retorno para cada ação\ndo capital social.\nO credor por empréstimo desejará saber o quanto tem de garantia para poder conceder tranquilamente o\nempréstimo que deseja. E assim por diante. Tudo isso é feito através da técnica c",
+        "type": "true-false"
       },
       {
-        id: 'a04_q27',
-        question: "Considere que uma indústria, contribuinte do imposto sobre produtos industrializados (IPI) e do imposto sobre circulação de mercadorias e serviços (ICMS), tenha adquirido a prazo R$ 73 mil em matérias-primas para industrialização, incorrendo em R$ 10 mil de IPI e R$ 17 mil de ICMS, com frete por conta do fornecedor. Nessa situação, para espelhar a referida transação na sua contabilidade, a entidade deve contabilizar conforme apresentado a seguir. Diversos Estoque de matérias-primas – R$ 73 mil IPI a recuperar – R$ 10 mil ICMS a recuperar – R$ 17 mil A fornecedores – R$ 100 mil",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Os estoques, de modo geral, compreendem tanto as mercadorias que a empresa possui para revenda quanto a matéria-prima. O estoque de Matérias Primas é registrado pelo valor original, e deve incluir todos os custos de aquisição, bem como outros custos incorridos para trazer os estoques à sua condição e localização atuais. Assim, o custo dos estoques de matéria-prima compreende o preço de compra, os impostos de importação e outros tributos, bem como os custos de transporte, seguro, manuseio e outros diretamente relacionados com a aquisição dos materiais. Nesse caso, por se tratar de matéria-prima, portanto, destinada à produção, o IPI e o ICMS são recuperáveis. Isso significa que eles não entram no valor dos estoques de MP. A pegadinha da questão é que a banca detalhou o valor pago, isto é, já trouxe o valor dos estoques líquido de tributos (incorrendo em R$ 10 mil de IPI e R$ 17 mil de ICMS). • • • • MP = 73.000 IPI = 10.000 ICMS = 17.000 Fornecedores = MP 73.000 + IPI 10.000 + ICMS 17.000 = 100.000 A contabilização é a seguinte: D - Estoque de MP R$ 73.000,00 D - IPI a recuperar R$ 10.000,00 D - ICMS a recuperar R$ 17.000,00 C - Fornecedores R$ 100.000 SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta precedida da preposição “a” é a conta creditada. Quando no seu concurso aparecer a palavra diversos, saiba que há mais de uma conta creditada ou debitada. Diversos Estoque de matérias-primas – R$ 73 mil IPI a recuperar – R$ 10 mil ICMS a recuperar – R$ 17 mil a fornecedores – R$ 100 mil",
-        type: 'true-false'
+        "id": "a00_q27",
+        "question": "A contabilidade teórica consiste no registro das",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n49\n\nwww.estrategiaconcursos.com.br\n\n61\n\n\fLuciano Rosa, Júlio Cardozo\nAula 00\n\nA Contabilidade pode ser dividida didaticamente em Contabilidade Teórica e Contabilidade Prática. A\nprimeira se preocupa em apresentar a Contabilidade como ciência, estudando seus princípios, objeto de\nestudo e normas. Por sua vez, a Contabilidade Prática aplica as técnicas e princípios de maneira prática,\ncomo por exemplo, registrar as operações em livros. Item errado, pois confundiu os dois conceitos.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q28',
-        question: "Considere que, em uma economia inflacionária, uma entidade tenha realizado vendas de uma quantidade determinada de estoques de mercadorias em um período. Nesse caso, considerando que todas as demais características sejam constantes, a venda de estoques com custos avaliados pelo método do primeiro a entrar, primeiro a sair (PEPS) geraria maior lucro do exercício do que a mesma venda de estoques com custos avaliados pela média ponderada móvel.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Geralmente, temos economias inflacionárias, ou seja, onde os preços aumentam devido a inflação. Ao adotarmos o método PEPS, daremos baixar ao estoque mais antigo primeiro e esse estoque mais antigo foi mais barato. Consequentemente, o lucro obtido será maior e o montante de tributos sobre o lucro também. Método UEPS PEPS Média ponderada CMV Maior Menor Fica no Meio Estoque Final Menor Maior Fica no Meio Lucro Menor Maior Fica no Meio Permitido Não Sim Sim Mais um bizú: Ambiente Inflacionário Estoque Final (EF) EF (PEPS) > EF (Custo Médio) > EF (UEPS) CMV CMV (PEPS) < CMV (Custo Médio) < CMV (UEPS) Lucro Bruto (LB) LB (PEPS) > LB (Custo Médio) > LB (UEPS)",
-        type: 'true-false'
+        "id": "a00_q28",
+        "question": "Sob a ótica citada, o objeto da contabilidade é o",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, o objeto de estudo da contabilidade é o patrimônio. Por patrimônio, entenda o conjunto de\nbens, direitos e obrigações da entidade.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q29',
-        question: "Assinale a opção em que é indicada a informação relacionada ao próprio estoque a qual deve ser levada em conta por uma companhia quando da mensuração contábil do referido item patrimonial. A valor realizável líquido B custo calculado pelo método do custeio variável C valor justo D depreciação E custo corrente",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. Recordamos que o Valor realizável líquido é o preço de venda estimado no curso normal dos negócios deduzido dos custos estimados para sua conclusão e dos gastos estimados necessários para se concretizar a venda. Já o valor justo, é o é o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. Esse CPC explica que o valor realizável líquido é um valor específico para a entidade e o valor justo não é. Ressaltamos que a referida norma não trouxe definições para os demais termos.",
-        type: 'multiple-choice'
+        "id": "a00_q29",
+        "question": "A contabilidade integra o rol das ciências exatas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nErrado, pessoal, a Contabilidade é classificada como ciência social aplicada e não como ciência exata, como\no senso comum pode indicar. A contabilidade tem uma definição formal, que é a seguinte:\nDefinição formal de contabilidade: Contabilidade é a ciência que estuda a pratica as\nfunções de orientação, de controle e de registro dos atos e fatos de uma administração\neconômica (1º Congresso Brasileiro de Contabilidade/1924).",
+        "type": "true-false"
       },
       {
-        id: 'a04_q30',
-        question: "Com base nos custos específicos, a valoração de estoques destinados à venda que possam ser identificados individualmente, distinguindo-se uns dos outros, é recomendada nos casos em que há muitas unidades do produto nesses estoques.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Os critérios de avaliação de Estoques utilizados no Inventário Permanente são os seguintes: PEPS, UEPS, Média Ponderada (Fixa e Móvel), Custo Específico e Método do Varejo. O custo específico deve ser usado para itens identificados, ou para itens separados para um projeto específico. Podemos exemplificar da seguinte forma: Suponha que uma agência de automóveis possua 10 unidades de um determinado modelo em estoque. Três foram comprados há 6 meses, por R$ 20.000,00. Seis foram comprados na última semana, por R$ 22.000,00. O último é um carro usado, que foi aceito como parte de pagamento de um veículo novo, pelo custo de R$ 12.000,00. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 A empresa realiza a venda de quatro veículos: um que foi comprado há 6 meses, dois comprados na última semana e o veículo usado. Nesse caso, a empresa pode atribuir o custo específico de cada carro vendido. Ressaltamos que ele NÃO é recomendável quando há grandes quantidades de itens de estoque que sejam geralmente intercambiáveis, a identificação específica de custos não é apropriada. Adendo! Itens intercambiáveis são itens que podem ser trocados por outro plenamente e não haverá problema. Por exemplo, no estoque de fruta podemos trocar laranja por laranja, açaí por açaí, morango por morango, sem problemas. Já os itens não intercambiáveis são itens específicos. Imagine um avião de modelo específico, por exemplo, não podemos trocar um BOEING 737 por um 747.",
-        type: 'true-false'
+        "id": "a00_q30",
+        "question": "Para o estudo da contabilidade, patrimônio é a diferença",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nItem incorreto. Patrimônio bruto, patrimônio total ou simplesmente patrimônio é sinônimo para a expressão\nativo. Patrimônio líquido é a diferença entre ativos e passivos detidos pelas entidades.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q31',
-        question: "O ICMS incidente sobre a aquisição de mercadoria para revenda implica o reconhecimento contábil, no ato da compra, de A um passivo. B um item classificado em outros resultados abrangentes. C uma despesa. D um ativo representativo de um estoque. E um ativo representativo de um direito.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "De acordo com o CPC 16 - Estoques, tributos recuperáveis junto ao Fisco não devem ser incluídos no custo dos estoques. A questão fala que uma entidade adquiriu mercadorias para revenda com a incidência de ICMS e, nesse caso, o tributo é recuperável. Em razão disso, no ato da compra, ocorre o reconhecimento contábil de um ativo representativo de um direito.",
-        type: 'multiple-choice'
+        "id": "a00_q31",
+        "question": "As informações contábeis devem ser mensuradas e",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nI As instituições financeiras estão interessadas em informações relativas ao endividamento da empresa e\nà existência de liquidez suficiente para que ela honre com o pagamento dos empréstimos adquiridos.\nCorreto, através das informações contidas nas demonstrações contábeis, as instituições financeiras irão\nverificar informações sobre a situação financeira da empresa, como grau de endividamento, estrutura de\ncapital, fluxos de caixa, apuração do resultado, e com isso poderão avaliar a possibilidade de conceder\nempréstimos.\nII Nas suas análises, o investidor busca avaliar a empresa q",
+        "type": "multiple-choice"
       },
       {
-        id: 'a04_q32',
-        question: "O montante dos estoques registrados no balanço não pode exceder o valor de realização desses ativos, devendo ser adotado o menor desses dois valores caso o valor do custo seja superior ao valor de mercado.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Parte 1 - O montante dos estoques registrados no balanço não pode exceder o valor de realização desses ativos SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 O FIPECAFI afirma que essa prática de reduzir o custo dos estoques (write-off) ao valor realizável líquido é coerente com o “conceito geral de impairment”, isto é, não se deve ter registrado valores acima do que se espera realizar quando da ocorrência da venda ou do uso. Parte 1 está certa. Parte 2 - devendo ser adotado o menor desses dois valores caso o valor do custo seja superior ao valor de mercado. No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. Então, professores, posso considerar que Valor de Mercado e Valor Realizável Líquido são sinônimos? A resposta é NÃO!!! O valor realizável líquido, meus queridos, é específico, peculiar de cada entidade, não é padronizado, definido para um grupo de entidades, mesmo que sejam entidades semelhantes, de um mesmo segmento. Imagine que duas empresas adquiram o mesmo modelo de máquina XYZ para utilização na produção e decidam vendê-la, após determinado período. É provável que cada empresa tenha gastos específicos para efetivar a venda, custos de desmontagem, de divulgação da venda, e assim sendo, podemos entender que cada uma terá um valor líquido de venda. Percebe que esse valor é ESPECÍFICO da entidade, pois será fruto de variáveis específicas que cada entidade possui? De outro modo, o Valor Justo não é específico para casa entidade, pois é um valor externo, ou seja, valor de mercado. Esquematizemos: Valor Realizável Líquido Valor de Mercado CPC 16 Lei 6404/76 Valor de Venda - Gastos Necessários Valor Externo Específico para a entidade (considera suas características) É um valor de mercado Parte 2 está errada, pois a banca trocou “valor realizável líquido” por “valor de mercado”.",
-        type: 'true-false'
+        "id": "a00_q32",
+        "question": "De acordo com Max Weber, a moderna organização racional da",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nO objeto da contabilidade é o patrimônio, assim entendido o conjunto de bens, direitos e obrigações de uma\nentidade. Vicenzo Masi é o principal nome de uma escola doutrinária chamada de Patrimonialista.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q33',
-        question: "A equação que sintetiza a lógica do inventário permanente estabelece que o custo da mercadoria vendida é igual ao montante do estoque inicial adicionado às compras e subtraído do montante do estoque final.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "O controle de estoques pode ser feito através do inventário permanente ou do inventário periódico. Inventário permanente: empresa controla o estoque de forma contínua, dando baixa em cada operação de venda. Ele utiliza os seguintes critérios: PEPS, UEPS, Média Ponderada (Fixa e Móvel), Custo Específico e Método do Varejo. Inventário periódico: os estoques são avaliados na data do balanço, através do inventário físico. Vejam. Não há lançamento operação por operação. Apenas na data de encerramento é que apuramos o estoque para ver o saldo. Para calcular o valor do Custo das Mercadorias Vendidas, usamos a fórmula: CMV = Estoque inicial + Compras – Estoque final. Observa-se que o quesito descreveu o inventário periódico, mas atribuiu ao permanente. Corrigindo, fica assim: a equação que sintetiza a lógica do inventário PERÍODICO estabelece que o custo da mercadoria vendida é igual ao montante do estoque inicial adicionado às compras e subtraído do montante do estoque final.",
-        type: 'true-false'
+        "id": "a00_q33",
+        "question": "Na ciência contábil, o patrimônio líquido",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "de uma entidade é entendido como o conjunto de seus bens, direitos e obrigações.\nConsiderando os conceitos, objetivos e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q34',
-        question: "O melhor critério para avaliação de estoques em empresas que comercializem produtos homogêneos é o custo específico.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Quando há grandes quantidades de itens de estoque que sejam homogêneos (intercambiáveis), a identificação específica de custos não é apropriada. Em tais circunstâncias, podemos utilizar o critério Primeiro a Entrar, Primeiro a Sair (PEPS) ou pelo critério do custo médio ponderado. Ressaltamos que a entidade deve usar o mesmo critério de custeio para todos os estoques que tenham natureza e uso semelhantes para a entidade. Já os tenham outra natureza ou uso, podem justificar-se diferentes critérios de valoração.",
-        type: 'true-false'
+        "id": "a00_q34",
+        "question": "Coletar informações, sintetizá-las e registrá-las são algumas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "das ações que visam ao acompanhamento sistemático do objeto da ciência contábil.\nConsiderando os conceitos, objetivos e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q35',
-        question: "Considere que uma indústria tenha adquirido um lote significativo de determinado componente para seu principal produto e que, decorridos alguns meses, um novo componente, com tecnologia mais avançada, tenha chegado ao mercado, tornando mais difícil a venda de produtos fabricados com o componente anterior. Considere, ainda, que, em função disso, a indústria tenha estimado a necessidade de aplicar um desconto para facilitar a venda do produto final com o componente anterior. Nessa situação, o critério do custo ou do valor de mercado, dos dois o menor, deverá ser aplicado, podendo implicar o reconhecimento de uma perda de valor do estoque de produto final.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. O FIPECAFI afirma que essa prática de reduzir o custo dos estoques (write-off) ao valor realizável líquido é coerente com o “conceito geral de impairment”, isto é, não se deve ter registrado valores acima do que se espera realizar quando da ocorrência da venda ou do uso. Assim, vamos reconhecer a perda com impairment no resultado da empresa. O quesito tornou-se errado ao trocar “valor realizável líquido” por “valor de mercado”.",
-        type: 'true-false'
+        "id": "a00_q35",
+        "question": "O objetivo fundamental da contabilidade, hoje, é fornecer",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "informações que auxiliem a tomada de decisões econômico-financeiras a todos os interessados\nRelativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q36',
-        question: "Assinale a opção que corresponde aos ativos que, de acordo com os pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis (CPC), devem ser mensurados escolhendo-se o menor valor entre o seu custo de aquisição e o seu valor realizável líquido. A instrumentos financeiros B propriedades para investimento C itens do ativo imobilizado D itens do ativo intangível E mercadorias para revenda",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O CPC 16 afirma que os estoques devem ser avaliados pelo custo ou pelo valor realizável líquido, dos dois o MENOR, vejam: Mensuração de estoque 9. Os estoques objeto deste Pronunciamento devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. Ressaltamos que os demais temas fogem do escopo da aula. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05",
-        type: 'multiple-choice'
+        "id": "a00_q36",
+        "question": "A contabilidade estuda o patrimônio em seus",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "aspectos quantitativo e qualitativo, fornecendo subsídios ao processo de tomada de decisões\neconômico-financeiras por usuários internos e externos.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q37',
-        question: "No início do mês de março de 2023, uma empresa comercial típica possuía em estoque 10 calças contabilizadas pelo valor total de R$ 1.600,00. Durante o referido mês, a empresa adquiriu um lote com mais 10 unidades. O valor total da nota fiscal foi de R$ 2.090,00, e nela foi informada a aplicação da alíquota de IPI de 10% sobre o preço das mercadorias. O ICMS da operação foi calculado pela alíquota de 18%. Após realização do inventário no final do mês, constatou-se a existência de 8 calças em estoque. Foi utilizada a média ponderada para fins de cálculo do custo da mercadoria vendida. Na situação hipotética em apreço, o valor do estoque, em 31 de março de 2023, e o custo da mercadoria vendida, em março de 2023, foram, respectivamente, A R$ 1.263,20 e R$ 1.894,80. B R$ 1.324,00 e R$ 1.986,00. C R$ 1.339,20 e R$ 2.008,80. D R$ 1.400,00 e R$ 2.100,00. E R$ 1.460,00 e R$ 2.191,20.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Faremos algumas observações: - A mercadoria foi adquirida pelo preço, mas, por determinação do CPC 16 – Estoques, temos que retirar o ICMS do custo dos estoques, pois trata-se de um tributo recuperável. - O quesito informou que foi adotado o método da média ponderada. Para calcularmos o custo médio temos que somar o valor total dos estoques e dividir pelo número de unidades. Vamos lá: Parte 1 - No início do mês de março de 2023, uma empresa comercial típica possuía em estoque 10 calças contabilizadas pelo valor total de R$ 1.600,00. EI = 10 X R$ 160 = R$ 1.600 Parte 2 - Durante o referido mês, a empresa adquiriu um lote com mais 10 unidades. O valor total da nota fiscal foi de R$ 2.090,00, e nela foi informada a aplicação da alíquota de IPI de 10% sobre o preço das mercadorias. O ICMS da operação foi calculado pela alíquota de 18%. O quesito informou o seguinte: uma empresa comercial, destinada à revenda de calças, adquire do fabricante. Neste caso, o IPI não é recuperável. Vejam. Estamos comprando mercadoria de uma indústria para revender. Como se trata de mercadoria destinada à comercialização, o IPI não entra na base de cálculo do ICMS. Outro detalhe, o quesito informou o valor da nota fiscal. Tal valor já inclui o IPI e o ICMS. Dica: para retirarmos o “Imposto por fora” (IPI) do valor total da nota fiscal basta pegarmos o valor da nota fiscal e dividirmos por (1 + alíquota), vejam: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 Valor sem IPI = 2.090 = 1.900 1,10 ICMS recuperável = Base Cálculo x Alíquota = R$ 1.900 x 18% = R$ 342 O valor do estoque é: Nota Fiscal - ICMS a recuperar = R$ 2.090 - R$ 342 = R$ 1.748 Compras 1 = 10 unidades x R$ 174,80 = 1.748 Até agora temos o estoque inicial e uma compra. O custo médio será o seguinte: Custo Total = R$ 1.600 + R$ 1.748 = R$ 3.348 Número de Unidades = 10 + 10 = 20 Custo Médio = R$ 3.348/20 = R$ 167,40 Parte 3 - Após realização do inventário no final do mês, constatou-se a existência de 8 calças em estoque. EF = 8 unidades x 167,40 = 1.339,20 CMV = (20 unidades – 8 unidades) x Custo médio = 12 unidades x R$ 167,40 = R$ 2.008,80",
-        type: 'multiple-choice'
+        "id": "a00_q37",
+        "question": "Atualmente, a corrente majoritária de pensadores da",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "área de contabilidade a conceitua como\na) uma subdivisão da administração.\nb) uma forma de arte.\nc) uma ciência social.\nd) uma ciência exata.\ne) uma técnica.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n",
+        "type": "true-false"
       },
       {
-        id: 'a04_q38',
-        question: "Considere que uma entidade comercial adquira uma mercadoria para revenda tributada pelo ICMS e pelo IPI e que o valor do ICMS recuperável seja de R$ 9.000; considere, também, que, dias depois, essa mercadoria seja vendida a um cliente, com ICMS de R$ 12.600, sendo apurado o ICMS a recolher. Nessa hipótese, essas transações geram um débito e um crédito na conta de ICMS a recuperar, no valor de R$ 9.000, e um crédito de R$ 12.600 na conta de ICMS a recolher.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Vejamos a contabilização completa: No momento da compra: D – Estoques D – ICMS a recuperar 9.000 C – Fornecedores No momento da venda: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 - Reconhecimento da receita D – Clientes C - Receita de Vendas - Baixa no estoque D – CMV C – Estoques - Tributação D – ICMS s/ vendas 12.600 C – ICMS a recolher 12.600 Apuração do ICMS: devemos confrontar o saldo das duas contas de ICMS (a recuperar x a recolher). ICMS a recuperar = R$ 9.000,00 < ICMS a recolher = R$ 12.600,00 Então, vamos transferir o saldo do passivo (ICMS a recolher) para o ativo (ICMS a recuperar): D – ICMS a recolher (passivo) 9.000,00 C – ICMS a recuperar (Ativo) 9.000,00 Como a entidade possui o direito de R$ 9.000 perante o fisco, então ela não precisará pagar os R$ 12.600, mas sim a diferença: ICMS a recolher = R$ 12.600 – R$ 9.000 = R$ 3.600 Pelo recolhimento: D – ICMS a Recolher 3.600 C – Caixa/bancos 3.600 Enfim, o quesito afirmou que essas transações provocaram um débito e um crédito de R$ 9.000 na conta de ICMS a recuperar. Realmente, houve um débito no momento da aquisição do estoque e um crédito quando da apuração. Também afirmou que essas transações provocaram um crédito de R$ 12.600 na conta ICMS a recolher, isto de fato ocorreu no momento da venda da mercadoria. Ressaltamos que ocorreram também débito de R$9.000 na conta ICMS a recolher e posteriormente, no momento do recolhimento, um débito de R$ 3.600. Todavia, para questões certo/errado do Cebraspe, um item incompleto não é errado.",
-        type: 'true-false'
+        "id": "a00_q38",
+        "question": "A razão de ser da contabilidade é oferecer aos",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "agentes econômicos informações úteis para que possam tomar suas decisões.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q39',
-        question: "Se uma empresa adiantou cinquenta mil reais, via transferência bancária, a um de seus fornecedores para acelerar a produção de determinada mercadoria, então, nessas condições, a empresa deverá registrar o valor adiantado como um direito, em conta de adiantamento a fornecedores, ou similar, contra a respectiva conta bancária utilizada.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Item correto, a concessão de um adiantamento a fornecedores de mercadorias, gera um direito, contabilizado no ativo. Contabilização desse evento? D - Adiantamentos a Fornecedores (ativo circulante) C - Bancos",
-        type: 'true-false'
+        "id": "a00_q39",
+        "question": "Contabilidade geral e contabilidade societária",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "são expressões usadas para popularizar o termo ciência contábil.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q40',
-        question: "Estoques de mercadorias para revenda devem ser evidenciados no balanço patrimonial pelo seu valor justo.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Errado, de acordo com o CPC 16, os estoques devem ser avaliados pelo valor de custo ou valor realizável líquido, dos dois o menor. Portanto, é errada a afirmação que diz esses itens serão avaliados pelo valor justo.",
-        type: 'true-false'
+        "id": "a00_q40",
+        "question": "Se um trabalhador controla rigorosamente, em",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "um caderno, todos os seus gastos e as suas rendas, e, com base nesse controle, decide o que lhe\nconvém e o que não lhe convém fazer com seus recursos, então, agindo assim, ele reafirma o objetivo\nfundamental da contabilidade.\nRelativamente ao conceito, objetivos e finalidades da contabilidade, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q41',
-        question: "Na apuração do valor realizável líquido de um estoque em elaboração, é levado em conta o preço de venda estimado no curso normal dos negócios deduzido dos gastos necessários para a realização da venda. Além dessas informações, devem ser considerados, para a referida apuração, os custos a) estimados de reinvestimento. b) de oportunidade. c) de gestão da entidade. d) estimados de conclusão. e) de reposição de estoques.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O CPC 16 - Estoques afirma que valor realizável líquido é o preço de venda estimado no curso normal dos negócios deduzido dos custos estimados para sua conclusão e dos gastos estimados necessários para se concretizar a venda. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05",
-        type: 'multiple-choice'
+        "id": "a00_q41",
+        "question": "Contabilidade é a ciência social",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "que estuda e sistematiza os princípios de tomada de decisão sobre recursos disponíveis ao\ngerenciamento organizacional.\nConsiderando conceitos, objetivos e finalidades da contabilidade, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q42',
-        question: "Valor de custo ou valor de mercado — dos dois, o menor: essa é a regra consagrada para a avaliação do valor dos itens mantidos em estoque.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. O erro da questão foi trocar “valor realizável líquido” por “valor de mercado”.",
-        type: 'true-false'
+        "id": "a00_q42",
+        "question": "A ciência",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contábil diferencia-se de outras ciências ligadas direta ou indiretamente à gestão das entidades por\nter o patrimônio da entidade como objeto de estudo.\nRelativamente aos conceitos, objetivos, objeto e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q43',
-        question: "O ICMS incidente sobre o preço de mercadorias adquiridas para revenda deve ser contemplado no custo de aquisição dessas mercadorias.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "A mercadoria foi adquirida pelo preço, mas, por determinação do CPC 16 – Estoques, temos que retirar o ICMS do custo dos estoques, pois trata-se de um tributo recuperável.",
-        type: 'true-false'
+        "id": "a00_q43",
+        "question": "A contabilidade é a ciência",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "social que estuda e controla o patrimônio das entidades com o objetivo de fornecer informações sobre\nsua composição e variação que sejam úteis ao tomador de decisão.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q44',
-        question: "O procedimento contábil de redução do custo dos estoques ao seu valor realizável líquido é um indicativo de que o investimento efetuado nos referidos ativos pode não ser mais recuperável.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O CPC 16 explica que o custo dos estoques pode não ser recuperável se os custos estimados de acabamento ou os custos estimados a serem incorridos para realizar a venda tiverem aumentado. A prática de reduzir o valor de custo dos estoques (write down) para o valor realizável líquido é consistente com o ponto de vista de que os ativos não devem ser escriturados por quantias superiores àquelas que se espera que sejam realizadas com a sua venda ou uso.",
-        type: 'true-false'
+        "id": "a00_q44",
+        "question": "A ciência contábil tem múltiplas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "finalidades e ramos de atuação, mas, independentemente do enfoque, a contabilidade tem por\nobjetivo fundamental\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n54\n\nwww.estrategiaconcursos.com.br\n",
+        "type": "true-false"
       },
       {
-        id: 'a04_q45',
-        question: "As entidades podem valer-se do valor de custo ou do valor realizável líquido para a avaliação dos seus estoques de mercadorias, devendo escolher, dos dois valores, o menor.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "No tocante a mensuração contábil do estoque, o CPC 16 informa que os estoques devem ser mensurados pelo valor de custo ou pelo valor realizável líquido, dos dois o menor. Esquematizemos: Menor • Valor realizável líquido • Custo",
-        type: 'true-false'
+        "id": "a00_q45",
+        "question": "Contribuir para a tomada de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "decisão sobre comprar, vender ou manter instrumento de patrimônio e de dívida das entidades é um\ndos fins da contabilidade.\nJulgue o item que se segue, relativo ao conceito, ao objetivo, à periodicidade e à elaboração das principais\ndemonstrações contábeis previstas na legislação societária e nas normas contábeis brasileiras.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q46',
-        question: "A Cia. ABC adquiriu, à vista, 1.000 unidades de mercadorias para revenda. As informações relacionadas à transação estão elencadas a seguir: ● Preço unitário da mercadoria: R$ 100,00 ● ICMS: R$ 18,00 (o valor está embutido no preço unitário da mercadoria) ● Frete pago pela Cia. ABC para receber, em suas dependências, as mercadorias adquiridas: R$ 100,00 ● Seguro de transporte das mercadorias, pago pelo próprio fornecedor das mercadorias: R$ 10,00 Considerando a situação hipotética apresentada, assinale a opção que apresenta o valor que deverá ser registrado na conta de estoques da Cia. ABC, em decorrência da aquisição das referidas mercadorias. A R$ 82.000,00 B R$ 82.100,00 C R$ 100.100,00 D R$ 100.110,00 E R$ 118.110,00",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Faremos algumas observações: - De acordo com o CPC 16 - Estoques, o custo do estoque compreende. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 Custo do estoque inclui: •Preço de compra •Impostos de importação e outros tributos (exceto recuperáveis) •Custo de transportes •Seguro •Manuseio •Custos diretamente atribuíveis Não inclui •Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS não cumulativos. Revenda: ICMS, PIS, COFINS não cumulativos) •Descontos comerciais •Abatimentos - O quesito avisou que o seguro foi pago pelo fornecedor. Fica assim: Preço: 1.000 unidades x R$ 100 = R$ 100.000 (-) ICMS recuperável: : 1.000 unidades x R$ 18 = R$ 18.000 (+) Frete pago pela Cia. ABC para receber, em suas dependências, as mercadorias adquiridas: R$ 100,00 (=) Total R$ 82.100,00",
-        type: 'multiple-choice'
+        "id": "a00_q46",
+        "question": "O objetivo das demonstrações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contábeis é fornecer informações úteis para a tomada de decisão econômica pelos usuários dessas\ninformações.\nRelativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q47',
-        question: "Com base nessas informações, assinale a opção correta. A O valor do estoque no final do mês de abril está entre R$ 100,00 e R$ 120,00. B O valor do custo das mercadorias vendidas no mês de abril está entre R$ 4.000,00 e R$ 4.200,00. C O valor do estoque no final do mês de abril está entre R$ 120,00 e R$ 150,00. D O valor custo das mercadorias vendidas no mês de abril está entre R$ 4.000,00 e R$ 4.250,00. E O valor custo das mercadorias vendidas no mês de abril está entre R$ 4.000,00 e R$ 4.300,00.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Método = PEPS EI = 100 unidades x R$ 10 = R$ 1.000 SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 Compra 1 = 50 unidades x R$ 12 = R$ 600 Compra 2 = 60 unidades x R$ 15 = R$ 900 Compra 3 = 150 unidades x R$ 13 = R$1.950 O estoque final em 20/4, era de 360 unidades (100 + 50 + 60 + 150). O enunciado informa que existiam 10 unidades no estoque da empresa no final do mês de abril. Isso significa que houve a venda de 350 unidades (360 – 10). Então, vamos dar baixa no estoque inicial, na compra 1, na compra 2 e de 140 unidades da compra 3, vejam: Saídas (Saídas (Vamos baixar as mercadorias mais antigas): EI = 100 unidades x R$ 10 = R$ 1.000 Compra 1 = 50 unidades x R$ 12 = R$ 600 Compra 2 = 60 unidades x R$ 15 = R$ 900 Compra 3 = 140 unidades x R$ 13 = R$ 1.820 CMV = R$ 1.000 + R$ 600 + R$ 900 + R$ 1.820 = R$ 4.320 Estoque final: Compra 3 = 10 unidades x R$ 13 = R$ 130 A O valor do estoque no final do mês de abril está entre R$ 100,00 e R$ 120,00. Errado, pois ele foi de R$ 130,00 B O valor do custo das mercadorias vendidas no mês de abril está entre R$ 4.000,00 e R$ 4.200,00. O CMV foi de R$ 4.320. Alternativa errada. C O valor do estoque no final do mês de abril está entre R$ 120,00 e R$ 150,00. O estoque final foi de R$ 130.00. Alternativa certa. D O valor custo das mercadorias vendidas no mês de abril está entre R$ 4.000,00 e R$ 4.250,00. O CMV foi de R$ 4.320. Alternativa errada. E O valor custo das mercadorias vendidas no mês de abril está entre R$ 4.000,00 e R$ 4.300,00. O CMV foi de R$ 4.320. Alternativa errada.",
-        type: 'multiple-choice'
+        "id": "a00_q47",
+        "question": "Uma finalidade da ciência",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contábil é observar se a riqueza administrativa está atingindo os fins propostos pelo sujeito contábil.\nRelativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q48',
-        question: "Conforme o pronunciamento técnico do CPC referente a estoques, as empresas da área de comércio ou da área de indústria precisam utilizar como critério de valoração de estoque o UEPS (último que entra é o primeiro que sai), tendo em vista a desvalorização da moeda no tempo.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "Geralmente, temos economias inflacionárias, ou seja, onde os preços aumentam devido a inflação. Ao adotarmos o método UEPS, daremos baixar ao estoque mais novo primeiro e esse estoque mais novo foi mais custoso. Consequentemente, o lucro obtido será menor e o montante de tributos sobre o lucro também. Ambiente Inflacionário Estoque Final (EF) EF (PEPS) > EF (Custo Médio) > EF (UEPS) CMV CMV (PEPS) < CMV (Custo Médio) < CMV (UEPS) Lucro Bruto (LB) LB (PEPS) > LB (Custo Médio) > LB (UEPS) Em razão disso, o método Último Que Entra Primeiro Que Sai (UEPS) é proibido pela legislação brasileira. Ele só pode ser usado para fins gerenciais. Por último, vejamos o texto do CPC 16: 25. O custo dos estoques, que não sejam os tratados nos itens 23 e 24, deve ser atribuído pelo uso do critério Primeiro a Entrar, Primeiro a Sair (PEPS) ou pelo critério do custo médio ponderado. A entidade deve usar o mesmo critério de custeio para todos os estoques que tenham natureza e uso semelhantes para a entidade. Para os estoques que tenham outra natureza ou uso, podem justificar-se diferentes critérios de valoração. Veja que o próprio pronunciamento não cita o UEPS.",
-        type: 'true-false'
+        "id": "a00_q48",
+        "question": "O fornecimento de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "informações úteis para a tomada de decisão pelos agentes econômicos é uma das finalidades da\nciência contábil.\nQuanto aos grupos patrimoniais utilizados na contabilidade, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q49',
-        question: "O montante total de custo do estoque deve incluir todos os custos de aquisição e de transformação: preço de compra, descontos comerciais, impostos de importação e outros tributos não recuperáveis bem como custos de transporte, seguro, manuseio e outros diretamente atribuíveis à aquisição de produtos acabados, materiais e serviços.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "O custo de aquisição dos estoques compreende: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 1) Preço de compra 2) Impostos de importação e outros tributos (exceto os recuperáveis). Atenção! Os tributos recuperáveis são: A) Matéria prima: IPI, ICMS, PIS e Cofins (os dois últimos na modalidade não cumulativa) B) Mercadorias para revenda: ICMS, PIS e Cofins (os dois últimos na modalidade não cumulativa) 3) Custos de transporte, seguro, manuseio e outros diretamente atribuíveis à aquisição. Esquematizemos: Custo do estoque inclui: Não inclui •Preço de compra •Impostos de importação e outros tributos (exceto recuperáveis) •Custo de transportes •Seguro •Manuseio •Custos diretamente atribuíveis •Tributos recuperáveis (MP: IPI, ICMS, PIS, COFINS não cumulativos. Revenda: ICMS, PIS, COFINS não cumulativos) •Descontos comerciais •Abatimentos As devoluções de compras, os DESCONTOS COMERCIAIS e os abatimentos sobre compras devem ser deduzidos do custo de aquisição. Assim, o quesito errar ao inclui os descontos comerciais.",
-        type: 'true-false'
+        "id": "a00_q49",
+        "question": "O patrimônio de uma entidade é representado, nas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "demonstrações contábeis, apenas pelos grupos do ativo, haja vista os grupos do passivo, que\nrepresentam o patrimônio de terceiros.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q50',
-        question: "Assinale a opção que apresenta corretamente o registro contábil gerado, quando da venda de mercadoria, pelo pagamento de frete para a entrega da mercadoria ao cliente. A D – Despesa de venda C – Disponibilidade B D – Estoque de mercadorias C – Disponibilidade C D – Frete a pagar C – Disponibilidade D D – Estoque de mercadorias C – Contas a pagar E D – Despesa de venda C – Contas a pagar",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O custo do estoque compreende, além do preço pago, todos os gastos incorridos necessários para que eles fiquem nas condições determinadas pela administração, como por exemplo, frete e seguros. Ressaltamos que apenas o frete sobre compras entra no custo do estoque. O frete sobre vendas é uma despesa de venda. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 As despesas de vendas são gastos de promoção, colocação e distribuição dos produtos da empresa. Por exemplo: gastos com marketing, gastos com distribuição, gasto com frete sobre vendas, gastos com pessoal da área de vendas, gasto com comissões. Assim, gravemos: • • Frete sobre compras -> entra no custo do estoque Frete sobre vendas-> não entra no custo do estoque, visto que é despesa. Lançamento: D – Despesa de venda (-Resultado) C – Disponibilidade (-Ativo)",
-        type: 'multiple-choice'
+        "id": "a00_q50",
+        "question": "Na equação patrimonial,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A o ativo está inversamente relacionado ao passivo.\nB o ativo está inversamente relacionado ao patrimônio líquido.\nC o patrimônio líquido está diretamente relacionado ao ativo.\nD o passivo está diretamente relacionado ao patrimônio líquido.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n55\n",
+        "type": "true-false"
       },
       {
-        id: 'a04_q51',
-        question: "A empresa comercial X adquiriu 10.000 unidades de mercadorias para revenda, tendo incorrido nos seguintes gastos. Preço de compra, por unidade: R$ 5,00. ICMS embutido no preço de compra, por unidade: R$ 0,80. Gasto total com o frete das mercadorias adquiridas: R$ 200,00. Gasto total com o armazenamento das mercadorias adquiridas: R$ 1.000,00. Gasto total com a comercialização das mercadorias adquiridas: R$ 800,00. A empresa X revendeu a seus clientes todas as unidades adquiridas. Nessa situação hipotética, o custo das mercadorias vendidas totalizou A R$ 42.000,00. B R$ 42.200,00. C R$ 50.200,00. D R$ 51.200,00. E R$ 52.000,00.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O custo do estoque compreende, além do preço pago, todos os gastos incorridos necessários para que eles fiquem nas condições determinadas pela administração, como por exemplo, frete e seguros. Ressaltamos que alguns gastos ocorrem após o estoque está nas condições pretendidas pela administração e, por conta disso, são despesas. A seguir, um esquema baseado no item 15 do CPC 16: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 Perdas anormais ITENS NÃO INCLUÍDOS NOS CUSTOS DOS ESTOQUES Gastos com armazenamento (exceto necessário processo produtivo) Despesas administrativas Despesas de comercialização, de venda, entrega de bens e serviços Assim, o custo das mercadorias vendidas totalizou Preço de compra, por unidade: R$ 5,00 x 10.000 = R$ 50.000,00 (-) ICMS embutido no preço de compra, por unidade: R$ 0,80 x 10.000 = R$ 8.000,00 (+) Gasto total com o frete das mercadorias adquiridas: R$ 200,00. (-) Custo de aquisição = 50.000 - 8.000 + 200 = 42.200 Os seguintes gastos são despesas: • Gasto total com o armazenamento das mercadorias adquiridas: R$ 1.000,00. • Gasto total com a comercialização das mercadorias adquiridas: R$ 800,00.",
-        type: 'multiple-choice'
+        "id": "a00_q51",
+        "question": "Segundo a teoria contábil contemporânea, a",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contabilidade é mais adequadamente classificada como uma\nA metodologia.\nB técnica.\nC arte.\nD prática.\nE ciência.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
       {
-        id: 'a04_q52',
-        question: "Desperdício de materiais na transformação de estoques deve ser reconhecido como despesa do período em que foi incorrido.",
-        options: ["Certo", "Errado"],
-        correct: 1,
-        explanation: "No tocante aos desperdícios que ocorrem na produção seguem esta regra: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 Normais Custo da produção \"Anormais\" ou \"Excepcionais\" Resultado do Exercício (despesa) Perdas na produção Já os desperdícios do produto acabado, não precisamos nos preocupar se a perda foi “normal” ou “excepcional”. Todas as perdas de produto acabado vão diretamente para o resultado do exercício. Não devem impactar o custo do produto. Diante do exposto, desperdício de materiais na transformação de estoques deve PODE ser reconhecido como despesa do período em que foi incorrido. Basta que sejam anormais ou excepcionais. Item errado.",
-        type: 'true-false'
+        "id": "a00_q52",
+        "question": "A contabilidade tem por objeto",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A o registro dos eventos que afetam o patrimônio.\nB o sistema de contas.\n\n==338b5d==\n\nC a divulgação de informações úteis ao usuário.\nD as entidades contábeis em geral.\nE o patrimônio das entidades.\n",
+        "type": "true-false"
       },
       {
-        id: 'a04_q53',
-        question: "Uma empresa varejista, tributada pelo lucro presumido, adquiriu mercadorias no montante de R$ 100 mil, com incidência de 16% de ICMS e 10% de IPI; a nota fiscal de compra somou R$ 110 mil e a empresa adquirente não é contribuinte do IPI. Se essas são as únicas informações relevantes para fins contábeis, então o valor líquido do estoque contabilizado é de A R$ 84.000. B R$ 94.000. C R$ 126.000. D R$ 100.000. E R$ 110.000.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Vamos conhecer quais esses tributos incidentes nas operações com mercadorias. Apenas destacamos que focaremos nos aspectos contábeis! Não iremos entrar nos aspectos da legislação tributária. • IPI – Imposto sobre Produtos Industrializados: É um imposto de competência federal incidente sobre operações com produtos industrializados, por esse motivo, é devido por empresas industriais ou equiparadas. É um imposto “por fora”, o que significa que não está incluído no preço do produto. Normalmente, a questão informa qual a alíquota que deve ser considerada ou o valor do IPI. Assim, a questão vai dizer: o preço de venda foi R$ 100,00 e o IPI tem alíquota de 10%. O total será de R$ 110,00, correspondente ao preço da mercadoria + IPI, que é por fora. • ICMS – Imposto sobre Circulação de Mercadorias e Serviços: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 É um imposto de competência estadual, incidente sobre a circulação de mercadorias e sobre a prestação de serviços de transportes interestadual e intermunicipal, comunicações e fornecimento de energia elétrica. É um imposto “por dentro”, ou seja, já está incluso no preço da mercadoria ou produto. Nesse caso, se a empresa adquire uma mercadoria por R$ 100,00 e o ICMS tem alíquota de 10%, o total da nota fiscal de compra será de R$ 100,00 e não R$ 110,00, como no caso do IPI. Já mencionamos que o preço da mercadoria inclui o ICMS, mas não o IPI. Mas devemos atentar para a seguinte “pegadinha”: se a questão mencionar o “valor da nota fiscal” ou o “valor pago”, este já inclui o IPI. Esquematizemos: Inclui o ICMS e e não inclui o IPI • Preço da mercadoria, preço da compra • Incluiu o ICMS e o IPI • Valor da nota fiscal, valor pago IPI X ICMS Conforme previsão da Constituição Federal, o ICMS não compreenderá, em sua base de cálculo, o montante do imposto sobre produtos industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos. *Neste caso, como se trata de mercadoria destinada à comercialização, o IPI não será incluído na base de cálculo do ICMS. Cálculo dos impostos: • • • IPI: 100.000 x 10% = 10.000. Valor da Nota Fiscal: 100.000 + IPI 10.000 = 110.000 *ICMS: 100.000 x 16% = 16.000 Vimos que os impostos recuperáveis não entram no custo de aquisição. Apenas os impostos não recuperáveis entram. Como o ICMS é recuperável, iremos deduzi-lo. Dado que o IPI é não recuperável, então ele entrará no custo do estoque. O custo do estoque, nessa situação será: Valor Pago R$ 100.000,00, (+) Tributos não recuperáveis (IPI) R$ 10.000,00 (-) Tributos recuperáveis (ICMS) R$ 16.000,00 (=) Total R$ 94.000,00 Contabilização: SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 D – Estoque 94.000 (110.000 -16.000) D – ICMS a recuperar 16.000 C – Fornecedores 110.000",
-        type: 'multiple-choice'
+        "id": "a00_q53",
+        "question": "Com relação a conceitos, objetivos e",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "finalidade da contabilidade, julgue os próximos itens.\nI. O principal objetivo da contabilidade inclui fornecer informação útil ao usuário, para a tomada de decisão.\nII. Não é finalidade da contabilidade controlar o patrimônio da instituição, pois isso cabe aos sistemas de\ninventário.\nIII. A contabilidade tem a responsabilidade de criar o sistema gerencial para apuração de custos.\nIV. A principal função da contabilidade é apurar os tributos federais, estaduais e municipais.\nAssinale a opção correta.\nA Nenhum item está certo.\nB Apenas o item I está certo.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q54',
-        question: "De acordo com a legislação societária, o investimento efetuado por uma empresa industrial na aquisição de matéria-prima deve ser avaliado, no balanço patrimonial da referida empresa, pelo A custo de aquisição da matéria-prima, deduzido de provisão para ajustá-lo ao valor de mercado, quando esse for inferior. B preço pelo qual a matéria-prima possa ser reposta, mediante aquisição no mercado. C preço líquido de realização da matéria-prima, mediante venda no mercado. D custo de aquisição da matéria-prima, deduzido do saldo da respectiva conta de depreciação. E custo de aquisição da matéria-prima, deduzido de eventuais perdas por redução ao seu valor recuperável.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "Segundo a Lei das S.A.s (lei 6404/76): Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios: II - os direitos que tiverem por objeto mercadorias e produtos do comércio da companhia, assim como matérias-primas, produtos em fabricação e bens em almoxarifado, pelo custo de aquisição ou produção, deduzido de provisão para ajustá-lo ao valor de mercado, quando este for inferior; § 1o Para efeitos do disposto neste artigo, considera-se valor justo: (Redação dada pela Lei nº 11.941, de 2009) a) das matérias-primas e dos bens em almoxarifado, o preço pelo qual possam ser repostos, mediante compra no mercado;",
-        type: 'multiple-choice'
+        "id": "a00_q54",
+        "question": "Fornecer informações úteis que subsidiem o",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "processo de tomada de decisões econômicas é um dos principais objetivos da contabilidade.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n56\n\nwww.estrategiaconcursos.com.br\n\n61",
+        "type": "true-false"
       },
       {
-        id: 'a04_q55',
-        question: "Se, indevidamente, a contabilidade de uma empresa superestimar seu saldo de estoques no inventário final do ano 20X1 e, embora constatado, esse problema não for corrigido, tal situação acarretará uma A superestimação do lucro líquido do ano 20X2. B superestimação do lucro líquido do ano 20X1. C subestimação do lucro líquido do ano 20X1. SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 D subestimação da situação líquida do ano 20X1. E subestimação do custo da mercadoria vendida do ano 20X2.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "A fórmula do CMV é a seguinte: CMV = Estoque Inicial + Compras – Estoque Final. Vejamos as consequências: Se em 20X1 o estoque final estiver SUPERESTIMADO, seu CMV será SUBESTIMADO. C M V = Estoque Inicial+ C om pras – Estoque Final Por sua vez, seu Lucro Líquido estará SUPERESTIMADO. O estoque final de 20x1 é o estoque inicial de 20X2, nesse caso, a análise se alta: Se em 20X2 o estoque inicial estiver SUPERESTIMADO, seu CMV será SUPERESTIMADO CM V = Estoque Inicial+ C om pras – Estoque Final Por sua vez, seu Lucro Líquido estará SUBESTIMADO. Então, podemos marcar como gabarito a letra b, que diz: “superestimação do Lucro Líquido do ano de 20X1.”",
-        type: 'multiple-choice'
+        "id": "a00_q55",
+        "question": "Segundo o Comitê de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Pronunciamentos Contábeis (CPC – Estrutura Conceitual para Elaboração e Divulgação de Relatório\nContábil-Financeiro), os relatórios contábeis-financeiros “objetivam fornecer informações que sejam\núteis na tomada de decisões econômicas e avaliações por parte dos usuários em geral, não tendo o\npropósito de atender finalidade ou necessidade específica de determinados grupos de usuários”.\nAinda que destinados a usuários em geral, esses relatórios destinam-se prioritariamente à tomada de\ndecisão por parte\na) do fisco.\nb) dos governos em geral.\nc) dos órgãos supervisores.",
+        "type": "true-false"
       },
       {
-        id: 'a04_q56',
-        question: "De acordo com a legislação vigente, adiantamentos em dinheiro de uma empresa a seus fornecedores nacionais de mercadorias devem ser contabilizados A como despesa, no resultado do exercício. B no grupo de estoques, no ativo. C nas contas a receber, no ativo. D na conta de fornecedores, no passivo. E em resultados de exercícios futuros, no passivo.",
-        options: ["Certo", "Errado"],
-        correct: 0,
-        explanation: "O adiantamento a fornecedores de mercadorias deve ficar registrado junto aos Estoques, pois possuem vinculação específica, ou seja, a compra de mercadorias. Muitos alunos tiveram dúvidas nessa questão e nos perguntaram se não seria possível fazer a classificação como Contas a Receber. Adiantamento a Terceiros é uma conta registrada em Contas a Receber, que engloba SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano 93 www.estrategiaconcursos.com.br Luciano Rosa, Júlio Cardozo Aula 05 o numerário entregue a terceiros, mas sem vinculação específica ao fornecimento de bens, produtos ou serviços contratuais predeterminados. Para finalizar, você sabia que Adiantamento a Fornecedores de Imobilizado é classificada no Imobilizado, pela mesma lógica do Adiantamento a Fornecedores de estoques? Resumindo: Estoques Destinação Específica Imobilizado Adiantamentos Sem destinação específica Contas a Receber",
-        type: 'multiple-choice'
+        "id": "a00_q56",
+        "question": "O principal objetivo da contabilidade é",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "fornecer informações úteis sobre o patrimônio da entidade para finalidades diversas, entre as quais,\nplanejamento, controle e auxílio no processo decisório.\nEm relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
       },
+      {
+        "id": "a00_q57",
+        "question": "O objeto de estudo da contabilidade são as",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "entidades econômico-administrativas, o que inclui as instituições com fins sociais.\nEm relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a00_q58",
+        "question": "A análise de balanços não é considerada uma",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "técnica contábil, tendo em vista que foi formulada e desenvolvida no âmbito da administração\nfinanceira.\nA respeito da contabilidade geral, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a00_q59",
+        "question": "A contabilidade teórica consiste no registro das",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "operações de determinada entidade em livros mantidos para essa finalidade.\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n57\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a00_q60",
+        "question": "Sob a ótica citada, o objeto da contabilidade é o",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "patrimônio do ente contábil específico.\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a00_q61",
+        "question": "A contabilidade integra o rol das ciências exatas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "por estar dedicada à mensuração da riqueza do ente contábil.\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a00_q62",
+        "question": "Para o estudo da contabilidade, patrimônio é a diferença",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "entre ativos e passivos detidos pelas entidades.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a00_q63",
+        "question": "As informações contábeis devem ser mensuradas e",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "divulgadas a diversos usuários. Considerando as necessidades específicas de cada usuário quanto às\ninformações contábeis, julgue os itens a seguir.\nI As instituições financeiras estão interessadas em informações relativas ao endividamento da empresa e à\nexistência de liquidez suficiente para que ela honre com o pagamento dos empréstimos adquiridos.\nII Nas suas análises, o investidor busca avaliar a empresa que seja mais lucrativa e que pague maiores\ndividendos.\nIII As agências reguladoras, no cumprimento de suas funções, apuram o lucro tributável das concessionárias\nde serviço público com o ob",
+        "type": "true-false"
+      },
+      {
+        "id": "a00_q64",
+        "question": "De acordo com Max Weber, a moderna organização racional da",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "empresa capitalista foi viabilizada pela contabilidade racional. Esse pensamento foi corroborado, na\nciência contábil, por Vicenzo Masi, que identificou como objeto da contabilidade.\na) as contas.\nb) a azienda.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n58\n",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula01",
+    "title": "Aula 01: Contabilidade",
+    "description": "Questões da Aula 01",
+    "color": "bg-blue-600",
+    "questions": [
+      {
+        "id": "a01_q1",
+        "question": "Ativo + patrimônio líquido < passivo exigível é uma expressão que",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nO quesito afirmou que o passivo é maior do que a soma do ativo e do PL. Isso indica que mesmo se nos\ndesfizermos de todos os bens e direitos, não será suficiente para quitar as obrigações. Essa parte do Passivo\npara o qual não temos recursos suficientes para pagar é denominada passivo a descoberto. Essa questão é\nrecorrente em provas! Vejam que a expressão é utilizada pois há um passivo que está descoberto\nNeste tipo de situação, temos:\n•\n•\n\nAtivo < Passivo\nPatrimônio Líquido < 0\n\nO Passivo não fica com valores negativos, o PL é que fica.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q2",
+        "question": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA situação líquida é a diferença entre os Ativo e os Passivo de determinada entidade.\nTipos de situações líquidas existentes:\n•\n•\n•\n\nAtivo maior do que passivo → Situação Líquida Favorável, Ativa, Positiva ou Superavitária\nAtivo menor do que passivo (passivo a descoberto) → Situação líquida Desfavorável, Negativa ou\nDeficitária:\nAtivo igual ao passivo → Situação Líquida Nula ou Inexistente\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n25\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\n•\n\nAtivo igual à s",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q3",
+        "question": "No cotidiano das entidades contábeis, é impossível ocorrer uma",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nSegundo a equação básica da contabilidade:\nAtivo = Passivo + PL\nFique esperto! Podemos escrevê-la nas seguintes formas:\n•\n\nIsolando o Ativo\nAtivo = Passivo + PL\n\n•\n\nIsolando o PL\nPL = Ativo - Passivo\n\n•\n\nIsolando o Passivo\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n26\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\nPassivo = Ativo – PL\nVeja que o quesito trouxe a fórmula com o PL isolado. Só que, para dificultar a banca quer que gastemos\nnossa matemática: o módulo de Passivo significa que devemos de",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q4",
+        "question": "Em uma entidade em que o total de passivos se",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nA situação líquida é a diferença entre os Ativo e os Passivo de determinada entidade.\nTipos de situações líquidas existentes:\n•\n•\n•\n•\n\nAtivo maior do que passivo → Situação Líquida Favorável, Ativa, Positiva ou Superavitária\nAtivo menor do que passivo (passivo a descoberto) → Situação líquida Desfavorável, Negativa ou\nDeficitária:\nAtivo igual ao passivo → Situação Líquida Nula ou Inexistente\nAtivo igual à situação líquida → Este é o caso típico da constituição da sociedade\n\nConsequências:\n•\n•\n•\n\nAtivo pode ser maior ou igual a zero.\nPassivo pode ser maior ou igual a zero.\nPL pode ",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q5",
+        "question": "Passivo a descoberto é a situação na qual os",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, pessoal. Passivo a descoberto é a situação líquida em que se “deve mais do que se\ntem”. Imagine uma empresa que tenha tão-somente R$ 1.000 em caixa e um carro velho avaliado em R$\n1.000, mas deve R$ 2.500 a um fornecedor. Esta é a chamada situação líquida negativa, pois os elementos\nnegativos superam os elementos positivos do balanço. A entidade chega nesse estado quando os prejuízos\nacumulados pela empresa superam os capitais investidos pelos sócios e os demais itens que integram o\npatrimônio líquido.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q6",
+        "question": "Se no início de certo exercício, uma empresa",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nItem correto, pessoal. Nesta situação o ativo é igual ao passivo exigível, não havendo que se falar em resíduo\n(sobra) para os proprietários no caso de dissolução da empresa, isto é, não existe capital próprio. Assim\nsendo, se no exercício seguinte as receitas e os ganhos da empresa superaram as despesas e as perdas, ela\nvai apurar lucro. Portanto, a situação patrimonial líquida final da empresa é superavitária.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q7",
+        "question": "No balanço patrimonial, o ativo representa as aplicações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto. O balanço patrimonial é dividido em ativo, passivo e patrimônio líquido. e\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n28\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\n- O lado esquerdo do balanço patrimonial, POR UMA CONVENÇÃO, é chamado de lado positivo do balanço\npatrimonial, apresenta as aplicações de recursos e elenca os bens e direitos que estão sob o controle dessa\nentidade. Também por CONVENÇÃO é chamado de lado DEVEDOR OU LADO DOS DÉBITOS.\n- O lado direito do balanço patrimon",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q8",
+        "question": "Na equação patrimonial,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA equação fundamental do patrimônio é a seguinte: Ativo = Passivo + PL.\nEm termos matemáticos, o patrimônio líquido e o passivo estão diretamente relacionados com o ativo, isto\né, aumento nesses grupos, refletem positivamente no ativo e vice-versa. E o patrimônio líquido está\ninversamente relacionado com o passivo.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q9",
+        "question": "Quando a situação líquida de uma entidade for negativa,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n29\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\nA situação líquida negativa é quando o total de bens e direitos (Ativo) é menor que o total das obrigações\n(Passivo). Neste tipo de situação, temos:\n▪\n▪\n\nAtivo < Passivo\nPatrimônio Líquido < 0\n\nEsta é a chamada situação líquida negativa, pois os elementos negativos superam os elementos positivos do\nbalanço. Essa parte do Passivo para o qual não temos recursos suficientes para pagar é denominada passivo\na de",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q10",
+        "question": "Em dado exercício social, uma entidade",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nSe o passivo suplantar o ativo, estamos diante de uma situação de passivo a descoberto. Esta é a situação\nlíquida em que se “deve mais do que se tem”.\nImagine uma empresa que tenha tão-somente R$ 1.000 em caixa e um carro velho avaliado em R$ 1.000,\nmas deve R$ 2.500 a um fornecedor. Esta é a chamada situação líquida negativa, pois os elementos\nnegativos superam os elementos positivos do balanço.\nVisto que, numa situação de passivo a descoberto, em vez de representarmos o patrimônio pela equação\npadrão: “Ativo = Passivo + PL”, na verdade, teríamos: Passivo = Ativo + Passivo a Desc",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q11",
+        "question": "Considerando que as informações (em reais) acima se",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nClassificando as contas, temos o seguinte:\nAtivo = 65.000\nativo imobilizado\n\n35.000\n\ncaixa e equivalentes de caixa\n\n10.000\n\n(-) depreciação acumulada\nestoques\n\n(4.000)\n24.000\n\n*Depreciação Acumulada é uma conta patrimonial, especificadamente uma retificadora do Ativo. Utilizada\npara registrar o desgaste do imobilizado ao longo de sua vida útil.\nPassivo = 52.000\nfornecedores\n\n22.000\n\nempréstimos a pagar no longo prazo 30.000\nA equação fundamental do patrimônio é a seguinte:\nAtivo = Passivo + PL\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pó",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q12",
+        "question": "Uma entidade apresentou as seguintes informações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nClassificando as contas, temos o seguinte:\nAtivo = 71.400\nativo imobilizado\n\n36.000\n\ncaixa e equivalentes de caixa\n\n12.000\n\n(-) depreciação acumulada\n\n(3.600)\n\nestoques\n\n27.000\n\n*Depreciação Acumulada é uma conta patrimonial, especificadamente uma retificadora do Ativo. Utilizada\npara registrar o desgaste do imobilizado ao longo de sua vida útil.\nPassivo = 82.000\nfornecedores\n\n38.000\n\nempréstimos a pagar no longo prazo\n\n44.000\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n32\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Jú",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q13",
+        "question": "A situação patrimonial de uma entidade em dado",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nO balanço patrimonial evidencia a situação patrimonial e financeira da entidade, a chamada estática\npatrimonial. Esquematizemos:\nPosição Patrimonial\n\n•Relação de Bens, Direitos e Obrigações da Entidade\n\nPosição Financeira\n\n•Valor Monetário dos itens patrimoniais\n\nÉ como se tirássemos uma fotografia da companhia em determinado ponto. Então, ao final do que\nchamamos de exercício social, pegamos todos os saldos dos elementos patrimoniais e colocamos nas\ndiversas demonstrações contábeis.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "a01_q14",
+        "question": "Em 31 de dezembro de 2020, a situação patrimonial líquida",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA situação líquida representa a quanto os sócios empregam de patrimônio à sociedade, com recursos\npróprios, seja na forma do Capital Social ou dos lucros apurados durante as operações da empresa e que não\nsão distribuídos. Representa o total do Patrimônio Líquido da entidade em determinado momento.\nResolvendo a nossa questão, vamos classificar as contas e montar o balanço.\nElemento Patrimonial\nCaixa\nAplicações Financeira de Liquidez Imediata\nDepósitos em banco\nDuplicatas a Receber\nEstoques\nImóveis de uso próprio\nDepreciação Acumulada\nTotal do Ativo\nEmpréstimo a pagar\nFornecedores\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q15",
+        "question": "Os saldos dos recursos aplicados no ativo da empresa",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nVamos analisar a nossa questão. Uma dica que sempre damos em questões do Cebraspe é dividir um item e\npartes para julgá-lo. Vejam:\nPrimeira parte: Os saldos dos recursos aplicados no ativo da empresa totalizaram R$ 350.000,00 em\n31.12.2020.\nClassificando as contas corretamente, teríamos:\nElemento Patrimonial\nCaixa\nAplicações Financeira de Liquidez Imediata\nDepósitos em banco\nDuplicatas a Receber\nEstoques\nImóveis de uso próprio\nDepreciação Acumulada\nTotal do Ativo\n\nValor (R$)\nClassificação\nR$20.000,00\nAtivo\nR$30.000,00\nAtivo\nR$10.000,00\nAtivo\nR$50.000,00\nAtivo\nR$40.000,00\nAtivo\nR$2",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q16",
+        "question": "Na A contratação do novo funcionário é um ato",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nOs atos administrativos (também conhecido como atos contábeis) são atos relevantes que não alteram o\npatrimônio da entidade, tal como a contratação de empregados, o simples fato de se conceder fiança a um\nterceiro ou avalizar um cheque.\nRessaltamos que o registro de ATOS CONTÁBEIS pela Contabilidade Geral, é raro de acontecer e não\né obrigatório, mas pode ser feita através das contas de compensação. Ou seja, eles são controlados de forma\nextracontábil.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q17",
+        "question": "Situação líquida e patrimônio líquido são expressões",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nVamos dividir o item em três partes:\n“Situação líquida e patrimônio líquido são expressões sinônimas...”\nQuando o sócio vai constituir as atividades empresariais ele emprega somente capitais de terceiros ou\ntambém entrega capitais próprios (pertencentes a ele - sócio) às atividades? Ora, entrega também capital\npróprio. Na contabilidade, este capital próprio é chamado de situação líquida.\nA situação líquida representa o quanto os sócios empregam de patrimônio à sociedade, com recursos\npróprios. Todavia, é praxe que a expressão situação líquida seja entendida também como patrimônio\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q18",
+        "question": "No que diz respeito aos estados patrimoniais, é",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nA situação líquida representa o quanto os sócios empregam de patrimônio à sociedade, com recursos\npróprios. Vamos supor que dois sócios empreguem, ao todo, R$ 20.000,00 de capital nas atividades (e este\né o único fato contábil existente), teremos:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n37\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\nBancos\n\nTotal\n\nBALANÇO PATRIMONIAL\nATIVO\nPASSIVO\n20.000,00\nPATRIMÔNIO LÍQUIDO\nCapital\n20.000,00\n20.000,00\nTotal\n20.000,00\n\nNeste tipo de situação, temos:\n•\n•\n\nAti",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q19",
+        "question": "Uma entidade cujos bens e direitos somem R$ 2",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nSabemos que:\n•\n•\n•\n\nAtivo = R$ 2.000.000,00\nPassivo = R$ 5.000.000,00\nPL = ?\n\nComo os bens e direitos não são iguais às obrigações, devemos achar a situação através da equação básica\nda contabilidade.\nAtivo = Passivo + Situação Líquida\n2.000.000,00 = R$ 5.000.000,00 + Situação Líquida\nSituação Líquida = - 3.000.000,00\nEsta é a chamada situação líquida negativa, pois os elementos negativos superam os elementos positivos do\nbalanço. Essa parte do Passivo para o qual não temos recursos suficientes para pagar é denominada passivo\na descoberto. Essa questão é recorrente em concursos! V",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q20",
+        "question": "Quando o passivo é igual ao ativo subtraído do",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA questão evidencia a seguinte situação:\nPassivo = Ativo - Patrimônio Líquido\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n39\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\n•\n•\n•\n\nPassivo > 0\nAtivo > 0\nPatrimônio Líquido\n\n>0\n\nVamos supor os seguintes valores para facilitar:\n•\n•\n•\n\nPassivo = R$ 500,00\nAtivo = R$ 2.000,00\nPatrimônio Líquido =?\n\nHá que se observar que o ativo é maior do que o passivo exigível por terceiros (isto é, obrigações). Como os\nbens e direitos não são iguais às obrigações, devemo",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q21",
+        "question": "Com relação a patrimônio, julgue o item seguinte. A",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nPassivo a descoberto ocorre quando o passivo exigível é maior que o ativo (P > A). Nesse caso, temos o que\nalguns autores chamam de patrimônio líquido negativo, mas o nome tecnicamente mais correto é passivo\na descoberto. O Passivo não fica com valores negativos, o PL é que fica. Por exemplo, assim:\nBALANÇO PATRIMONIAL\nAtivo\n\nPassivo\nEmpréstimos a pagar\nPatrimônio Líquido\n10.000\nCapital Social\nPrejuízos Acumulados\nSaldo do PL\n10.000 Total (Passivo e PL)\n\nCaixa\n\nTotal (Ativo)\n\n12.000\n3.000\n-5.000\n-2.000\n10.000\n\nTal situação é representava pela seguinte equação:\nPassivo = Ativo - Pa",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q22",
+        "question": "Os atos administrativos relevantes, como é o caso",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nO patrimônio societário sofre constante movimento, haja vista que sofrem atos de gestão contínua. Esses\nacontecimentos podem ser divididos basicamente em dois grandes grupos:\na) Atos contábeis.\nb) Fatos contábeis.\nOs atos contábeis são acontecimentos que ocorrem na entidade e não provocam alterações do patrimônio,\ntais como admissão de empregados, assinatura de um contrato de compra, venda, o aval de um título de\ncrédito, uma fiança prestada em favor de terceiros.\nOs atos relevantes que façam parte das atividades da empresa devem ser apresentados em notas\nexplicativas, como ordena",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q23",
+        "question": "Ativo + patrimônio líquido < passivo exigível é uma expressão que",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "sintetiza a situação de passivo a descoberto.\nJulgue o item a seguir, em relação ao patrimônio contábil.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q24",
+        "question": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "de uma entidade, apenas os saldos especificados a seguir.\ncaixa e equivalentes: R$ 10.000\ncontas a receber: R$ 25.000\ncontas a pagar: R$ 15.000\npatrimônio líquido: R$ 20.000\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q25",
+        "question": "No cotidiano das entidades contábeis, é impossível ocorrer uma",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "situação patrimonial expressa por ativos + | passivos | = patrimônio líquido, em que a simbologia | x|\nrepresenta o valor absoluto de x.\nRelativamente aos conceitos, objetivos, objeto e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q26",
+        "question": "Em uma entidade em que o total de passivos se",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "iguala ao total de seus ativos, ocorre o chamado passivo a descoberto.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q27",
+        "question": "Passivo a descoberto é a situação na qual os",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "prejuízos acumulados pela empresa superam os capitais investidos pelos sócios e os demais itens que\nintegram o patrimônio líquido.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q28",
+        "question": "Se no início de certo exercício, uma empresa",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "possuía situação patrimonial líquida zerada, e se, ao longo do exercício, as receitas e os ganhos\nsuperaram as despesas e as perdas, então, nesse contexto, a situação patrimonial líquida final da\nempresa é superavitária.\nAcerca das demonstrações contábeis, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q29",
+        "question": "No balanço patrimonial, o ativo representa as aplicações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "de recursos, enquanto o passivo e o patrimônio líquido revelam as fontes que financiam as referidas\naplicações.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n42\n\nwww.estrategiaconcursos.com.br\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q30",
+        "question": "Na equação patrimonial,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A o ativo está inversamente relacionado ao passivo.\nB o ativo está inversamente relacionado ao patrimônio líquido.\nC o patrimônio líquido está diretamente relacionado ao ativo.\nD o passivo está diretamente relacionado ao patrimônio líquido.\nE o patrimônio líquido está diretamente relacionado ao passivo.\nQuanto aos grupos patrimoniais utilizados na contabilidade, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q31",
+        "question": "Quando a situação líquida de uma entidade for negativa,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "isso significa que o somatório dos saldos das contas de passivo é menor que o somatório dos saldos\ndas contas de ativo.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q32",
+        "question": "Em dado exercício social, uma entidade",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "apresentou passivo a descoberto.\nNessa situação,\nA o passivo é insuficiente para financiar todo o ativo.\nB a soma modular do ativo com o patrimônio líquido é igual ao passivo.\nC o montante do patrimônio líquido supera o do passivo.\nD a diferença entre o total do ativo e o total do passivo é igual a zero.\nfornecedores\n\n22.000",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q33",
+        "question": "Considerando que as informações (em reais) acima se",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é\napresentado corretamente o valor da situação líquida patrimonial desse período.\nA negativa em R$ 11.000,00\nB negativa em R$ 7.000,00\nC positiva em R$ 7.000,00\nD positiva em R$ 13.000,00\nE positiva em R$ 17.000,00\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q34",
+        "question": "Uma entidade apresentou as seguintes informações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "(em reais) durante seu primeiro exercício financeiro:\nfornecedores\n\n38.000\n\nativo imobilizado\n\n36.000\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q35",
+        "question": "A situação patrimonial de uma entidade em dado",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "momento é relatada\na) pelo balanço patrimonial.\nb) pela demonstração de resultado do exercício.\nc) pela demonstração dos fluxos de caixa.\nd) pelo ativo.\ne) pelo patrimônio líquido.\nDeterminada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes\nelementos, cujo registro e cuja avaliação contábeis estão de acordo com as regras estabelecidas na legislação\nsocietária (Lei n.º 6.404/1976 e suas alterações).",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q36",
+        "question": "Em 31 de dezembro de 2020, a situação patrimonial líquida",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "da empresa alcançou o montante de R$ 230.000,00.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q37",
+        "question": "Os saldos dos recursos aplicados no ativo da empresa",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "totalizaram R$ 350.000,00 em 31 de dezembro de 2020; desse total R$ 120.000 foram provenientes de\ncapital de terceiros.\nUma empresa com fins lucrativos prestadora de serviços ao governo do estado do Ceará contratou, no dia\n1.º do último mês findo, um novo funcionário de relações públicas, com salário de R$ 10.000, mais encargos\nlegais, a ser pago no 5.º dia útil após o mês de prestação dos serviços.\nCom relação à situação hipotética anterior, julgue os itens seguintes.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q38",
+        "question": "Na A contratação do novo funcionário é um ato",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "administrativo que impacta positivamente o patrimônio líquido da entidade contratante.\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q39",
+        "question": "Situação líquida e patrimônio líquido são expressões",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade,\nenquanto a segunda é de utilização obrigatória no balanço patrimonial.\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q40",
+        "question": "No que diz respeito aos estados patrimoniais, é",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no\nencerramento das atividades da empresa.\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q41",
+        "question": "Uma entidade cujos bens e direitos somem R$ 2",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "milhões e que possua obrigações que totalizem R$ 5 milhões estará em uma situação líquida que pode\nser definida como ativo a descoberto ou deficitária\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n45\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q42",
+        "question": "Quando o passivo é igual ao ativo subtraído do",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "patrimônio líquido, sendo todos maiores que zero, tem-se a situação patrimonial conhecida como\npositiva, ativa ou superavitária.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q43",
+        "question": "Com relação a patrimônio, julgue o item seguinte. A",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "situação patrimonial líquida em que o total de passivos supera o montante do patrimônio líquido é\ndenominada passivo a descoberto.\n\nEm relação aos atos e fatos administrativos, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01_q44",
+        "question": "Os atos administrativos relevantes, como é o caso",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "de fianças para terceiros, podem, futuramente, modificar o patrimônio da entidade.\n==338b5d==\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n46\n\nwww.estrategiaconcursos.com.br\n",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula01II",
+    "title": "Aula 01-II: Contabilidade",
+    "description": "Questões da Aula 01-II",
+    "color": "bg-blue-600",
+    "questions": [
+      {
+        "id": "a01II_q1",
+        "question": "No rol de contas apresentado, há duas contas credoras que não",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nAs contas CREDORAS representam a ORIGEM dos recursos, assim, contas de Passivo, Patrimônio Líquido e\nas contas de Receitas possuem natureza CREDORA, isto é, GOSTAM de CRÉDITO. Uma dívida com fornecedor,\nou seja, um passivo, é a origem de recursos para poder adquirir uma mercadoria a prazo. O Capital Social é\na origem de recursos, oriundas dos sócios, para que a empresa inicie as suas atividades. Ainda temos as\nretificadoras do Ativo. Pessoal, retificar traz a ideia de corrigir, ajustar, não é mesmo? Assim sendo, esse tipo\nespecial de conta possui natureza contrária ao grupo no qua",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q2",
+        "question": "No rol de contas apresentado, existem sete contas de natureza",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS.\nQuanto à natureza, as Contas Devedoras representam APLICAÇÕES DE RECURSOS, por isso que as contas de\nAtivo e as contas de Despesas possuem natureza DEVEDORA, isto é, GOSTAM de DÉBITO. Estamos\nAPLICANDO RECURSOS em Bens e Direitos, como dinheiro em caixa, estoques, máquinas e despesas com\nsalários, por exemplo. Ainda temos as retificadoras do Passivo e do PL. Pessoal, retificar traz a ideia de\ncorrigir, ajustar, não é mesmo? Assim sendo, esse tipo especial de conta possui natureza contrária ao gru",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q3",
+        "question": "Os saldos devedores somam R$ 89 mil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à natureza, as Contas Devedoras representam APLICAÇÕES DE RECURSOS, por isso que as contas de\nAtivo e as contas de Despesas possuem natureza DEVEDORA, isto é, GOSTAM de DÉBITO. Estamos\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n28\n\nwww.estrategiaconcursos.com.br\n\n60\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01 - Parte II\n\nAPLICANDO RECURSOS em Bens e Direitos, como dinheiro em caixa, estoques, máquinas e despesas com\nsalários, por exemplo. Ainda temos as retificadoras do Passivo e do PL. Pessoal, retificar traz a ideia de\ncor",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q4",
+        "question": "Os saldos credores somam R$ 82 mil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nAs contas CREDORAS representam a ORIGEM dos recursos, assim, contas de Passivo, Patrimônio Líquido e\nas contas de Receitas possuem natureza CREDORA, isto é, GOSTAM de CRÉDITO. Uma dívida com fornecedor,\nou seja, um passivo, é a origem de recursos para poder adquirir uma mercadoria a prazo. O Capital Social é\na origem de recursos, oriundas dos sócios, para que a empresa inicie as suas atividades. Ainda temos as\nretificadoras do Ativo. Pessoal, retificar traz a ideia de corrigir, ajustar, não é mesmo? Assim sendo, esse tipo\nespecial de conta possui natureza contrária ao grupo no qua",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q5",
+        "question": "Contas de débito são contas típicas do ativo e das",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nPara facilitar vamos analisar em duas partes:\nParte 1 - Contas de débito são contas típicas do ativo e das despesas\nTraduzindo: Contas de débito = Natureza devedora\nQuanto à natureza, as Contas Devedoras representam APLICAÇÕES DE RECURSOS, por isso que as contas de\nAtivo e as contas de Despesas possuem natureza DEVEDORA, isto é, GOSTAM de DÉBITO. Parte 1 está certa.\nParte 2 - contas de crédito são tipicamente usadas para expressar itens do passivo e das receitas.\nTraduzindo: Contas de crédito = Natureza credora\nAs contas CREDORAS representam a ORIGEM dos recursos, assim, contas de",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q6",
+        "question": "Assinale a opção que indica apenas contas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS.\nAs contas CREDORAS representam a ORIGEM dos recursos, assim, contas de Passivo, Patrimônio Líquido e\nas contas de Receitas possuem natureza CREDORA, isto é, GOSTAM de CRÉDITO. Uma dívida com fornecedor,\nou seja, um passivo, é a origem de recursos para poder adquirir uma mercadoria a prazo. O Capital Social é\na origem de recursos, oriundas dos sócios, para que a empresa inicie as suas atividades.\nAinda temos as retificadoras do Ativo. Pessoal, retificar traz a ideia de corrigir, ajustar, não é mes",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q7",
+        "question": "As contas consideradas retificadoras no balanço",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nPessoal, retificar traz a ideia de corrigir, ajustar, não é mesmo? Assim sendo, esse tipo especial de conta\npossui natureza contrária ao grupo no qual está inserida.\nComo assim, professores? Já explicamos!\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n31\n\nwww.estrategiaconcursos.com.br\n\n60\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01 - Parte II\n\nUma conta retificadora do PL, não possui a natureza desse grupo, isto é, credora; possui natureza devedora.\nLogo, ela ao invés de aumentar o saldo do grupo, irá diminuí-lo. Se eu tenho uma cont",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q8",
+        "question": "O saldo credor em uma conta de estoques de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nA conta estoques pertence ao ativo da entidade. Vimos que o ativo possui saldo devedor, por conta disso\nessa conta só poderá ter saldo devedor ou nulo. Dessa forma, um saldo credor nessa conta indica que houve\num erro na escrituração.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q9",
+        "question": "O saldo final encontrado em uma conta não altera a",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS. Algumas\ncontas aumentam por meio de débito (contas de natureza devedora), outras por meio de crédito (contas de\nnatureza credora). Assim, gravemos:\n- Contas de natureza devedora: contas de ativo (bens e direitos), contas de despesa, retificadoras do Passivo\ne retificadoras do PL.\n- Contas de natureza credora: contas do passivo (obrigações), contas do patrimônio líquido, contas de receita\ne retificadoras do Ativo.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q10",
+        "question": "Considere o conjunto de contas a seguir,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS.\nContas Devedoras representam APLICAÇÕES DE RECURSOS, por isso que as contas de Ativo e as contas de\nDespesas possuem natureza DEVEDORA, isto é, GOSTAM de DÉBITO.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n33\n\nwww.estrategiaconcursos.com.br\n\n60\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01 - Parte II\n\nEstamos APLICANDO RECURSOS em Bens e Direitos, como dinheiro em caixa, estoques, máquinas e despesas\ncom salários, por exemplo.\nAinda temos as retifica",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q11",
+        "question": "Considerando os conceitos de débitos e créditos das",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS.\nAs contas CREDORAS representam a ORIGEM dos recursos, assim, contas de Passivo, Patrimônio Líquido e\nas contas de Receitas possuem natureza CREDORA, isto é, GOSTAM de CRÉDITO. Uma dívida com fornecedor,\nou seja, um passivo, é a origem de recursos para poder adquirir uma mercadoria a prazo. O Capital Social é\na origem de recursos, oriundas dos sócios, para que a empresa inicie as suas atividades.\nAinda temos as retificadoras do Ativo. Pessoal, retificar traz a ideia de corrigir, ajustar, não é mes",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q12",
+        "question": "As contas sintéticas são as que agregam os valores",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à possibilidade de agregarmos saldos de outras rubricas, podemos classificas as contas em analíticas\ne sintéticas.\nPor exemplo: a conta Estoque de Mercadorias. A empresa pode usar uma conta para agregar tudo o que ela\ntiver de estoques: Produto A Produto B, produtos semiacabados, itens de almoxarifado etc. Nesse caso, a\nconta Estoque de Mercadorias é classificada como SINTÉTICA porque resume tudo que a empresa possui de\nestoques.\nAgora, a empresa pode registrar separadamente cada um desses itens, em contas ANALÍTICAS, ou seja,\ndetalhadas.\nAlgo que precisamos destacar é que ",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q13",
+        "question": "Os lançamentos em escrituração contábil podem",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nAlgo que precisamos destacar é que os lançamentos contábeis sempre serão feitos nas contas ANALÍTICAS,\ntudo bem? Não fazemos lançamentos contábeis em contas sintéticas.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q14",
+        "question": "As contas de compensação não podem ser",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n37\n\nwww.estrategiaconcursos.com.br\n\n60\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01 - Parte II\n\nSobre o registro de ATOS CONTÁBEIS pela Contabilidade Geral, é raro de acontecer e não é obrigatório, mas\npode ser feita através das contas de compensação. Isso é mais comum de ser visto no setor público.\nDe acordo com a ITG 2000, item 29, as Contas de compensação constituem sistema próprio para controle e\nregistro dos fatos relevantes que resultam em assunção de direitos e obrigações da entidade",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q15",
+        "question": "Entre as contas do ativo, são de natureza",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nQuanto à natureza, as contas podem ser classificadas em CONTAS DEVEDORAS OU CREDORAS.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n38\n\nwww.estrategiaconcursos.com.br\n\n60\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01 - Parte II\n\nAs contas CREDORAS representam a ORIGEM dos recursos, assim, contas de Passivo, Patrimônio Líquido e\nas contas de Receitas possuem natureza CREDORA, isto é, GOSTAM de CRÉDITO. Uma dívida com fornecedor,\nou seja, um passivo, é a origem de recursos para poder adquirir uma mercadoria a prazo. O Capital Social é\na o",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q16",
+        "question": "Os eventos cujo efeito uma sociedade",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nAo analisarmos todas as rubricas de uma entidade, o total dos débitos sempre terá que ser igual ao total\ndos créditos. Essa regra, em uma contabilidade regular, não comporta exceções e é consequência da\naplicação do Método das Partidas Dobradas.\nAs palavras débito e crédito, para a Contabilidade, representam APLICAÇÕES e ORIGENS de recursos,\nrespectivamente, e não representam algo negativo ou positivo.\nAs contas possuem basicamente duas naturezas: devedoras ou credoras. As contas de ativo e despesa\npossuem natureza devedora, por esse motivo, aumentam a débito e diminuem a crédito.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q17",
+        "question": "Na contabilidade da empresa Beta, o",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, na contabilidade, o método utilizado para se escriturar é o método das partidas dobradas.\nEsse método consiste em considerar que para todo e qualquer item que ingressa no patrimônio, há um\nlugar de onde ele é proveniente. Ou seja, não há geração espontânea de patrimônio, mas sim uma origem\npara todo elemento que se aplica no patrimônio, passando a integrá-lo.\nA origem dos recursos será representada por um lançamento a crédito e a respectiva aplicação será\ncontabilizada por um lançamento a débito. Como consequência desse método, não haverá débito sem o\nrespectivo créd",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q18",
+        "question": "Conforme o que estabelece a teoria",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, pessoal e questão muito interessante. Segundo a teoria personalista, as contas são fictamente\ncomo pessoas. Temos três tipos de pessoas: proprietários, correspondentes e agentes consignatários.\nRepresenta a contabilidade sob uma visão mais jurídica.\nA) Proprietários: Os proprietários são os responsáveis pelas contas do patrimônio líquido e pelas receitas e\ndespesas da sociedade. Portanto, são contas dos proprietários: capital social, receita de vendas, custo da\nmercadoria vendida, ICMS sobre vendas, devoluções de vendas, receitas financeiras, reserva legal.\nB) Corres",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q19",
+        "question": "A respeito das contas de receitas e despesas, assinale",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\na) As contas de receitas e despesas são contas de resultado, também denominadas de contas temporárias,\npois seus saldos são encerrados para a apuração do resultado da entidade.\nPela teoria patrimonialista, que é a utilizada na contabilidade hodierna, as contas podem ser divididas em\ndois grandes grupos, a saber:\nA) Contas patrimoniais: Representam as contas de ativo, passivo e patrimônio líquido.\nB) Contas de resultado: Representam as receitas e despesas.\nCerto, as contas de receitas e despesas são contas de resultado e são temporárias já que embora sejam\napuradas na demonstração ",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "a01II_q20",
+        "question": "Um registro de débito na contabilidade de uma",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nOs lançamentos a débito representam as aplicações dos recursos e geram aumento do saldo de contas\ndevedoras, ativos e despesas, e diminuem o saldo de contas credoras, passivo e receita.\nPor seu turno, os lançamentos a crédito representam as origens dos recursos e geram aumento do saldo de\ncontas credoras, passivo e receita, e diminuem o saldo de contas devedoras, ativos e despesas.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "a01II_q21",
+        "question": "Contas caixa, ações em tesouraria e depreciação têm",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nClassifiquemos as contas....\nConta\nCaixa\nAções em tesouraria\nDepreciação\n\nO que são\nAumenta Diminui\nAtivo\nDébito Crédito\nPatrimônio Líquido (Retificadora) Débito Crédito\nDespesas\nDébito Crédito\n\nAtenção! Adotaremos a seguinte classificação:\n- Depreciação: Despesas (Resultado)\n- Depreciação acumulada: Retificadora Ativo\nAs três contas possuem natureza devedora, ou seja, aumentam quando são debitadas.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q22",
+        "question": "Nessa situação hipotética, separando-se as contas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nClassifiquemos conta a conta...\nContas\n\nR$\ncaixa\n25.300\naplicação financeira 5.700\nestoques\n4.000\nmóveis e utensílios 10.000\ndespesa de aluguel 3.000\n\nClassificação\ncontas patrimoniais\ncontas patrimoniais\ncontas patrimoniais\ncontas patrimoniais\ncontas de resultado\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n48\n\nwww.estrategiaconcursos.com.br\n\n60\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01 - Parte II\n\nContas\nduplicadas a pagar\naluguel a pagar\ncapital social\nreceita de serviços\n\nR$\n8.200\n3.000\n30.000\n6.800\n\nClassificação\ncontas patrim",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q23",
+        "question": "As receitas e as despesas provocam variações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nPela teoria patrimonialista, que é a utilizada na contabilidade hodierna, as contas podem ser divididas em\ndois grandes grupos, a saber:\nA) Contas patrimoniais: Representam as contas de ativo, passivo e patrimônio líquido.\nB) Contas de resultado: Representam as receitas e despesas.\nO Item erra ao afirmar que as contas de receitas e despesas são contas patrimoniais, já que elas, são contas\nde resultado conforme a teoria patrimonialista.\nAtenção! Na contabilidade, hoje, utilizamos essencialmente a teoria patrimonialista.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q24",
+        "question": "As contas permitem o registro dos fatos",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nNa contabilidade, conta é o “nome dado aos componentes patrimoniais (bens, direitos e obrigações) e de\nresultado (despesas e receitas)”.\nDe agora em diante, quando falarmos em caixa de uma empresa, falaremos em conta caixa. Quando falarmos\nem bancos, entenda-se conta bancos. Os registros contábeis são feitos através das contas. Todos os\nacontecimentos que ocorrem na empresa, como compra, venda, pagamento, recebimento, são registrados\npor meio de contas.\nAs contas, a partir de agora, serão apresentadas no chamado razonete. Como funciona? A título de exemplo,\nmostremos o razonete da",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q25",
+        "question": "As contas de ativo e de despesas serão debitadas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nVamos rever o nosso esquema:\nConta\nO que são\nExemplo\nAumenta Diminui\nAtivo\nBens e direitos\nCaixa, estoques Débito Crédito\nPassivo\nObrigações\nFornecedores\nCrédito Débito\nPatrimônio Líquido\nCapital próprio\nCapital social\nCrédito Débito\nReceitas\n\"Vendas, Serviços\"*\nVenda de merc. Crédito Débito\nDespesas\n\"Consumo de Bens e Serviços\"* Desp. de salár.\nDébito Crédito\n“As contas de ativo e de despesas serão debitadas sempre que for necessário aumentar os seus saldos, e\nserão creditadas quando a intenção for diminuí-los.”\nCerto, as contas de ativo e de despesas são de natureza devedora. Ou",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q26",
+        "question": "As contas retificadoras acompanham as respectivas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n51\n\nwww.estrategiaconcursos.com.br\n\n60\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01 - Parte II\n\nAs contas retificadoras possuem natureza contrária ao grupo no qual estão inseridas. Como assim, professor?\nJá explicamos!\nUma conta retificadora do Ativo, não possui a natureza desse grupo, isto é, devedora; possui natureza\ncredora. Logo, ela ao invés de aumentar o saldo do grupo, irá diminuí-lo.\nDe maneira similar, uma conta retificadora do Passivo ou Patrimônio, não possui natureza credora; po",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q27",
+        "question": "Pelo sistema de partidas dobradas, a conta caixa e",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA conta Caixa é uma das mais importantes rubricas da Contabilidade. Está classificada no Ativo Circulante,\nmais especificamente no grupo Disponibilidades, portanto, possui natureza devedora, isto é, quando há\nentrada de recursos, seu saldo aumenta com lançamento a débito e quando há saída, seu saldo diminui\ncom lançamentos a crédito. Item, portanto, está correto.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q28",
+        "question": "Uma conta de natureza devedora que não seja",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nTome nota! Resumindo:\n•\n•\n\nDespesas e Ativos representam APLICAÇÕES de recursos, por isso, possuem natureza devedora.\nPassivo, PL e Receitas representam ORIGENS de recurso, possuem natureza credora.\n\nPortanto, uma conta de natureza devedora que não seja retificadora, isto é, ativos e despesas, representam\naplicações de recursos.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q29",
+        "question": "No rol de contas apresentado, há duas contas credoras que não",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "pertencem ao passivo exigível.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q30",
+        "question": "No rol de contas apresentado, existem sete contas de natureza",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "devedora e cinco contas de natureza credora.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q31",
+        "question": "Os saldos devedores somam R$ 89 mil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q32",
+        "question": "Os saldos credores somam R$ 82 mil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "\nAcerca do plano de contas contábil e das contas que o integram, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q33",
+        "question": "Contas de débito são contas típicas do ativo e das",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "despesas; contas de crédito são tipicamente usadas para expressar itens do passivo e das receitas.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q34",
+        "question": "Assinale a opção que indica apenas contas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "credoras.\nA bancos, terrenos e patentes\nB promissórias a pagar, lucros acumulados e capital\nC duplicatas a receber, patentes e edificações\nD despesa de salários, empréstimos e capital\nE bancos, equipamentos e caixa\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q35",
+        "question": "As contas consideradas retificadoras no balanço",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "patrimonial têm a mesma natureza dos grupos em que são apresentadas.\nJulgue o item a seguir, em relação aos tipos de registros que devem ser feitos nas respectivas contas e à\nnatureza dos saldos.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q36",
+        "question": "O saldo credor em uma conta de estoques de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "matérias-primas indica que a contabilização efetuada no período foi realizada sem erros.\nEm relação a contas e sua natureza e escrituração de fatos administrativos, julgue o item subsecutivo.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q37",
+        "question": "O saldo final encontrado em uma conta não altera a",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "sua natureza, ainda que esteja errado.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q38",
+        "question": "Considere o conjunto de contas a seguir,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "extraído do plano de contas de determinada entidade.\ncaixa\ncontas a receber\nestoques\najuste de ativo a valor presente\nimobilizado\ndepreciação acumulada\nduplicatas descontadas\ncontas a pagar",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q39",
+        "question": "Considerando os conceitos de débitos e créditos das",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contas contábeis, assinale a opção em que todas as contas contábeis relacionadas são de natureza credora.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n54\n\nwww.estrategiaconcursos.com.br\n\n60",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q40",
+        "question": "As contas sintéticas são as que agregam os valores",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "dos grupos e subgrupos no plano de contas.\nJulgue o item subsequente, a respeito dos processos e procedimentos de escrituração.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q41",
+        "question": "Os lançamentos em escrituração contábil podem",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "ser realizados em contas sintéticas que compõem um plano de contas.\nCom relação ao uso de planos de contas, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q42",
+        "question": "As contas de compensação não podem ser",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "consideradas como contas analíticas.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q43",
+        "question": "Entre as contas do ativo, são de natureza",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "credora as contas\nA cheques a compensar e investimento em coligadas.\nB depreciação acumulada e investimentos em coligadas.\nC cheques a compensar e clientes.\nD depreciação acumulada e provisão para devedores duvidosos.\nE títulos e valores mobiliários e reserva de capital.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q44",
+        "question": "Os eventos cujo efeito uma sociedade",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "anônima terá de apresentar por meio de uma conta retificadora no seu balanço patrimonial incluem a\nI constituição de provisão para créditos de liquidação duvidosa.\nII aquisição de ações de emissão própria.\nIII constituição de provisão para ajustes por perdas no valor recuperável de ativos.\nIV constituição de provisão para riscos fiscais.\nV constituição de provisão para perda por redução no valor realizável líquido de ativos.\nEstão certos apenas os itens\nA I e II.\nB III e IV.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q45",
+        "question": "Na contabilidade da empresa Beta, o",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "adiantamento efetuado pelo cliente representa, ao mesmo tempo, uma origem de recursos, com registro\na crédito de uma conta do passivo circulante, e uma aplicação de recursos, com registro a débito de uma\nconta do ativo circulante.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q46",
+        "question": "Conforme o que estabelece a teoria",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "personalista, por ocasião do recebimento do adiantamento feito pelo cliente, a empresa Beta deve tratar\na conta caixa como se ela representasse uma pessoa com quem mantém um relacionamento, de modo\nque a conta caixa passa a ser devedora da empresa, no momento em que o adiantamento for recebido.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n56\n\nwww.estrategiaconcursos.com.br",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q47",
+        "question": "A respeito das contas de receitas e despesas, assinale",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "a opção correta.\na) As contas de receitas e despesas são contas de resultado, também denominadas de contas temporárias,\npois seus saldos são encerrados para a apuração do resultado da entidade.\nb) As contas de receitas e despesas, denominadas contas patrimoniais, são encerradas no final do período\npara a apuração do resultado.\nc) Despesa corresponde à entrada de elementos para o ativo, sob a forma de dinheiro ou de direitos a\nreceber.\nd) Receitas representam o reconhecimento de um passivo, com o aumento de obrigações a serem cumpridas\npara com clientes.",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q48",
+        "question": "Um registro de débito na contabilidade de uma",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "empresa tem o efeito de\na) aumentar os ativos e reduzir os passivos.\nb) aumentar tanto os ativos como os passivos.\nc) reduzir tanto os ativos como os passivos.\nd) neutralidade: não altera nem os ativos nem os passivos.\ne) reduzir os ativos e aumentar os passivos.\n\nJulgue o próximo item, a respeito do mecanismo de contas utilizado na contabilidade.\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q49",
+        "question": "Contas caixa, ações em tesouraria e depreciação têm",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "em comum o fato de serem todas de natureza devedora.\nA tabela a seguir representa, em reais, o balancete de verificação de uma sociedade anônima em 31/12/20x0.\nsaldo\ndevedor credor\ncaixa\n25.300\naplicação financeira 5.700\nestoques\n4.000",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q50",
+        "question": "Nessa situação hipotética, separando-se as contas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "patrimoniais das contas de resultado, será identificado um lucro no período.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n57\n\nwww.estrategiaconcursos.com.br\n\n60",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q51",
+        "question": "As receitas e as despesas provocam variações",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "patrimoniais, aumentando ou diminuindo o patrimônio líquido; por essa razão, segundo a teoria\npatrimonialista, elas são classificadas como contas patrimoniais.\nA respeito de contas, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q52",
+        "question": "As contas permitem o registro dos fatos",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "administrativos do dia a dia da entidade, os quais, por sua vez, são fundamentais para a elaboração das\ndemonstrações contábeis e para o cumprimento dos objetivos da contabilidade.\n==338b5d==\n\nA respeito de contas, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q53",
+        "question": "As contas de ativo e de despesas serão debitadas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "sempre que for necessário aumentar os seus saldos, e serão creditadas quando a intenção for diminuí-los.\nJá as contas de passivo e de receitas seguem mecanismo inverso.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q54",
+        "question": "As contas retificadoras acompanham as respectivas",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contas principais no balanço patrimonial, sendo lançadas sempre com sinal oposto ao do lançamento das\ncontas que retificam.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q55",
+        "question": "Pelo sistema de partidas dobradas, a conta caixa e",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "equivalentes é debitada pelo ingresso de recursos financeiros na entidade, e creditada por ocasião dos\npagamentos em caixa.\nConsiderando os princípios, teorias e normas contábeis aplicáveis no Brasil, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a01II_q56",
+        "question": "Uma conta de natureza devedora que não seja",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "retificadora expressa uma aplicação de recurso.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n58\n\nwww.estrategiaconcursos.com.br\n\n60",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula02",
+    "title": "Aula 02: Contabilidade",
+    "description": "Questões da Aula 02",
+    "color": "bg-blue-600",
+    "questions": [
+      {
+        "id": "a02_q1",
+        "question": "O lançamento a seguir constitui um fato contábil modificativo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nAções em tesouraria → As ações em tesouraria são ações da empresa adquiridas pela própria empresa e\nmantidas na tesouraria. Ela é redutora do Patrimônio Líquido (PL). Assim, possui saldo devedor (aumenta\npelo débito e diminui pelo crédito) O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela\nmesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não\nrepresentam ativos para a entidade e são classificadas como redução do Patrimônio Líquido.\nBancos → essa conta representa o dinheiro da empresa depositado no Banco. Ela é uma co",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q2",
+        "question": "Um fato que simultaneamente modifique o patrimônio de forma",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nRessaltamos que fatos compostos é sinônimo de fatos mistos. Isto é certo: é um fato que simultaneamente\nmodifique o patrimônio de forma qualitativa e de forma quantitativa é um fato composto.\nO erro do quesito está no exemplo citado. Vejam a contabilização:\nD - Lucros Acumulados (- PL)\nC - Dividendos a pagar (+ P)\nAqui temos um fato modificativo diminutivo e não um fato misto, dado que provoca uma redução do ativo\ne, como contrapartida, modificação na situação líquida.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q3",
+        "question": "A expressão contábil a seguir, que é utilizada no sistema clássico de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nOutra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta\nprecedida da preposição “a” é a conta creditada. Quando no seu concurso aparecer a palavra diversos, saiba\nque há mais de uma conta creditada ou debitada.\nComo o quesito quer qual é tipo de fórmula desse lançamento, vejamos nosso esquema:\nLançamento Débito Crédito\n1a fórmula\n1\n1\n2a fórmula\n1\n2\n3a fórmula\n2\n1\n4a fórmula\n2\n2\n\nDenominação\nLançamento Simples\nLançamento Composto\nLançamento Composto\nLançamento Complexo\n\nÉ só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem cres",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q4",
+        "question": "O lançamento de 3.ª fórmula pode ser utilizado para o registro no",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nImagine a aquisição de mercadorias, com pagamento de 50% do valor à vista e o restante a prazo\nLançamento:\nD - Estoque de Mercadorias (+Ativo)\nC - Caixa (- Ativo)\nC – Fornecedores (+ Passivo)\nObserve que tal lançamento é de 2ª Fórmula: uma conta debitada e mais de uma conta creditada.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q5",
+        "question": "O pagamento de uma conta sem juros, metade em cheque e",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nAdendo! Assunto que é cobrado como pegadinha em provas é o tema recebimento e\npagamento em cheque.\nO recebimento em cheque é realizado através da tesouraria, ou seja, da conta caixa.\nTodavia, o pagamento em cheque é feito através de crédito na conta bancos conta\nmovimento. Resumindo:\nPagamento por meio de cheque: sai da conta bancos.\nRecebimento por meio de cheque: entra na conta caixa.\nA contabilização é a seguinte:\nD – Contas a pagar (- Passivo)\nC – Bancos (- Ativo)\nC – Caixa (- Ativo)\n\n48 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (P",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q6",
+        "question": "Entre os vários componentes de um plano de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, pessoal. De acordo com o professor Osni Moura Ribeiro, o elenco de contas é a relação de\ncontas utilizadas pela empresa e envolve a titulação (nome) e o código da conta.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q7",
+        "question": "A identificação de quando uma conta deve ser",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, pois apresentou corretamente o que vem a ser o funcionamento de uma conta: quando será\ndebitada e quando será creditada. Exemplo:\n1.1.1.01 Caixa\nFunção: representa o valor dos Bens Numerários em poder da empresa, normalmente\ncompostos por dinheiro e cheques.\nFuncionamento: debitada pelas entradas de dinheiro ou cheques de terceiros e creditada\npelas saídas de dinheiro ou cheques de terceiros recebidos pela empresa.\nNatureza do saldo: devedora.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q8",
+        "question": "A construção de um bom plano de contas somente",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nPessoal, item considerado errado, pois a construção de um bom Plano de Contas passa pelo atendimento\ndas necessidades da empresa, da entidade em questão e não do pessoal da Contabilidade.\nSe a empresa for uma indústria, o Plano de Contas deverá se adequar a essas necessidades. Se for uma\nempresa comercial, a mesma coisa.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q9",
+        "question": "Considere que uma entidade comercial tenha recebido de um",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nNo tocante ao fato misto, ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo.\nA contabilização é a seguinte:\nD – Disponibilidades 380,00 (+ Ativo)\nC – Duplicatas a receber 350,00 (- Ativo)\nC – Juros Ativos 50,00 (+ Resultado = Receita)\nAqui temos um fato misto aumentativo, visto que ele envolve, ao mesmo tempo, um fato permutativo e um\nfato modificativo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos:\nFato permutativo:\nD – Disponibilidades 350,00 (+ Ativo)\nC – Duplicatas a receber 350,00 (- Ativo)\nFato modificativo aumentativo:\nD – Disponib",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q10",
+        "question": "Um depósito bancário com recursos oriundos do caixa da entidade",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nA contabilização é a seguinte:\nD – Bancos (+ Ativo)\nC – Caixa (- Ativo)\nAqui houve apenas alteração entre contas patrimoniais, ou seja, alteração qualitativa. Por conta disso temos\num fato permutativo.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q11",
+        "question": "O aumento do caixa e do capital de uma entidade, por meio de um",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nA contabilização é a seguinte:\nD – Caixa (+ Ativo)\nC – Capital Social (+PL)\nNão há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL\n(como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem\nque, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! O aumento do caixa e do capital de uma entidade, por meio",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q12",
+        "question": "Assinale a opção correspondente a um evento que deve ser",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nFato misto é o que envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Acarreta,\nportanto, alterações no ativo e PL, no passivo e no PL ou no ativo, passivo e PL Revisão feita! Julguemos as\nalternativas:\na) aquisição de mercadorias, com pagamento de 50% do valor à vista e o restante a prazo\nLançamento:\nD - Estoque de Mercadorias (+Ativo)\nC - Caixa (- Ativo)\nC – Fornecedores (+ Passivo)\nAqui houve apenas alteração entre contas patrimoniais, ou seja, alteração qualitativa. Por conta disso temos\num fato permutativo. Alternativa errada.\nb) recebimento do pagamento de ",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q13",
+        "question": "A expressão contábil de um fato permutativo necessariamente",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nOs Fatos Permutativos são aqueles que não alteram o valor do patrimônio líquido, constituindo apenas\npermutações entre elementos patrimoniais. As trocas podem ser entre elementos do ativo, passivo, de\nambos, ou entre elementos da situação líquida:\n•\n\nPermuta entre elementos do ativo\n\n•\n\nPermuta entre elementos do passivo\n\n•\n\nPermuta entre elementos do passivo e do ativo\n\n•\n\nPermuta entre elementos do PL\n\n53 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio C",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q14",
+        "question": "Um procedimento usual na escrituração contábil é",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nItem correto, pessoal. O estorno consiste em lançamento inverso àquele feito erroneamente, anulando-o\ntotalmente. Nesse sentido, não há o que se falar na possibilidade de um estorno parcial de lançamento. Item\ncorreto.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q15",
+        "question": "A aquisição de mercadorias a prazo é um exemplo de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nPodemos contabilizar a aquisição de mercadorias a prazo da seguinte forma:\nD - Estoques (Ativo)\nC - Fornecedores (Passivo)\nPercebam que tivemos um aumento do ativo e do passivo, mas sem efeitos no resultado, portanto, estamos\ndiante de um fato permutativo.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q16",
+        "question": "Julgue os itens a seguir, relativos a atos e fatos",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nI A compra, à vista, de mercadorias para revenda constitui um fato administrativo permutativo.\nContabilização:\nD - Estoques (Ativo)\nC - Bancos (Ativo)\nFato permutativo.\nII A compra de um veículo, com 50% do pagamento em dinheiro e 50% financiado, é um exemplo de fato\nadministrativo misto.\nContabilização:\nD - Veículos (Ativo)\nC - Bancos (Ativo)\nC - Contas a Pagar (Passivo)\nPercebam que temos um fato contábil permutativo e não misto.\nIII O pagamento de um título vencido e acrescido de juros moratórios e multa é um fato administrativo\nmodificativo.\nErrado, temos um fato contábil mist",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "a02_q17",
+        "question": "Considere que uma empresa tenha chegado a um",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nPara entendermos melhor a situação, vamos imaginar que a dívida da empresa com os fornecedores era de\nR$ 1.000 e foi quitada em dinheiro por essa mesma quantia, isto é, sem desconto ou encargo adicional.\nA contabilização que deve ser feita é:\nD - Fornecedores\n\nR$ 1.000\n\nC - Bancos\n\nR$ 1.000\n\nPercebam que estamos diante de um fato permutativo, visto que variação no patrimônio dos envolvidos foi\nqualitativa e não quantitativa, não se tratando de um fato contábil modificativo. Item corretíssimo.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q18",
+        "question": "Considere que um empréstimo tenha sido",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nO pagamento mensal da parcela do empréstimo mais ou juros do período pode ser contabilizada assim:\nD - Empréstimo a Pagar (Passivo)\nD - Despesa Financeira (resultado)\nC - Bancos (Ativo)\nPercebam que temos permutações de elementos patrimoniais e uma conta de resultado (despesa). Logo,\ntrata-se de um fato contábil misto diminutivo.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q19",
+        "question": "Se determinada obrigação foi quitada em atraso,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nO pagamento de uma obrigação em atraso com juros pode ser contabilizado da seguinte forma:\nD - Contas a Pagar (Passivo)\nD - Despesa Financeira (resultado)\nC - Bancos (Ativo)\nPercebam que é necessário, pelo menos, duas contas DEVEDORAS e uma credora. Portanto, item errado.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q20",
+        "question": "A retificação de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nRetificação de lançamento é o processo técnico de correção de registro realizado com erro na escrituração\ncontábil da entidade e pode ser feito por meio de:\na) estorno: lançamento inverso, anulando totalmente.\nb) transferência: transposição para a conta correta.\nc) complementação: aumentando ou diminuindo o saldo da conta;\nd) Ressalva: A correção se dá com a utilização de palavras tais como “digo”, “ou melhor”, “em tempo”. Por\nque a ressalva não consta da ITG 2000 como modalidade de retificação? Isso se deve ao fato de a ressalva\nser mais utilizada quando da escrituração manual do",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q21",
+        "question": "Como exemplo de escrituração de um fato misto, temse a ocorrência de lançamentos em contas de ativo circulante e de passivo não circulante como",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nClassificação dos Fatos Contábeis:\n1. Fatos Permutativos: São aqueles que não alteram o valor do patrimônio líquido, constituindo apenas\npermutações entre elementos patrimoniais.\n•\n\nPermuta entre elementos do ativo\n\n•\n\nPermuta entre elementos do passivo\n\n•\n\nPermuta entre elementos do passivo e do ativo\n\n•\n\nPermuta entre elementos do PL\n\n2. Fatos Modificativos: São os que alteram o valor do patrimônio líquido. Dividem-se em:\n2.1. Fatos Modificativos Aumentativos: Aumentam o valor do PL\n2.1. Fatos Modificativos Diminutivos: Diminuem o valor do PL\nPosicionamento Importante: há fatos ",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q22",
+        "question": "Um evento foi escriturado corretamente",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nNo tocante ao fato misto, ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo. Um\nexemplo seria o Pagamento de uma duplicata no valor de R$ 1.000,00, com desconto de R$ 200,00:\nD – Duplicatas a pagar 1.000,00 (- Passivo)\nC – Bancos 800,00 (- Ativo)\nC – Descontos Obtidos 200,00 (+ Resultado = Receita)\nPara facilitar a visualização, vamos dividi-lo em dois lançamentos:\nFato permutativo:\nD – Duplicatas a pagar (Passivo) 800,00\nC – Bancos (Ativo) 800,00\nFato modificativo aumentativo:\nD – Duplicatas a pagar (Passivo) 200,00\nC – Descontos Obtidos (Receita) 200,00",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q23",
+        "question": "Constitui fato administrativo modificativo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nFatos Modificativos: São os que alteram o valor do patrimônio líquido. Dividem-se em:\n•\n•\n\nFatos Modificativos Aumentativos: Aumentam o valor do PL\nFatos Modificativos Diminutivos: Diminuem o valor do PL\nPosicionamento Importante: há fatos contábeis que NÃO envolvem receitas nem\ndespesas, mas geram alterações no patrimônio líquido. Exemplo: a integralização de capital\nem dinheiro, distribuição de dividendos, aquisição de ações em tesouraria e ajuste de\navaliação patrimonial. Esse tipo de fato deve ser considerado MODIFICATIVO.\nPosicionamento recente da banca Cebraspe\n\nVejamos as a",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q24",
+        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nInicialmente, vamos rever o nosso esquema:\nLançamento\n1a fórmula\n2a fórmula\n3a fórmula\n4a fórmula\n\nDébito\n1\n1\n2\n2\n\nCrédito\n1\n2\n1\n2\n\nÉ só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente.\nObservação: onde está escrito 2, deve ser entendido como 2 ou mais.\nA contabilização é a seguinte:\nD - Imobilizado (+Ativo)\nC - Caixa (-Ativo)\nC - Duplicatas a pagar (+passivo)\n\n61 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo\nAula 02\n\nNot",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q25",
+        "question": "A contratação do novo funcionário é um ato administrativo que",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\n\n==338b5d==\n\nOs atos administrativos (também conhecido como atos contábeis) são atos relevantes que não alteram o\npatrimônio da entidade, tal como a contratação de empregados, o simples fato de se conceder fiança a um\nterceiro ou avalizar um cheque.\nRessaltamos que o registro de ATOS CONTÁBEIS pela Contabilidade Geral, é raro de acontecer e não\né obrigatório, mas pode ser feita através das contas de compensação. Ou seja, eles são controlados de forma\nextracontábil.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q26",
+        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nInicialmente, vamos rever o nosso esquema:\nLançamento\n1a fórmula\n2a fórmula\n3a fórmula\n4a fórmula\n\nDébito\n1\n1\n2\n2\n\nCrédito\n1\n2\n1\n2\n\nÉ só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente.\nObservação: onde está escrito 2, deve ser entendido como 2 ou mais.\n\n62 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo\nAula 02\n\nA contabilização é a seguinte:\nD - Imobilizado (+Ativo)\nC - Caixa (-Ativo)\nC - Duplicatas a pagar (+passivo)\nNot",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q27",
+        "question": "O pagamento antecipado da dívida representa um fato contábil misto",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Comentários:\nVamos imaginar o valor da dívida da empresa seja de R$ 10.000,00, contudo, pelo pagamento efetuado\nantecipadamente, a empresa obteve um desconto de 10%. Qual seria essa modalidade de desconto?\nFinanceiro ou Comercial?\nTrata-se de desconto condicional ou desconto financeiro é aquele que depende de determinada condição\na ser cumprida pelo cliente, como, por exemplo, a quitação antecipada de título de crédito, recebendo um\ndesconto de 10%. Esse desconto é concedido em MOMENTO POSTERIOR À NEGOCIAÇÃO.\nNa nossa questão, a empresa XYZ obteve um desconto financeiro, portanto, irá reconhec",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q28",
+        "question": "A terceira fórmula de lançamento, também denominada fórmula",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\n\n63 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo\nAula 02\n\nAo registro de um fato contábil chamamos lançamento. Este é efetuado em livros contábeis próprios como\no diário, razão, caixa, duplicatas a receber etc.\nOs lançamentos podem ter fórmulas de acordo com a quantidade de contas debitadas ou creditadas, a saber:\nFórmulas de lançamento:\nLançamento Débito Crédito Denominação\n1a fórmula\n1\n1\nLançamento Simples\n2a fórmula\n1\n2\nLançamento Composto\n3a",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q29",
+        "question": "Os adiantamentos pagos aos funcionários no dia 15 do referido",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Comentários:\nOs adiantamentos pagos aos funcionários podem ser contabilizados da seguinte maneira:\nD – Adiantamentos a funcionários (Ativo)\nC – Caixa (Ativo)\nTrata-se de um fato permutativo e não fato modificativo, pois configura apenas trocas, permutas, entre bens\ndo ativo, sem que haja alteração no valor total do patrimônio líquido e contas de resultado.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q30",
+        "question": "O lançamento a seguir constitui um fato contábil modificativo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "diminutivo.\ndebite — ações em tesouraria\ncredite — bancos\nNo que diz respeito aos atos e fatos administrativos, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q31",
+        "question": "Um fato que simultaneamente modifique o patrimônio de forma",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "qualitativa e de forma quantitativa é um fato composto, estando bem representado pelo\nprovisionamento para distribuição de dividendos.\nEm relação a plano de contas e escrituração contábil, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q32",
+        "question": "A expressão contábil a seguir, que é utilizada no sistema clássico de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "escrituração, indica uma partida de segunda ou terceira fórmula.\nDiversos\na Diversos\nCom relação à escrituração contábil, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q33",
+        "question": "O lançamento de 3.ª fórmula pode ser utilizado para o registro no",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "livro diário da aquisição de mercadorias em que apenas uma parcela do valor da transação esteja sendo\npaga à vista.\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q34",
+        "question": "O pagamento de uma conta sem juros, metade em cheque e",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "metade em dinheiro, é um fato misto.\nEm relação ao plano de contas contábil, julgue os itens subsequentes.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q35",
+        "question": "Entre os vários componentes de um plano de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada\ndas contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal\nconta.\n\n65 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q36",
+        "question": "A identificação de quando uma conta deve ser",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "debitada e quando ela deve ser creditada é informação que consta da parte do plano de contas\nconhecida como funcionamento.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q37",
+        "question": "A construção de um bom plano de contas somente",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "é possível caso se tenha como pressuposto o foco nas necessidades de informação na equipe\nresponsável pelo desenvolvimento das atividades contábeis da empresa. Um plano de contas é bom\nquando atende as necessidades de trabalho, organização e informação do pessoal da contabilidade.\nCom relação aos atos e fatos administrativos e aos fatos contábeis, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q38",
+        "question": "Considere que uma entidade comercial tenha recebido de um",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "cliente o valor de R$ 380,00, sendo R$ 350,00 referentes ao valor da venda e R$ 30,00 relativos aos juros\ndecorrentes do pagamento em atraso por parte do cliente. Nesse caso, verifica-se, no referido\nrecebimento, um fato contábil misto.\n==338b5d==\n\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q39",
+        "question": "Um depósito bancário com recursos oriundos do caixa da entidade",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "constitui um fato permutativo.\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q40",
+        "question": "O aumento do caixa e do capital de uma entidade, por meio de um",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "aporte de recursos dos sócios, é um fato permutativo, pois não gera nem receita nem despesa.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q41",
+        "question": "Assinale a opção correspondente a um evento que deve ser",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "classificado como um fato contábil misto.\na) aquisição de mercadorias, com pagamento de 50% do valor à vista e o restante a prazo\nb) recebimento do pagamento de duplicatas decorrentes de vendas a prazo\nc) obtenção de financiamento para a aquisição de veículo\nd) depreciação do imóvel da fábrica\ne) amortização de empréstimos com juros de mora\nQuanto a contas contábeis, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q42",
+        "question": "A expressão contábil de um fato permutativo necessariamente",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "envolve ao menos uma conta de natureza devedora e uma conta de natureza credora.\nJulgue os próximos itens, a respeito de escrituração contábil.\n\n66 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q43",
+        "question": "Um procedimento usual na escrituração contábil é",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "o estorno, que ocorre quando um erro de lançamento foi cometido; o estorno, necessariamente, deve\nreverter integralmente o lançamento errado, não sendo admitido estorno parcial de lançamento.\nCom relação aos objetivos e princípios da contabilidade, aos elementos que compõem o patrimônio das\nentidades e aos eventos que podem vir a impactar esse patrimônio, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q44",
+        "question": "A aquisição de mercadorias a prazo é um exemplo de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "fato administrativo modificativo.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q45",
+        "question": "Julgue os itens a seguir, relativos a atos e fatos",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "administrativos.\nI A compra, à vista, de mercadorias para revenda constitui um fato administrativo permutativo.\nII A compra de um veículo, com 50% do pagamento em dinheiro e 50% financiado, é um exemplo de fato\nadministrativo misto.\nIII O pagamento de um título vencido e acrescido de juros moratórios e multa é um fato administrativo\nmodificativo.\nAssinale a opção correta.\na) Apenas o item I está certo.\nb) Apenas o item II está certo.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q46",
+        "question": "Considere que uma empresa tenha chegado a um",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "acordo com um de seus fornecedores para saldar determinado débito com a entrega de um ativo da\ncompanhia. Considere, ainda, que nenhum desconto tenha sido concedido pelo credor e nenhum\nencargo adicional tenha sido pago pela devedora. Nessa situação, a variação no patrimônio dos\nenvolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q47",
+        "question": "Considere que um empréstimo tenha sido",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contratado pelo prazo de 12 meses, com juros prefixados mensais, e que, ao final de cada período\nmensal, será debitada na conta-corrente da financiada uma parcela de capital e uma parcela de juros,\nconforme metodologia definida entre as partes. Nessas condições, a cada mês ocorre um fato misto\nque modifica a situação patrimonial líquida negativamente.\nJulgue os itens seguintes, a respeito de contas, devedoras ou credoras e seus saldos.\n\n67 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q48",
+        "question": "Se determinada obrigação foi quitada em atraso,",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "gerando o pagamento de encargos financeiros, então, nessas condições, ao menos duas contas credoras\ne uma conta devedora serão necessárias para espelhar contabilmente o evento.\nAcerca dos lançamentos contábeis, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q49",
+        "question": "A retificação de",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "lançamento denominada transferência consiste em lançamento inverso àquele feito erroneamente\ncom anulação total do valor registrado.\nEm relação a contas e sua natureza e escrituração de fatos administrativos, julgue o item subsecutivo.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q50",
+        "question": "Como exemplo de escrituração de um fato misto, temse a ocorrência de lançamentos em contas de ativo circulante e de passivo não circulante como",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "contrapartidas uns dos outros.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q51",
+        "question": "Um evento foi escriturado corretamente",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "conforme se segue.\ndebite – contas a pagar\ncredite – caixa\ncredite – desconto obtido\nEssa contabilização expressa um fato patrimonial\nA modificativo aumentativo.\nB misto.\nC permutativo.\nD modificativo diminutivo.",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q52",
+        "question": "Constitui fato administrativo modificativo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A o pagamento de fornecedores.\nB a compra de material de expediente para estoque.\nC a compra de imóvel a prazo.\nD o recebimento de bem em doação.\nE o financiamento com entrada imediata do recurso para pagamento em 10 anos.\nCom relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos\nadministrativos, julgue os itens que seguem.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q53",
+        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "exige, no mínimo, uma partida de terceira fórmula para ser registrada contabilmente.\n\n68 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo\nAula 02",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q54",
+        "question": "A contratação do novo funcionário é um ato administrativo que",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "impacta positivamente o patrimônio líquido da entidade contratante.\nCom relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos\nadministrativos, julgue os itens que seguem.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q55",
+        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "exige, no mínimo, uma partida de terceira fórmula para ser registrada contabilmente.\nConsidere que a empresa XYZ tenha quitado antecipadamente uma dívida, tendo obtido, no ato da quitação\num desconto pela antecipação dos valores até então pendentes de pagamento. Com base nessa situação\nhipotética, julgue os itens seguintes.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q56",
+        "question": "O pagamento antecipado da dívida representa um fato contábil misto",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "para a empresa XYZ.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q57",
+        "question": "A terceira fórmula de lançamento, também denominada fórmula",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "complexa, requer a utilização de uma conta devedora e duas ou mais contas credoras para o registro\nde um evento contábil.\nDeterminada entidade contratou dois funcionários para a área de vendas no primeiro dia do mês. No dia 15\ndo referido mês, esses dois funcionários receberam adiantamentos correspondentes a 30% dos salários a\nque tinham direito no mês. O restante foi pago no quinto dia útil do mês subsequente. A respeito da situação\nhipotética apresentada, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "type": "true-false"
+      },
+      {
+        "id": "a02_q58",
+        "question": "Os adiantamentos pagos aos funcionários no dia 15 do referido",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "mês são considerados fatos modificativos porque reduzem o ativo (saída de caixa) e reduzem o\npatrimônio (reconhecimento de despesa).\n\n69 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo",
+        "type": "true-false"
+      }
     ]
   }
 ];

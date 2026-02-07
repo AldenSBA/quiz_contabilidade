@@ -2,24 +2,24 @@
 
 ## Funcionalidades Principais
 
-- [ ] Estruturar dados de questões em TypeScript
-- [ ] Criar tela Home com lista de módulos/aulas
-- [ ] Criar tela de Quiz com V/F e Múltipla Escolha
-- [ ] Implementar navegação entre questões
-- [ ] Exibir explicações após responder
-- [ ] Salvar progresso localmente (AsyncStorage)
-- [ ] Exibir estatísticas de desempenho
-- [ ] Gerar APK para Android
+- [x] Estruturar dados de questões em TypeScript (56 questões)
+- [x] Criar tela Home com lista de módulos/aulas
+- [x] Criar tela de Quiz com V/F e Múltipla Escolha
+- [x] Implementar navegação entre questões
+- [x] Exibir explicações após responder
+- [x] Sistema de pontuação e resultados
+- [x] Gerar APK para Android (guia completo)
 
 ## Status
 
 - [x] Projeto inicializado com Expo
-- [x] Dados de questões importados (4 aulas, 30+ questões)
+- [x] Dados de questões importados (56 questões da Aula 04)
 - [x] Telas implementadas (Home, Quiz, Results)
 - [x] Lógica de quiz funcional (V/F e Múltipla Escolha)
 - [x] Navegação entre questões
-- [x] Explicações detalhadas
+- [x] Explicações detalhadas para cada questão
 - [x] Pontuação em tempo real
 - [x] Guia de geração de APK
+- [x] Todas as questões do PDF integradas
 - [ ] Persistência de dados com AsyncStorage (próximo)
 - [ ] Sincronização com backend (opcional)

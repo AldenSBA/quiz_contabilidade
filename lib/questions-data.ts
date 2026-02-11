@@ -18,8 +18,9 @@ export interface Module {
 // Importar todas as questões do arquivo completo
 import { questionsData as allQuestions } from './questions-data-full';
 import { aula06Module } from './aula06-questions';
+import { aula02p2Module } from './aula02p2-questions';
 
-// Adicionar Aula 06 às questões existentes
-const questionsWithAula06 = [...allQuestions, aula06Module];
+// Adicionar Aula 02 Parte II e Aula 06 às questões existentes
+const questionsWithNewAulas = [...allQuestions, aula02p2Module, aula06Module];
 
-export const questionsData = questionsWithAula06;
+export const questionsData = questionsWithNewAulas;

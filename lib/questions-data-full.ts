@@ -266,13 +266,13 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a00_q23",
-        "question": "Segundo o Comitê de",
+        "question": "Segundo o Comitê de De acordo com o CPC 00 (R2):",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "Comentários:\nDe acordo com o CPC 00 (R2):\n1.5 Muitos investidores, credores por empréstimos e outros credores, existentes e\npotenciais, não podem exigir que as entidades que reportam forneçam informações\ndiretamente a eles, devendo se basear em relatórios financeiros para fins gerais para\nmuitas das informações financeiras de que necessitam. Consequentemente, eles são os\nprincipais usuários aos quais se destinam relatórios financeiros para fins gerais.\nPortanto, em que pese estarmos dizendo que os usuários podem ser externos ou internos, há também\naqueles que são os usuários PRINCIPAIS, ou sej",
+        "explanation": "Comentários:\n1.5 Muitos investidores, credores por empréstimos e outros credores, existentes e\npotenciais, não podem exigir que as entidades que reportam forneçam informações\ndiretamente a eles, devendo se basear em relatórios financeiros para fins gerais para\nmuitas das informações financeiras de que necessitam. Consequentemente, eles são os\nprincipais usuários aos quais se destinam relatórios financeiros para fins gerais.\nPortanto, em que pese estarmos dizendo que os usuários podem ser externos ou internos, há também\naqueles que são os usuários PRINCIPAIS, ou sej",
         "type": "true-false"
       },
       {
@@ -379,354 +379,398 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a00_q33",
-        "question": "Na ciência contábil, o patrimônio líquido",
+        "question": "Na ciência contábil, o patrimônio líquido de uma entidade é entendido como o conjunto de seus bens, direitos e obrigações.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "de uma entidade é entendido como o conjunto de seus bens, direitos e obrigações.\nConsiderando os conceitos, objetivos e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Considerando os conceitos, objetivos e finalidades da contabilidade, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q34",
-        "question": "Coletar informações, sintetizá-las e registrá-las são algumas",
+        "question": "Coletar informações, sintetizá-las e registrá-las são algumas das ações que visam ao acompanhamento sistemático do objeto da ciência contábil.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "das ações que visam ao acompanhamento sistemático do objeto da ciência contábil.\nConsiderando os conceitos, objetivos e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Considerando os conceitos, objetivos e finalidades da contabilidade, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q35",
-        "question": "O objetivo fundamental da contabilidade, hoje, é fornecer",
+        "question": "O objetivo fundamental da contabilidade, hoje, é fornecer informações que auxiliem a tomada de decisões econômico-financeiras a todos os interessados",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "informações que auxiliem a tomada de decisões econômico-financeiras a todos os interessados\nRelativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Relativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q36",
-        "question": "A contabilidade estuda o patrimônio em seus",
+        "question": "A contabilidade estuda o patrimônio em seus aspectos quantitativo e qualitativo, fornecendo subsídios ao processo de tomada de decisões",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "aspectos quantitativo e qualitativo, fornecendo subsídios ao processo de tomada de decisões\neconômico-financeiras por usuários internos e externos.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\neconômico-financeiras por usuários internos e externos.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q37",
-        "question": "Atualmente, a corrente majoritária de pensadores da",
+        "question": "Atualmente, a corrente majoritária de pensadores da área de contabilidade a conceitua como",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "área de contabilidade a conceitua como\na) uma subdivisão da administração.\nb) uma forma de arte.\nc) uma ciência social.\nd) uma ciência exata.\ne) uma técnica.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n",
+        "explanation": "a) uma subdivisão da administração.\nb) uma forma de arte.\nc) uma ciência social.\nd) uma ciência exata.\ne) uma técnica.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n",
         "type": "true-false"
       },
       {
         "id": "a00_q38",
-        "question": "A razão de ser da contabilidade é oferecer aos",
+        "question": "A razão de ser da contabilidade é oferecer aos agentes econômicos informações úteis para que possam tomar suas decisões.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "agentes econômicos informações úteis para que possam tomar suas decisões.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q39",
-        "question": "Contabilidade geral e contabilidade societária",
+        "question": "Contabilidade geral e contabilidade societária são expressões usadas para popularizar o termo ciência contábil.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "são expressões usadas para popularizar o termo ciência contábil.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q40",
-        "question": "Se um trabalhador controla rigorosamente, em",
+        "question": "Se um trabalhador controla rigorosamente, em um caderno, todos os seus gastos e as suas rendas, e, com base nesse controle, decide o que lhe",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "um caderno, todos os seus gastos e as suas rendas, e, com base nesse controle, decide o que lhe\nconvém e o que não lhe convém fazer com seus recursos, então, agindo assim, ele reafirma o objetivo\nfundamental da contabilidade.\nRelativamente ao conceito, objetivos e finalidades da contabilidade, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nconvém e o que não lhe convém fazer com seus recursos, então, agindo assim, ele reafirma o objetivo\nfundamental da contabilidade.\nRelativamente ao conceito, objetivos e finalidades da contabilidade, julgue o item que se segue.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q41",
-        "question": "Contabilidade é a ciência social",
+        "question": "Contabilidade é a ciência social que estuda e sistematiza os princípios de tomada de decisão sobre recursos disponíveis ao",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "que estuda e sistematiza os princípios de tomada de decisão sobre recursos disponíveis ao\ngerenciamento organizacional.\nConsiderando conceitos, objetivos e finalidades da contabilidade, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "explanation": "gerenciamento organizacional.\nConsiderando conceitos, objetivos e finalidades da contabilidade, julgue o item que se segue.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q42",
-        "question": "A ciência",
+        "question": "A ciência contábil diferencia-se de outras ciências ligadas direta ou indiretamente à gestão das entidades por",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contábil diferencia-se de outras ciências ligadas direta ou indiretamente à gestão das entidades por\nter o patrimônio da entidade como objeto de estudo.\nRelativamente aos conceitos, objetivos, objeto e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "ter o patrimônio da entidade como objeto de estudo.\nRelativamente aos conceitos, objetivos, objeto e finalidades da contabilidade, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q43",
-        "question": "A contabilidade é a ciência",
+        "question": "A contabilidade é a ciência social que estuda e controla o patrimônio das entidades com o objetivo de fornecer informações sobre",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "social que estuda e controla o patrimônio das entidades com o objetivo de fornecer informações sobre\nsua composição e variação que sejam úteis ao tomador de decisão.\n\n--------------------------------------------------------------------------------",
+        "explanation": "sua composição e variação que sejam úteis ao tomador de decisão.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q44",
-        "question": "A ciência contábil tem múltiplas",
+        "question": "A ciência contábil tem múltiplas finalidades e ramos de atuação, mas, independentemente do enfoque, a contabilidade tem por",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "finalidades e ramos de atuação, mas, independentemente do enfoque, a contabilidade tem por\nobjetivo fundamental\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n54\n\nwww.estrategiaconcursos.com.br\n",
+        "explanation": "objetivo fundamental\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n54\n\nwww.estrategiaconcursos.com.br\n",
         "type": "true-false"
       },
       {
         "id": "a00_q45",
-        "question": "Contribuir para a tomada de",
+        "question": "Contribuir para a tomada de decisão sobre comprar, vender ou manter instrumento de patrimônio e de dívida das entidades é um",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "decisão sobre comprar, vender ou manter instrumento de patrimônio e de dívida das entidades é um\ndos fins da contabilidade.\nJulgue o item que se segue, relativo ao conceito, ao objetivo, à periodicidade e à elaboração das principais\ndemonstrações contábeis previstas na legislação societária e nas normas contábeis brasileiras.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\ndos fins da contabilidade.\nJulgue o item que se segue, relativo ao conceito, ao objetivo, à periodicidade e à elaboração das principais\ndemonstrações contábeis previstas na legislação societária e nas normas contábeis brasileiras.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q46",
-        "question": "O objetivo das demonstrações",
+        "question": "O objetivo das demonstrações contábeis é fornecer informações úteis para a tomada de decisão econômica pelos usuários dessas",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contábeis é fornecer informações úteis para a tomada de decisão econômica pelos usuários dessas\ninformações.\nRelativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "explanation": "informações.\nRelativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q47",
-        "question": "Uma finalidade da ciência",
+        "question": "Uma finalidade da ciência contábil é observar se a riqueza administrativa está atingindo os fins propostos pelo sujeito contábil.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contábil é observar se a riqueza administrativa está atingindo os fins propostos pelo sujeito contábil.\nRelativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Relativamente aos conceitos básicos da ciência contábil, julgue o item que se segue.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q48",
-        "question": "O fornecimento de",
+        "question": "O fornecimento de informações úteis para a tomada de decisão pelos agentes econômicos é uma das finalidades da",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "informações úteis para a tomada de decisão pelos agentes econômicos é uma das finalidades da\nciência contábil.\nQuanto aos grupos patrimoniais utilizados na contabilidade, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nciência contábil.\nQuanto aos grupos patrimoniais utilizados na contabilidade, julgue o próximo item.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q49",
-        "question": "O patrimônio de uma entidade é representado, nas",
+        "question": "O patrimônio de uma entidade é representado, nas demonstrações contábeis, apenas pelos grupos do ativo, haja vista os grupos do passivo, que",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "demonstrações contábeis, apenas pelos grupos do ativo, haja vista os grupos do passivo, que\nrepresentam o patrimônio de terceiros.\n\n--------------------------------------------------------------------------------",
+        "explanation": "representam o patrimônio de terceiros.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q50",
-        "question": "Na equação patrimonial,",
+        "question": "Na equação patrimonial, A o ativo está inversamente relacionado ao passivo.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "A o ativo está inversamente relacionado ao passivo.\nB o ativo está inversamente relacionado ao patrimônio líquido.\nC o patrimônio líquido está diretamente relacionado ao ativo.\nD o passivo está diretamente relacionado ao patrimônio líquido.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n55\n",
+        "explanation": "B o ativo está inversamente relacionado ao patrimônio líquido.\nC o patrimônio líquido está diretamente relacionado ao ativo.\nD o passivo está diretamente relacionado ao patrimônio líquido.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n55\n",
         "type": "true-false"
       },
       {
         "id": "a00_q51",
-        "question": "Segundo a teoria contábil contemporânea, a",
+        "question": "Segundo a teoria contábil contemporânea, a contabilidade é mais adequadamente classificada como uma",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contabilidade é mais adequadamente classificada como uma\nA metodologia.\nB técnica.\nC arte.\nD prática.\nE ciência.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nA metodologia.\nB técnica.\nC arte.\nD prática.\nE ciência.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q52",
-        "question": "A contabilidade tem por objeto",
+        "question": "A contabilidade tem por objeto A o registro dos eventos que afetam o patrimônio.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "A o registro dos eventos que afetam o patrimônio.\nB o sistema de contas.\n\n==338b5d==\n\nC a divulgação de informações úteis ao usuário.\nD as entidades contábeis em geral.\nE o patrimônio das entidades.\n",
+        "explanation": "B o sistema de contas.\n\n==338b5d==\n\nC a divulgação de informações úteis ao usuário.\nD as entidades contábeis em geral.\nE o patrimônio das entidades.\n",
         "type": "true-false"
       },
       {
         "id": "a00_q53",
-        "question": "Com relação a conceitos, objetivos e",
+        "question": "Com relação a conceitos, objetivos e finalidade da contabilidade, julgue os próximos itens.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "finalidade da contabilidade, julgue os próximos itens.\nI. O principal objetivo da contabilidade inclui fornecer informação útil ao usuário, para a tomada de decisão.\nII. Não é finalidade da contabilidade controlar o patrimônio da instituição, pois isso cabe aos sistemas de\ninventário.\nIII. A contabilidade tem a responsabilidade de criar o sistema gerencial para apuração de custos.\nIV. A principal função da contabilidade é apurar os tributos federais, estaduais e municipais.\nAssinale a opção correta.\nA Nenhum item está certo.\nB Apenas o item I está certo.",
+        "explanation": "I. O principal objetivo da contabilidade inclui fornecer informação útil ao usuário, para a tomada de decisão.\nII. Não é finalidade da contabilidade controlar o patrimônio da instituição, pois isso cabe aos sistemas de\ninventário.\nIII. A contabilidade tem a responsabilidade de criar o sistema gerencial para apuração de custos.\nIV. A principal função da contabilidade é apurar os tributos federais, estaduais e municipais.\nAssinale a opção correta.\nA Nenhum item está certo.\nB Apenas o item I está certo.",
         "type": "true-false"
       },
       {
         "id": "a00_q54",
-        "question": "Fornecer informações úteis que subsidiem o",
+        "question": "Fornecer informações úteis que subsidiem o processo de tomada de decisões econômicas é um dos principais objetivos da contabilidade.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "processo de tomada de decisões econômicas é um dos principais objetivos da contabilidade.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n56\n\nwww.estrategiaconcursos.com.br\n\n61",
+        "explanation": "\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n56\n\nwww.estrategiaconcursos.com.br\n\n61",
         "type": "true-false"
       },
       {
         "id": "a00_q55",
-        "question": "Segundo o Comitê de",
+        "question": "Segundo o Comitê de Pronunciamentos Contábeis (CPC – Estrutura Conceitual para Elaboração e Divulgação de Relatório",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "Pronunciamentos Contábeis (CPC – Estrutura Conceitual para Elaboração e Divulgação de Relatório\nContábil-Financeiro), os relatórios contábeis-financeiros “objetivam fornecer informações que sejam\núteis na tomada de decisões econômicas e avaliações por parte dos usuários em geral, não tendo o\npropósito de atender finalidade ou necessidade específica de determinados grupos de usuários”.\nAinda que destinados a usuários em geral, esses relatórios destinam-se prioritariamente à tomada de\ndecisão por parte\na) do fisco.\nb) dos governos em geral.\nc) dos órgãos supervisores.",
+        "explanation": "\nContábil-Financeiro), os relatórios contábeis-financeiros “objetivam fornecer informações que sejam\núteis na tomada de decisões econômicas e avaliações por parte dos usuários em geral, não tendo o\npropósito de atender finalidade ou necessidade específica de determinados grupos de usuários”.\nAinda que destinados a usuários em geral, esses relatórios destinam-se prioritariamente à tomada de\ndecisão por parte\na) do fisco.\nb) dos governos em geral.\nc) dos órgãos supervisores.",
         "type": "true-false"
       },
       {
         "id": "a00_q56",
-        "question": "O principal objetivo da contabilidade é",
+        "question": "O principal objetivo da contabilidade é fornecer informações úteis sobre o patrimônio da entidade para finalidades diversas, entre as quais,",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "fornecer informações úteis sobre o patrimônio da entidade para finalidades diversas, entre as quais,\nplanejamento, controle e auxílio no processo decisório.\nEm relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "explanation": "planejamento, controle e auxílio no processo decisório.\nEm relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item subsequente.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q57",
-        "question": "O objeto de estudo da contabilidade são as",
+        "question": "O objeto de estudo da contabilidade são as entidades econômico-administrativas, o que inclui as instituições com fins sociais.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "entidades econômico-administrativas, o que inclui as instituições com fins sociais.\nEm relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nEm relação aos conceitos, objetivos e finalidades da contabilidade, julgue o item subsequente.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q58",
-        "question": "A análise de balanços não é considerada uma",
+        "question": "A análise de balanços não é considerada uma técnica contábil, tendo em vista que foi formulada e desenvolvida no âmbito da administração",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "técnica contábil, tendo em vista que foi formulada e desenvolvida no âmbito da administração\nfinanceira.\nA respeito da contabilidade geral, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nfinanceira.\nA respeito da contabilidade geral, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q59",
-        "question": "A contabilidade teórica consiste no registro das",
+        "question": "A contabilidade teórica consiste no registro das operações de determinada entidade em livros mantidos para essa finalidade.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "operações de determinada entidade em livros mantidos para essa finalidade.\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n57\n",
+        "explanation": "\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n57\n",
         "type": "true-false"
       },
       {
         "id": "a00_q60",
-        "question": "Sob a ótica citada, o objeto da contabilidade é o",
+        "question": "Sob a ótica citada, o objeto da contabilidade é o patrimônio do ente contábil específico.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "patrimônio do ente contábil específico.\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q61",
-        "question": "A contabilidade integra o rol das ciências exatas",
+        "question": "A contabilidade integra o rol das ciências exatas por estar dedicada à mensuração da riqueza do ente contábil.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "por estar dedicada à mensuração da riqueza do ente contábil.\nConsiderando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Considerando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da\nfinalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da\ncontabilidade.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q62",
-        "question": "Para o estudo da contabilidade, patrimônio é a diferença",
+        "question": "Para o estudo da contabilidade, patrimônio é a diferença entre ativos e passivos detidos pelas entidades.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "entre ativos e passivos detidos pelas entidades.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a00_q63",
-        "question": "As informações contábeis devem ser mensuradas e",
+        "question": "As informações contábeis devem ser mensuradas e divulgadas a diversos usuários. Considerando as necessidades específicas de cada usuário quanto às",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "divulgadas a diversos usuários. Considerando as necessidades específicas de cada usuário quanto às\ninformações contábeis, julgue os itens a seguir.\nI As instituições financeiras estão interessadas em informações relativas ao endividamento da empresa e à\nexistência de liquidez suficiente para que ela honre com o pagamento dos empréstimos adquiridos.\nII Nas suas análises, o investidor busca avaliar a empresa que seja mais lucrativa e que pague maiores\ndividendos.\nIII As agências reguladoras, no cumprimento de suas funções, apuram o lucro tributável das concessionárias\nde serviço público com o ob",
+        "explanation": "informações contábeis, julgue os itens a seguir.\nI As instituições financeiras estão interessadas em informações relativas ao endividamento da empresa e à\nexistência de liquidez suficiente para que ela honre com o pagamento dos empréstimos adquiridos.\nII Nas suas análises, o investidor busca avaliar a empresa que seja mais lucrativa e que pague maiores\ndividendos.\nIII As agências reguladoras, no cumprimento de suas funções, apuram o lucro tributável das concessionárias\nde serviço público com o ob",
         "type": "true-false"
       },
       {
         "id": "a00_q64",
-        "question": "De acordo com Max Weber, a moderna organização racional da",
+        "question": "De acordo com Max Weber, a moderna organização racional da empresa capitalista foi viabilizada pela contabilidade racional. Esse pensamento foi corroborado, na",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "empresa capitalista foi viabilizada pela contabilidade racional. Esse pensamento foi corroborado, na\nciência contábil, por Vicenzo Masi, que identificou como objeto da contabilidade.\na) as contas.\nb) a azienda.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n58\n",
+        "explanation": "ciência contábil, por Vicenzo Masi, que identificou como objeto da contabilidade.\na) as contas.\nb) a azienda.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n58\n",
         "type": "true-false"
       }
     ]
@@ -761,13 +805,13 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a01_q3",
-        "question": "No cotidiano das entidades contábeis, é impossível ocorrer uma",
+        "question": "No cotidiano das entidades contábeis, é impossível ocorrer uma Segundo a equação básica da contabilidade:",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 1,
-        "explanation": "Comentários:\nSegundo a equação básica da contabilidade:\nAtivo = Passivo + PL\nFique esperto! Podemos escrevê-la nas seguintes formas:\n•\n\nIsolando o Ativo\nAtivo = Passivo + PL\n\n•\n\nIsolando o PL\nPL = Ativo - Passivo\n\n•\n\nIsolando o Passivo\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n26\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\nPassivo = Ativo – PL\nVeja que o quesito trouxe a fórmula com o PL isolado. Só que, para dificultar a banca quer que gastemos\nnossa matemática: o módulo de Passivo significa que devemos de",
+        "explanation": "Comentários:\nAtivo = Passivo + PL\nFique esperto! Podemos escrevê-la nas seguintes formas:\n•\n\nIsolando o Ativo\nAtivo = Passivo + PL\n\n•\n\nIsolando o PL\nPL = Ativo - Passivo\n\n•\n\nIsolando o Passivo\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n26\n\nwww.estrategiaconcursos.com.br\n\n48\n\n\fLuciano Rosa, Júlio Cardozo\nAula 01\n\nPassivo = Ativo – PL\nVeja que o quesito trouxe a fórmula com o PL isolado. Só que, para dificultar a banca quer que gastemos\nnossa matemática: o módulo de Passivo significa que devemos de",
         "type": "true-false"
       },
       {
@@ -783,13 +827,13 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a01_q5",
-        "question": "Passivo a descoberto é a situação na qual os",
+        "question": "Passivo a descoberto é a situação na qual os Item correto, pessoal. Passivo a descoberto é a situação líquida em que se “deve mais do que se",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "Comentários:\nItem correto, pessoal. Passivo a descoberto é a situação líquida em que se “deve mais do que se\ntem”. Imagine uma empresa que tenha tão-somente R$ 1.000 em caixa e um carro velho avaliado em R$\n1.000, mas deve R$ 2.500 a um fornecedor. Esta é a chamada situação líquida negativa, pois os elementos\nnegativos superam os elementos positivos do balanço. A entidade chega nesse estado quando os prejuízos\nacumulados pela empresa superam os capitais investidos pelos sócios e os demais itens que integram o\npatrimônio líquido.",
+        "explanation": "Comentários:\ntem”. Imagine uma empresa que tenha tão-somente R$ 1.000 em caixa e um carro velho avaliado em R$\n1.000, mas deve R$ 2.500 a um fornecedor. Esta é a chamada situação líquida negativa, pois os elementos\nnegativos superam os elementos positivos do balanço. A entidade chega nesse estado quando os prejuízos\nacumulados pela empresa superam os capitais investidos pelos sócios e os demais itens que integram o\npatrimônio líquido.",
         "type": "true-false"
       },
       {
@@ -984,244 +1028,274 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a01_q23",
-        "question": "Ativo + patrimônio líquido < passivo exigível é uma expressão que",
+        "question": "Ativo + patrimônio líquido < passivo exigível é uma expressão que sintetiza a situação de passivo a descoberto.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "sintetiza a situação de passivo a descoberto.\nJulgue o item a seguir, em relação ao patrimônio contábil.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Julgue o item a seguir, em relação ao patrimônio contábil.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q24",
-        "question": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial",
+        "question": "Verifica-se uma situação líquida positiva caso haja, no balanço patrimonial de uma entidade, apenas os saldos especificados a seguir.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "de uma entidade, apenas os saldos especificados a seguir.\ncaixa e equivalentes: R$ 10.000\ncontas a receber: R$ 25.000\ncontas a pagar: R$ 15.000\npatrimônio líquido: R$ 20.000\n\n--------------------------------------------------------------------------------",
+        "explanation": "caixa e equivalentes: R$ 10.000\ncontas a receber: R$ 25.000\ncontas a pagar: R$ 15.000\npatrimônio líquido: R$ 20.000\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q25",
-        "question": "No cotidiano das entidades contábeis, é impossível ocorrer uma",
+        "question": "No cotidiano das entidades contábeis, é impossível ocorrer uma situação patrimonial expressa por ativos + | passivos | = patrimônio líquido, em que a simbologia | x|",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "situação patrimonial expressa por ativos + | passivos | = patrimônio líquido, em que a simbologia | x|\nrepresenta o valor absoluto de x.\nRelativamente aos conceitos, objetivos, objeto e finalidades da contabilidade, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nrepresenta o valor absoluto de x.\nRelativamente aos conceitos, objetivos, objeto e finalidades da contabilidade, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q26",
-        "question": "Em uma entidade em que o total de passivos se",
+        "question": "Em uma entidade em que o total de passivos se iguala ao total de seus ativos, ocorre o chamado passivo a descoberto.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "iguala ao total de seus ativos, ocorre o chamado passivo a descoberto.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q27",
-        "question": "Passivo a descoberto é a situação na qual os",
+        "question": "Passivo a descoberto é a situação na qual os prejuízos acumulados pela empresa superam os capitais investidos pelos sócios e os demais itens que",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "prejuízos acumulados pela empresa superam os capitais investidos pelos sócios e os demais itens que\nintegram o patrimônio líquido.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nintegram o patrimônio líquido.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q28",
-        "question": "Se no início de certo exercício, uma empresa",
+        "question": "Se no início de certo exercício, uma empresa possuía situação patrimonial líquida zerada, e se, ao longo do exercício, as receitas e os ganhos",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "possuía situação patrimonial líquida zerada, e se, ao longo do exercício, as receitas e os ganhos\nsuperaram as despesas e as perdas, então, nesse contexto, a situação patrimonial líquida final da\nempresa é superavitária.\nAcerca das demonstrações contábeis, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "superaram as despesas e as perdas, então, nesse contexto, a situação patrimonial líquida final da\nempresa é superavitária.\nAcerca das demonstrações contábeis, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q29",
-        "question": "No balanço patrimonial, o ativo representa as aplicações",
+        "question": "No balanço patrimonial, o ativo representa as aplicações de recursos, enquanto o passivo e o patrimônio líquido revelam as fontes que financiam as referidas",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "de recursos, enquanto o passivo e o patrimônio líquido revelam as fontes que financiam as referidas\naplicações.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n42\n\nwww.estrategiaconcursos.com.br\n",
+        "explanation": "aplicações.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n42\n\nwww.estrategiaconcursos.com.br\n",
         "type": "true-false"
       },
       {
         "id": "a01_q30",
-        "question": "Na equação patrimonial,",
+        "question": "Na equação patrimonial, A o ativo está inversamente relacionado ao passivo.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "A o ativo está inversamente relacionado ao passivo.\nB o ativo está inversamente relacionado ao patrimônio líquido.\nC o patrimônio líquido está diretamente relacionado ao ativo.\nD o passivo está diretamente relacionado ao patrimônio líquido.\nE o patrimônio líquido está diretamente relacionado ao passivo.\nQuanto aos grupos patrimoniais utilizados na contabilidade, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "explanation": "B o ativo está inversamente relacionado ao patrimônio líquido.\nC o patrimônio líquido está diretamente relacionado ao ativo.\nD o passivo está diretamente relacionado ao patrimônio líquido.\nE o patrimônio líquido está diretamente relacionado ao passivo.\nQuanto aos grupos patrimoniais utilizados na contabilidade, julgue o próximo item.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q31",
-        "question": "Quando a situação líquida de uma entidade for negativa,",
+        "question": "Quando a situação líquida de uma entidade for negativa, isso significa que o somatório dos saldos das contas de passivo é menor que o somatório dos saldos",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "isso significa que o somatório dos saldos das contas de passivo é menor que o somatório dos saldos\ndas contas de ativo.\n\n--------------------------------------------------------------------------------",
+        "explanation": "das contas de ativo.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q32",
-        "question": "Em dado exercício social, uma entidade",
+        "question": "Em dado exercício social, uma entidade apresentou passivo a descoberto.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "apresentou passivo a descoberto.\nNessa situação,\nA o passivo é insuficiente para financiar todo o ativo.\nB a soma modular do ativo com o patrimônio líquido é igual ao passivo.\nC o montante do patrimônio líquido supera o do passivo.\nD a diferença entre o total do ativo e o total do passivo é igual a zero.\nfornecedores\n\n22.000",
+        "explanation": "Nessa situação,\nA o passivo é insuficiente para financiar todo o ativo.\nB a soma modular do ativo com o patrimônio líquido é igual ao passivo.\nC o montante do patrimônio líquido supera o do passivo.\nD a diferença entre o total do ativo e o total do passivo é igual a zero.\nfornecedores\n\n22.000",
         "type": "true-false"
       },
       {
         "id": "a01_q33",
-        "question": "Considerando que as informações (em reais) acima se",
+        "question": "Considerando que as informações (em reais) acima se refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "refiram ao primeiro exercício financeiro de determinada entidade, assinale a opção em que é\napresentado corretamente o valor da situação líquida patrimonial desse período.\nA negativa em R$ 11.000,00\nB negativa em R$ 7.000,00\nC positiva em R$ 7.000,00\nD positiva em R$ 13.000,00\nE positiva em R$ 17.000,00\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)",
+        "explanation": "apresentado corretamente o valor da situação líquida patrimonial desse período.\nA negativa em R$ 11.000,00\nB negativa em R$ 7.000,00\nC positiva em R$ 7.000,00\nD positiva em R$ 13.000,00\nE positiva em R$ 17.000,00\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)",
         "type": "true-false"
       },
       {
         "id": "a01_q34",
-        "question": "Uma entidade apresentou as seguintes informações",
+        "question": "Uma entidade apresentou as seguintes informações (em reais) durante seu primeiro exercício financeiro:",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "(em reais) durante seu primeiro exercício financeiro:\nfornecedores\n\n38.000\n\nativo imobilizado\n\n36.000\n",
+        "explanation": "fornecedores\n\n38.000\n\nativo imobilizado\n\n36.000\n",
         "type": "true-false"
       },
       {
         "id": "a01_q35",
-        "question": "A situação patrimonial de uma entidade em dado",
+        "question": "A situação patrimonial de uma entidade em dado momento é relatada",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "momento é relatada\na) pelo balanço patrimonial.\nb) pela demonstração de resultado do exercício.\nc) pela demonstração dos fluxos de caixa.\nd) pelo ativo.\ne) pelo patrimônio líquido.\nDeterminada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes\nelementos, cujo registro e cuja avaliação contábeis estão de acordo com as regras estabelecidas na legislação\nsocietária (Lei n.º 6.404/1976 e suas alterações).",
+        "explanation": "a) pelo balanço patrimonial.\nb) pela demonstração de resultado do exercício.\nc) pela demonstração dos fluxos de caixa.\nd) pelo ativo.\ne) pelo patrimônio líquido.\nDeterminada empresa apresentou, em 31 de dezembro de 2020, um patrimônio composto pelos seguintes\nelementos, cujo registro e cuja avaliação contábeis estão de acordo com as regras estabelecidas na legislação\nsocietária (Lei n.º 6.404/1976 e suas alterações).",
         "type": "true-false"
       },
       {
         "id": "a01_q36",
-        "question": "Em 31 de dezembro de 2020, a situação patrimonial líquida",
+        "question": "Em 31 de dezembro de 2020, a situação patrimonial líquida da empresa alcançou o montante de R$ 230.000,00.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "da empresa alcançou o montante de R$ 230.000,00.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q37",
-        "question": "Os saldos dos recursos aplicados no ativo da empresa",
+        "question": "Os saldos dos recursos aplicados no ativo da empresa totalizaram R$ 350.000,00 em 31 de dezembro de 2020; desse total R$ 120.000 foram provenientes de",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "totalizaram R$ 350.000,00 em 31 de dezembro de 2020; desse total R$ 120.000 foram provenientes de\ncapital de terceiros.\nUma empresa com fins lucrativos prestadora de serviços ao governo do estado do Ceará contratou, no dia\n1.º do último mês findo, um novo funcionário de relações públicas, com salário de R$ 10.000, mais encargos\nlegais, a ser pago no 5.º dia útil após o mês de prestação dos serviços.\nCom relação à situação hipotética anterior, julgue os itens seguintes.\n\n--------------------------------------------------------------------------------",
+        "explanation": "capital de terceiros.\nUma empresa com fins lucrativos prestadora de serviços ao governo do estado do Ceará contratou, no dia\n1.º do último mês findo, um novo funcionário de relações públicas, com salário de R$ 10.000, mais encargos\nlegais, a ser pago no 5.º dia útil após o mês de prestação dos serviços.\nCom relação à situação hipotética anterior, julgue os itens seguintes.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q38",
-        "question": "Na A contratação do novo funcionário é um ato",
+        "question": "Na A contratação do novo funcionário é um ato administrativo que impacta positivamente o patrimônio líquido da entidade contratante.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "administrativo que impacta positivamente o patrimônio líquido da entidade contratante.\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Julgue o item a seguir, relativo ao patrimônio das entidades.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q39",
-        "question": "Situação líquida e patrimônio líquido são expressões",
+        "question": "Situação líquida e patrimônio líquido são expressões sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade,",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "sinônimas, mas a primeira é mais adequada para expressar o estado patrimonial da entidade,\nenquanto a segunda é de utilização obrigatória no balanço patrimonial.\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n--------------------------------------------------------------------------------",
+        "explanation": "enquanto a segunda é de utilização obrigatória no balanço patrimonial.\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q40",
-        "question": "No que diz respeito aos estados patrimoniais, é",
+        "question": "No que diz respeito aos estados patrimoniais, é possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "possível que ativo e passivo tenham valor igual a zero, respectivamente, na constituição e no\nencerramento das atividades da empresa.\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n--------------------------------------------------------------------------------",
+        "explanation": "encerramento das atividades da empresa.\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q41",
-        "question": "Uma entidade cujos bens e direitos somem R$ 2",
+        "question": "Uma entidade cujos bens e direitos somem R$ 2 milhões e que possua obrigações que totalizem R$ 5 milhões estará em uma situação líquida que pode",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "milhões e que possua obrigações que totalizem R$ 5 milhões estará em uma situação líquida que pode\nser definida como ativo a descoberto ou deficitária\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n45\n",
+        "explanation": "ser definida como ativo a descoberto ou deficitária\n\nJulgue o item a seguir, relativo ao patrimônio das entidades.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n45\n",
         "type": "true-false"
       },
       {
         "id": "a01_q42",
-        "question": "Quando o passivo é igual ao ativo subtraído do",
+        "question": "Quando o passivo é igual ao ativo subtraído do patrimônio líquido, sendo todos maiores que zero, tem-se a situação patrimonial conhecida como",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "patrimônio líquido, sendo todos maiores que zero, tem-se a situação patrimonial conhecida como\npositiva, ativa ou superavitária.\n\n--------------------------------------------------------------------------------",
+        "explanation": "positiva, ativa ou superavitária.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q43",
-        "question": "Com relação a patrimônio, julgue o item seguinte. A",
+        "question": "Com relação a patrimônio, julgue o item seguinte. A situação patrimonial líquida em que o total de passivos supera o montante do patrimônio líquido é",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "situação patrimonial líquida em que o total de passivos supera o montante do patrimônio líquido é\ndenominada passivo a descoberto.\n\nEm relação aos atos e fatos administrativos, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "explanation": "denominada passivo a descoberto.\n\nEm relação aos atos e fatos administrativos, julgue o próximo item.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01_q44",
-        "question": "Os atos administrativos relevantes, como é o caso",
+        "question": "Os atos administrativos relevantes, como é o caso de fianças para terceiros, podem, futuramente, modificar o patrimônio da entidade.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "de fianças para terceiros, podem, futuramente, modificar o patrimônio da entidade.\n==338b5d==\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n46\n\nwww.estrategiaconcursos.com.br\n",
+        "explanation": "==338b5d==\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n46\n\nwww.estrategiaconcursos.com.br\n",
         "type": "true-false"
       }
     ]
@@ -1548,24 +1622,28 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a01II_q29",
-        "question": "No rol de contas apresentado, há duas contas credoras que não",
+        "question": "No rol de contas apresentado, há duas contas credoras que não pertencem ao passivo exigível.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "pertencem ao passivo exigível.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q30",
-        "question": "No rol de contas apresentado, existem sete contas de natureza",
+        "question": "No rol de contas apresentado, existem sete contas de natureza devedora e cinco contas de natureza credora.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "devedora e cinco contas de natureza credora.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
@@ -1576,7 +1654,9 @@ export const questionsData: Module[] = [
           "Errado"
         ],
         "correct": 0,
-        "explanation": "\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
@@ -1587,271 +1667,301 @@ export const questionsData: Module[] = [
           "Errado"
         ],
         "correct": 0,
-        "explanation": "\nAcerca do plano de contas contábil e das contas que o integram, julgue o próximo item.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nAcerca do plano de contas contábil e das contas que o integram, julgue o próximo item.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q33",
-        "question": "Contas de débito são contas típicas do ativo e das",
+        "question": "Contas de débito são contas típicas do ativo e das despesas; contas de crédito são tipicamente usadas para expressar itens do passivo e das receitas.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "despesas; contas de crédito são tipicamente usadas para expressar itens do passivo e das receitas.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q34",
-        "question": "Assinale a opção que indica apenas contas",
+        "question": "Assinale a opção que indica apenas contas credoras.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "credoras.\nA bancos, terrenos e patentes\nB promissórias a pagar, lucros acumulados e capital\nC duplicatas a receber, patentes e edificações\nD despesa de salários, empréstimos e capital\nE bancos, equipamentos e caixa\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n",
+        "explanation": "A bancos, terrenos e patentes\nB promissórias a pagar, lucros acumulados e capital\nC duplicatas a receber, patentes e edificações\nD despesa de salários, empréstimos e capital\nE bancos, equipamentos e caixa\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n",
         "type": "true-false"
       },
       {
         "id": "a01II_q35",
-        "question": "As contas consideradas retificadoras no balanço",
+        "question": "As contas consideradas retificadoras no balanço patrimonial têm a mesma natureza dos grupos em que são apresentadas.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "patrimonial têm a mesma natureza dos grupos em que são apresentadas.\nJulgue o item a seguir, em relação aos tipos de registros que devem ser feitos nas respectivas contas e à\nnatureza dos saldos.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Julgue o item a seguir, em relação aos tipos de registros que devem ser feitos nas respectivas contas e à\nnatureza dos saldos.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q36",
-        "question": "O saldo credor em uma conta de estoques de",
+        "question": "O saldo credor em uma conta de estoques de matérias-primas indica que a contabilização efetuada no período foi realizada sem erros.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "matérias-primas indica que a contabilização efetuada no período foi realizada sem erros.\nEm relação a contas e sua natureza e escrituração de fatos administrativos, julgue o item subsecutivo.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nEm relação a contas e sua natureza e escrituração de fatos administrativos, julgue o item subsecutivo.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q37",
-        "question": "O saldo final encontrado em uma conta não altera a",
+        "question": "O saldo final encontrado em uma conta não altera a sua natureza, ainda que esteja errado.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "sua natureza, ainda que esteja errado.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q38",
-        "question": "Considere o conjunto de contas a seguir,",
+        "question": "Considere o conjunto de contas a seguir, extraído do plano de contas de determinada entidade.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "extraído do plano de contas de determinada entidade.\ncaixa\ncontas a receber\nestoques\najuste de ativo a valor presente\nimobilizado\ndepreciação acumulada\nduplicatas descontadas\ncontas a pagar",
+        "explanation": "caixa\ncontas a receber\nestoques\najuste de ativo a valor presente\nimobilizado\ndepreciação acumulada\nduplicatas descontadas\ncontas a pagar",
         "type": "true-false"
       },
       {
         "id": "a01II_q39",
-        "question": "Considerando os conceitos de débitos e créditos das",
+        "question": "Considerando os conceitos de débitos e créditos das contas contábeis, assinale a opção em que todas as contas contábeis relacionadas são de natureza credora.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contas contábeis, assinale a opção em que todas as contas contábeis relacionadas são de natureza credora.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n54\n\nwww.estrategiaconcursos.com.br\n\n60",
+        "explanation": "\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n54\n\nwww.estrategiaconcursos.com.br\n\n60",
         "type": "true-false"
       },
       {
         "id": "a01II_q40",
-        "question": "As contas sintéticas são as que agregam os valores",
+        "question": "As contas sintéticas são as que agregam os valores dos grupos e subgrupos no plano de contas.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "dos grupos e subgrupos no plano de contas.\nJulgue o item subsequente, a respeito dos processos e procedimentos de escrituração.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Julgue o item subsequente, a respeito dos processos e procedimentos de escrituração.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q41",
-        "question": "Os lançamentos em escrituração contábil podem",
+        "question": "Os lançamentos em escrituração contábil podem ser realizados em contas sintéticas que compõem um plano de contas.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "ser realizados em contas sintéticas que compõem um plano de contas.\nCom relação ao uso de planos de contas, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Com relação ao uso de planos de contas, julgue o item seguinte.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q42",
-        "question": "As contas de compensação não podem ser",
+        "question": "As contas de compensação não podem ser consideradas como contas analíticas.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "consideradas como contas analíticas.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q43",
-        "question": "Entre as contas do ativo, são de natureza",
+        "question": "Entre as contas do ativo, são de natureza credora as contas",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "credora as contas\nA cheques a compensar e investimento em coligadas.\nB depreciação acumulada e investimentos em coligadas.\nC cheques a compensar e clientes.\nD depreciação acumulada e provisão para devedores duvidosos.\nE títulos e valores mobiliários e reserva de capital.\n\n--------------------------------------------------------------------------------",
+        "explanation": "A cheques a compensar e investimento em coligadas.\nB depreciação acumulada e investimentos em coligadas.\nC cheques a compensar e clientes.\nD depreciação acumulada e provisão para devedores duvidosos.\nE títulos e valores mobiliários e reserva de capital.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q44",
-        "question": "Os eventos cujo efeito uma sociedade",
+        "question": "Os eventos cujo efeito uma sociedade anônima terá de apresentar por meio de uma conta retificadora no seu balanço patrimonial incluem a",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "anônima terá de apresentar por meio de uma conta retificadora no seu balanço patrimonial incluem a\nI constituição de provisão para créditos de liquidação duvidosa.\nII aquisição de ações de emissão própria.\nIII constituição de provisão para ajustes por perdas no valor recuperável de ativos.\nIV constituição de provisão para riscos fiscais.\nV constituição de provisão para perda por redução no valor realizável líquido de ativos.\nEstão certos apenas os itens\nA I e II.\nB III e IV.",
+        "explanation": "I constituição de provisão para créditos de liquidação duvidosa.\nII aquisição de ações de emissão própria.\nIII constituição de provisão para ajustes por perdas no valor recuperável de ativos.\nIV constituição de provisão para riscos fiscais.\nV constituição de provisão para perda por redução no valor realizável líquido de ativos.\nEstão certos apenas os itens\nA I e II.\nB III e IV.",
         "type": "true-false"
       },
       {
         "id": "a01II_q45",
-        "question": "Na contabilidade da empresa Beta, o",
+        "question": "Na contabilidade da empresa Beta, o adiantamento efetuado pelo cliente representa, ao mesmo tempo, uma origem de recursos, com registro",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "adiantamento efetuado pelo cliente representa, ao mesmo tempo, uma origem de recursos, com registro\na crédito de uma conta do passivo circulante, e uma aplicação de recursos, com registro a débito de uma\nconta do ativo circulante.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\na crédito de uma conta do passivo circulante, e uma aplicação de recursos, com registro a débito de uma\nconta do ativo circulante.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q46",
-        "question": "Conforme o que estabelece a teoria",
+        "question": "Conforme o que estabelece a teoria personalista, por ocasião do recebimento do adiantamento feito pelo cliente, a empresa Beta deve tratar",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "personalista, por ocasião do recebimento do adiantamento feito pelo cliente, a empresa Beta deve tratar\na conta caixa como se ela representasse uma pessoa com quem mantém um relacionamento, de modo\nque a conta caixa passa a ser devedora da empresa, no momento em que o adiantamento for recebido.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n56\n\nwww.estrategiaconcursos.com.br",
+        "explanation": "a conta caixa como se ela representasse uma pessoa com quem mantém um relacionamento, de modo\nque a conta caixa passa a ser devedora da empresa, no momento em que o adiantamento for recebido.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n56\n\nwww.estrategiaconcursos.com.br",
         "type": "true-false"
       },
       {
         "id": "a01II_q47",
-        "question": "A respeito das contas de receitas e despesas, assinale",
+        "question": "A respeito das contas de receitas e despesas, assinale a opção correta.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "a opção correta.\na) As contas de receitas e despesas são contas de resultado, também denominadas de contas temporárias,\npois seus saldos são encerrados para a apuração do resultado da entidade.\nb) As contas de receitas e despesas, denominadas contas patrimoniais, são encerradas no final do período\npara a apuração do resultado.\nc) Despesa corresponde à entrada de elementos para o ativo, sob a forma de dinheiro ou de direitos a\nreceber.\nd) Receitas representam o reconhecimento de um passivo, com o aumento de obrigações a serem cumpridas\npara com clientes.",
+        "explanation": "a) As contas de receitas e despesas são contas de resultado, também denominadas de contas temporárias,\npois seus saldos são encerrados para a apuração do resultado da entidade.\nb) As contas de receitas e despesas, denominadas contas patrimoniais, são encerradas no final do período\npara a apuração do resultado.\nc) Despesa corresponde à entrada de elementos para o ativo, sob a forma de dinheiro ou de direitos a\nreceber.\nd) Receitas representam o reconhecimento de um passivo, com o aumento de obrigações a serem cumpridas\npara com clientes.",
         "type": "true-false"
       },
       {
         "id": "a01II_q48",
-        "question": "Um registro de débito na contabilidade de uma",
+        "question": "Um registro de débito na contabilidade de uma empresa tem o efeito de",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "empresa tem o efeito de\na) aumentar os ativos e reduzir os passivos.\nb) aumentar tanto os ativos como os passivos.\nc) reduzir tanto os ativos como os passivos.\nd) neutralidade: não altera nem os ativos nem os passivos.\ne) reduzir os ativos e aumentar os passivos.\n\nJulgue o próximo item, a respeito do mecanismo de contas utilizado na contabilidade.\n",
+        "explanation": "\na) aumentar os ativos e reduzir os passivos.\nb) aumentar tanto os ativos como os passivos.\nc) reduzir tanto os ativos como os passivos.\nd) neutralidade: não altera nem os ativos nem os passivos.\ne) reduzir os ativos e aumentar os passivos.\n\nJulgue o próximo item, a respeito do mecanismo de contas utilizado na contabilidade.\n",
         "type": "true-false"
       },
       {
         "id": "a01II_q49",
-        "question": "Contas caixa, ações em tesouraria e depreciação têm",
+        "question": "Contas caixa, ações em tesouraria e depreciação têm em comum o fato de serem todas de natureza devedora.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "em comum o fato de serem todas de natureza devedora.\nA tabela a seguir representa, em reais, o balancete de verificação de uma sociedade anônima em 31/12/20x0.\nsaldo\ndevedor credor\ncaixa\n25.300\naplicação financeira 5.700\nestoques\n4.000",
+        "explanation": "A tabela a seguir representa, em reais, o balancete de verificação de uma sociedade anônima em 31/12/20x0.\nsaldo\ndevedor credor\ncaixa\n25.300\naplicação financeira 5.700\nestoques\n4.000",
         "type": "true-false"
       },
       {
         "id": "a01II_q50",
-        "question": "Nessa situação hipotética, separando-se as contas",
+        "question": "Nessa situação hipotética, separando-se as contas patrimoniais das contas de resultado, será identificado um lucro no período.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "patrimoniais das contas de resultado, será identificado um lucro no período.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n57\n\nwww.estrategiaconcursos.com.br\n\n60",
+        "explanation": "\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n57\n\nwww.estrategiaconcursos.com.br\n\n60",
         "type": "true-false"
       },
       {
         "id": "a01II_q51",
-        "question": "As receitas e as despesas provocam variações",
+        "question": "As receitas e as despesas provocam variações patrimoniais, aumentando ou diminuindo o patrimônio líquido; por essa razão, segundo a teoria",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "patrimoniais, aumentando ou diminuindo o patrimônio líquido; por essa razão, segundo a teoria\npatrimonialista, elas são classificadas como contas patrimoniais.\nA respeito de contas, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "explanation": "patrimonialista, elas são classificadas como contas patrimoniais.\nA respeito de contas, julgue o item seguinte.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q52",
-        "question": "As contas permitem o registro dos fatos",
+        "question": "As contas permitem o registro dos fatos administrativos do dia a dia da entidade, os quais, por sua vez, são fundamentais para a elaboração das",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "administrativos do dia a dia da entidade, os quais, por sua vez, são fundamentais para a elaboração das\ndemonstrações contábeis e para o cumprimento dos objetivos da contabilidade.\n==338b5d==\n\nA respeito de contas, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "explanation": "demonstrações contábeis e para o cumprimento dos objetivos da contabilidade.\n==338b5d==\n\nA respeito de contas, julgue o item seguinte.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q53",
-        "question": "As contas de ativo e de despesas serão debitadas",
+        "question": "As contas de ativo e de despesas serão debitadas sempre que for necessário aumentar os seus saldos, e serão creditadas quando a intenção for diminuí-los.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "sempre que for necessário aumentar os seus saldos, e serão creditadas quando a intenção for diminuí-los.\nJá as contas de passivo e de receitas seguem mecanismo inverso.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Já as contas de passivo e de receitas seguem mecanismo inverso.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q54",
-        "question": "As contas retificadoras acompanham as respectivas",
+        "question": "As contas retificadoras acompanham as respectivas contas principais no balanço patrimonial, sendo lançadas sempre com sinal oposto ao do lançamento das",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contas principais no balanço patrimonial, sendo lançadas sempre com sinal oposto ao do lançamento das\ncontas que retificam.\n\n--------------------------------------------------------------------------------",
+        "explanation": "contas que retificam.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q55",
-        "question": "Pelo sistema de partidas dobradas, a conta caixa e",
+        "question": "Pelo sistema de partidas dobradas, a conta caixa e equivalentes é debitada pelo ingresso de recursos financeiros na entidade, e creditada por ocasião dos",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "equivalentes é debitada pelo ingresso de recursos financeiros na entidade, e creditada por ocasião dos\npagamentos em caixa.\nConsiderando os princípios, teorias e normas contábeis aplicáveis no Brasil, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "explanation": "pagamentos em caixa.\nConsiderando os princípios, teorias e normas contábeis aplicáveis no Brasil, julgue o item subsequente.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a01II_q56",
-        "question": "Uma conta de natureza devedora que não seja",
+        "question": "Uma conta de natureza devedora que não seja retificadora expressa uma aplicação de recurso.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "retificadora expressa uma aplicação de recurso.\n\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n58\n\nwww.estrategiaconcursos.com.br\n\n60",
+        "explanation": "\nSEFAZ-RN (Auditor Fiscal do Tesouro Estadual) Contabilidade Geral e Avançada - 2025 (Pós-Edital)\n\n58\n\nwww.estrategiaconcursos.com.br\n\n60",
         "type": "true-false"
       }
     ]
@@ -1886,13 +1996,13 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a02_q3",
-        "question": "A expressão contábil a seguir, que é utilizada no sistema clássico de",
+        "question": "A expressão contábil a seguir, que é utilizada no sistema clássico de Outra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 1,
-        "explanation": "Comentários:\nOutra forma de lançamento, também conhecida como partida de Diário ou Lançamento Manual. A conta\nprecedida da preposição “a” é a conta creditada. Quando no seu concurso aparecer a palavra diversos, saiba\nque há mais de uma conta creditada ou debitada.\nComo o quesito quer qual é tipo de fórmula desse lançamento, vejamos nosso esquema:\nLançamento Débito Crédito\n1a fórmula\n1\n1\n2a fórmula\n1\n2\n3a fórmula\n2\n1\n4a fórmula\n2\n2\n\nDenominação\nLançamento Simples\nLançamento Composto\nLançamento Composto\nLançamento Complexo\n\nÉ só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem cres",
+        "explanation": "Comentários:\nprecedida da preposição “a” é a conta creditada. Quando no seu concurso aparecer a palavra diversos, saiba\nque há mais de uma conta creditada ou debitada.\nComo o quesito quer qual é tipo de fórmula desse lançamento, vejamos nosso esquema:\nLançamento Débito Crédito\n1a fórmula\n1\n1\n2a fórmula\n1\n2\n3a fórmula\n2\n1\n4a fórmula\n2\n2\n\nDenominação\nLançamento Simples\nLançamento Composto\nLançamento Composto\nLançamento Complexo\n\nÉ só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem cres",
         "type": "true-false"
       },
       {
@@ -1952,13 +2062,13 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a02_q9",
-        "question": "Considere que uma entidade comercial tenha recebido de um",
+        "question": "Considere que uma entidade comercial tenha recebido de um No tocante ao fato misto, ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "Comentários:\nNo tocante ao fato misto, ele envolve, ao mesmo tempo, um fato permutativo e um fato modificativo.\nA contabilização é a seguinte:\nD – Disponibilidades 380,00 (+ Ativo)\nC – Duplicatas a receber 350,00 (- Ativo)\nC – Juros Ativos 50,00 (+ Resultado = Receita)\nAqui temos um fato misto aumentativo, visto que ele envolve, ao mesmo tempo, um fato permutativo e um\nfato modificativo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos:\nFato permutativo:\nD – Disponibilidades 350,00 (+ Ativo)\nC – Duplicatas a receber 350,00 (- Ativo)\nFato modificativo aumentativo:\nD – Disponib",
+        "explanation": "Comentários:\nA contabilização é a seguinte:\nD – Disponibilidades 380,00 (+ Ativo)\nC – Duplicatas a receber 350,00 (- Ativo)\nC – Juros Ativos 50,00 (+ Resultado = Receita)\nAqui temos um fato misto aumentativo, visto que ele envolve, ao mesmo tempo, um fato permutativo e um\nfato modificativo. Para facilitar a visualização, vamos dividi-lo em dois lançamentos:\nFato permutativo:\nD – Disponibilidades 350,00 (+ Ativo)\nC – Duplicatas a receber 350,00 (- Ativo)\nFato modificativo aumentativo:\nD – Disponib",
         "type": "true-false"
       },
       {
@@ -1974,13 +2084,13 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a02_q11",
-        "question": "O aumento do caixa e do capital de uma entidade, por meio de um",
+        "question": "O aumento do caixa e do capital de uma entidade, por meio de um A contabilização é a seguinte:",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 1,
-        "explanation": "Comentários:\nA contabilização é a seguinte:\nD – Caixa (+ Ativo)\nC – Capital Social (+PL)\nNão há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL\n(como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem\nque, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! O aumento do caixa e do capital de uma entidade, por meio",
+        "explanation": "Comentários:\nD – Caixa (+ Ativo)\nC – Capital Social (+PL)\nNão há unanimidade entre os autores sobre este assunto. Alguns entendem que qualquer alteração no PL\n(como integralização de capital ou compra de ações em tesouraria) é fato modificativo. Outros, entendem\nque, para ser fato modificativo ou misto, tem que obrigatoriamente envolver uma conta de resultado.\nPriii! Aqui vamos chamar o \"VAR\":\nEntendimento do CEBRASPE! O aumento do caixa e do capital de uma entidade, por meio",
         "type": "true-false"
       },
       {
@@ -2018,13 +2128,13 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a02_q15",
-        "question": "A aquisição de mercadorias a prazo é um exemplo de",
+        "question": "A aquisição de mercadorias a prazo é um exemplo de Podemos contabilizar a aquisição de mercadorias a prazo da seguinte forma:",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 1,
-        "explanation": "Comentários:\nPodemos contabilizar a aquisição de mercadorias a prazo da seguinte forma:\nD - Estoques (Ativo)\nC - Fornecedores (Passivo)\nPercebam que tivemos um aumento do ativo e do passivo, mas sem efeitos no resultado, portanto, estamos\ndiante de um fato permutativo.",
+        "explanation": "Comentários:\nD - Estoques (Ativo)\nC - Fornecedores (Passivo)\nPercebam que tivemos um aumento do ativo e do passivo, mas sem efeitos no resultado, portanto, estamos\ndiante de um fato permutativo.",
         "type": "true-false"
       },
       {
@@ -2186,321 +2296,365 @@ export const questionsData: Module[] = [
       },
       {
         "id": "a02_q30",
-        "question": "O lançamento a seguir constitui um fato contábil modificativo",
+        "question": "O lançamento a seguir constitui um fato contábil modificativo diminutivo.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "diminutivo.\ndebite — ações em tesouraria\ncredite — bancos\nNo que diz respeito aos atos e fatos administrativos, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "debite — ações em tesouraria\ncredite — bancos\nNo que diz respeito aos atos e fatos administrativos, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q31",
-        "question": "Um fato que simultaneamente modifique o patrimônio de forma",
+        "question": "Um fato que simultaneamente modifique o patrimônio de forma qualitativa e de forma quantitativa é um fato composto, estando bem representado pelo",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "qualitativa e de forma quantitativa é um fato composto, estando bem representado pelo\nprovisionamento para distribuição de dividendos.\nEm relação a plano de contas e escrituração contábil, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "provisionamento para distribuição de dividendos.\nEm relação a plano de contas e escrituração contábil, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q32",
-        "question": "A expressão contábil a seguir, que é utilizada no sistema clássico de",
+        "question": "A expressão contábil a seguir, que é utilizada no sistema clássico de escrituração, indica uma partida de segunda ou terceira fórmula.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "escrituração, indica uma partida de segunda ou terceira fórmula.\nDiversos\na Diversos\nCom relação à escrituração contábil, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\nDiversos\na Diversos\nCom relação à escrituração contábil, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q33",
-        "question": "O lançamento de 3.ª fórmula pode ser utilizado para o registro no",
+        "question": "O lançamento de 3.ª fórmula pode ser utilizado para o registro no livro diário da aquisição de mercadorias em que apenas uma parcela do valor da transação esteja sendo",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "livro diário da aquisição de mercadorias em que apenas uma parcela do valor da transação esteja sendo\npaga à vista.\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "explanation": "paga à vista.\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q34",
-        "question": "O pagamento de uma conta sem juros, metade em cheque e",
+        "question": "O pagamento de uma conta sem juros, metade em cheque e metade em dinheiro, é um fato misto.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "metade em dinheiro, é um fato misto.\nEm relação ao plano de contas contábil, julgue os itens subsequentes.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Em relação ao plano de contas contábil, julgue os itens subsequentes.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q35",
-        "question": "Entre os vários componentes de um plano de",
+        "question": "Entre os vários componentes de um plano de contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contas completo, um dos mais conhecidos é o elenco de contas, composto pela disposição organizada\ndas contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal\nconta.\n\n65 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n",
+        "explanation": "\ndas contas de uso da instituição, com seus códigos, em geral, numéricos, e o literal que qualifica tal\nconta.\n\n65 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n",
         "type": "true-false"
       },
       {
         "id": "a02_q36",
-        "question": "A identificação de quando uma conta deve ser",
+        "question": "A identificação de quando uma conta deve ser debitada e quando ela deve ser creditada é informação que consta da parte do plano de contas",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "debitada e quando ela deve ser creditada é informação que consta da parte do plano de contas\nconhecida como funcionamento.\n\n--------------------------------------------------------------------------------",
+        "explanation": "conhecida como funcionamento.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q37",
-        "question": "A construção de um bom plano de contas somente",
+        "question": "A construção de um bom plano de contas somente é possível caso se tenha como pressuposto o foco nas necessidades de informação na equipe",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "é possível caso se tenha como pressuposto o foco nas necessidades de informação na equipe\nresponsável pelo desenvolvimento das atividades contábeis da empresa. Um plano de contas é bom\nquando atende as necessidades de trabalho, organização e informação do pessoal da contabilidade.\nCom relação aos atos e fatos administrativos e aos fatos contábeis, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "explanation": "responsável pelo desenvolvimento das atividades contábeis da empresa. Um plano de contas é bom\nquando atende as necessidades de trabalho, organização e informação do pessoal da contabilidade.\nCom relação aos atos e fatos administrativos e aos fatos contábeis, julgue o item seguinte.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q38",
-        "question": "Considere que uma entidade comercial tenha recebido de um",
+        "question": "Considere que uma entidade comercial tenha recebido de um cliente o valor de R$ 380,00, sendo R$ 350,00 referentes ao valor da venda e R$ 30,00 relativos aos juros",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "cliente o valor de R$ 380,00, sendo R$ 350,00 referentes ao valor da venda e R$ 30,00 relativos aos juros\ndecorrentes do pagamento em atraso por parte do cliente. Nesse caso, verifica-se, no referido\nrecebimento, um fato contábil misto.\n==338b5d==\n\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\ndecorrentes do pagamento em atraso por parte do cliente. Nesse caso, verifica-se, no referido\nrecebimento, um fato contábil misto.\n==338b5d==\n\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q39",
-        "question": "Um depósito bancário com recursos oriundos do caixa da entidade",
+        "question": "Um depósito bancário com recursos oriundos do caixa da entidade constitui um fato permutativo.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "constitui um fato permutativo.\nCom relação aos atos e fatos administrativos, julgue o item subsequente.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Com relação aos atos e fatos administrativos, julgue o item subsequente.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q40",
-        "question": "O aumento do caixa e do capital de uma entidade, por meio de um",
+        "question": "O aumento do caixa e do capital de uma entidade, por meio de um aporte de recursos dos sócios, é um fato permutativo, pois não gera nem receita nem despesa.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "aporte de recursos dos sócios, é um fato permutativo, pois não gera nem receita nem despesa.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q41",
-        "question": "Assinale a opção correspondente a um evento que deve ser",
+        "question": "Assinale a opção correspondente a um evento que deve ser classificado como um fato contábil misto.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "classificado como um fato contábil misto.\na) aquisição de mercadorias, com pagamento de 50% do valor à vista e o restante a prazo\nb) recebimento do pagamento de duplicatas decorrentes de vendas a prazo\nc) obtenção de financiamento para a aquisição de veículo\nd) depreciação do imóvel da fábrica\ne) amortização de empréstimos com juros de mora\nQuanto a contas contábeis, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "explanation": "a) aquisição de mercadorias, com pagamento de 50% do valor à vista e o restante a prazo\nb) recebimento do pagamento de duplicatas decorrentes de vendas a prazo\nc) obtenção de financiamento para a aquisição de veículo\nd) depreciação do imóvel da fábrica\ne) amortização de empréstimos com juros de mora\nQuanto a contas contábeis, julgue o item que se segue.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q42",
-        "question": "A expressão contábil de um fato permutativo necessariamente",
+        "question": "A expressão contábil de um fato permutativo necessariamente envolve ao menos uma conta de natureza devedora e uma conta de natureza credora.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "envolve ao menos uma conta de natureza devedora e uma conta de natureza credora.\nJulgue os próximos itens, a respeito de escrituração contábil.\n\n66 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo",
+        "explanation": "Julgue os próximos itens, a respeito de escrituração contábil.\n\n66 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo",
         "type": "true-false"
       },
       {
         "id": "a02_q43",
-        "question": "Um procedimento usual na escrituração contábil é",
+        "question": "Um procedimento usual na escrituração contábil é o estorno, que ocorre quando um erro de lançamento foi cometido; o estorno, necessariamente, deve",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "o estorno, que ocorre quando um erro de lançamento foi cometido; o estorno, necessariamente, deve\nreverter integralmente o lançamento errado, não sendo admitido estorno parcial de lançamento.\nCom relação aos objetivos e princípios da contabilidade, aos elementos que compõem o patrimônio das\nentidades e aos eventos que podem vir a impactar esse patrimônio, julgue o item seguinte.\n\n--------------------------------------------------------------------------------",
+        "explanation": "reverter integralmente o lançamento errado, não sendo admitido estorno parcial de lançamento.\nCom relação aos objetivos e princípios da contabilidade, aos elementos que compõem o patrimônio das\nentidades e aos eventos que podem vir a impactar esse patrimônio, julgue o item seguinte.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q44",
-        "question": "A aquisição de mercadorias a prazo é um exemplo de",
+        "question": "A aquisição de mercadorias a prazo é um exemplo de fato administrativo modificativo.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "fato administrativo modificativo.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q45",
-        "question": "Julgue os itens a seguir, relativos a atos e fatos",
+        "question": "Julgue os itens a seguir, relativos a atos e fatos administrativos.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "administrativos.\nI A compra, à vista, de mercadorias para revenda constitui um fato administrativo permutativo.\nII A compra de um veículo, com 50% do pagamento em dinheiro e 50% financiado, é um exemplo de fato\nadministrativo misto.\nIII O pagamento de um título vencido e acrescido de juros moratórios e multa é um fato administrativo\nmodificativo.\nAssinale a opção correta.\na) Apenas o item I está certo.\nb) Apenas o item II está certo.",
+        "explanation": "I A compra, à vista, de mercadorias para revenda constitui um fato administrativo permutativo.\nII A compra de um veículo, com 50% do pagamento em dinheiro e 50% financiado, é um exemplo de fato\nadministrativo misto.\nIII O pagamento de um título vencido e acrescido de juros moratórios e multa é um fato administrativo\nmodificativo.\nAssinale a opção correta.\na) Apenas o item I está certo.\nb) Apenas o item II está certo.",
         "type": "true-false"
       },
       {
         "id": "a02_q46",
-        "question": "Considere que uma empresa tenha chegado a um",
+        "question": "Considere que uma empresa tenha chegado a um acordo com um de seus fornecedores para saldar determinado débito com a entrega de um ativo da",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "acordo com um de seus fornecedores para saldar determinado débito com a entrega de um ativo da\ncompanhia. Considere, ainda, que nenhum desconto tenha sido concedido pelo credor e nenhum\nencargo adicional tenha sido pago pela devedora. Nessa situação, a variação no patrimônio dos\nenvolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\ncompanhia. Considere, ainda, que nenhum desconto tenha sido concedido pelo credor e nenhum\nencargo adicional tenha sido pago pela devedora. Nessa situação, a variação no patrimônio dos\nenvolvidos foi qualitativa e não quantitativa, não se tratando de um fato contábil modificativo.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q47",
-        "question": "Considere que um empréstimo tenha sido",
+        "question": "Considere que um empréstimo tenha sido contratado pelo prazo de 12 meses, com juros prefixados mensais, e que, ao final de cada período",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contratado pelo prazo de 12 meses, com juros prefixados mensais, e que, ao final de cada período\nmensal, será debitada na conta-corrente da financiada uma parcela de capital e uma parcela de juros,\nconforme metodologia definida entre as partes. Nessas condições, a cada mês ocorre um fato misto\nque modifica a situação patrimonial líquida negativamente.\nJulgue os itens seguintes, a respeito de contas, devedoras ou credoras e seus saldos.\n\n67 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71",
+        "explanation": "mensal, será debitada na conta-corrente da financiada uma parcela de capital e uma parcela de juros,\nconforme metodologia definida entre as partes. Nessas condições, a cada mês ocorre um fato misto\nque modifica a situação patrimonial líquida negativamente.\nJulgue os itens seguintes, a respeito de contas, devedoras ou credoras e seus saldos.\n\n67 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71",
         "type": "true-false"
       },
       {
         "id": "a02_q48",
-        "question": "Se determinada obrigação foi quitada em atraso,",
+        "question": "Se determinada obrigação foi quitada em atraso, gerando o pagamento de encargos financeiros, então, nessas condições, ao menos duas contas credoras",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "gerando o pagamento de encargos financeiros, então, nessas condições, ao menos duas contas credoras\ne uma conta devedora serão necessárias para espelhar contabilmente o evento.\nAcerca dos lançamentos contábeis, julgue o item que se segue.\n\n--------------------------------------------------------------------------------",
+        "explanation": "e uma conta devedora serão necessárias para espelhar contabilmente o evento.\nAcerca dos lançamentos contábeis, julgue o item que se segue.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q49",
-        "question": "A retificação de",
+        "question": "A retificação de lançamento denominada transferência consiste em lançamento inverso àquele feito erroneamente",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "lançamento denominada transferência consiste em lançamento inverso àquele feito erroneamente\ncom anulação total do valor registrado.\nEm relação a contas e sua natureza e escrituração de fatos administrativos, julgue o item subsecutivo.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\ncom anulação total do valor registrado.\nEm relação a contas e sua natureza e escrituração de fatos administrativos, julgue o item subsecutivo.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q50",
-        "question": "Como exemplo de escrituração de um fato misto, temse a ocorrência de lançamentos em contas de ativo circulante e de passivo não circulante como",
+        "question": "Como exemplo de escrituração de um fato misto, temse a ocorrência de lançamentos em contas de ativo circulante e de passivo não circulante como contrapartidas uns dos outros.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "contrapartidas uns dos outros.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q51",
-        "question": "Um evento foi escriturado corretamente",
+        "question": "Um evento foi escriturado corretamente conforme se segue.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "conforme se segue.\ndebite – contas a pagar\ncredite – caixa\ncredite – desconto obtido\nEssa contabilização expressa um fato patrimonial\nA modificativo aumentativo.\nB misto.\nC permutativo.\nD modificativo diminutivo.",
+        "explanation": "debite – contas a pagar\ncredite – caixa\ncredite – desconto obtido\nEssa contabilização expressa um fato patrimonial\nA modificativo aumentativo.\nB misto.\nC permutativo.\nD modificativo diminutivo.",
         "type": "true-false"
       },
       {
         "id": "a02_q52",
-        "question": "Constitui fato administrativo modificativo",
+        "question": "Constitui fato administrativo modificativo A o pagamento de fornecedores.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "A o pagamento de fornecedores.\nB a compra de material de expediente para estoque.\nC a compra de imóvel a prazo.\nD o recebimento de bem em doação.\nE o financiamento com entrada imediata do recurso para pagamento em 10 anos.\nCom relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos\nadministrativos, julgue os itens que seguem.\n\n--------------------------------------------------------------------------------",
+        "explanation": "B a compra de material de expediente para estoque.\nC a compra de imóvel a prazo.\nD o recebimento de bem em doação.\nE o financiamento com entrada imediata do recurso para pagamento em 10 anos.\nCom relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos\nadministrativos, julgue os itens que seguem.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q53",
-        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo",
+        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo exige, no mínimo, uma partida de terceira fórmula para ser registrada contabilmente.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "exige, no mínimo, uma partida de terceira fórmula para ser registrada contabilmente.\n\n68 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo\nAula 02",
+        "explanation": "\n68 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo\nAula 02",
         "type": "true-false"
       },
       {
         "id": "a02_q54",
-        "question": "A contratação do novo funcionário é um ato administrativo que",
+        "question": "A contratação do novo funcionário é um ato administrativo que impacta positivamente o patrimônio líquido da entidade contratante.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "impacta positivamente o patrimônio líquido da entidade contratante.\nCom relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos\nadministrativos, julgue os itens que seguem.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Com relação aos conceitos fundamentais da contabilidade e seu mecanismo de registro de fatos\nadministrativos, julgue os itens que seguem.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q55",
-        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo",
+        "question": "A aquisição de um bem mediante uma parte a vista e outra a prazo exige, no mínimo, uma partida de terceira fórmula para ser registrada contabilmente.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "exige, no mínimo, uma partida de terceira fórmula para ser registrada contabilmente.\nConsidere que a empresa XYZ tenha quitado antecipadamente uma dívida, tendo obtido, no ato da quitação\num desconto pela antecipação dos valores até então pendentes de pagamento. Com base nessa situação\nhipotética, julgue os itens seguintes.\n\n--------------------------------------------------------------------------------",
+        "explanation": "Considere que a empresa XYZ tenha quitado antecipadamente uma dívida, tendo obtido, no ato da quitação\num desconto pela antecipação dos valores até então pendentes de pagamento. Com base nessa situação\nhipotética, julgue os itens seguintes.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q56",
-        "question": "O pagamento antecipado da dívida representa um fato contábil misto",
+        "question": "O pagamento antecipado da dívida representa um fato contábil misto para a empresa XYZ.",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "para a empresa XYZ.\n\n--------------------------------------------------------------------------------",
+        "explanation": "\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q57",
-        "question": "A terceira fórmula de lançamento, também denominada fórmula",
+        "question": "A terceira fórmula de lançamento, também denominada fórmula complexa, requer a utilização de uma conta devedora e duas ou mais contas credoras para o registro",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "complexa, requer a utilização de uma conta devedora e duas ou mais contas credoras para o registro\nde um evento contábil.\nDeterminada entidade contratou dois funcionários para a área de vendas no primeiro dia do mês. No dia 15\ndo referido mês, esses dois funcionários receberam adiantamentos correspondentes a 30% dos salários a\nque tinham direito no mês. O restante foi pago no quinto dia útil do mês subsequente. A respeito da situação\nhipotética apresentada, julgue o item a seguir.\n\n--------------------------------------------------------------------------------",
+        "explanation": "de um evento contábil.\nDeterminada entidade contratou dois funcionários para a área de vendas no primeiro dia do mês. No dia 15\ndo referido mês, esses dois funcionários receberam adiantamentos correspondentes a 30% dos salários a\nque tinham direito no mês. O restante foi pago no quinto dia útil do mês subsequente. A respeito da situação\nhipotética apresentada, julgue o item a seguir.\n\n
+---
+",
         "type": "true-false"
       },
       {
         "id": "a02_q58",
-        "question": "Os adiantamentos pagos aos funcionários no dia 15 do referido",
+        "question": "Os adiantamentos pagos aos funcionários no dia 15 do referido mês são considerados fatos modificativos porque reduzem o ativo (saída de caixa) e reduzem o",
         "options": [
           "Certo",
           "Errado"
         ],
         "correct": 0,
-        "explanation": "mês são considerados fatos modificativos porque reduzem o ativo (saída de caixa) e reduzem o\npatrimônio (reconhecimento de despesa).\n\n69 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo",
+        "explanation": "patrimônio (reconhecimento de despesa).\n\n69 Rosa e S\nSEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano\n71\nwww.estrategiaconcursos.com.br\n\n\fLuciano Rosa, Júlio Cardozo",
         "type": "true-false"
       }
     ]

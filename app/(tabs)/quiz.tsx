@@ -5,6 +5,7 @@ import { questionsData, Question } from "@/lib/questions-data";
 import { useState, useEffect } from "react";
 import { ChevronLeft, ChevronRight, CheckCircle, XCircle } from "lucide-react-native";
 import * as Haptics from "expo-haptics";
+import { MarkdownRenderer } from "@/components/markdown-renderer";
 
 export default function QuizScreen() {
   const router = useRouter();
@@ -107,9 +108,7 @@ export default function QuizScreen() {
 
           {/* Question */}
           <View className="bg-surface rounded-xl p-4 border border-border gap-4">
-            <Text className="text-base font-semibold text-foreground leading-relaxed">
-              {currentQuestion.question}
-            </Text>
+            <MarkdownRenderer content={currentQuestion.question} />
 
             {/* Options */}
             <View className="gap-2">
@@ -183,14 +182,12 @@ export default function QuizScreen() {
               <Text className="text-sm font-semibold text-primary">
                 {isCorrect ? "✓ Resposta Correta!" : "✗ Resposta Incorreta"}
               </Text>
-              <Text className="text-sm text-foreground leading-relaxed">
-                {currentQuestion.explanation}
-              </Text>
+              <MarkdownRenderer content={currentQuestion.explanation} />
             </View>
           )}
 
           {/* Navigation Buttons */}
-          <View className="flex-row gap-3 mt-4">
+          <View className="flex-row gap-3 mt-4 mb-8">
             <TouchableOpacity
               onPress={handlePreviousQuestion}
               disabled={currentQuestionIndex === 0}

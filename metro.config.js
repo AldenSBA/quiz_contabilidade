@@ -1,4 +1,4 @@
-// Configuração adaptada para Windows (CommonJS) para evitar erro de protocolo 'c:'
+// Metro Config - CommonJS for Windows Compatibility
 const { getDefaultConfig } = require('expo/metro-config');
 const { withNativeWind } = require('nativewind/metro');
 

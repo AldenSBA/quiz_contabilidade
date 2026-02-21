@@ -1,9 +1,9 @@
 export const questionsData = [
   {
-    "id": "aula00",
+    "id": "00",
     "title": "00",
     "description": "Questões comentadas da 00",
-    "color": "bg-blue-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "00_q1",
@@ -358,10 +358,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula01",
+    "id": "01",
     "title": "01",
     "description": "Questões comentadas da 01",
-    "color": "bg-indigo-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "01_q1",
@@ -578,10 +578,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula01p2",
+    "id": "01parteii",
     "title": "01 Parte II",
     "description": "Questões comentadas da 01 Parte II",
-    "color": "bg-indigo-500",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "01_parte_ii_q1",
@@ -856,10 +856,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula02",
+    "id": "02",
     "title": "02",
     "description": "Questões comentadas da 02",
-    "color": "bg-green-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "02_q1",
@@ -1167,10 +1167,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula02p2",
+    "id": "02parteii",
     "title": "02 Parte II",
     "description": "Questões comentadas da 02 Parte II",
-    "color": "bg-green-500",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "02_parte_ii_q1",
@@ -1445,10 +1445,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula03",
+    "id": "03",
     "title": "03",
     "description": "Questões comentadas da 03",
-    "color": "bg-teal-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "03_q1",
@@ -1668,10 +1668,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula04",
+    "id": "04",
     "title": "04",
     "description": "Questões comentadas da 04",
-    "color": "bg-emerald-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "04_q46",
@@ -1907,10 +1907,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula05",
+    "id": "05",
     "title": "05",
     "description": "Questões comentadas da 05",
-    "color": "bg-yellow-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "05_q1",
@@ -2160,10 +2160,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula06",
+    "id": "06",
     "title": "06",
     "description": "Questões comentadas da 06",
-    "color": "bg-orange-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "06_q2",
@@ -2446,10 +2446,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula07",
+    "id": "07",
     "title": "07",
     "description": "Questões comentadas da 07",
-    "color": "bg-purple-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "07_q1",
@@ -2719,10 +2719,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula08",
+    "id": "08",
     "title": "08",
     "description": "Questões comentadas da 08",
-    "color": "bg-pink-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "08_q1",
@@ -3053,10 +3053,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula09",
+    "id": "09",
     "title": "09",
     "description": "Questões comentadas da 09",
-    "color": "bg-cyan-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "09_q1",
@@ -3372,10 +3372,10 @@ export const questionsData = [
     ]
   },
   {
-    "id": "aula10",
+    "id": "10",
     "title": "10",
     "description": "Questões comentadas da 10",
-    "color": "bg-red-600",
+    "color": "bg-gray-600",
     "questions": [
       {
         "id": "10_q1",
@@ -3687,6 +3687,5626 @@ export const questionsData = [
         "correct": 1,
         "explanation": "Vamos apresentar aquele esquema que tem que estar no sangue para questões que tratam de ativos contingentes: Praticamente Contabiliza e certo divulga Não ATIVO Provável contabiliza e CONTINGENTE divulga Não Remoto contabiliza, nem divulga Então vamos analisar as informações. No primeiro caso, o GANHO da empresa foi classificada como remoto, trata-se de um ativo contingente, não temos que contabilizar nem divulgar. Agora, no segundo caso, o ganho da empresa foi classificado com possível, assim sendo, temos um ativo contingente que não será contabilizado tampouco divulgado. O CPC 25, item 34, afirma: O ativo contingente é divulgado, como exigido pelo item 89, quando for provável a entrada de benefícios econômicos Portanto, o item está errado, pois no segundo caso também não temos que divulgar esse ativo contingente.",
         "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula11",
+    "title": "11",
+    "description": "Questões comentadas da 11",
+    "color": "bg-blue-700",
+    "questions": [
+      {
+        "id": "aula11_q1",
+        "question": "(CEBRASPE/ITAIPU/Contador/2024) No encerramento do seu último exercício social, uma entidade contábil registrou uma operação de desconto de parte de sua carteira de créditos a receber com uma instituição financeira. A entidade recebeu 95% do valor desses títulos, sendo o restante relativo aos encargos de desconto. Os títulos vencem nos próximos 90 dias e, em caso de inadimplência do devedor, o valor do título, acrescido de encargos, será debitado da conta da entidade. Nessas condições, o fato contábil a ser escriturado é do tipo",
+        "options": [
+          "modificativo aumentativo.",
+          "modificativo diminutivo.",
+          "misto diminutivo.",
+          "permutativo.",
+          "misto aumentativo."
+        ],
+        "correct": 3,
+        "explanation": "Descontar uma duplicata é, grosso modo, uma operação em que pegamos um adiantamento do valor das duplicatas com o banco, deixando-as em garantia. Em essência, é um empréstimo. A contabilização que deve ser feita inicialmente é: D - Bancos Conta Movimento (Ativo Circulante) D - Encargos Financeiros a Transcorrer (Ret. do Passivo Circulante) C - Duplicatas Descontadas (Passivo Circulante) Percebam que estamos diante de um fato permutativo, pois não o reconhecimento de despesas no momento inicial da operação, mas, ao longo do prazo, por competência.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula11_q2",
+        "question": "(CEBRASPE/CAU BR/Técnico-Financeiro/2024) Sob a ótica das empresas comerciais, o desconto de duplicatas é uma operação passiva que implicará o reconhecimento de despesas de juros na data em que se der a liberação dos recursos pela instituição financeira responsável pela concessão do crédito.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A contabilização que deve ser feita inicialmente em uma operação de desconto de duplicatas é a seguinte: 36 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55 D - Bancos Conta Movimento (Ativo Circulante) D - Encargos Financeiros a Transcorrer (Ret. do Passivo Circulante) C - Duplicatas Descontadas (Passivo Circulante) Percebam que não há o reconhecimento de despesas no momento inicial da operação, mas, ao longo do prazo, por competência. Portanto, o item está errado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q4",
+        "question": "(CEBRASPE/PCDF/Agente/2021) O registro contábil da baixa de uma duplicata descontada não quitada, com os juros correspondentes, pode ser realizado por meio de uma partida de segunda fórmula.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Antes vamos revisar as fórmulas de lançamento por meio do nosso esquema: Lançamento Débito Crédito 1a fórmula 1 1 2a fórmula 1 2 3a fórmula 2 1 4a fórmula 2 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. O quesito informou que houve a baixa de duplicata não quitada, com juros correspondentes. Assim, temos que diminuir a conta duplicatas descontadas por meio do débito e creditar a conta Disponibilidades. Ainda, como houve juros, teremos que apropriar a despesa financeira. A contabilização desse fato é a seguinte: D – Duplicatas Descontadas (Passivo exigível) D - Despesa de Juros (Resultado) C – Caixa/Bancos (Diminuindo o caixa) Veja que temos duas ou mais contas debitadas e uma conta creditada. Isso representa um lançamento de 3° fórmula. Consequentemente, o quesito erra ao afirmar que seria de 2° fórmula.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q5",
+        "question": "(CEBRASPE/PCDF/Agente2021) A contabilização da variação monetária ativa, advinda de operações de crédito em moeda estrangeira, fará que o resultado do exercício seja reduzido no mês em que a variação ocorrer.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Em algumas situações, as empresas podem efetuar operações em moeda estrangeira, como por exemplo, a aquisição de mercadorias à vista ou a prazo, a aquisição de ativos imobilizados, ou até mesmo, obter empréstimos ou financiamentos em outras moedas, tais como, dólar, euro, etc. Nesse sentido, podemos ter variações na taxa de câmbio nas operações envolvidas e precisamos conhecer o tratamento contábil adequado para essas situações. Exemplificando! A Cia JLS possui saldo em espécie de $ 10.000,00, contabilizados inicialmente a uma taxa de câmbio de R$ 4,00. Na contabilidade da empresa teríamos o seguinte: Depósitos em moeda estrangeira = $ 10.000,00 → x 4,00 = R$ 40.000,00 Agora, suponha que tenha ocorrido uma alteração na taxa de câmbio para R$ 4,50, nesse caso, a empresa deverá fazer a conversão: Depósitos em moeda estrangeira = $ 10.000,00 → x 4,50 = R$ 45.000,00 Como vamos contabilizar a diferença positiva para a empresa de 45.000 – 40.000 = R$ 5.000,00? Será uma receita com variação cambial positiva, vejam a contabilização: D – Disponibilidades em Moeda Estrangeira R$ 5.000,00 C – Variação Cambial Positiva – Receita Financeira R$ 5.000,00 Agora, imaginem que a taxa de câmbio tenha uma queda e passe para R$ 4,30. Devemos fazer a conversão: Depósitos em moeda estrangeira = $ 10.000,00 → x 4,30 = R$ 43.000,00 Como vamos contabilizar a diferença negativa para a empresa de 43.000 – 45.000 = (R$ 2.000,00)? Será uma receita com variação cambial negativa, uma despesa financeira para a empresa. Vejam a contabilização: D – Variação Cambial Negativa – Despesa Financeira R$ 2.000,00 C – Disponibilidades em Moeda Estrangeira R$ 2.000,00 Percebam que a variação cambial pode trazer benefícios ou prejuízos para a entidade, isto é, pode ser uma receita ou uma despesa, de acordo com a variação ocorrida no câmbio. Em síntese: 39 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55 Positiva Receita Financeira Variação Cambial Despesa Negativa Financeira Observe que a variação ativa fará que o resultado do exercício aumente no mês em que a variação ocorrer.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q6",
+        "question": "(CEBRASPE/COGE CE/Auditor de Controle Interno/2019) Texto 1A2-I As informações a seguir representam os fatos considerados relevantes em uma operação de venda seguida de uma operação de aquisição de imobilizado efetuadas por uma companhia. dados relativos à venda • valor – R$ 100.000 • forma de recebimento – pagamento único • prazo: 10 meses • valor presente do ativo a receber – R$ 86.000 (no momento da operação) • valor presente do ativo a receber – R$ 87.000 (decorrido um mês) dados relativos à aquisição • valor – R$ 80.000 • forma de pagamento – em 10 prestações de R$ 8.000 • valor presente do fluxo das prestações – R$ 75.500 Ainda de acordo com a Lei n.º 6.404/1976 e o Pronunciamento Técnico CPC 12 do Comitê de Pronunciamentos Contábeis, é correto afirmar que, na companhia referida no texto 1A2-I, o financiamento deve ser registrado pelo valor de",
+        "options": [
+          "R$ 80.000, e o valor que deve ser apropriado, decorrido um mês da operação, é igual a R$ 450, a ser contabilizado a débito da conta representativa do financiamento.",
+          "R$ 75.500, e o valor que deve ser apropriado, decorrido um mês da operação, é igual a R$ 450, a ser contabilizado a débito da conta representativa do financiamento.",
+          "R$ 80.000, ajustado por encargos financeiros a transcorrer de R$ 4.500, e o valor que deve ser apropriado, decorrido um mês da operação, é igual a R$ 450, a ser contabilizado a débito de uma conta retificadora do financiamento.",
+          "R$ 80.000, ajustado por encargos financeiros a transcorrer de R$ 4.500, e o valor que deve ser apropriado, decorrido um mês da operação, não é calculado de forma linear e deverá ser contabilizado a crédito de uma conta retificadora do financiamento. 40 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55",
+          "R$ 80.000, ajustado por encargos financeiros a transcorrer de R$ 4.500, e o valor que deve ser apropriado, decorrido um mês da operação, não é calculado de forma linear e deverá ser contabilizado a débito de uma conta retificadora do financiamento."
+        ],
+        "correct": 3,
+        "explanation": "O quesito exige informações sobre o financiamento. O lançamento inicial será: D – Imobilizado (Ativo) 75.500 D- Encargos financeiros a transcorrer (Retificadora do Passivo) 4.500 C- Financiamentos a pagar (Passivo) 80.000 Posteriormente, apropriamos os juros mês a mês: D - Despesa financeira (Resultado) xxxx C - Encargos financeiros a transcorrer (Retificadora do Passivo) xxx Devemos usar o método exponencial, pois o mercado dificilmente utilizará juros simples para uma operação de financiamento. Logo, não é calculado de forma linear. Portanto, é correto afirmar que o financiamento deve ser registrado pelo valor de R$ 80.000, ajustado por encargos financeiros a transcorrer de R$ 4.500, e o valor que deve ser apropriado, decorrido um mês da operação, não é calculado de forma linear e deverá ser contabilizado a crédito de uma conta retificadora do financiamento. Risquemos os erros das outras alternativas: a) R$ 80.000, e o valor que deve ser apropriado, decorrido um mês da operação, é igual a R$ 450, a ser contabilizado a débito da conta representativa do financiamento. b) R$ 75.500, e o valor que deve ser apropriado, decorrido um mês da operação, é igual a R$ 450, a ser contabilizado a débito da conta representativa do financiamento. c) R$ 80.000, ajustado por encargos financeiros a transcorrer de R$ 4.500, e o valor que deve ser apropriado, decorrido um mês da operação, é igual a R$ 450, a ser contabilizado a débito de uma conta retificadora do financiamento. e) R$ 80.000, ajustado por encargos financeiros a transcorrer de R$ 4.500, e o valor que deve ser apropriado, decorrido um mês da operação, não é calculado de forma linear e deverá ser contabilizado a débito de uma conta retificadora do financiamento.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula11_q7",
+        "question": "(CEBRASPE/PF/Agente/2018) Determinada sociedade comercial realizou, no período corrente, as transações apresentadas a seguir. • Apropriou a terceira cota anual cheia de depreciação de um veículo, originalmente adquirido por R$ 60.000, com vida útil estimada em 5 anos. A empresa tem como política considerar um valor residual de 10% para todos os seus bens. O método de depreciação empregado é o da soma dos dígitos dos anos. 41 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55 • Descontou, no banco onde mantém conta, uma duplicata a vencer em 60 dias. O título, com valor nominal de R$ 100.000, gerou um crédito de R$ 97.000 na conta-corrente da empresa. • Vendeu mercadorias por R$ 10.000, líquido de tributos, realizando a baixa dos estoques correspondentes, no valor de R$ 5.500. Nessa situação hipotética, a empresa, no momento do desconto do título, contabilizou despesa com encargos financeiros de R$ 3.000.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Errado. Tem que considerar o regime de competência e não na hora do desconto. A contabilização, no momento inicial, é a seguinte: D – Caixa (Ativo) 97.000 D – Encargos a transcorrer (Retificadora do Passivo) 3.000 C – Duplicatas descontadas (Passivo) 100.000 Os encargos devem ser apropriados ao resultado por competência (suponha R$ 100,00 ao mês para simplificar): D – Despesas financeiras (Resultado) 100 D – Encargos a transcorrer (Retificadora do Passivo) 100 Assim, a questão está errada, pois não ocorre um débito em despesas do período na data da liberação do crédito. A contabilização da despesa ocorre posteriormente, por competência, conforme a passagem do tempo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q8",
+        "question": "(CEBRASPE/Tec (FUB)/Contabilidade/2018) Para registrar a correção monetária pós-fixada referente a empréstimo anteriormente contratado, por ocasião do vencimento da referida obrigação, será adequado o lançamento a débito da conta variação monetária passiva e a crédito da conta empréstimo a pagar.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pessoal, imaginem que determinada empresa tenha saldo devedor de empréstimo de R$ 10.000 e sofra correção pelo IGPM de 2% no período, ou seja, 10.000 x 0,02 = R$ 200,00. A contabilização a ser feita nesse caso será: D - Variação monetária passiva (despesa) R$ 200 C - Empréstimo a pagar R$ 200 42 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q9",
+        "question": "(CEBRASPE/SEFAZ RS/Técnico Tributário da Receita Estadual/2018) Em muitos casos, a colocação de debêntures no mercado demanda a contratação de instituições financeiras para coordenar o processo, o que gera os chamados gastos com colocação de debêntures. Esses gastos",
+        "options": [
+          "integram os encargos financeiros e devem ser amortizados durante o prazo de vigência das debêntures.",
+          "são reconhecidos como ativos financeiros e serão baixados à medida que as debêntures forem quitadas.",
+          "integram o ativo intangível e são amortizados quando do pagamento das debêntures.",
+          "são reconhecidos como despesas do período em que tiver sido feita a emissão dos títulos.",
+          "são registrados como despesas antecipadas, apropriadas ao resultado proporcionalmente ao prazo de vencimento das debêntures."
+        ],
+        "correct": 0,
+        "explanation": "De acordo com o CPC 08, os custos de transação incorridos na captação de recursos por meio da contratação de instrumento de dívida (empréstimos, financiamentos ou títulos de dívida tais como debêntures, notas comerciais ou outros valores mobiliários) devem ser contabilizados como redução do valor justo inicialmente reconhecido do instrumento financeiro emitido, para evidenciação do valor líquido recebido!!! Portanto, não são despesas momento da emissão dos títulos, mas são apropriados ao longo do prazo de resgate das debêntures!",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula11_q10",
+        "question": "(CEBRASPE/PC-MA/Perito Criminal/2018.adaptada) Em uma venda de mercadoria, ocorre a baixa, a crédito, da mercadoria vendida, em contrapartida à correspondente conta de receita por venda de mercadorias.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vamos efetuar a contabilização: • Pelo registro da venda: D – Caixa/Clientes/Duplicatas a receber (ativo) C – Receita de vendas (resultado) • Pela baixa no estoque: D – Custo da mercadoria vendida (resultado) C – Estoque de mercadorias para revenda (ativo) 43 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55 Agora, comparemos com o lançamento proposto pelo quesito: • Pela baixa no estoque: D- Receita de vendas (resultado) C – Estoque de mercadorias para revenda (ativo) Percebam que o quesito erra ao afirmar que a contrapartida da baixa do estoque seria a Receita por venda de mercadoria, quando o correto seria a conta custo da mercadoria vendida.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q11",
+        "question": "(CEBRASPE/FUB/Técnico Contabilidade/2018) Após a conciliação realizada e os correspondentes lançamentos de ajuste, o saldo da conta contábil representativa da conta-corrente mantida no banco em questão será de R$ 10.500.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Avisamos que podemos começar a conciliação pelo extrato ou pelo razão (já que, ao final, ambos devem apresentar o mesmo saldo conciliado). Professores, qual escolher? Pessoal, a dica é escolher aquele com menos contas. Vejamos: • Conciliação – começando pelo extrato bancário: saldo ao final do período, conforme o extrato bancário = 10.500 44 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55 (+/-) valores contabilizados na empresa e que ainda não foram registrados pelo banco: (+) depósitos realizados no caixa eletrônico ainda não processados = 1.000 . Após conciliação. saldo da conta contábil representativa da conta-corrente mantida no banco será de R$ 11.500. Portanto, o gabarito é errado. Rápido, né? Rsrsr • Conciliação – começando pelos livros contábeis: Atenção! A conta Bancos, na contabilidade, aumenta através de lançamentos a débito e diminui com lançamentos a crédito. Já o extrato bancário representa uma conta do Passivo do banco. Por isso, aumenta com lançamentos a crédito e diminui com lançamentos a débito. saldo ao final do período, conforme livros contábeis da empresa 10.000 (-) DÉBITO DA CONTA-CORRENTE, ainda NÃO CONTABILIZADOS: (-) serviços de cobrança 500 (-) cheques de clientes devolvidos 2.500 (+) CRÉDITO DA CONTA-CORRENTE, ainda NÃO CONTABILIZADOS: (+) valores relativos a boletos recebidos de clientes 3.000 (+) juros recebidos de clientes 1.500 .. Após conciliação. saldo da conta contábil representativa da conta-corrente mantida no banco será de R$ 11.500.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q13",
+        "question": "(CEBRASPE/FUB/Técnico Contabilidade/2018) A conta contábil representativa de clientes deverá ser acrescida de R$ 500.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Filtrando as informações relacionadas a conta clientes, temos que: • cheques de clientes devolvidos 2.500 45 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55 D- Clientes 2.500 C- Bancos 2.500 • valores relativos a boletos recebidos de clientes 3.000 D- Bancos 3.000 C- Clientes 3.000 Para facilitar, montemos o razonete: C lientes Saldo inical N ão inform ado C ancelam ento 2.500,00 3.000,00 recebim ento de clientes 500,00 Variação após a conciliação Por fim, podemos marcar o quesito como errado, pois a conta contábil representativa de clientes deverá ser acrescida reduzida de R$ 500. Obs.: juros recebidos de clientes: São os juros que a empresa obtém de seus clientes, como remuneração de seu capital, que está sendo utilizado por terceiros ou atraso de pagamentos nas obrigações com a empresa. Como não houve contabilização anterior, deduz-se que são pôs-fixados: D- Bancos C- Receita financeira Nota-se que o recebimento de juros não influenciará o saldo da conta clientes.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q14",
+        "question": "(CEBRASPE (CEBRASPE) - APF/PF/2018) Em algumas atividades, é comum que o cliente realize um adiantamento ao fornecedor, por conta do bem ou do serviço que lhe será entregue. Quando do efetivo recebimento do adiantamento, o fornecedor, em cumprimento ao regime de caixa, deverá lançar em sua contabilidade um crédito em conta de passivo, em contrapartida à conta caixa ou equivalentes.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "46 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55 De acordo com o Regime de Caixa, a receita é reconhecida no momento do recebimento, independentemente de quando o serviço for prestado, assim sendo, no quando do recebimento do adiantamento, a contabilização a ser feita será: D - Bancos C - Receita Portanto, o item está errado. Agora, pelo Regime de Competência, a receita é reconhecida apenas quando o serviço for prestado, portanto, no momento do adiantamento, o lançamento a ser feito é: D - Bancos C - Adiantamento de Clientes (Passivo) Quando o serviço for prestado ou a mercadoria entregue, o lançamento será: D - Adiantamento de Clientes (Passivo) C - Receita A assertiva apresentou a contabilização pelo Regime de Competência, portanto, item errado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula11_q15",
+        "question": "(CEBRASPE/TRE-BA/Técnico Judiciário/2017) A técnica da conciliação bancária é um procedimento",
+        "options": [
+          "opcional, que deve ser efetuado por ocasião da apuração dos resultados do exercício e que consiste em um cotejamento dos valores da conta banco conta movimento com o extrato da conta bancária respectiva, sendo os registros do banco o ponto de partida para a conciliação.",
+          "opcional, que, normalmente, deve ser efetuado por ocasião da apuração dos resultados do exercício e que consiste em um cotejamento dos valores da conta banco conta movimento com o extrato da conta bancária respectiva, podendo o ponto de partida para a conciliação ser os registros da empresa ou os do banco.",
+          "obrigatório, que pode ser efetuado a qualquer tempo e consiste em um cotejamento dos valores da conta banco conta movimento com o extrato da conta bancária respectiva, podendo o ponto de partida para a conciliação ser os registros da empresa ou os do banco.",
+          "obrigatório, que deve ser efetuado por ocasião da apuração dos resultados do exercício e que consiste em um cotejamento dos valores da conta banco conta movimento com o extrato da conta bancária respectiva, sendo os registros do banco o ponto de partida para a conciliação.",
+          "opcional, que pode ser efetuado a qualquer tempo e que consiste em um cotejamento dos valores da conta banco conta movimento com o extrato da conta bancária respectiva, sendo os registros da empresa o ponto de partida para a conciliação."
+        ],
+        "correct": 2,
+        "explanation": "É um procedimento obrigatório, pode ser efetuado a qualquer tempo e pode começar pelo extrato ou pelo razão (já que, ao final, ambos devem apresentar o mesmo saldo conciliado). 47 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 55",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula11_q16",
+        "question": "(CEBRASPE/TRT - 7ª /Contabilidade/2017) De acordo com os critérios de avaliação do passivo, as obrigações em moeda estrangeira que contenham cláusula de paridade cambial serão",
+        "options": [
+          "convertidas em moeda nacional à taxa de câmbio em vigor na data do balanço.",
+          "mantidas em moeda estrangeira no balanço.",
+          "convertidas em moeda nacional à taxa de câmbio da data da assunção do compromisso.",
+          "convertidas em moeda nacional à média ponderada da taxa de câmbio entre a data de assunção da obrigação e a data do balanço."
+        ],
+        "correct": 0,
+        "explanation": "Para resolvermos essa questão, vamos recorrer ao que prescreve a lei 6404/76: Art. 184. No balanço, os elementos do passivo serão avaliados de acordo com os seguintes critérios: I - as obrigações, encargos e riscos, conhecidos ou calculáveis, inclusive Imposto sobre a Renda a pagar com base no resultado do exercício, serão computados pelo valor atualizado até a data do balanço; II - as obrigações em moeda estrangeira, com cláusula de paridade cambial, serão convertidas em moeda nacional à taxa de câmbio em vigor na data do balanço; III – as obrigações, os encargos e os riscos classificados no passivo não circulante serão ajustados ao seu valor presente, sendo os demais ajustados quando houver efeito relevante Com um esqueminha sempre fica melhor de visualizar, não é mesmo? Base no Resultado Valor Atualizado do Exercícicio Obrigações,encargos e riscos Passivo Não Criterios de Valor Presente Circulante Avaliação de Passivos Moeda Estrangeira Taxa de Cãmbio na (Paridade) Data do Balanço",
+        "type": "multiple-choice"
+      }
+    ]
+  },
+  {
+    "id": "aula12p1",
+    "title": "12 Parte I",
+    "description": "Questões comentadas da 12 Parte I",
+    "color": "bg-indigo-700",
+    "questions": [
+      {
+        "id": "aula12p1_q1",
+        "question": "(CEBRASPE/PC DF/Contador/2025) A rubrica contábil ajustes de avaliação patrimonial é uma conta de resultado que pode apresentar saldo devedor ou credor, conforme o comportamento de elementos do ativo e do passivo sujeitos à avaliação a valor justo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A conta ajustes de avaliação patrimonial pertence ao PL e é utilizada para registrar as contrapartidas de aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua avaliação a valor justo, enquanto não computadas no resultado do exercício em obediência ao regime de competência. Recordamos que ela é uma conta instável. Isto é, podendo apresentar saldo devedor ou credor. Veja que, na verdade, ela é uma conta patrimonial e não de resultado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q2",
+        "question": "(CEBRASPE/TRF 6ª Região/Analista/2025) No balanço patrimonial da empresa, a conta ações em tesouraria é classificada no ativo circulante.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "29 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58 O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q3",
+        "question": "(CEBRASPE/TRF 6ª Região/Técnico/2025) A conta ajuste de avaliação patrimonial é uma conta do passivo não circulante que abriga a valorização ou desvalorização de alguns itens patrimoniais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A conta ajustes de avaliação patrimonial pertence ao PL e é utilizada para registrar as contrapartidas de aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua avaliação a valor justo, enquanto não computadas no resultado do exercício em obediência ao regime de competência. Recordamos que ela é uma conta instável. Isto é, podendo apresentar saldo devedor ou credor. Assim, a questão erra ao trocar “PL” por “Passivo Não Circulante”.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q4",
+        "question": "(CEBRASPE/ANM/Analista/2025) O resultado positivo com a venda de ações em tesouraria é registrado diretamente em uma conta de reserva de capital.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O CPC 00 (R2) afirma que uma entidade não pode ter direitos contra ela mesma. Por isso que as ações que a empresa adquire de si própria, como as ações em tesouraria, não representam ativos para a entidade e são classificadas como redução do Patrimônio Líquido. No tocante a compra e a alienação de ações em tesouraria, destacamos que é transação com sócios. E o lucro ou prejuízo (melhor dizer \"ganho ou perda\") em transações com sócios fica no PL, não no Resultado. Resumidamente, temos o seguinte: - Se tiver ganho na venda das ações em tesouraria: fica no PL, numa reserva de capital, semelhante à reserva de prêmio na emissão de ações. - Se tiver perda, também fica no PL, e vai diminuir a reserva que serviu de lastro para a aquisição das ações em tesouraria",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q5",
+        "question": "(CEBRASPE/CAPES/Analista/2024) Cumpridos os requisitos legais, a reserva de capital pode ser utilizada para resgate de partes beneficiárias.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo, consoante o item III do art. 200 da Lei das SA: Art. 200. As reservas de capital somente poderão ser utilizadas para: I - absorção de prejuízos que ultrapassarem os lucros acumulados e as reservas de lucros (artigo 189, parágrafo único); II - resgate, reembolso ou compra de ações; III - resgate de partes beneficiárias; IV - incorporação ao capital social; V - pagamento de dividendo a ações preferenciais, quando essa vantagem lhes for assegurada (artigo 17, § 5º). Parágrafo único. A reserva constituída com o produto da venda de partes beneficiárias poderá ser destinada ao resgate desses títulos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q6",
+        "question": "(CEBRASPE/CAPES/Analista/2024) Obedecidos as normas e os dispositivos legais aplicáveis, as contrapartidas a aumentos ou diminuições de valor atribuídos a elementos do ativo ou do passivo, devido a sua avaliação a valor justo, são realizadas em conta de ajustes de avaliação patrimonial, no patrimônio líquido, até que possam ser efetivadas em conta de resultado do exercício, em obediência ao regime de competência.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A conta ajustes de avaliação patrimonial pertence ao PL e é utilizada para registrar as contrapartidas de aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua avaliação a valor justo, enquanto não computadas no resultado do exercício em obediência ao regime de competência. 31 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q7",
+        "question": "(CEBRASPE/MPE TO/Analista/2024) Na recompra de ações de emissão própria, os custos incorridos devem ser registrados em conta redutora do patrimônio líquido, enquanto que eventuais receitas devem ser reconhecidas no resultado do período em que a recompra ocorrer.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Parte 1 – Na recompra de ações de emissão própria, os custos incorridos devem ser registrados em conta redutora do patrimônio líquido, As ações em tesouraria são ações da empresa adquiridas pela própria empresa e mantidas na tesouraria. A conta “ações em tesouraria” é redutora do Patrimônio Líquido (PL). Os custos de transação incorridos na aquisição de ações de emissão da própria entidade devem ser tratados como acréscimo do custo de aquisição de tais ações. Custos de transação Acréscimo do custo na aquisição de aquisição Operações com ações em tesouraria Redução do lucro ou Custos de transação acréscimo do na alienação prejuízo Parte 1 está certa. Parte 2 - Na recompra de ações de emissão própria, eventuais receitas devem ser reconhecidas no resultado do período em que a recompra ocorrer. A compra e a alienação de ações em tesouraria é transação com sócios. E o lucro ou prejuízo (melhor dizer \"ganho ou perda\") em transações com sócios fica no PL, não no Resultado. Ganho com ações PL: Reserva de em tesouraria Capital Operações com ações em tesouraria Perda com ações PL: diminuindo a em tesouraria reserva 32 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58 Parte 2 está errada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q8",
+        "question": "(CEBRASPE/ANTT/Especialista em Regulação/2024) No balanço patrimonial, o patrimônio líquido subdivide-se em capital social, reservas, ações em tesouraria e prejuízos acumulados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "De acordo com a Lei 6.404/76: Art. 178. No balanço, as contas serão classificadas segundo os elementos do patrimônio que registrem, e agrupadas de modo a facilitar o conhecimento e a análise da situação financeira da companhia. III – patrimônio líquido, dividido em capital social, reservas de capital, ajustes de avaliação patrimonial, reservas de lucros, ações em tesouraria e prejuízos acumulados. (Incluído pela Lei nº 11.941, de 2009) Embora tenha omitido a conta ajustes de avaliação patrimonial, elas são exemplos de contas do PL.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q10",
+        "question": "(CEBRASPE/TSE/Analista Contabilidade/2024) Uma reserva de capital pode surgir na operação de venda com ágio de ações emitidas pela sociedade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "As reservas de capital são valores recebidos pela empresa (dos sócios ou de terceiros) que não se configuram como receita, isto é, não transitam pelo resultado do exercício, sendo contabilizadas diretamente à conta de Patrimônio Líquido. São Reserva de Capital: Ágio na emissão de ações, Produto da alienação de partes beneficiárias e Produto da alienação de bônus de subscrição.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q11",
+        "question": "(CEBRASPE/PGM Mossoró/Analista/2024) Ajustes de avaliação patrimonial é uma conta de resultado que tem por função registrar as contrapartidas de aumentos de valor atribuídos a elementos do ativo cuja mensuração seja efetuada com base no valor justo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "34 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58 A conta ajustes de avaliação patrimonial pertence ao PL e é utilizada para registrar as contrapartidas de aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua avaliação a valor justo, enquanto não computadas no resultado do exercício em obediência ao regime de competência. Recordamos que ela é uma conta instável. Isto é, podendo apresentar saldo devedor ou credor. Veja que, na verdade, ela é uma conta patrimonial e não de resultado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q12",
+        "question": "(CEBRASPE/MPE TO/Analista/2024) Capital social é a diferença entre o total de investimentos e o total de fontes de recursos de terceiros aplicados nesses investimentos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na verdade, o patrimônio Líquido que é a diferença entre o total de investimentos e o total de fontes de recursos de terceiros aplicados nesses investimentos. Ou melhor, com base no CPC 00, é a participação residual nos ativos da entidade após a dedução de todos os seus passivos. Recordamos que o capital social é a conta do PL composta pelas ações subscritas na constituição da sociedade ou com o aumento de capital. É dividido em capital social e capital social a realizar.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q13",
+        "question": "(CEBRASPE/TCE AC/Auditor/2024) Os custos de transação diretamente atribuíveis à emissão de ações devem ser reconhecidos como uma dedução do patrimônio líquido, pelo valor líquido de quaisquer efeitos fiscais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Conforme o CPC 08 (R1): 5. Os custos de transação incorridos na captação de recursos por intermédio da emissão de títulos patrimoniais devem ser contabilizados, de forma destacada, em conta redutora de patrimônio líquido, deduzidos os eventuais efeitos fiscais, e os prêmios recebidos devem ser reconhecidos em conta de reserva de capital.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q14",
+        "question": "(CEBRASPE/MPE TO/Analista/2024) Ressalvadas quaisquer vedações legais, a conta ajustes de avaliação patrimonial pode ser utilizada para ajustar o valor de um item do ativo imobilizado que apresente capacidade de geração de retornos superiores às anteriormente estimadas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Vejamos o que o $ 3 do Art. 183 da Lei das SA diz sobre a conta de Ajuste de Avaliação Patrimonial: “Serão classificadas como ajustes de avaliação patrimonial, enquanto não computadas no resultado do exercício em obediência ao regime de competência, as contrapartidas de aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua avaliação a valor justo, nos casos previstos nesta Lei ou, em normas expedidas pela Comissão de Valores Mobiliários, com base na competência conferida pelo § 3o do art. 177.” Portanto, podemos ajustar o valor de um ativo imobilizado que apresente capacidade de geração de retornos superiores às anteriormente estimadas. Vale destacar que a própria questão fez ressalvas quanto a vedações legais, pois a legislação BRASILEIRA em vigor, venda a reavaliação de ativos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q15",
+        "question": "(CEBRASPE/CAU BR/Técnico/2024) O patrimônio líquido de uma organização se refere ao conjunto de bens e direitos da organização, deduzido o total de obrigações.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O item 4.63 da Estrutura Conceitual Básica afirma que Patrimônio líquido é a participação residual nos ativos da entidade após a dedução de todos os seus passivos, suas obrigações presentes de transferir recursos. Lembram da Equação Fundamental da Contabilidade: Patrimônio Líquido = Ativo - Passivo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q16",
+        "question": "(CEBRASPE/Contador/CAU BR/2024) Se uma companhia emitir ações ao preço de R$ 5 cada lote de mil ações e, devido ao grande interesse do público, cada lote atingir R$ 7, gerando um excedente de R$ 2 por lote, o montante excedente verificado constituirá uma receita efetiva que deverá ser reconhecida no exercício social em que foi obtida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "36 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58 A questão trata do Ágio na Emissão de Ações que é tratado como uma Reserva de Capital, diretamente no patrimônio líquido. O ágio na emissão de ações é o valor da contribuição do subscritor (quem está comprando a ação) que ultrapassar o valor nominal das ações por ele adquiridas. O lançamento contábil a ser feito, numa operação de emissão de ações com ágio, é o seguinte: D – Caixa C – Capital Social C – Reserva de capital – Ágio na emissão de ações O item está errado, pois o ágio nessa operação não será contabilizado como uma receita no resultado, mas é lançada diretamente no patrimônio líquido.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q17",
+        "question": "(CEBRASPE/Especialista em Regulação/ANTT/2024) Considere que a carteira de investimentos de determinada empresa tenha sido avaliada pelo seu valor justo, sendo constatada uma perda de valor de seus componentes. Considere, ainda, que essa carteira tenha sido avaliada a valor justo em outros resultados abrangentes, tendo sua variação registrada em conta apropriada do patrimônio líquido. Nessa situação, a contabilização adequada provocará um lançamento credor em conta do patrimônio líquido",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Se os investimentos da empresa tenham sido avaliados a valor justo em outros resultados abrangentes, as variações ocorridas no valor justo não serão lançadas no resultado do exercício, mas diretamente no patrimônio líquido, na conta de ajuste de avaliação patrimonial. Se for valorização: D - Ativo Financeiro C - Ajuste de Avaliação Patrimonial - PL Se for desvalorização: D - Ajuste de Avaliação Patrimonial - PL C - Ativo Financeiro Percebam que o item está errado, pois a perda registrada será contabilizada com um lançamento DEVEDOR no patrimônio líquido e não credor. 37 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q19",
+        "question": "(CEBRASPE/TELEBRAS/Especialista em Gestão de Telecomunicações/Auditoria/2022) A integralização de capital com parte em dinheiro e parte em imóveis é um lançamento de segunda fórmula.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Inicialmente, vamos rever as fórmulas de lançamento: Lançamento Débito Crédito 1a fórmula 1 1 2a fórmula 1 2 3a fórmula 2 1 4a fórmula 2 2 É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente. Observação: onde está escrito 2, deve ser entendido como 2 ou mais. Vejamos a contabilização: D - Disponibilidade (+ Ativo Circulante) D - Imóveis (+ Ativo Não Circulante) C - Capital Social (+ PL) Nesse fato contábil temos dois débitos e 1 crédito. Assim, temos um lançamento de terceira fórmula.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q20",
+        "question": "(CEBRASPE/TELEBRAS/Especialista em Gestão de Telecomunicações/Auditoria/2022) A reserva de capital deve ser utilizada antes da reserva legal para a absorção de prejuízos do exercício",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Nesse quesito vamos recorrer ao art. 200 da lei 6.404/76: Art. 200. As reservas de capital somente poderão ser utilizadas para: I - absorção de prejuízos que ultrapassarem os lucros acumulados e as reservas de lucros (artigo 189, parágrafo único); II - resgate, reembolso ou compra de ações; III - resgate de partes beneficiárias; 39 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58 IV - incorporação ao capital social; V - pagamento de dividendo a ações preferenciais, quando essa vantagem lhes for assegurada (artigo 17, § 5º). Parágrafo único. A reserva constituída com o produto da venda de partes beneficiárias poderá ser destinada ao resgate desses títulos. Assim, a reserva de capital deve ser utilizada DEPOIS da reserva legal para a absorção de prejuízos do exercício.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q22",
+        "question": "(CEBRASPE/TCE-SC/Auditor Fiscal de Controle Externo/Ciências Contábeis/2022) A operação de compra de ações da própria entidade deve ser registrada como um crédito no patrimônio líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "As ações em tesouraria são ações da empresa adquiridas pela própria empresa e mantidas na tesouraria. A aquisição de ações de emissão própria e sua alienação são também transações de capital da entidade com seus sócios e igualmente não devem afetar o resultado da entidade. A conta “ações em tesouraria” é redutora do Patrimônio Líquido (PL). Assim, a operação de compra de ações da própria entidade deve ser registrada como um crédito DÉBITO no patrimônio líquido.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q26",
+        "question": "(CEBRASPE/TCE – RJ/Analista de Controle Externo/2021) Assertiva: Sendo esses os únicos eventos registrados no período analisado, será verificado um incremento superior a R$ 42 milhões no patrimônio líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na questão apresentada, tivemos os seguintes fatos contábeis: Uma sociedade por ações recomprou no mercado determinado tipo de suas ações, gerando um saldo de ações em tesouraria de R$ 15 milhões. Lançamento: D - Ações em Tesouraria R$ 15 milhões (diminuição do PL) C - Bancos R$ 15 milhões (diminuição do ativo) Depois, tivemos a emissão de ações no valor de R$ 50 milhões com ágio de 15%, isto é, 7,5 milhões e custos transação de $ 1,5 milhão. O ágio na emissão das ações será lançado como reserva de capital e os custos de transação não serão lançados como despesas, mas como redução desse ágio. Fica assim: D - Bancos R$ 56 milhões C - Reserva de Capital - Ágio na emissão de ações R$ 6 milhões (aumento do PL) C - Capital Social R$ 50 milhões (aumento do PL) Assim sendo, a variação ocorrida no patrimônio líquido da entidade foi de 50 + 6 - 15 = 41 milhões. O item está errado, pois foi verificado um incremento inferior e não superior a R$ 42 milhões no patrimônio líquido.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula12p1_q28",
+        "question": "(CEBRASPE/TJ PA/Analista Judiciário - Ciências Contábeis/2020) Assinale a opção que apresenta a conta do patrimônio líquido que, em decorrência da função que lhe foi atribuída pela legislação societária, pode apresentar tanto saldo credor quanto saldo devedor no balanço patrimonial.",
+        "options": [
+          "ações em tesouraria",
+          "prejuízos acumulados",
+          "capital a integralizar",
+          "ajustes de avaliação patrimonial",
+          "reservas de capital"
+        ],
+        "correct": 3,
+        "explanation": "Falamos que o ajuste de avaliação patrimonial serve tanto para aumentar como para reduzir valores de ativos e de passivos, enquanto não computadas no resultado do exercício em obediência ao regime de competência, em decorrência da sua avaliação a valor justo. Lembramos que tal conta pertence ao grupo Patrimônio Líquido.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula12p1_q30",
+        "question": "(CEBRASPE/SEFAZ RS/Auditor-Fiscal da Receita Estadual/2019) Na fiscalização de uma sociedade anônima comercial, após o seu primeiro ano de funcionamento, verificou-se que a empresa possuía • capital subscrito no valor de R$ 2.000; • capital realizado no valor de R$ 1.700; • capital de terceiros no valor de R$ 600; • prejuízo acumulado no valor de R$ 300. Constatou-se, ainda, que não havia reservas, ações em tesouraria nem ajuste de avaliação patrimonial nas demonstrações contábeis da sociedade. Nessa situação hipotética, o valor do capital total à disposição da sociedade é igual a",
+        "options": [
+          "R$ 1.700.",
+          "R$ 2.000.",
+          "R$ 2.300.",
+          "R$ 3.400.",
+          "R$ 4.000."
+        ],
+        "correct": 1,
+        "explanation": "Vimos que capital total à disposição da sociedade = Ativo. 48 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 58 O quesito nos forneceu o valor do capital de terceiros (Passivo) e outros valores que compõem o PL. Dado que a equação fundamental da contabilidade é a seguinte: Ativo = Passivo + PL. Vamos encontrar o valor do ativo, somando o Passivo com o PL. Antes, vamos rever as contas do PL: PATRIMÔNIO LÍQUIDO APÓS LEI 11.638/07 E LEI 11.941/09 Capital Social (-) Capital a Realizar Reserva de Lucro Reserva de Capital Ajuste de Avaliação Patrimonial (-) Prejuízo Acumulado (-) Ações em Tesouraria Agora, encontremos o PL: PL = Capital Subscrito – Capital a Integralizar – Prejuízo Acumulado Obs.: o quesito só trouxe essas contas do grupo. PL = 2.000 – 300 – 300 = 1400 Por fim, utilizemos a equação fundamental da contabilidade: Ativo = Passivo + PL Ativo (Capital Total à disposição) = 1400 + 600 = 2.000",
+        "type": "multiple-choice"
+      }
+    ]
+  },
+  {
+    "id": "aula13p1",
+    "title": "13 Parte II",
+    "description": "Questões comentadas da 13 Parte II",
+    "color": "bg-gray-600",
+    "questions": [
+      {
+        "id": "aula13p1_q1",
+        "question": "(CEBRASPE/ANM/Analista/2025) A reserva de lucros pode ser utilizada para comprar ações que ficarão em tesouraria.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "As reservas de lucros são retenções de parcelas provenientes de ganhos do período, com o objetivo de preservar o Patrimônio Líquido de uma sociedade, e posterior destinação. São, em suma, lucros que a empresa não entrega aos acionistas, mas guarda para si, seja para investir em projetos, seja para resguardar o capital social. Basicamente, elas podem ser utilizadas para compensar prejuízos e aumentar o capital social. As exceções seriam pagamentos de dividendos (reservas de lucros a realizar e reserva especial para dividendos obrigatórios não distribuídos) e financiar projetos de investimentos (reserva de retenção de lucros). Assim, a questão erra ao incluir a compra de ações em tesouraria entre suas possibilidades de utilização.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q2",
+        "question": "(CEBRASPE/SEFAZ AC/Auditor/2024) Na auditoria do patrimônio líquido, deve-se considerar que a reserva de lucros a realizar A poderá ser constituída no exercício em que o dividendo obrigatório for revertido para a constituição da reserva de lucros a realizar. B deverá ser constituída no exercício em que o montante do dividendo obrigatório ultrapassar a parcela realizada do lucro líquido do exercício. C deverá ser constituída no exercício em que a parcela realizada do lucro líquido do exercício ultrapassar o montante do dividendo obrigatório. D poderá ser constituída no exercício em que a parcela realizada do lucro líquido do exercício ultrapassar o montante do dividendo obrigatório. E poderá ser constituída no exercício em que o montante do dividendo obrigatório ultrapassar a parcela realizada do lucro líquido do exercício.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A poderá ser constituída no exercício em que o dividendo obrigatório for revertido para a constituição da reserva de lucros a realizar. Se a entidade tem dividendos a pagar superiores às receitas que ingressaram, significa que não haverá recursos para pagamento deste montante. Dizemos em tese, pois a empresa pode ter recurso suficiente em caixa. Desta forma, à opção da companhia, poderá ser constituída a reserva de lucros a realizar, mediante destinação dos lucros do exercício, cujo objetivo é evidenciar a parcela de lucros ainda não realizada financeiramente, apesar de reconhecida contabilmente, pela empresa. 43 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 B deverá ser constituída no exercício em que o montante do dividendo obrigatório ultrapassar a parcela realizada do lucro líquido do exercício. Um aspecto importante é anotar que a constituição desta reserva é facultativa. Alternativa errada. C deverá ser constituída no exercício em que a parcela realizada do lucro líquido do exercício ultrapassar o montante do dividendo obrigatório. Dois erros: 1 - Trocou “poderá” por “deverá; 2 - É o inverso: montante do dividendo obrigatório ultrapassar a parcela realizada do lucro líquido do exercício. Alternativa errada. D poderá ser constituída no exercício em que a parcela realizada do lucro líquido do exercício ultrapassar o montante do dividendo obrigatório. Na verdade, é o contrário: montante do dividendo obrigatório ultrapassar a parcela realizada do lucro líquido do exercício. Alternativa errada. E poderá ser constituída no exercício em que o montante do dividendo obrigatório ultrapassar a parcela realizada do lucro líquido do exercício. No exercício em que o montante do dividendo obrigatório, calculado nos termos do estatuto ou do art. 202 da Lei das S/A, ultrapassar a parcela realizada do lucro líquido do exercício, a assembleia-geral poderá, por proposta dos órgãos da administração, destinar o excesso à constituição de reserva de lucros a realizar. Alternativa Certa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q3",
+        "question": "(CEBRASPE/PGM Mossoró Analista Contabilidade/2024) A constituição da reserva de lucros a realizar evita que o pagamento de dividendos obrigatórios aos acionistas contemple parcelas do lucro líquido do exercício que ainda não tenham sido realizadas financeiramente.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "No exercício em que o montante do dividendo obrigatório, calculado nos termos do estatuto ou do art. 202 da Lei das S/A, ultrapassar a parcela realizada do lucro líquido do exercício, a assembleia-geral poderá, por proposta dos órgãos da administração, destinar o excesso à constituição de reserva de lucros a realizar. É este o intuito da reserva de lucros a realizar: evitar que a companhia pague dividendos sobre receitas/lucros que ainda foram realizados, que não entraram no caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q4",
+        "question": "(CEBRASPE/TSE/Analista Judiciário Contabilidade/2024) Reservas de contingência são valores não reconhecidos como passivos da entidade em função da elevada incerteza quanto a seu valor ou sua obrigatoriedade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "As reservas de contingências, especificamente, objetivam salvaguardar o capital social, de modo que se posteriormente algo acontecer, decorrente de perda julgada provável cujo valor possa ser estimado, a companhia esteja preparada. Ela é uma conta do PL e não do Passivo. Importante distinção é a que devemos fazer entre a reserva para contingências da provisão para contingências. Reserva para contingência Provisões para contingências •Compensação de perda em exercício futuro; •Cobertura de perda em que já houve fato gerador; •Segrega no PL parcela de lucros que poderia ir para •Constituída independente do lucro ou prejuízo do dividendos; exercício; •É revertida para lucros acumulados (ocorrendo ou não o •Não há reversão de valores, em regra. evento), integrando BC dos dividendos •Conta do passivo e contrapartida em despesa no •Conta do PL, reserva de lucros. Não afeta resultado; resultado; •Exemplos: geadas, inundações, secas, empresas que •Exemplos: indenizações contratuais, contingências operam com períodos altamente lucrativos e depois fiscais, trabalhistas. com baixa lucratividade.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q5",
+        "question": "(CEBRASPE/CNPq/Analista/2024) De acordo com mudança promovida pela Lei n.º 11.638/2007, a denominação do grupo ativo realizável a longo prazo, no ativo do BP, foi modificada para ativo não circulante.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Pessoal, um ponto que vez ou outra vem sendo explorado em provas de concursos são as alterações promovidas pelas Leis 11.638/2007 e 11.941/2009. Infelizmente, é necessário decorar. Lei 11.638/2007: O ativo, que antes era dividido em circulante, realizável a longo prazo e permanente (investimento, imobilizado e diferido), passou a ser dividido em circulante, realizável a longo prazo e permanente (investimento, imobilizado, diferido e intangível). 45 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 Lei 11.941/2009: O ativo, que antes era dividido em circulante, realizável a longo prazo e permanente (investimento, imobilizado, diferido e intangível), passou a ser dividido em circulante e não circulante (realizável a longo prazo, investimentos, imobilizado e intangível). O realizável a longo prazo foi para dentro do não circulante. Veja que a divisão do ativo em circulante e não circulante é oriunda da lei 11.941/2009 e não da lei 11.638/2007.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q6",
+        "question": "(Cebraspe/SEPLAG CE/Analista de Gestão Pública- Contabilidade Pública/2024) Considere que, amparada pelo dispositivo legal segundo o qual 5% do lucro líquido do exercício deve ser aplicado, antes de qualquer outra destinação, na constituição da reserva legal, que não deve exceder de 20% do capital social, uma entidade tenha decidido utilizar parte do saldo da reserva legal para aumentar o montante de seu capital social. Nessa situação, ocorre um fato contábil aumentativo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Parte 1 - Considere que, amparada pelo dispositivo legal segundo o qual 5% do lucro líquido do exercício deve ser aplicado, antes de qualquer outra destinação, na constituição da reserva legal, que não deve exceder de 20% do capital social Resumindo, Reserva legal: Obrigatoriamente: no mínimo 5% do Lucro Líquido para Reserva legal Limites: • Obrigatório: 20% do Capital Social Integralizado • Facultativo: 30% do capital social = reserva legal + reserva de capital Parte 1 está certa. Parte 2 - uma entidade tenha decidido utilizar parte do saldo da reserva legal para aumentar o montante de seu capital social. Nessa situação, ocorre um fato contábil aumentativo. O lançamento contábil é o seguinte: D – Reservas (PL) C – Capital Social (PL) Fato contábil permutativo é aquele que não altera o Patrimônio Líquido, constituindo mera permuta entre as contas. É o caso do aumento do Capital Social com a incorporação de reservas. Parte 2 está errada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q7",
+        "question": "(CEBRASPE/CAPES/Analista/2024) Uma das alterações promovidas na legislação societária foi a classificação, no balanço patrimonial, do ativo em circulante e não circulante, sendo extinto o ativo permanente.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Após a lei 11.941/2009, o ativo, que antes era dividido em circulante, realizável a longo prazo e permanente (investimento, imobilizado, diferido e intangível), passou a ser dividido em circulante e não circulante (realizável a longo prazo, investimentos, imobilizado e intangível). O realizável a longo prazo foi para dentro do não circulante e o ativo permanente foi extinto.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q9",
+        "question": "(CEBRASPE/TBG/Analista Contábil/2023) A companhia poderá deixar de destinar parcela do lucro líquido para constituir a reserva legal quando o saldo desta corresponder a mais de 30% do capital social.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "47 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 Do lucro líquido apurado deve ser destinado 5% para reserva legal. Essa é a regra. Todavia, não excederá de 20% (vinte por cento) do capital social. Ainda, existe um limite facultativo para a constituição da reserva legal, qual seja, quando ela, somada às reservas de capital, atingir o montante de 30% do capital social. Se esse limite a empresa, PODE DEIXAR DE DESTINAR VALORES PARA A RESERVA LEGAL. Assim, o quesito erra ao ignorar o saldo da reserva de capital.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q10",
+        "question": "(CEBRASPE/TBG/Analista Contábil/2023) A parcela do lucro líquido decorrente de doações e subvenções governamentais para investimentos destinada à reserva de incentivos fiscais deve ser excluída da base de cálculo do dividendo obrigatório.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vejamos o que afirma o que está previsto na LSA: Art. 195-A. A assembleia geral poderá, por proposta dos órgãos de administração, destinar para a reserva de incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos, que poderá ser excluída da base de cálculo do dividendo obrigatório (inciso I do caput do art. 202 desta Lei). Assim, tal reserva poderá ser excluída da base de cálculo do dividendo obrigatório",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q11",
+        "question": "(CEBRASPE/TBG/Analista Contábil/2023) A destinação de lucros para constituição de reserva estatutária poderá interferir no valor do dividendo obrigatório a ser distribuído.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Com base no art. 198 da lei 6.404/76, tanto a reserva estatutária quanto a reserva de retenção de lucros não podem interferir no valor do dividendo obrigatório a ser distribuído. Vejam: Limite da Constituição de Reservas e Retenção de Lucros Art. 198. A destinação dos lucros para constituição das reservas de que trata o artigo 194 (Reservas Estatutárias) e a retenção nos termos do artigo 196 (Retenção de Lucros) não poderão ser aprovadas, em cada exercício, em prejuízo da distribuição do dividendo obrigatório (artigo 202). 48 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q12",
+        "question": "(CEBRASPE/TBG/Analista Contábil/2023) A distribuição de dividendos intermediários pagos semestralmente tem como limite o lucro líquido apurado após a destinação das reservas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A companhia poderá, nos termos de disposição estatutária, levantar balanço e distribuir dividendos em períodos menores, desde que o total dos dividendos pagos em cada semestre do exercício social não exceda o montante das reservas de capital de que trata o § 1º do artigo 182 (LSA, art. 204, §1º).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q13",
+        "question": "(CEBRASPE/DATAPREV/Analista/2023) Com relação aos elementos das demonstrações contábeis, julgue o item a seguir. A distribuição de dividendos aos acionistas deve ser registrada a débito de uma conta de despesa e a crédito de uma conta de passivo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo a Lei das Sociedades por Ações: Art. 202. Os acionistas têm direito de receber como dividendo obrigatório, em cada exercício, a parcela dos lucros estabelecida no estatuto (...) A distribuição de dividendos obrigatórios ao final de cada exercício social é realizada por meio do seguinte lançamento: D – Lucros acumulados (↑PL) C – Dividendos a pagar (↑Passivo) Ocorre um débito na conta do PL e não na conta de despesa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q14",
+        "question": "(CEBRASPE/TRT 8ª Região/Analista Contabilidade/2022) Ao final de determinado exercício social e antes da apuração do resultado do exercício, uma sociedade de capital aberto apresentava a seguinte posição em seu patrimônio líquido. Capital social: R$ 300 mil Ágio na emissão de ações: R$ 30 mil Reserva legal: R$ 58 mil 49 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 Reserva estatutária: R$ 9 mil O lucro líquido apurado no encerramento desse exercício foi de R$ 83 mil. Nessas condições, o valor a ser obrigatoriamente destinado à reserva legal é A maior que R$ 17.000,00. B igual a zero. C maior que zero e menor ou igual a R$ 3.000,00. D maior que R$ 3.000,00 e menor ou igual a R$ 10.000,00. E maior que R$ 10.000,00 e menor ou igual a R$ 17.000,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O primeiro passo é determinarmos quanto será destinado para a Reserva Legal, com base no Limite Obrigatório de 20% Capital Social. Limite Obrigatório = Capital Social x 20% = R$ 300.000 x 20% = R$ 60.000 Constituição da Reserva Legal = 5 % do LL = 5% de R$ 83.000 = R$ 4.150 Nesse caso teríamos que destinar R$ 4.150. Todavia, precisamos confirmar quanto falta para o limite obrigatório: R$ 60.000 - R$ 58.000 = R$ 2.000,00. Assim, podemos destinar apenas R$ 2.000,00 e a nossa Reserva legal totalizará R$ 60.000,00. Nessas condições, o valor a ser obrigatoriamente destinado a reserva legal é maior que zero e menor ou igual a R$ 3.000,00.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q15",
+        "question": "(CEBRASPE/TCE RJ/Analista de Controle Externo/2021) A reserva de lucros a realizar tem por finalidade adequar a distribuição de dividendos obrigatórios ao lucro efetivamente realizado em termos financeiros.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pessoal. No exercício em que o montante do dividendo obrigatório, calculado nos termos do estatuto ou do art. 202 da Lei das S/A, ultrapassar a parcela realizada do lucro líquido do exercício, a assembleia-geral poderá, por proposta dos órgãos da administração, destinar o excesso à constituição de reserva de lucros a realizar. Funciona basicamente do seguinte modo! Sabemos que a empresa efetua vendas à vista e vendas a prazo, não é mesmo? Várias receitas e várias despesas não afetam o caixa. Todavia, o cálculo dos dividendos, via de regra, é feita com base no lucro líquido, que leva por pressuposto o regime de competência. Então, quando calculamos os dividendos, estamos incluindo ali receitas à vista e receitas a prazo. Mas e se não entrar dinheiro suficiente para pagar os dividendos? O que acontece? A situação é a seguinte: 50 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 Valor (sem recursos para descoberto pagar dividendos) D ividendos obrigatórios Receitas que ingressaram em caixa",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q16",
+        "question": "(CEBRASPE/TJ AM/Analista Judiciário - Contabilidade/2019) O valor do capital social é maior que o do patrimônio líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Primeiramente, classifiquemos por grupo: contas contábeis saldo (R$) Grupo amortização acumulada 20 Ativo *Redutora bancos 30 Ativo capital social 150 PL contas a pagar 10 Passivo contas a receber 30 Ativo 51 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 contas contábeis saldo (R$) Grupo depreciação acumulada 30 Ativo *Redutora despesas antecipadas 10 Ativo encargos a transcorrer de financiamento de longo prazo 10 Passivo *Redutora estoques 50 Ativo financiamento de longo prazo 60 Passivo fornecedores 30 Passivo impostos a recolher 10 Passivo máquinas e equipamentos 100 Ativo marcas e patentes 80 Ativo prejuízo acumulado 10 PL provisão para contingências 10 Passivo Filtrando as contas do PL, temos: Patrimônio Líquido saldo (R$) capital social 150 (-) prejuízo acumulado (10) Total PL 140 Nota-se que a conta Capital Social possui um valor maior que o saldo do PL (150> 140). Observação: não confunda Reserva para contingência com Provisão para contingência. Reserva para contingência: - Compensação de perda em exercício futuro - Conta do PL, reserva de lucros. Não afeta resultado; Provisões para contingências: - Cobertura de perda em que já houve fato gerador; - Conta do Passivo e contrapartida em despesa no resultado;",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q17",
+        "question": "(CEBRASPE/SLU DF/Analista de Gestão de Resíduos Sólidos - Ciências Contábeis/2019) Companhias abertas são dispensadas de apresentar notas explicativas relacionadas às bases de preparação das demonstrações financeiras adotadas durante o período. 52 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Falamos que os atos relevantes que façam parte das atividades da empresa devem ser apresentados em notas explicativas, como ordena a Lei 6.404/76: Art. 176. § 4º As demonstrações serão complementadas por notas explicativas e outros quadros analíticos ou demonstrações contábeis necessários para esclarecimento da situação patrimonial e dos resultados do exercício. Esse também é o entendimento do CPC 26 (R1): Conjunto completo de demonstrações contábeis 10. O conjunto completo de demonstrações contábeis inclui: (e) notas explicativas, compreendendo um resumo das políticas contábeis significativas e outras informações elucidativas; Tanto a Lei das SAs quanto o Pronunciamento Contábil n° 26, afirmam que as notas explicativas DEVEM incluir às bases de preparação das demonstrações financeiras adotadas durante o período. Vejamos: • Lei 6.404/76 Art. 176. § 5º As notas explicativas DEVEM: (Redação dada pela Lei nº 11.941, de 2009) I – apresentar informações sobre a BASE DE PREPARAÇÃO das demonstrações financeiras e das práticas contábeis específicas selecionadas e aplicadas para negócios e eventos significativos; (Incluído pela Lei nº 11.941, de 2009) • CPC 26 (R1): Notas explicativas Estrutura 112. As notas explicativas devem: (a) apresentar informação acerca da base para a elaboração das demonstrações contábeis e das políticas contábeis específicas utilizadas, de acordo com os itens 117 a 124; Portanto, tais normas não trouxeram essa dispensa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q18",
+        "question": "(CEBRASPE/SLU DF/Analista de Gestão de Resíduos Sólidos - Ciências Contábeis/2019) Companhias abertas de capital fechado cujo patrimônio líquido seja inferior a R$ 2.000.000 são dispensadas da elaboração de notas explicativas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Aqui o quesito tentou nos confundir com a dispensa de elaboração da Demonstração de Fluxo de Caixa quando o PL < 2 milhões. Conforme a lei 6.404/76: Art. 176. § 6o A companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da demonstração dos fluxos de caixa. Assim, corrigindo o item, temos: “Companhias abertas de capital fechado cujo patrimônio líquido seja inferior a R$ 2.000.000 são dispensadas da elaboração de notas explicativas. E PUBLICAÇÃO DA DEMONSTRAÇÃO DOS FLUXOS DE CAIXA.”",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q19",
+        "question": "(CEBRASPE/EBSERH/Tec. Contabilidade/2018) Se os motivos pelos quais determinada reserva foi constituída deixarem de existir, tal reserva deverá ser revertida para a conta de lucros e prejuízos acumulados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O item está correto, pois as empresas não podem constituir reservas indefinidamente, sem motivos, e a contabilização da reversão é: D - Reserva de Lucros C - Lucros ou Prejuízos Acumulados.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q20",
+        "question": "(CEBRASPE/STJ/Analista Judiciário/2018) A reserva legal da companhia poderá ser utilizada para a compensação de prejuízos, para o aumento do capital social e para a distribuição de dividendos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "54 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 Vimos que a reserva legal se destina a garantir a integridade do capital social. Consequentemente, só poderá ser utilizada para cobrir prejuízos ou para ser incorporada ao capital. Consertando o quesito: A reserva legal da companhia poderá ser utilizada para a compensação de prejuízos, para o aumento do capital social e para a distribuição de dividendos. O gabarito é errado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q21",
+        "question": "(CEBRASPE/ABIN/Oficial Técnico de Inteligência/2018) A parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos poderá ser destinada para a constituição da reserva de incentivos fiscais, e deverá ser incluída na base de cálculo do dividendo obrigatório. ==11e785==",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A resposta da assertiva está na LSA: Art. 195-A. A assembleia geral poderá, por proposta dos órgãos de administração, destinar para a reserva de incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos, que poderá ser excluída da base de cálculo do dividendo obrigatório. Portanto, a primeira parte do item está correta, ao afirmar que a parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos poderá ser destinada para a constituição da reserva de incentivos fiscais. Porém, temos um erro no final da assertiva, pois essa parcela poderá ser excluída e não deverá ser incluída na base de cálculo do dividendo obrigatório.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula13p1_q22",
+        "question": "(CEBRASPE/Auditor/TCM BA/2018) Considere que o estatuto de determinada companhia aberta seja omisso quanto à distribuição de dividendos. Nesse caso, a lei 6404/76 prevê que, após a constituição das reservas, sobre o LLE, os acionistas terão direito a:",
+        "options": [
+          "10%",
+          "20%",
+          "35%",
+          "45%",
+          "50%"
+        ],
+        "correct": 4,
+        "explanation": "Caso o estatuto seja OMISSO, temos de ajustar a base de acordo com o exposto acima. 55 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 Base de cálculo ajustada: 50% x [Lucro líquido – Reserva legal – Reserva para contingências + Reversão de reserva para contingências – Reserva de incentivos fiscais (facultativo) – Reserva de prêmio na emissão de debêntures (facultativo)].",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula13p1_q23",
+        "question": "(CEBRASPE/Auditor/CAGE RS/2018) A companhia se insere no seguimento de comércio, importação e exportação de conservas alimentícias, doces, geleias, sucos, frutas, cereais e outros produtos alimentícios em geral e seus derivados. Considerando-se que o texto apresentado é parte de uma nota explicativa, é correto afirmar que se trata de informação de contexto",
+        "options": [
+          "fiscal.",
+          "legal.",
+          "formal.",
+          "jurídico.",
+          "operacional."
+        ],
+        "correct": 4,
+        "explanation": "A informação em tela tem caráter operacional, para informar aos usuários das demonstrações contábeis o ramo em que atua",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula13p1_q24",
+        "question": "(CEBRASPE/TCE-PE/Auditoria de Contas Públicas/2017) Caso uma companhia realize uma constituição de reservas de incentivos fiscais no valor de R$ 125.000, isso fará que a demonstração das mutações do patrimônio líquido dessa companhia evidencie um aumento de R$ 125.000 no saldo de conta de reservas e uma redução, no mesmo valor, na conta de lucros acumulados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, pessoal. As doações e subvenções governamentais, antes das mudanças ocorridas na contabilidade, eram registradas à conta de reserva de capital. Agora essas doações são registradas como receita (lembrem-se de que as receitas são contas de resultado). Por sua vez, companhia poderá deliberar por formar com esse montante uma reserva de lucro, chamada reserva de incentivos fiscais. 56 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 64 Art. 195-A. A assembleia geral poderá, por proposta dos órgãos de administração, destinar para a reserva de incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos, que poderá ser excluída da base de cálculo do dividendo obrigatório (inciso I do caput do art. 202 desta Lei). A contabilização da constituição dessa reserva será: D - Lucros Acumulados C - Reserva de Incentivos Fiscais.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula14",
+    "title": "14 - PDF Completo",
+    "description": "Questões comentadas da 14 - PDF Completo",
+    "color": "bg-green-700",
+    "questions": [
+      {
+        "id": "aula14_q13",
+        "question": "Descontos concedidos Comissões e despesas bancárias Custos de transação 1.2) RECEITAS FINANCEIRAS Descontos obtidos Juros recebidos ou auferidos Receitas sabre outros investimentos temporários Prêmio de resgate de títulos e debêntures 1.3) RESULTADO FINANCEIRO COMERCIAL Receita financeira comercial (Reversão de ajuste a valor presente de clientes, Líquido de suas perdas monetárias) Despesa financeira comercial (Reversão de ajuste a valor presente de clientes, Líquido de suas perdas monetárias) 2. VARIAÇÕES MONETÁRIAS DE OBRIGAÇÕES E CRÉDITOS 2.1) VARIAÇÕES MONETÁRIAS DE OBRIGAÇÕES Variação cambial Variação monetária passiva 2.2) VARIAÇÕES MONETÁRIAS DE CRÉDITOS Variação cambial Variação monetária ativa 3. PIS/PASEP SOBRE RECEITAS FINANCEIRAS 4. COFINS SOBRE RECEITAS FINANCEIRAS",
+        "options": [
+          "OUTRAS RECEITAS E DESPESAS OPERACIONAIS LUCROS E PREJUÍZOS DE PARTICIPAÇÕES EM OUTRAS SOCIEDADES Participação nos resultados de coligadas e controladas pelo método de equivalência patrimonial Dividendos e rendimentos de outros investimentos Amortização de ágio ou deságio de investimentos 2. VENDAS DIVERSAS Vendas de sucatas (liquidas de ICMS) 3. GANHOS E PERDAS DE CAPITAL NOS INVESTIMENTOS Ganhos e perdas na alienação de investimentos Ganhos com compra vantajosa - Ágio Perdas prováveis na realização de investimentos Outros resultados em investimentos avaliados pela equivalência patrimonial OUTRAS RECEITAS E DESPESAS 1) GANHOS E PERDAS DE CAPITAL NO IMOBILIZADO 56 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 DEMONSTRAÇÃO DO RESULTADO DO EXERCÍCIO - PLANO DE CONTAS Ganhos e perdas na alienação ou baixa de imobilizado Valor Líquido de bens baixados 2) GANHOS E PERDAS DE CAPITAL NO INTANGÍVEL Baixa de ativos intangíveis Ganhos/perdas no diferido RESULTADO DE OPERAÇÕES DESCONTINUADAS Receitas e despesas das operacões Tributos sobre operacões descontinuadas Ganhos ou perdas reconhecidos nos ativos da operação descontinuada Imposto de renda e contribuição social relacionados. IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL PARTICIPAÇÕES E CONTRIBUIÇÕES 1. DEBÊNTURES 2. EMPREGADOS 3. ADMINISTRADORES 4. PARTES Beneficiárias 5. INSTITUIÇÃO OU FUNDO DE ASSISTÊNCIA OU PREVIDÊNCIA A EMPREGADOS LUCRO (PREJUÍZO) LÍQUIDO DO EXERCÍCIO 57 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 QUESTÕES COMENTADAS - DRE – CEBRASPE Em relação ao balanço patrimonial e à demonstração de resultado do exercício (DRE), julgue o item a seguir. (CEBRASPE/TRF 6ª Região/Técnico/2025) A DRE é uma demonstração dinâmica que relata, de forma dedutiva, como o resultado do exercício foi obtido."
+        ],
+        "correct": 2,
+        "explanation": "A demonstração do resultado do exercício é a demonstração contábil que apresenta o desempenho da entidade através do confronto entre receitas e despesas. Por essa característica, possui caráter dinâmico. Realmente, sua estrutura (forma) é dedutiva, visto que se inicia com a Receita de Vendas e depois são deduzidas as despesas incorridas no período.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula14_q14",
+        "question": "A demonstração do resultado do exercício é a demonstração contábil que apresenta o desempenho da entidade através do confronto entre receitas e despesas. Por essa característica, possui caráter dinâmico. Realmente, sua estrutura (forma) é dedutiva, visto que se inicia com a Receita de Vendas e depois são deduzidas as despesas incorridas no período. Gabarito: Certo Em relação aos aspectos contábeis das sociedades anônimas, julgue os itens que se seguem, com base nas normas aplicáveis no Brasil. (CEBRASPE/TRF 6ª Região/Analista/2025) A demonstração do resultado do exercício tem como objetivo apresentar o valor das riquezas econômicas geradas pela entidade, bem como mostrar a forma como tal riqueza foi distribuída para a sociedade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na verdade, esses são objetivos da Demonstração do Valor Adicionado. Reforçamos que o objetivo da DRE é apresentar o desempenho financeiro da entidade através do confronto entre receitas e despesas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q15",
+        "question": "Na verdade, esses são objetivos da Demonstração do Valor Adicionado. Reforçamos que o objetivo da DRE é apresentar o desempenho financeiro da entidade através do confronto entre receitas e despesas. Gabarito: Errado. Julgue os itens a seguir, relativos à elaboração de demonstrações contábeis, conforme os pronunciamentos do Comitê de Pronunciamentos Contábeis. (CEBRASPE/ANM/Analista/2025) A demonstração do resultado do exercício é composta exclusivamente por receitas e despesas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Com base no CPC 00, os elementos financeiros são receitas e despesas. Na mesma linha, o CPC 26, explica que quando o regime de competência é utilizado (DRE usa o regime de competência), os itens devem ser reconhecidos como ativos, passivos, patrimônio líquido, receitas e despesas (elementos das demonstrações contábeis) quando satisfazem às definições e aos critérios de reconhecimento para esses elementos contidos no CPC 00. 58 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Luciano Rosa, Júlio Cardozo Aula 14 Ressaltamos que as terminologias da contabilidade de custos acabam incluídas nos conceitos de receitas (ganhos) e despesas (custo e perda). Tal entendimento é reforçado no trecho destacado do item 9 do CPC 26: Para satisfazer a esse objetivo, as demonstrações contábeis proporcionam informação da entidade acerca do seguinte: (d) receitas e despesas, incluindo ganhos e perdas; Enfim, conforme os CPCs, os elementos financeiros são Receita e Despesa, apenas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q16",
+        "question": "ofs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Ressaltamos que as terminologias da contabilidade de custos acabam incluídas nos conceitos de receitas (ganhos) e despesas (custo e perda). Tal entendimento é reforçado no trecho destacado do item 9 do CPC 26: Para satisfazer a esse objetivo, as demonstrações contábeis proporcionam informação da entidade acerca do seguinte: (d) receitas e despesas, incluindo ganhos e perdas; Enfim, conforme os CPCs, os elementos financeiros são Receita e Despesa, apenas. Gabarito: Certo Julgue os próximos itens, a respeito de contabilização e análise de demonstrações contábeis. (CEBRASPE/INOVERSASUL/Analista/2025) As despesas devem ser reconhecidas na demonstração do resultado do exercício quando resultarem em decréscimo nos benefícios econômicos futuros, por exemplo, a alocação por competência de obrigações trabalhistas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Atualmente, com base na edição vigente do CPC 00, despesa apresenta esta definição 4.69 Despesas são reduções nos ativos, ou aumentos nos passivos, que resultam em reduções no patrimônio líquido, exceto aqueles referentes a distribuições aos detentores de direitos sobre o patrimônio. Ressaltamos que a expressão “Despesas são decréscimos nos benefícios econômicos” era a utilizada nas versões anteriores desse pronunciamento. Embora a definição tenha sido atualizada, isso ainda é certo. No tocante ao exemplo citado, realmente é um exemplo de despesa pois tal apropriação de obrigações trabalhistas provocam aumento nos passivos, que resultam em reduções no PL (As contas de resultado são transitórias, isto é, são encerradas e seu saldo é transferido ao PL).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q17",
+        "question": "4.69 Despesas são reduções nos ativos, ou aumentos nos passivos, que resultam em reduções no patrimônio líquido, exceto aqueles referentes a distribuições aos detentores de direitos sobre o patrimônio. Ressaltamos que a expressão “Despesas são decréscimos nos benefícios econômicos” era a utilizada nas versões anteriores desse pronunciamento. Embora a definição tenha sido atualizada, isso ainda é certo. No tocante ao exemplo citado, realmente é um exemplo de despesa pois tal apropriação de obrigações trabalhistas provocam aumento nos passivos, que resultam em reduções no PL (As contas de resultado são transitórias, isto é, são encerradas e seu saldo é transferido ao PL). Gabarito: Certo Julgue os próximos itens, a respeito de contabilização e análise de demonstrações contábeis. (CEBRASPE/INOVERSASUL/Analista/2025) Na demonstração do resultado do exercício, os elementos diretamente relacionados com a mensuração do desempenho são as receitas e as despesas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Com base nos pronunciamentos contábeis, os elementos que se referem ao desempenho financeiro da entidade que reporta, são: receitas e despesas. 59 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Luciano Rosa, Júlio Cardozo Aula 14",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q18",
+        "question": "Com base nos pronunciamentos contábeis, os elementos que se referem ao desempenho financeiro da entidade que reporta, são: receitas e despesas. 59 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Gabarito: Certo Julgue os itens a seguir, referentes às demonstrações contábeis. (CEBRASPE/INOVERSASUL/Analista/2025) O reconhecimento da receita ocorre simultaneamente com o reconhecimento de aumento nos ativos ou de diminuição nos passivos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Com base nas normas contábeis, o reconhecimento é o processo de captação para inclusão na demonstração do resultado de item que atenda à definição de receita ou da despesa. Assim, o requisito para o reconhecimento da receita é atender a seguinte definição: 4.68 Receitas são aumentos nos ativos, ou reduções nos passivos, que resultam em aumentos no patrimônio líquido, exceto aqueles referentes a contribuições de detentores de direitos sobre o patrimônio. Observa-se que, para o reconhecimento da receita, são necessários aumentos nos ativos ou reduções nos passivos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q20",
+        "question": "a dos produtos, pelo fato de os produtos apresentarem defeitos de qualidade, quantidade, defeitos do transporte etc. Em razão disso, são considerados como deduções de vendas. A deduções de vendas são subtraídas da receita bruta, apurando-se a receita líquida: Receita Bruta (-) Deduções de vendas (descontos incondicionais, impostos, devoluções, abatimentos) = Receita Líquida 60 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Gabarito: B A respeito da demonstração de resultados do exercício (DRE), julgue o item a seguir. (CEBRASPE/TCE AC/Analista/2024) Da receita líquida deduz-se o custo total correspondente a vendas e serviços e obtém-se o resultado líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na verdade, as deduções das vendas são subtraídas da receita bruta, apurando-se a receita líquida; e o custo das mercadorias vendidas é subtraído da receita líquida, apurando-se o lucro bruto.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q21",
+        "question": "Na verdade, as deduções das vendas são subtraídas da receita bruta, apurando-se a receita líquida; e o custo das mercadorias vendidas é subtraído da receita líquida, apurando-se o lucro bruto. Gabarito: Errado A respeito da demonstração de resultados do exercício (DRE), julgue o item a seguir. (CEBRASPE/TCE AC/Analista/2024) Para que da DRE seja possível concluir se houve lucro ou prejuízo em determinado período de tempo, bem como analisar detalhadamente a parte econômica do negócio, deve-se adotar o regime de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A demonstração do resultado do exercício é a demonstração contábil que apresenta o confronto entre receitas e despesas da entidade. Se as receitas forem maiores que as despesas, temos a ocorrência de lucro. Ao contrário, sobrepondo-se as despesas às receitas, temos prejuízo. Tudo isso conforme o pressuposto contábil de competência, pelo qual as receitas e despesas devem ser reconhecidas independentemente de pagamento ou recebimento Ressaltamos que para a elaboração das demonstrações contábeis utilizamos o regime de competência. A exceção é a Demonstração dos Fluxos de Caixa (DFC), pois utiliza o regime de caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q24",
+        "question": "somar o CMV e as despesas operacionais: componente $ custo das mercadorias vendidas (CMV) 400.000 despesas administrativas 60.000 despesas de vendas 40.000 despesas com marketing 30.000 outras despesas operacionais 20.000 550.000 Ressaltamos que as devoluções e abatimentos são deduções de vendas. Gabarito: D Com referência à demonstração do resultado do exercício (DRE), considerando a legislação societária e os pronunciamentos do CPC, julgue o item subsequente. (CEBRASPE/CAU BR/Contador/2024) Conforme a legislação societária, a evidenciação da receita bruta na DRE, mesmo que inclua valores não pertencentes à entidade, é obrigatória.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A Lei 6404/76 (legislação societária) inicia a DRE a partir da Receita Bruta. Já com base no CPC 26, a DRE se inicia a partir da Receita Líquida. A justificativa do CPC 47 – Receita de Contrato com Cliente é que a empresa deve excluir do valor da contraprestação a receber (receita) as quantias cobradas em nome de terceiros (por exemplo, alguns impostos sobre vendas).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q25",
+        "question": "presa deve excluir do valor da contraprestação a receber (receita) as quantias cobradas em nome de terceiros (por exemplo, alguns impostos sobre vendas). Gabarito: Certo 63 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 No que diz respeito à elaboração de demonstrações contábeis, julgue o item subsecutivo, conforme a legislação societária, os princípios fundamentais da contabilidade e os pronunciamentos contábeis do Comitê de Pronunciamentos Contábeis (CPC). (CEBRASPE/TSE/Analista/2024) A metodologia empregada para a construção da demonstração do resultado do exercício é, em todos os aspectos, idêntica à empregada para a elaboração do balanço patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Balanço Patrimonial mostra a posição patrimonial e financeira da entidade. Ela evidencia uma situação estática da entidade, como fosse uma foto da entidade naquele dado momento. Já a demonstração do resultado do exercício (DRE) mostra a posição econômica. Ela evidencia uma situação dinâmica",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q26",
+        "question": "Balanço Patrimonial mostra a posição patrimonial e financeira da entidade. Ela evidencia uma situação estática da entidade, como fosse uma foto da entidade naquele dado momento. Já a demonstração do resultado do exercício (DRE) mostra a posição econômica. Ela evidencia uma situação dinâmica Gabarito: Errado A respeito da demonstração de resultados do exercício (DRE), julgue o item a seguir. (CEBRASPE/TCE AC/Analista Contabilidade/2024) As entidades que classificarem os gastos por função devem divulgar informação adicional sobre a natureza das despesas, incluindo-se as despesas de depreciação e de amortização e as despesas com benefícios aos empregados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "No Brasil, por conta da lei 6.404/76. as empresas usam o método da função da despesa (também chamado de “método do custo do produto ou serviço vendido”). Consequentemente, devem apresentar informação adicional sobre a natureza das despesas. Isso é previsto no item 104 do CPC 26, vejam: 104. As entidades que classificarem os gastos por função devem divulgar informação adicional sobre a natureza das despesas, incluindo as despesas de depreciação e de amortização e as despesas com benefícios aos empregados.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q27",
+        "question": "No Brasil, por conta da lei 6.404/76. as empresas usam o método da função da despesa (também chamado de “método do custo do produto ou serviço vendido”). Consequentemente, devem apresentar informação adicional sobre a natureza das despesas. Isso é previsto no item 104 do CPC 26, vejam: 104. As entidades que classificarem os gastos por função devem divulgar informação adicional sobre a natureza das despesas, incluindo as despesas de depreciação e de amortização e as despesas com benefícios aos empregados. Gabarito: Certo Com relação à demonstração do resultado do exercício, julgue o item subsequente. (CEBRASPE/MPE TO/Técnico em Contabilidade/2024) As comissões sobre vendas representam ajustes na receita bruta, devendo ser evidenciadas como deduções de venda na demonstração do resultado do exercício.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "64 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Luciano Rosa, Júlio Cardozo Aula 14 Deduções da Receita/Deduções da Receita Bruta: são contas específicas utilizadas para ajustar o valor das vendas brutas. Podemos citar como exemplo: Devoluções e cancelamento de vendas, Abatimentos sobre vendas, Descontos incondicionais concedidos/descontos comerciais, Impostos e contribuições sobre vendas e serviços (ICMS, ISS, PIS, COFINS), Ajuste a valor presente sobre clientes. A comissão de vendas é, na verdade, uma despesa de vendas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q28",
+        "question": "a (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Deduções da Receita/Deduções da Receita Bruta: são contas específicas utilizadas para ajustar o valor das vendas brutas. Podemos citar como exemplo: Devoluções e cancelamento de vendas, Abatimentos sobre vendas, Descontos incondicionais concedidos/descontos comerciais, Impostos e contribuições sobre vendas e serviços (ICMS, ISS, PIS, COFINS), Ajuste a valor presente sobre clientes. A comissão de vendas é, na verdade, uma despesa de vendas. Gabarito: Errado No que se refere ao conceito de receita, para fins da elaboração da DRE, julgue o item a seguir. (CEBRASPE/TCE AC/Analista Contabilidade/2024) Usualmente, adota-se o método dedutivo na apresentação das receitas, apresentando-se incialmente as receitas da entidade e, posteriormente, as ==11e785== despesas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A demonstração do resultado do exercício é a demonstração contábil que apresenta o desempenho da entidade através do confronto entre receitas e despesas. Por essa característica, possui caráter dinâmico. Realmente, sua estrutura (forma) é dedutiva, visto que se inicia com a Receita de Vendas e depois são deduzidas as despesas incorridas no período.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q29",
+        "question": "A demonstração do resultado do exercício é a demonstração contábil que apresenta o desempenho da entidade através do confronto entre receitas e despesas. Por essa característica, possui caráter dinâmico. Realmente, sua estrutura (forma) é dedutiva, visto que se inicia com a Receita de Vendas e depois são deduzidas as despesas incorridas no período. Gabarito: Certo No que se refere ao uso e à elaboração do balancete de verificação contábil, do balanço patrimonial e da demonstração de resultado do exercício, julgue o item subsequente. (CEBRASPE/CODEVASF/Analista/2024) Para fins de levantamento da demonstração do resultado do exercício, contas de despesa, como juros incorridos e descontos concedidos, e contas de receita, como prêmios de resgate de títulos e debêntures e receitas de outros investimentos temporários, devem ser apresentadas como outros resultados operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Tais contas são despesas financeiras e receitas financeiras, respectivamente. O modelo do Pronunciamento CPC 26 apresenta um subtotal, chamado de “Resultado antes Receitas e Despesas Financeiras”. Seguem-se as despesas e receitas financeiras e após o Resultado antes dos tributos sobre o Lucro. A apresentação apartada do resultado financeiro ocorre para separar o resultado operacional do resultado obtido com a sobra (ou a falta) de caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q30",
+        "question": "s Financeiras”. Seguem-se as despesas e receitas financeiras e após o Resultado antes dos tributos sobre o Lucro. A apresentação apartada do resultado financeiro ocorre para separar o resultado operacional do resultado obtido com a sobra (ou a falta) de caixa. Gabarito: Errado 65 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 No que se refere ao conceito de receita, para fins da elaboração da DRE, julgue o item a seguir. (CEBRASPE/TCE AC/Analista Contabilidade/2024) O objetivo da DRE é fornecer aos usuários das demonstrações contábeis da empresa as informações essenciais sobre a formação do resultado do exercício, que evidencia o desempenho da entidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O objetivo da DRE é apresentar o desempenho financeiro da entidade através do confronto entre receitas e despesas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q31",
+        "question": "O objetivo da DRE é apresentar o desempenho financeiro da entidade através do confronto entre receitas e despesas. Gabarito: Certo A respeito da demonstração de resultados do exercício (DRE), julgue o item a seguir. (CEBRASPE/TCE AC/Analista Contabilidade/2024) As entidades que classificarem os gastos por função devem divulgar informação adicional sobre a natureza das despesas, incluindo-se as despesas de depreciação e de amortização e as despesas com benefícios aos empregados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "No Brasil, por conta da lei 6.404/76. as empresas usam o método da função da despesa (também chamado de “método do custo do produto ou serviço vendido”). Consequentemente, devem apresentar informação adicional sore a natureza das despesas. Isso é previsto no item 104 do CPC 26, vejam: 104. As entidades que classificarem os gastos por função devem divulgar informação adicional sobre a natureza das despesas, incluindo as despesas de depreciação e de amortização e as despesas com benefícios aos empregados.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q32",
+        "question": "120.000 receita de serviço 18.000 despesa de salários 6.000 despesa de utilidades 1.600 despesa de propaganda 1.000 226.000 226.000 Informações adicionais: • valor dos seguros na conta de resultado de R$ 900 por mês; • contagem física do material de consumo apresentou um valor de R$ 2.100; • valor da depreciação mensal de R$ 600 para edifícios e de R$ 500 para equipamentos; • empréstimo com taxa de juros de 1% ao mês; • valor da receita antecipada realizada de R$ 5.000 no mês; • valor de salários de R$ 1.800 do mês, que serão pagos no mês de dezembro/20X3. Com base nessas informações, julgue o item que se segue, a respeito das demonstrações contábeis de Alfa Ltda. (CEBRASPE/MPE TO/Analista/2024) O valor do lucro líquido do exercício é de R$ 6.780.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A seguir, os fatos contábeis e seus respectivos lançamentos. • valor dos seguros na conta de resultado de R$ 900 por mês; Lançamento: D – Despesa de Seguros (Resultado) R$ 900,00 C – Seguros Antecipados (Ativo) R$ 900,00 • contagem física do material de consumo apresentou um valor de R$ 2.100; Lembram da fórmula do CMV? Vamos utilizar uma parecida para encontrar a despesa com material de consumo: Despesa com material de consumo = EI + Entradas – EF = 5.200 + 0 – 2.100 = 3.100 67 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Luciano Rosa, Júlio Cardozo Aula 14 Lançamento: D – Despesa com material de consumo (Resultado) 3.100 C – Material de consumo (Ativo) 3.100 • valor da depreciação mensal de R$ 600 para edifícios e de R$ 500 para equipamentos; Lançamento: D – Despesa de depreciação (Resultado) 1.100 C – Depreciação Acumulada (Retificadora do Ativo) 1.100 • empréstimo com taxa de juros de 1% ao mês; Lançamento: D – Despesas com juros (Resultado) 720 C – Empréstimos a pagar (Passivo) 720 • valor da receita antecipada realizada de R$ 5.000 no mês; Lançamento: D - Receita antecipada (Passivo) 5.000 C - Receita de Vendas (Resultado) 5.000 • valor de salários de R$ 1.800 do mês, que serão pagos no mês de dezembro/20X3. Lançamento: D – Despesa de salários (Resultado) R$ 1.800 C – Salários a pagar (Passivo) R$ 1.800 Antes de apurar o lucro líquido, precisamos atualizar os saldos das contas de resultado: receita de serviço = 18.000 + 5.000 = 23.000 Despesa de salários = 6.000 + 1.800 = 7.800 Despesa de utilidades = 1.600 Despesa de propaganda = 1.000 Despesa de seguros = 900 Despesa com material de consumo = 3.100 Despesa de depreciação = 600 + 500 = 1.100 Despesas com juros = 720 68 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Luciano Rosa, Júlio Cardozo Aula 14 Confrontamos, temos: LL = Receitas – Despesas LL = 23.000 – (7.800 + 1.600 + 1.000 +900 + 3.100 + 1.100 + 720) LL = 23.000 – 16.220 = 6.780",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q33",
+        "question": "ldos das contas de resultado: receita de serviço = 18.000 + 5.000 = 23.000 Despesa de salários = 6.000 + 1.800 = 7.800 Despesa de utilidades = 1.600 Despesa de propaganda = 1.000 Despesa de seguros = 900 Despesa com material de consumo = 3.100 Despesa de depreciação = 600 + 500 = 1.100 Despesas com juros = 720 68 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Confrontamos, temos: LL = Receitas – Despesas LL = 23.000 – (7.800 + 1.600 + 1.000 +900 + 3.100 + 1.100 + 720) LL = 23.000 – 16.220 = 6.780 Gabarito: Certo (CEBRASPE/MPE TO/Técnico em Contabilidade/2024) O valor total das despesas na demonstração de resultado do exercício em 30/11/20X3 é de R$ 15.120.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "As despesas totalizaram R$ 16.220, vejam: Despesa de salários = 6.000 + 1.800 = 7.800 Despesa de utilidades = 1.600 Despesa de propaganda = 1.000 Despesa de seguros = 900 Despesa com material de consumo = 3.100 Despesa de depreciação = 600 + 500 = 1.100 Despesas com juros = 720 Total = 16.220",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q34",
+        "question": "As despesas totalizaram R$ 16.220, vejam: Despesa de salários = 6.000 + 1.800 = 7.800 Despesa de utilidades = 1.600 Despesa de propaganda = 1.000 Despesa de seguros = 900 Despesa com material de consumo = 3.100 Despesa de depreciação = 600 + 500 = 1.100 Despesas com juros = 720 Total = 16.220 Gabarito: Errado A respeito de gestão patrimonial, julgue o item a seguir. (CEBRASPE/CAU BR/Técnico/2024) Na demonstração do resultado do exercício, são listados todos os ativos (direitos) e os passivos (obrigações) da organização.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Errado, é no Balanço Patrimonial e não na Demonstração do Resultado do Exercício que são listados todos os ativos (direitos) e os passivos (obrigações) da organização.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q35",
+        "question": "Errado, é no Balanço Patrimonial e não na Demonstração do Resultado do Exercício que são listados todos os ativos (direitos) e os passivos (obrigações) da organização. Gabarito: Errado Acerca das demonstrações contábeis, julgue o item a seguir. 69 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 (CEBRASPE/CAU BR/Técnico/2024) A demonstração do resultado do exercício é uma demonstração dinâmica, que se apresenta de forma dedutiva e tem por finalidade permitir a análise do desempenho de uma entidade em determinado período de tempo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, pessoal. A demonstração do resultado do exercício é a demonstração contábil que apresenta o desempenho da entidade através do confronto entre receitas e despesas. Por essa característica, possui caráter dinâmico. A demonstração do resultado do exercício – DRE - objetiva evidenciar a situação econômica da entidade, quando verificamos se a mesma apresenta lucro ou prejuízo NO PERÍODO CONTÁBIL. Sua estrutura é dedutiva, visto que se inicia com a Receita de Vendas e depois são deduzidas as despesas incorridas no período.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q36",
+        "question": "Correto, pessoal. A demonstração do resultado do exercício é a demonstração contábil que apresenta o desempenho da entidade através do confronto entre receitas e despesas. Por essa característica, possui caráter dinâmico. A demonstração do resultado do exercício – DRE - objetiva evidenciar a situação econômica da entidade, quando verificamos se a mesma apresenta lucro ou prejuízo NO PERÍODO CONTÁBIL. Sua estrutura é dedutiva, visto que se inicia com a Receita de Vendas e depois são deduzidas as despesas incorridas no período. Gabarito: Certo Acerca das demonstrações contábeis, julgue o item a seguir. (CEBRASPE/CAU BR/Técnico/2024) Na demonstração do resultado do exercício, o valor da participação de terceiros no resultado de uma empresa é obtido com base no valor do lucro líquido apurado ao final do período contábil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, pessoal. As participações de terceiros sobre o lucro, como é o caso das participações estatutárias não tem como base o lucro líquido, mas, por exemplo, o Resultado após o Imposto de Renda. Depois de deduzidas as participações, chegamos ao lucro líquido do exercício. Daí, temos de transferir o resultado para o patrimônio líquido, pois as receitas e despesas da entidade integram o chamado capital próprio",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q37",
+        "question": "Item errado, pessoal. As participações de terceiros sobre o lucro, como é o caso das participações estatutárias não tem como base o lucro líquido, mas, por exemplo, o Resultado após o Imposto de Renda. Depois de deduzidas as participações, chegamos ao lucro líquido do exercício. Daí, temos de transferir o resultado para o patrimônio líquido, pois as receitas e despesas da entidade integram o chamado capital próprio Gabarito: Errado Acerca das demonstrações contábeis, julgue o item a seguir. (CEBRASPE/CAU BR/Técnico/2024) Na demonstração do resultado do exercício, as despesas financeiras devem ser classificadas como despesas não operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na Demonstração do Resultado atualmente em vigor, não existem mais as chamadas despesas não operacionais. 70 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Luciano Rosa, Júlio Cardozo Aula 14 Existe a separação entre resultado das operações continuadas e operações descontinuadas. O modelo de Demonstração do Resultado do Exercício previsto no Pronunciamento CPC 26 apresenta um subtotal, chamado de “Resultado antes Receitas e Despesas Financeiras”. Seguem-se as despesas e receitas financeiras e após o Resultado antes dos tributos sobre o Lucro. Ainda assim, não há classificação de despesas financeiras como não operacionais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q38",
+        "question": "70 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 Existe a separação entre resultado das operações continuadas e operações descontinuadas. O modelo de Demonstração do Resultado do Exercício previsto no Pronunciamento CPC 26 apresenta um subtotal, chamado de “Resultado antes Receitas e Despesas Financeiras”. Seguem-se as despesas e receitas financeiras e após o Resultado antes dos tributos sobre o Lucro. Ainda assim, não há classificação de despesas financeiras como não operacionais. Gabarito: Errado Acerca da demonstração do resultado do exercício (DRE), julgue os itens seguintes. (CEBRASPE/Especialista em Regulação/ANTT/2024) A DRE é uma demonstração construída de forma dedutiva e tem caráter dinâmico, diferentemente do balanço patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, pessoal. A demonstração do resultado do exercício é a demonstração contábil que apresenta o desempenho da entidade através do confronto entre receitas e despesas. Por essa característica, possui caráter dinâmico. Sua estrutura é dedutiva, visto que se inicia com a Receita de Vendas e depois são deduzidas as despesas incorridas no período, até chegarmos ao resultado do período.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q40",
+        "question": "O custo das mercadorias vendidas (CMV) é subtraído da receita líquida, apurando-se o lucro bruto. Gabarito: A No que se refere à elaboração de demonstrações contábeis pela legislação societária e pelos pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis (CPC), julgue o item que se segue. 71 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 80 (CEBRASPE/POLC AL/Perito Criminal/2023) Havendo resultado de operações descontinuadas a reconhecer na demonstração do resultado do exercício, isso deve ser feito de forma detalhada, evidenciando os ganhos e as perdas envolvidas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Por terem esse caráter excepcional, atípico, a estrutura da DRE do pronunciamento CPC 26 inclui essas informações, de forma separada das operações normais, contínuas, da empresa. O resultado das operações descontinuadas deve ser apresentado em um montante único na demonstração do resultado. Ressaltamos que as notas explicativas fazem parte do conjunto completo das demonstrações contábeis e é ela que possui a função de detalhamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q41",
+        "question": "Por terem esse caráter excepcional, atípico, a estrutura da DRE do pronunciamento CPC 26 inclui essas informações, de forma separada das operações normais, contínuas, da empresa. O resultado das operações descontinuadas deve ser apresentado em um montante único na demonstração do resultado. Ressaltamos que as notas explicativas fazem parte do conjunto completo das demonstrações contábeis e é ela que possui a função de detalhamento. Gabarito: Errado Com relação a algumas das demonstrações contábeis previstas na legislação e nas normas brasileiras, bem como a pronunciamentos do Comitê de Pronunciamentos Contábeis (CPC), julgue o item a seguir. (CEBRASPE/DATAPREV/Analista Contabilidade/2023) Na demonstração do resultado do exercício, as receitas com juros devem ser segregadas das demais receitas para fins de evidenciação.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O modelo do Pronunciamento CPC 26 apresenta um subtotal, chamado de “Resultado antes Receitas e Despesas Financeiras”. Seguem-se as despesas e receitas financeiras e após o Resultado antes dos tributos sobre o Lucro. A apresentação apartada do resultado financeiro ocorre para separar o resultado operacional do resultado obtido com a sobra (ou a falta) de caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula14_q42",
+        "question": "O modelo do Pronunciamento CPC 26 apresenta um subtotal, chamado de “Resultado antes Receitas e Despesas Financeiras”. Seguem-se as despesas e receitas financeiras e após o Resultado antes dos tributos sobre o Lucro. A apresentação apartada do resultado financeiro ocorre para separar o resultado operacional do resultado obtido com a sobra (ou a falta) de caixa. Gabarito: Certo Com relação a algumas das demonstrações contábeis previstas na legislação e nas normas brasileiras, bem como a pronunciamentos do Comitê de Pronunciamentos Contábeis (CPC), julgue o item a seguir. (CEBRASPE/DATAPREV/Analista Contabilidade/2023) Conforme o CPC 26, o resultado da venda de bens do ativo imobilizado é evidenciado, na demonstração do resultado do exercício, como resultado não operacional",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na verdade, tal resultado (ganho ou perda) será evidenciado como outras receitas e despesas na DRE.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula15",
+    "title": "15",
+    "description": "Questões comentadas da 15",
+    "color": "bg-teal-700",
+    "questions": [
+      {
+        "id": "aula15_q1",
+        "question": "(CEBRASPE/TCE-SC/Auditor Fiscal de Controle Externo/Ciências Contábeis/2022) Na perspectiva da legislação societária, a demonstração das mutações do patrimônio líquido possui caráter complementar, sendo obrigatória a demonstração de lucros ou prejuízos acumulados, mas os pronunciamentos do CPC transformaram essas duas demonstrações em obrigatórias.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A demonstração de lucros ou prejuízos acumulados demonstra as movimentações da conta lucros ou prejuízos acumulados, passando desde o saldo do início do período (se for prejuízo) até a recepção do lucro (que vem da DRE) e sua distribuição. Ela é uma demonstração obrigatória segundo a lei das SA. A demonstração das mutações do patrimônio líquido é a demonstração que evidencia, como o próprio nome sugere, as modificações neste grupo patrimonial. De certa forma, já apresenta todas as informações que são trazidas na DLPA. Isso faz sentido, pois se temos uma demonstração que apresenta TODAS as alterações ocorridas no Patrimônio Líquido, ela também irá apresentar o que ocorre em uma conta específica: Lucros ou Prejuízos Acumulados. Por isso a lei das SA. afirma que a DLPA pode ser incluída na DMPL: Art. 186. § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do patrimônio líquido, se elaborada e publicada pela companhia. Veja que a demonstração das mutações do patrimônio líquido (DMPL) não é obrigatória segundo a Lei das Sociedades por Ações. Todavia, tal lei atribui um caráter complementa a DMPL no momento que permite que ela inclua a DLPA apresentando, assim, mais informações. No tocante aos pronunciamentos do CPC, o CPC 26 (Apresentação das demonstrações contábeis) classifica a DMPL dentre aquelas que fazem parte do chamado conjunto das demonstrações contábeis de uma entidade. Tal menção levou o FIPECAFI, no livro Manual de Contabilidade Societária, a considerar que, a partir da edição do Pronunciamento Contábil, a DMPL passa a ser obrigatória a todos os tipos societários. A questão deverá explicitar se está exigindo o conhecimento da Lei 6.404/76 ou do CPC 26. Em síntese: • Lei SA: DLPA obrigatória • Pronunciamentos do CPC: DMPL obrigatória Diante do exposto, o quesito erra ao afirmar que as duas demonstrações seriam obrigatórias conforme os pronunciamentos do CPC (especificadamente o CPC 26 - Apresentação das demonstrações contábeis), visto que apenas a DMPL é obrigatória para eles. Sendo que este Pronunciamento Técnico não faz qualquer referência à DLPA 56 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q2",
+        "question": "(CEBRASPE/PGE RJ/Analista Contábil/2022) Enquanto a legislação societária considera obrigatória a apresentação da demonstração de lucros e prejuízos acumulados, facultando sua apresentação dentro da demonstração de mutações do patrimônio líquido, o CPC classifica essa última demonstração como parte do conjunto completo de demonstrações contábeis.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Para facilitar, vamos analisar o quesito em duas partes: Enquanto a legislação societária considera obrigatória a apresentação da demonstração de lucros e prejuízos acumulados, facultando sua apresentação dentro da demonstração de mutações do patrimônio líquido A demonstração obrigatória, segundo a lei das SA, é a DLPA. Ainda com base nessa lei, ela pode ser incluída na DMPL: Art. 186. § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do patrimônio líquido, se elaborada e publicada pela companhia. A primeira parte está correta. demonstração de mutações do patrimônio líquido, o CPC classifica essa última demonstração como parte do conjunto completo de demonstrações contábeis. A DMPL não consta como sendo obrigatória pela Lei 6.404/76. Todavia, o CPC 26 (Apresentação das demonstrações contábeis) arrolou esta demonstração dentre aquelas que fazem parte do conjunto das demonstrações contábeis de uma entidade. Tal menção levou o FIPECAFI, no livro Manual de Contabilidade Societária, a considerar que, a partir da edição do Pronunciamento Contábil, a DMPL passa a ser obrigatória a todos os tipos societários. A segunda parte está correta.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q3",
+        "question": "(CEBRASPE/TC-DF/Auditor de Controle Externo/2021) A demonstração das mutações do patrimônio líquido inclui informações referentes ao resultado abrangente do período, sendo apresentados separadamente o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não controladores.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A DMPL possui grande importância, pois evidencia as movimentações ocorridas em todas as contas do Patrimônio Líquido, como Lucros Acumulados, todas as Reservas (e não só as Reservas de Lucros), bem com as transações de capital da empresa com os sócios e os Outros Resultados Abrangentes. Gostamos de dizer que a DMPL traz de “brinde” duas demonstrações adicionais: a Demonstração dos Lucros ou Prejuízos Acumulados e a Demonstração do Resultado Abrangente. Especialmente para empresas que possuem investimentos em coligadas, controladas e controladas em conjunto, a DMPL evidencia todas as alterações ocorridas no patrimônio líquido das investidas reconhecidas pelo Método da Equivalência Patrimonial de forma reflexa pela investidora. Agora, vejamos sua descrição presente no CPC 26: Demonstração das mutações do patrimônio líquido Informação a ser apresentada na demonstração das mutações do patrimônio líquido 106. A entidade deve apresentar a demonstração das mutações do patrimônio líquido conforme requerido no item 10. A demonstração das mutações do patrimônio líquido inclui as seguintes informações: (a) o resultado abrangente do período, apresentando separadamente o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não controladores; (b) para cada componente do patrimônio líquido, os efeitos da aplicação retrospectiva ou da reapresentação retrospectiva, reconhecidos de acordo com o Pronunciamento Técnico CPC 23 – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro; (d) para cada componente do patrimônio líquido, a conciliação do saldo no início e no final do período, demonstrando-se separadamente (no mínimo) as mutações decorrentes: (Alterada pela Revisão CPC 12) (i) do resultado líquido; (ii) de cada item dos outros resultados abrangentes; e (iii) de transações com os proprietários realizadas na condição de proprietário, demonstrando separadamente suas integralizações e as distribuições realizadas, bem 58 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91 como modificações nas participações em controladas que não implicaram perda do controle. O pronunciamento também fornece um modelo da DMPL: Reservas de C apital, Patrim ônio Lucros ou O utros Patrim ônio dos Patrim ônio C apitalSocial O pções Reserva Liquido dos prejuízos Resultados N ão Líquido Integralizado O utorgadas e de Lucros sócios da acum ulados A brangentes controladores C onsolidado ações em controladora tesouraria Saldo Inicial 1000 80 300 0 270 1650 158 1808 Aum ento de capital 500 -50 -100 350 32 382 D ividendos -162 -162 -13,2 -175,2 Transação de capitalcom os sócios 1500 30 200 -162 270 188 18,8 206,8 Lucro Líquido do Período 250 250 22 272 Ajustes Instrum entos Financeiros -60 -60 -60 Ajustes de Conversão do Período 260 260 260 O utros Resultado Abrangentes 200 0 200 Resultado Abrangente Total 450 22 472 Constituição de Reserva 140 -140 Realização da Reserva Realização 52 -52 Saldos Finais 1500 30 340 0 418 2288 198,8 2486,8 Por fim, podemos marcar o quesito como certo dado que apresentou a literalidade da alinea a do item 106 do CPC 26.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q4",
+        "question": "(CEBRASPE/Analista/EBSERH/2018) Apesar de ser facultativa, segundo a legislação societária, a demonstração das mutações do patrimônio líquido integra o rol de demonstrações financeiras classificadas como obrigatória pelo CPC.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A DMPL não consta como sendo obrigatória pela Lei 6.404/76. Todavia, o CPC 26 (Apresentação das demonstrações contábeis) arrolou esta demonstração dentre aquelas que fazem parte do conjunto das demonstrações contábeis de uma entidade. Tal menção levou o FIPECAFI, no livro Manual de Contabilidade Societária, a considerar que, a partir da edição do Pronunciamento Contábil, a DMPL passa a ser obrigatória a todos os tipos societários.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q5",
+        "question": "(CEBRASPE/TCE-MG/Analista de Controle Externo - Ciências Contábeis/2018.Adaptada) A demonstração de mutações do patrimônio líquido não é obrigatória, de acordo com a Lei n.º 6.404/1976, apesar da relevância dessa demonstração para o entendimento de fatos que possam modificar o patrimônio social de uma empresa em dado período. 59 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, a DMPL não é obrigatória pela Lei 6404/76, mas faz parte do conjunto completo de Demonstrações do CPC 26. Vejam o Texto do Pronunciamento CPC 26 (R1): Conjunto completo de demonstrações contábeis 10. O conjunto completo de demonstrações contábeis inclui: (c) demonstração das mutações do patrimônio líquido do período;",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q6",
+        "question": "(CEBRASPE/TCE-PE/Auditor de Controle Externo/Contabilidade/2017) Caso uma companhia realize uma constituição de reservas de incentivos fiscais no valor de R$ 125.000, isso fará que a demonstração das mutações do patrimônio líquido dessa companhia evidencie um aumento de R$ 125.000 no saldo de conta de reservas e uma redução, no mesmo valor, na conta de lucros acumulados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A constituição de Reservas de Lucros é feita a partir da conta de Lucros Acumulados com a seguinte contabilização: D – Lucros Acumulados C – Reservas de Lucros",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q8",
+        "question": "(CEBRASPE/SEDF/Analista Gestão Educacional – Contabilidade/ 2017) O total de dividendos reconhecidos como distribuição aos acionistas durante dado exercício pode ser evidenciado na demonstração das mutações do patrimônio líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A Demonstração das Mutações do Patrimônio Líquido (DMPL) é mais completa que a DLPA. Esta última torna- se apenas uma coluna da DMPL. A Lei 6404/76 permite que a DLPA seja incluída na DMPL. Com a publicação do CPC 26 – Apresentação das demonstrações contábeis, podemos entender que a DMPL passa a fazer parte do conjunto completo de demonstrações contábeis, passando a ser obrigatória para praticamente todas as empresas. A referida norma apresenta um modelo da DMPL: 61 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91 Reservas de C apital, Patrim ônio Lucros ou O utros Patrim ônio dos Patrim ônio C apitalSocial O pções Reserva Liquido dos prejuízos Resultados N ão Líquido Integralizado O utorgadas e de Lucros sócios da acum ulados A brangentes controladores C onsolidado ações em controladora tesouraria Saldo Inicial 1000 80 300 0 270 1650 158 1808 Aum ento de capital 500 -50 -100 350 32 382 D ividendos -162 -162 -13,2 -175,2 Transação de capitalcom os sócios 1500 30 200 -162 270 188 18,8 206,8 Lucro Líquido do Período 250 250 22 272 Ajustes Instrum entos Financeiros -60 -60 -60 Ajustes de Conversão do Período 260 260 260 O utros Resultado Abrangentes 200 0 200 Resultado Abrangente Total 450 22 472 Constituição de Reserva 140 -140 Realização da Reserva Realização 52 -52 Saldos Finais 1500 30 340 0 418 2288 198,8 2486,8 Segundo o CPC 26: 107. A entidade deve apresentar, na demonstração das mutações do patrimônio líquido ou nas notas explicativas, o montante de dividendos reconhecidos como distribuição aos proprietários durante o período e o respectivo montante dos dividendos por ação.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q9",
+        "question": "(CEBRASPE/TCE-PR/Analista de Controle - Atuarial/2016) Os dados apresentados foram extraídos da demonstração das mutações do patrimônio líquido de uma entidade e representam todas as transações que afetaram esse grupo patrimonial em determinado exercício. Com base nessas informações, é correto afirmar que, naquele exercício, o patrimônio líquido da entidade",
+        "options": [
+          "aumentou em R$ 70.000.",
+          "aumentou em R$ 20.000.",
+          "foi reduzido em R$ 10.000.",
+          "foi reduzido em R$ 5.500.",
+          "aumentou em R$ 144.500. 62 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91"
+        ],
+        "correct": 1,
+        "explanation": "Nesse tipo de questão temos que analisar cada operação e verificar se haverá alteração quantitativa ou meramente qualitativa no Patrimônio Líquido, vejamos: - Aumento do capital social com reservas→ não há alteração quantitativa do PL, a alteração é simplesmente qualitativa; - Diminuição do capital social por retirada de sócio→ diminuição do PL de R$ 5.500; - Reversão de reservas de Lucros a realizar→ para chegar ao gabarito da banca temos que considerar que a reversão da reserva vai para dividendos, diminuindo o saldo do PL em 4.500. - Apuração do Lucro Líquido→ aumento do PL de R$ 100.000,00 - Destinação do Lucro para reservas de Lucros→ não há alteração quantitativa do PL; - Distribuição de dividendos→ diminuição do PL em R$ 70.000; Portanto, o efeito no PL foi: - 5.500 – 4.500 + 100.000 – 70.000 = 20.000.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula15_q10",
+        "question": "(CEBRASPE/Auditor de Controle Externo/TCE/SC/2016) Não podem constar na demonstração das mutações do patrimônio líquido de uma empresa as modificações das quais seus sócios participem em qualidade diferente de proprietários.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o CPC 26: Resultado abrangente é a mutação que ocorre no patrimônio líquido durante um período que resulta de transações e outros eventos que não sejam derivados de transações com os sócios na sua qualidade de proprietários. Segundo o item 106, a, da mesma norma, “A demonstração das mutações do patrimônio líquido inclui as seguintes informações: (a) o resultado abrangente do período, apresentando separadamente o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não controladores. ”",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q11",
+        "question": "(CEBRASPE/TCE-RN/Auditor/2015) A demonstração das mutações do patrimônio líquido evidencia, de forma analítica, as modificações ocorridas no patrimônio líquido, sendo, para fins de publicação, vedada a sua sumarização.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Pessoal, sumarizar significa resumir, reunir da maneira agregada os principais pontos de determinado tema. Vejam o que o FIPECAFI fala sobre a DMPL: “Caso a apresentação analítica da demonstração das mutações do Patrimônio Líquido que contemple todas as subcontas existentes na companhia fique muito extensa para fins de publicação, poderão ser utilizados recursos alternativos de apresentação, como notas explicativas e quadros auxiliares, sumariando-se a apresentação da demonstração pelos totais, nos itens reservas de capital, reservas de reavaliação e reservas de lucros. A possibilidade de apresentação de uma demonstração sumariada mediante grupamento das contas parece-nos que deve ser utilizada pelas empresas, pois permite visualização mais fácil e melhor entendimento. ”",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q12",
+        "question": "(CEBRASPE/Telebras/Contador/2015) O valor dos dividendos distribuídos aos proprietários a cada período e o valor do dividendo distribuído por ação podem ser evidenciados na demonstração de mutações do patrimônio líquido (DMPL).",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A entidade deve apresentar, na demonstração das mutações do patrimônio líquido ou nas notas explicativas, o montante de dividendos reconhecidos como distribuição aos proprietários durante o período e o respectivo montante dos dividendos por ação.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q13",
+        "question": "(CEBRASPE/Telebras/Analista Superior - Finanças/2015) A demonstração das mutações do patrimônio líquido (DMPL) apresenta as variações que tenham ocorrido no capital próprio da empresa durante um determinado período, mostrando os aumentos e as reduções de capital, incluído o resultado do exercício. A aquisição de ações de própria emissão é um evento que aumenta o patrimônio líquido e deve estar registrada na DMPL. 64 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A questão apresenta uma definição perfeita da função e característica da DMPL e este trecho está correto: A demonstração das mutações do patrimônio líquido (DMPL) apresenta as variações que tenham ocorrido no capital próprio da empresa durante um determinado período, mostrando os aumentos e as reduções de capital, incluído o resultado do exercício. Porém, a questão erra ao tratar de ações em tesouraria, isto é, a aquisição de ações própria emissão, pois elas diminuem e não aumentam o Patrimônio Líquido. Todo o cuidado é pouco em questões do CEBRASPE!!",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q14",
+        "question": "(CEBRASPE/MPOG/Contador/2015) A publicação, da demonstração das mutações do patrimônio líquido (DMPL) pela empresa dispensa a publicação da demonstração de lucros ou prejuízos acumulados (DLPA).",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Pessoal, vejamos o que diz o art.186 da LSA: § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do patrimônio líquido, se elaborada e publicada pela companhia. A DLPA pode ser incluída na DMPL. Vejam que a lei afirma que o que pode ocorrer é a inclusão da primeira na segunda e não a substituição de uma por outra. Vejam que a questão tem o intento de dizer que é desnecessária a publicação da DLPA SEPARADAMENTE. Por isso está correta. Ela estará contida na DMPL, mas não precisa ser publicada à parte.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q15",
+        "question": "(CEBRASPE/CGE PI/Auditoria Governamental/2015) A apresentação de demonstrações de mutações do patrimônio líquido é facultativa. 65 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Pessoal, a questão segui a determinação que está prevista na LSA, e por essa lei, a DMPL realmente não é de apresentação obrigatória, mas vamos aprofundar um pouco a discussão. A Instrução CVM nº 59/86 tornou a DMPL obrigatória para as companhias abertas: INSTRUÇÃO CVM Nº 59, DE 22 DE DEZEMBRO DE 1986. Dispõe sobre a obrigatoriedade de elaboração e publicação da demonstração das mutações do patrimônio líquido pelas companhias abertas. Art. 1º - As companhias abertas deverão elaborar e publicar, como parte integrante de suas demonstrações financeiras, a demonstração das mutações do patrimônio líquido, referida ao artigo 186, § 2º \" in fine\", da LEI Nº 6.404, de 15 de dezembro de 1976. Com a publicação do CPC 26 – Apresentação das demonstrações contábeis, podemos entender que a DMPL passa a fazer parte do conjunto completo de demonstrações contábeis, passando a ser obrigatória para praticamente todas as empresas e substituindo, de forma definitiva, a DLPA (este é o entendimento esposado pelo FIPECAFI – Livro Manual de Contabilidade Societária, 2013). Texto do Pronunciamento CPC 26 (R1): Conjunto completo de demonstrações contábeis 10. O conjunto completo de demonstrações contábeis inclui: (c) demonstração das mutações do patrimônio líquido do período; Portanto, temos que ter muito cuidado em provas, pois a banca pode não deixar claro devemos seguir a literalidade da lei 6404/76 ou o entendimento do CPC 26.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q16",
+        "question": "(CEBRASPE/CADE/Contador/2014) Ao apresentar a demonstração das mutações do patrimônio líquido, uma entidade controlada deverá desmembrar, no resultado abrangente do período, o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não controladores.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Cópia do Pronunciamento CPC 26 (R1) – Apresentação das Demonstrações Contábeis: 66 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91 106. A entidade deve apresentar a demonstração das mutações do patrimônio líquido conforme requerido no item 10. A demonstração das mutações do patrimônio líquido inclui as seguintes informações: (a) o resultado abrangente do período, apresentando separadamente o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não controladores; (b) para cada componente do patrimônio líquido, os efeitos da aplicação retrospectiva ou da reapresentação retrospectiva, reconhecidos de acordo com o Pronunciamento Técnico CPC 23 – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro; (c) (eliminada); (d) para cada componente do patrimônio líquido, a conciliação do saldo no início e no final do período, demonstrando-se separadamente as mutações decorrentes: (i) do resultado líquido; (ii) de cada item dos outros resultados abrangentes; e (iii) de transações com os proprietários realizadas na condição de proprietário, demonstrando separadamente suas integralizações e as distribuições realizadas, bem como modificações nas participações em controladas que não implicaram perda do controle.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q17",
+        "question": "(CEBRASPE/MTE/Contador/2014) A demonstração do resultado abrangente integra, obrigatoriamente, a demonstração das mutações do patrimônio líquido (DMPL).",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme o pronunciamento CPC 26 (R1) – Apresentação das Demonstrações Contábeis - Anexo: Obs.: Lembrar que agora é vedada a apresentação da Demonstração do Resultado Abrangente apenas na Demonstração das Mutações do Patrimônio Líquido. Na versão original do pronunciamento 26, a Demonstração do Resultado Abrangente (DRA) podia ser apresentada como parte da Demonstração das Mutações do Patrimônio Líquido OU como uma demonstração separada. Atualmente, a DRA deve ser apresentada separadamente da DMPL. 67 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q22",
+        "question": "(CEBRASPE/Oficial Inteligência/ABIN/2010) O patrimônio líquido total aumentou R$ 300 mil em relação ao início do período.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Montemos a demonstração das mutações do patrimônio líquido, tal como foi dado no exercício. 68 Rosa e S 2 0 3600 O gasto na emissão de ações deve ser contabilizado em conta retificadora do grupo capital social, ou na reserva de capital que registre o prêmio recebido na emissão de novas ações. A reserva de reavaliação tratava-se reavaliar os ativos a valor de mercado. Tal conta fora extinta com as mudanças recentes da contabilidade. Assim, se um bem estava registrado a R$ 100.000,00 e tivesse valor de mercado de R$ 150.000,00, o valor poderia ser ajustado, desde que atendidos determinados critérios. A reavaliação foi extinta com a Lei 11.638/2007. A reserva de reavaliação é considerada realizada na proporção em que se realizarem os bens reavaliados, devendo ser transferida para lucros ou prejuízos acumulados, sem transitar pelas contas do resultado. Como outros resultados abrangentes as seguintes operações: (a) variações na reserva de reavaliação quando permitidas legalmente (veja Pronunciamentos Técnicos CPC 27 – Ativo Imobilizado e CPC 04 – Ativo Intangível); (b) ganhos e perdas atuariais em planos de pensão com benefício definido reconhecidos conforme item 93A do Pronunciamento Técnico CPC 33 – Benefícios a Empregados; (c) ganhos e perdas derivados de conversão de demonstrações contábeis de operações no exterior (ver Pronunciamento Técnico CPC 02 – Efeitos das Mudanças nas Taxas de Câmbio e Conversão de Demonstrações Contábeis); (d) ajuste de avaliação patrimonial relativo aos ganhos e perdas na remensuração de ativos financeiros disponíveis para venda (ver Pronunciamento Técnico CPC 38 – Instrumentos Financeiros: Reconhecimento e Mensuração); A perda não realizada em instrumento financeiro é nada mais do que uma perda que ocorreu em instrumento financeiro e que vai circular pela conta ajuste de avaliação patrimonial. 69 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91 Assim, já podemos responder nossos itens: 18.O saldo final da conta capital social aumentou R$ 400 mil em relação ao início do período. Correto. Passou de R$ 2.410,00 para R$ 2.810,00.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q23",
+        "question": "(CEBRASPE/SEFAS-ES/Consultor – Ciências Contábeis/2010) Acréscimos ou reduções ocorridos durante o exercício social nas contas reservas de lucros e reservas de capital são evidenciados nessa demonstração. 70 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A DMPL demonstra, para cada conta do PL, o saldo inicial, as alterações (aumentos e reduções) e o saldo final.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q24",
+        "question": "(CEBRASPE/SEFAS-ES/Consultor – Ciências Contábeis/2010) É papel da DMPL evidenciar a proposta da administração de destinação do lucro, quando houver lucro no período.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A DMPL demonstra o lucro líquido do período e a proposta de distribuição do lucro, elaborada pela administração.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q25",
+        "question": "(CEBRASPE/SEFAS-ES/Consultor – Ciências Contábeis/2010) Por meio da DMPL é possível visualizar a movimentação relativa a um aumento de capital com a utilização de reservas, caso o aumento ocorra.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Quando ocorre um aumento de capital com a incorporação de reservas, a DMPL demonstra a diminuição das reservas e o aumento do Capital.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q26",
+        "question": "(CEBRASPE/Banco da Amazônia/Contador/2010) Reversão de reservas, alienação de imobilizado de uso e ajuste a valor de mercado (TVM e derivativos) são itens evidenciados na demonstração das mutações do patrimônio líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A DMPL evidencia a reversão de reservas, mas não a alienação de imobilizado de uso. Quanto ao ajuste a valor de mercado, são evidenciados apenas aqueles classificados na conta ajuste de avaliação patrimonial.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q27",
+        "question": "(CEBRASPE/TRT 21ª/Analista judiciário – contabilidade/2010) Se uma empresa elaborar e publicar a demonstração das mutações do patrimônio líquido, pode incluir nesse documento a demonstração de lucros e prejuízos acumulados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Conforme a Lei 6.404/76 (Lei das S.A.s), art. 186: § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do patrimônio líquido, se elaborada e publicada pela companhia.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q28",
+        "question": "(CEBRASPE/TRE-MA/Analista Judiciário - Contabilidade/2009) Se, na data do balanço, determinada companhia fechada tiver apresentado patrimônio líquido de R$ 1.500.000,00, então essa companhia estará obrigada a apresentar a demonstração",
+        "options": [
+          "dos lucros ou dos prejuízos acumulados.",
+          "das mutações do patrimônio líquido.",
+          "das origens e das aplicações de recursos.",
+          "dos fluxos de caixa.",
+          "do valor adicionado."
+        ],
+        "correct": 0,
+        "explanation": "Conforme a Lei 6.404/ 76: Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração mercantil da companhia, as seguintes demonstrações financeiras, que deverão exprimir com clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício: I - balanço patrimonial; II - demonstração dos lucros ou prejuízos acumulados; III - demonstração do resultado do exercício; e IV – demonstração dos fluxos de caixa; e (Redação dada pela Lei nº 11.638,de 2007) V – se companhia aberta, demonstração do valor adicionado. (Incluído pela Lei nº 11.638,de 2007) 72 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91 § 6o A companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da demonstração dos fluxos de caixa. (Redação dada pela Lei nº 11.638,de 2007) Vamos examinar as alternativas: a) dos lucros ou dos prejuízos acumulados. Correto. Essa demonstração é obrigatória. b) das mutações do patrimônio líquido. Errada, a demonstração obrigatória é a demonstração dos lucros ou dos prejuízos acumulados. c) das origens e das aplicações de recursos. Errada, a DOAR não é mais obrigatória. d) dos fluxos de caixa. Errada, a DFC não é obrigatória para companhias fechadas com patrimônio líquido inferior a 2.000.000. ==11e785== e) do valor adicionado. Errada, a Demonstração do Valor Adicionado não é obrigatória para as companhias fechadas. O gabarito é letra a.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula15_q29",
+        "question": "(CEBRASPE/SEGER-ES/Analista/Ciências Contábeis/2009) É facultada a apresentação das transferências para reservas de lucros, bem como sua movimentação, que será detalhada na demonstração da mutação do patrimônio líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme o inciso III do artigo 186 da Lei das S.A.s (acima), a apresentação das transferências para reservas de lucro na DLPA é obrigatória, e não facultada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula15_q30",
+        "question": "(CEBRASPE/SEFAZ-ES/Consultor – Ciências Contábeis/ 2009) Na demonstração de lucros ou prejuízos acumulados, será apresentado o montante do dividendo por ação do capital social e esta poderá ser incluída na demonstração das mutações do patrimônio líquido, se elaborada e publicada pela companhia.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A Lei 6404/76 (Lei das S.A.s) estabelece o seguinte, no artigo 186: 73 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 91 § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do patrimônio líquido, se elaborada e publicada pela companhia. A assertiva é cópia literal do parágrafo 2º, que reproduzimos acima.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula16",
+    "title": "16",
+    "description": "Questões comentadas da 16",
+    "color": "bg-emerald-700",
+    "questions": [
+      {
+        "id": "aula16_q1",
+        "question": "(CEBRASPE/CNPq/Gestão Orçamentária, Financeira e Contábil/2024) A elaboração e publicação da DFC é facultativa para as companhias abertas que, na data do balanço, tenham patrimônio líquido inferior a R$ 2 milhões.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, pois a lei prevê que a companhia fechada e não aberta com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da demonstração dos fluxos de caixa",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q2",
+        "question": "(CEBRASPE/CNPq/Gestão Orçamentária, Financeira e Contábil/2024) Um dos objetivos da DFC é permitir que o usuário da informação contábil identifique as necessidades de liquidez da entidade que publica a demonstração.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, o próprio CPC 03 diz que: Informações sobre o fluxo de caixa de uma entidade são úteis para proporcionar aos usuários das demonstrações contábeis uma base para avaliar a capacidade de a entidade gerar caixa e equivalentes de caixa, bem como as necessidades da entidade de utilização desses fluxos de caixa",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q3",
+        "question": "(CEBRASPE/CNPq/Gestão Orçamentária, Financeira e Contábil/2024) Fluxos de caixa gerados por aluguéis cobrados em favor de terceiros e integralmente repassados a estes podem ser apresentados em base líquida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto. O CPC 03, item 22 afirma que os fluxos de caixa advindos das atividades operacionais, de investimento e de financiamento podem ser apresentados em base líquida nas situações em que houver: 42 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 (a) recebimentos de caixa e pagamentos em caixa em favor ou em nome de clientes, quando os fluxos de caixa refletirem mais as atividades dos clientes do que as da própria entidade; e (b) recebimentos de caixa e pagamentos em caixa referentes a itens cujo giro seja rápido, os montantes sejam expressivos e os vencimentos sejam de curto prazo. Exemplos de recebimentos de caixa e pagamentos em caixa referentes ao item 22(a) são: (a) movimentação (depósitos e saques) em contas de depósitos à vista de banco; (b) recursos mantidos para clientes por entidade de investimento; e (c) aluguéis cobrados em nome de terceiros e pagos inteiramente aos proprietários dos imóveis.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q4",
+        "question": "(CEBRASPE/CNPq/Gestão Orçamentária, Financeira e Contábil/2024) A compra e venda de imóveis, veículos e outros bens da espécie afeta o fluxo de caixa das atividades de investimento, seja qual for o tipo de entidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, pessoal. A classificação do fluxo de caixa também depende, de certa forma, do tipo e da atividade exercidos pela entidade em questão. A compra e venda de imóveis e veículos, no geral, representam fluxos de caixa de atividades de investimento. Agora, se o imóvel pertencer a uma incorporadora de imóveis? Poderia ser classificado como um estoque, nesse caso, a compra e venda desses ativos seria classificada como atividades operacionais. A mesma coisa de um veículo em relação a uma concessionária, concordam? Portanto, item está errado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q5",
+        "question": "(CEBRASPE/CAU BR/Contador/2024) Segundo a legislação societária, a DFC, independentemente do método de elaboração escolhido, deve evidenciar as modificações ocorridas no saldo de caixa e equivalentes de caixa, segregadas em até três fluxos: das operações, dos financiamentos e dos investimentos. 43 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo a legislação societária, a segregação dos fluxos de caixa será no MÍNIMO em três fluxos e não ATÉ três, vejam: Art. 188. As demonstrações referidas nos incisos IV e V do caput do art. 176 desta Lei indicarão, no mínimo: (Redação dada pela Lei nº 11.638, de 2007) I – demonstração dos fluxos de caixa – as alterações ocorridas, durante o exercício, no saldo de caixa e equivalentes de caixa, segregando-se essas alterações em, no mínimo, 3 (três) fluxos: (Redação dada pela Lei nº 11.638, de 2007) a) das operações; (Redação dada pela Lei nº 11.638, de 2007) b) dos financiamentos; e (Redação dada pela Lei nº 11.638, de 2007) c) dos investimentos; (Redação dada pela Lei nº 11.638, de 2007)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q6",
+        "question": "(CEBRASPE/CAU BR/Contador/2024) Estão obrigadas à publicação da DFC todas as sociedades por ações.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, pessoal. O Art. 176, § 6o da Lei 6404/76 afirma que a companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da demonstração dos fluxos de caixa. (Redação dada pela Lei nº 11.638, de 2007). Portanto, não são todos os tipos de sociedades por ações que estão obrigadas à publicação da DFC",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q7",
+        "question": "(CEBRASPE/CAU BR/Contador/2024) A entidade poderá apresentar seus fluxos de caixa em base líquida desde que os recebimentos de caixa e os pagamentos em caixa respectivos se refiram a itens de giro rápido, com montantes expressivos e vencimentos de curto prazo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "44 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Item correto. O CPC 03, item 22 afirma que os fluxos de caixa advindos das atividades operacionais, de investimento e de financiamento podem ser apresentados em base líquida nas situações em que houver: (a) recebimentos de caixa e pagamentos em caixa em favor ou em nome de clientes, quando os fluxos de caixa refletirem mais as atividades dos clientes do que as da própria entidade; e (b) recebimentos de caixa e pagamentos em caixa referentes a itens cujo giro seja rápido, os montantes sejam expressivos e os vencimentos sejam de curto prazo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q8",
+        "question": "(CEBRASPE/CAU BR/Contador/2024) Se uma entidade desembolsar determinado valor para a quitação de uma parcela em atraso de um empréstimo, pagando juros por esse atraso, tal transação deverá ser classificada em dois tipos de atividades operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto. pessoal. O CPC 03 - Demonstração de Fluxos de Caixa encoraja fortemente as entidades a classificarem os juros, recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos como fluxos de caixa das atividades operacionais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q9",
+        "question": "(CEBRASPE/CAU BR/Contador/2024) Movimentações financeiras entre o caixa da entidade e suas contas bancárias estão excluídas do fluxo de caixa das atividades operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O CPC 03 afirma que os fluxos de caixa excluem movimentos entre itens que constituem caixa ou equivalentes de caixa porque esses componentes são parte da gestão de caixa da entidade e, não, parte de suas atividades operacionais, de investimento e de financiamento. A gestão de caixa inclui o investimento do excesso de caixa em equivalentes de caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q10",
+        "question": "(CEBRASPE/INPI/Gestão e Suporte/Contabilidade/2024) As modificações na posição do caixa e seus equivalentes de uma entidade em dado exercício social poderão ser segregadas em mais de três fluxos de atividades.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pessoal. A demonstração dos fluxos de caixa é a demonstração que evidencia a variação das contas caixa e equivalentes de caixa da companhia. A lei estabelece ainda que no mínimo teremos três fluxos evidenciados na DFC: - Operacional - Investimentos - Financiamento ==11e785==",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q11",
+        "question": "(CEBRASPE/Técnico Fazendário/Pref. Camaçari/2024) Nas demonstrações contábeis, a demonstração dos fluxos de caixa",
+        "options": [
+          "apresenta, em determinada data, os bens e direitos da entidade (ativo) e as suas obrigações (passivo e patrimônio líquido).",
+          "apresenta informações relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram distribuídas.",
+          "apresenta o desempenho da entidade em determinado período, a partir do cotejo de suas receitas e despesas.",
+          "apresenta as mutações ocorridas no patrimônio líquido.",
+          "apresenta as movimentações ocorridas no caixa e equivalentes de caixa da entidade, demonstrando onde a entidade obteve esses recursos financeiros e como eles foram aplicados."
+        ],
+        "correct": 4,
+        "explanation": "Vamos analisar cada alternativa: a) apresenta, em determinada data, os bens e direitos da entidade (ativo) e as suas obrigações (passivo e patrimônio líquido). Errado, é o balanço patrimonial e não a DFC que apresenta a posição patrimonial e financeira da entidade em determinado momento. b) apresenta informações relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram distribuídas. Errado, essas informações estão apresentadas na Demonstração do Valor Adicionado (DVA) e não na DFC. c) apresenta o desempenho da entidade em determinado período, a partir do cotejo de suas receitas e despesas. Errado, o desempenho da entidade é apresentado na Demonstração do Resultado do Exercício, DRE. 46 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 d) apresenta as mutações ocorridas no patrimônio líquido. Errado, essas mutações são apresentadas na DMPL. e) apresenta as movimentações ocorridas no caixa e equivalentes de caixa da entidade, demonstrando onde a entidade obteve esses recursos financeiros e como eles foram aplicados. Correto, esse é o nosso gabarito.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q12",
+        "question": "(CEBRASPE/PETROBRAS/Economia/2022) O total de recebimentos de clientes da referida empresa no ano de 2021 foi de R$ 78.000.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Para o cálculo dos valores do fluxo de caixa – método direto, usamos sempre a fórmula: Saldo Inicial + Entradas – Saídas = Saldo Final Geralmente, os saldos iniciais e finais vêm do Balanço Patrimonial. As entradas vêm da DRE. 1. Recebimento de clientes (Clientes) Saldo inicial = 18.000 (+) Entradas (vendas) = 85.000 (-) Saídas (recebimentos) = ? (=) Saldo Final = 25.000 47 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Como a entidade possui a conta energia elétrica antecipada (Ativo), precisamos adicionar mais dois valores em nossa equação: (+) Saldo final receita antecipada de vendas R$ 16.000,00 (-) Saldo Inicial receita antecipada de vendas R$ 12.000,00 É só montar o seguinte razonete: Receita antecipada Clientes (Ativo) de vendas (Passivo) Saldo inicial 18.000,00 X Recebimentos 12.000,00 Saldo inicial Vendas 85.000,00 X Recebimentos Saldo final 25.000,00 16.000,00 Saldo final Ficará assim: SI Clientes + Entradas – Saídas + SF receita antecipada de vendas – SI receita antecipada de vendas = SF Clientes 18.000 + 85.000 – Saídas + 16.000 – 12.000 = 25.000 107.000 – Saídas = 25.000 Saídas = 25.000 - 107.000 = 82.000 Portanto Recebimentos = 82.000",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q14",
+        "question": "(CEBRASPE/TELEBRAS//Analista Superior Finanças/2022) Por determinação normativa, os gastos com a remuneração dos capitais próprios deve compor o fluxo de caixa das atividades de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O pronunciamento encoraja fortemente a seguinte classificação: Dividendos e Juros sobre o capital próprio recebidos → Atividades Operacionais Dividendos e Juros sobre o capital próprio pagos → Atividades de Financiamentos A empresa pode adotar outra classificação, desde que evidencie tal fato em nota: Dividendos e Juros sobre o capital próprio recebidos → Atividades de Investimentos. 49 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Dividendos e Juros sobre o capital próprio pagos → Atividades Operacionais Nas palavras do CPC 03: 33. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos são comumente classificados como fluxos de caixa operacionais em instituições financeiras. Todavia, não há consenso sobre a classificação desses fluxos de caixa para outras entidades. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos podem ser classificados como fluxos de caixa operacionais, porque eles entram na determinação do lucro líquido ou prejuízo. Alternativamente, os juros pagos e os juros, os dividendos e os juros sobre o capital próprio recebidos podem ser classificados, respectivamente, como fluxos de caixa de financiamento e fluxos de caixa de investimento, porque são custos de obtenção de recursos financeiros ou retornos sobre investimentos. 34. Os dividendos e os juros sobre o capital próprio pagos podem ser classificados como fluxo de caixa de financiamento porque são custos da obtenção de recursos financeiros. Alternativamente, os dividendos e os juros sobre o capital próprio pagos podem ser classificados como componente dos fluxos de caixa das atividades operacionais, a fim de auxiliar os usuários a determinar a capacidade de a entidade pagar dividendos e juros sobre o capital próprio utilizando os fluxos de caixa operacionais. 34A. Este Pronunciamento encoraja fortemente as entidades a classificarem os juros, recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos como fluxos de caixa das atividades operacionais, e os dividendos e juros sobre o capital próprio pagos como fluxos de caixa das atividades de financiamento. Alternativa diferente deve ser seguida de nota evidenciando esse fato. Assim, a remuneração dos capitais próprios pode compor o fluxo de caixa das atividades operacionais ou o fluxo de caixa da atividade de financiamento. Caso escolha as atividades operacionais, deve evidenciar tal fato em nota explicativa. Por fim, corrigindo o quesito temos: os gastos com a remuneração dos capitais próprios PODEM compor o fluxo de caixa das atividades de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q15",
+        "question": "(CEBRASPE/TELEBRAS//Analista Superior/Contador/2022) Os juros pagos devem, obrigatoriamente, compor a demonstração dos fluxos de caixa, podendo ser expressos no fluxo das atividades operacionais ou de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "50 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 O pronunciamento encoraja fortemente a seguinte classificação: Juros Recebidos ou Pagos → Atividades Operacionais A empresa pode adotar outra classificação, desde que evidencie tal fato em nota: Juros Recebidos → Atividades de Investimentos. Juros Pagos → Atividades de Financiamentos Vejamos o texto do pronunciamento contábil n° 03: 31. Os fluxos de caixa referentes a juros, dividendos e juros sobre o capital próprio recebidos e pagos devem ser apresentados separadamente. Cada um deles deve ser classificado de maneira consistente, de período a período, como decorrentes de atividades operacionais, de investimento ou de financiamento. 32. O montante total dos juros pagos durante o período é divulgado na demonstração dos fluxos de caixa, quer tenha sido reconhecido como despesa na demonstração do resultado, quer tenha sido capitalizado, conforme o Pronunciamento Técnico CPC 20 – Custos de Empréstimos. 33. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos são comumente classificados como fluxos de caixa operacionais em instituições financeiras. Todavia, não há consenso sobre a classificação desses fluxos de caixa para outras entidades. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos podem ser classificados como fluxos de caixa operacionais, porque eles entram na determinação do lucro líquido ou prejuízo. Alternativamente, os juros pagos e os juros, os dividendos e os juros sobre o capital próprio recebidos podem ser classificados, respectivamente, como fluxos de caixa de financiamento e fluxos de caixa de investimento, porque são custos de obtenção de recursos financeiros ou retornos sobre investimentos. 34A. Este Pronunciamento encoraja fortemente as entidades a classificarem os juros, recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos como fluxos de caixa das atividades operacionais, e os dividendos e juros sobre o capital próprio pagos como fluxos de caixa das atividades de financiamento. Alternativa diferente deve ser seguida de nota evidenciando esse fato. Diante do exposto, os juros pagos devem, obrigatoriamente, compor a demonstração dos fluxos de caixa, podendo ser expressos no fluxo das atividades operacionais ou de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q16",
+        "question": "(CEBRASPE/PGE RJ/Analista Contábil/2022) A classificação dos dividendos pagos a acionistas como parte dos fluxos de caixa operacionais pode proporcionar informações relevantes aos usuários da contabilidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Com base no CPC 03, tal classificação pode auxiliar os usuários a determinar a capacidade de a entidade pagar dividendos e juros sobre o capital próprio utilizando os fluxos de caixa operacionais. Isso é previsto no item 34 do CPC 03: 34. Os dividendos e os juros sobre o capital próprio pagos podem ser classificados como fluxo de caixa de financiamento porque são custos da obtenção de recursos financeiros. Alternativamente, os dividendos e os juros sobre o capital próprio pagos podem ser classificados como componente dos fluxos de caixa das atividades operacionais, a fim de auxiliar os usuários a determinar a capacidade de a entidade pagar dividendos e juros sobre o capital próprio utilizando os fluxos de caixa operacionais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q17",
+        "question": "(CEBRASPE/SECONT ES/Auditor do Estado/Ciências Contábeis/2022) Os pagamentos e recebimentos associados a contratos derivativos integram os fluxos de caixa das atividades de investimento, ainda quando utilizados para hedge de um ativo associado a atividades operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Derivativos são instrumentos financeiros cujo preço de mercado deriva do preço de mercado de um bem ou de outro instrumento financeiro. Ou seja, são aplicações em que o seu valor derivam de acordo com o comportamento de outro produto (o ativo-objeto). Eles possuem sempre um preço e prazo estabelecidos para uma data futura. Existem os seguintes tipos: • mercado a termo; • mercado futuro; • mercado de opções; • Swap. 52 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 De acordo com o pronunciamento temos a seguinte classificação: Recebimento e Pagamento oriundos de derivativos de outras entidades = Atividade de Investimento. Recebimento e Pagamento oriundos de derivativos da própria entidade = Atividade de Financiamento Hedge: segue o principal, ou seja, o que está sendo protegido. Indo mais fundo! Quando um contrato for contabilizado como proteção (hedge) de posição identificável, os fluxos de caixa do contrato devem ser classificados do mesmo modo como foram classificados os fluxos de caixa da posição que estiver sendo protegida. Assim, o item erra ao inclui o trecho: ainda quando utilizados para hedge de um ativo associado a atividades operacionais. Lembre-se: Hedge - segue o principal, ou seja, o que está sendo protegido.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q19",
+        "question": "(CEBRASPE/ALE-CE/Analista Legislativo - Ciências Contábeis/2021) De acordo com o Pronunciamento Técnico CPC 03(R2) – Demonstração dos Fluxos de Caixa (DFC), as movimentações que envolvem, exclusivamente, itens classificados como caixa ou equivalentes de caixa devem ser A apresentadas como parte de suas atividades operacionais. B apresentadas como parte de suas atividades de financiamento. C apresentadas como parte de suas atividades de investimento. D apresentadas em base líquida ao final da DFC. E excluídas dos fluxos de caixa apresentados na DFC.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Nesse quesito vamos recorrer ao CPC 03 (R2) - Demonstração dos Fluxos de Caixa: 9. Os fluxos de caixa excluem movimentos entre itens que constituem caixa ou equivalentes de caixa porque esses componentes são parte da gestão de caixa da entidade e, não, parte de suas atividades operacionais, de investimento e de financiamento. A gestão de caixa inclui o investimento do excesso de caixa em equivalentes de caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q20",
+        "question": "(CEBRASPE/PGDF/Analista Jurídico - Contabilidade/2021) A divulgação, na demonstração do fluxo do disponível, referente ao fluxo dos financiamentos, é positiva e corresponde a R$ 62.510.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Principais exemplos de atividades do fluxo Financiamento Recebimento Emissão de ações/Instrumentos patrimoniais Debêntures (Caixa recebido pela emissão) Empréstimos, notas promissórias Pagamento Resgate de ações/Instrumentos patrimoniais Amortização de empréstimos Pagamento de arrendamentos Vamos analisar a conta de Empréstimos. A variação foi de 99.250 – 32.580 = 66.670. Esse valor representa a saída de caixa decorrente do pagamento de empréstimos. 55 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Indo mais fundo! Alguns quesitos apresentam variações no saldo de empréstimos e informa que as despesas financeiras não foram pagas. Nessa situação, o saldo de Empréstimos foi “atualizado” pelas despesas financeiras. Isto é, quando a despesa financeira não é paga, o saldo de Empréstimos aumenta, mas não ocorreu entrada ou saída de caixa. Não é o caso dessa questão.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q21",
+        "question": "(CEBRASPE/PGDF/Analista Jurídico - Contabilidade/2021) A divulgação, na demonstração do fluxo do disponível, referente a pagamento relativo à energia elétrica no período, é de R$ 23.210.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Para o cálculo dos valores do fluxo de caixa – método direto, usamos sempre a fórmula: Saldo Inicial + Entradas – Saídas = Saldo Final Como o quesito quer o valor dos pagamentos relativo à energia elétrica (Saídas), vamos calculá-lo: Saldo inicial = R$ 13.520 (+) Entradas (despesa com energia elétrica) = R$ 25.400 (-) Saídas (pagamentos) = ? (=) Saldo Final = R$ 7.500 Como a entidade possui a conta energia elétrica antecipada (Ativo), precisamos adicionar mais dois valores em nossa equação: (+) Saldo final energia elétrica antecipada R$ 6.540,00 (-) Saldo Inicial energia elétrica antecipada R$ 14.750,00 Obs.: isso significa que a entidade utilizou R$ 8.210 da energia elétrica antecipada. Ou seja, apenas parte da contrapartida da Despesas com energia elétrica passou pela conta energia a pagar. Ficará assim: SI energia a pagar + Entradas – Saídas + SF energia elétrica antec. – SI energia elétrica antec.= SF energia a pagar R$ 13.520 + R$ 25.400 - Saídas + R$ 6.540 - R$ 14.750 = R$ 7.500 R$ 30.710 - Saídas = R$ 7.500 Saídas = R$ 30.710 - R$ 7.500 = R$ 23.210 56 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Para facilitar, visualizemos os razonetes: energia elétrica a pagar D espesa com energia elétrica Pagam ento 23.210,00 13.520,00 Saldo inicial 25.400,00 17.190,00 D espesas com energia 7.500,00 Saldo final energia elétrica antecipada Saldo inicial 14.750,00 8.210,00 D espesas com energia Saldo final 6.540,00",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q22",
+        "question": "(CEBRASPE/PGDF/Analista Jurídico - Contabilidade/2021) A divulgação, na demonstração do fluxo do disponível, referente a pagamento de seguros no período, é de R$ 29.290.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Nessa questão teremos que calcular o pagamento de seguros, para isso utilizaremos a seguinte fórmula: Saldo Inicial + Entradas – Saídas = Saldo Final Saldo inicial = R$ 16.590 (+) Entradas (despesa de seguros) = R$ 34.800 (-) Saída (pagamentos de seguros) = ? (=) Saldo Final = R$ 22.100 Dado que a empresa tinha a conta seguros antecipados (Ativo), precisamos adicionar mais dois valores na equação: (+) Saldo final seguros s antecipados R$ 18.970 (-) Saldo Inicial seguros antecipados R$ 13.425. Resolvendo, temos: SI seg. a pagar + Entradas – Saídas + SF seg. antecipados – SI seg. antecipados = SF seg. a pagar R$ 16.590 + R$ 34.800 – Saídas + R$ 18.970 - R$ 13.425 = R$ 22.100 R$ 56.935 – Saídas = R$ 22.100 Saídas = R$ 56.935 – R$ 22.100 = R$ 34.835",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q23",
+        "question": "(CEBRASPE/PGDF/Analista Jurídico - Contabilidade/2021) A divulgação, na demonstração do fluxo do disponível, referente a pagamento de aluguéis no período, é de R$ 31.888.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Para o cálculo dos valores do fluxo de caixa – método direto, usamos sempre a fórmula: Saldo Inicial + Entradas – Saídas = Saldo Final Como o quesito quer o valor dos pagamentos de aluguéis (Saídas), vamos calculá-lo: Saldo inicial = R$ 32.500 (+) Entradas (despesa com aluguéis) = R$ 21.750 (-) Saídas (pagamentos) = ? (=) Saldo Final = R$ 12.500 Como a entidade possui a conta aluguéis antecipados (Ativo), precisamos adicionar mais dois valores em nossa equação: (+) Saldo final aluguéis antecipados R$ 0,00 (-) Saldo Inicial aluguéis antecipados R$ 9.862 Obs.: isso significa que a entidade utilizou R$ 9.862 dos aluguéis antecipados. Ou seja, apenas parte da contrapartida da Despesas com aluguéis passou pela conta aluguéis a pagar. Ficará assim: SI aluguéis a pagar + Entradas – Saídas + SF aluguéis ant. – SI aluguéis ant.= SF aluguéis a pagar R$ 32.500 + R$ 21.750 - Saídas + R$ 0,00 - R$ 9.862 = R$ 12.500 R$ 44.388 - Saídas = R$ 12.500 Saídas = R$ 44.388 - R$ 12.500 = R$ 31.888",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q24",
+        "question": "(CEBRASPE/PGDF/Analista Jurídico - Contabilidade/2021) A divulgação, na demonstração do fluxo do disponível, referente a pagamento a fornecedores, é de R$ 42.860.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Para o cálculo dos valores do fluxo de caixa – método direto, usamos sempre a fórmula: 58 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Saldo Inicial + Entradas – Saídas = Saldo Final Como o quesito quer o valor dos pagamentos de fornecedores (Saídas), vamos calculá-lo: Saldo inicial fornecedores = R$ 10.250 (+) Entradas (Compras) = ? (-) Saída (pagamentos de fornecedores) =? (=) Saldo Final fornecedores = R$ 2.500 Antes, precisamos obter o valor das compras: CMV = Estoque Inicial + Compras - Estoque Final R$ 67.900 = R$ 64.570 + Compras - R$ 31.780 R$ 67.900 = R$ 32.790 + Compras Compras = R$ 67.900 - R$ 32.790 = R$ 35.110 Substituindo na fórmula, temos: SI fornecedores + Entradas (Compras) - Saída (pagamentos de fornecedores) = SF fornecedores R$ 10.250 + R$ 35.110 - Saída (pagamentos de fornecedores) = R$ 2.500 R$ 45.360 - Saída (pagamentos de fornecedores = R$ 2.500 Saída (pagamentos de fornecedores = R$ 45.360 - R$ 2.500 = R$ 42.860",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q25",
+        "question": "(CEBRASPE/CODEVASF/Analista Contabilidade/2021) Considere que determinada empresa tenha apurado, no último exercício social, um caixa de R$ 5 mil gerado pelas suas atividades operacionais e um caixa de R$ 20 mil gerado pelas atividades de financiamento, tendo o saldo de caixa do período crescido em R$ 2 mil. Nessas condições, as atividades de investimento consumiram caixa em montante superior a R$ 20 mil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Nesse tipo de questão precisamos saber que a soma dos três fluxos na DFC, Operacional, Investimentos e Financiamento, é igual à variação das disponibilidades: 59 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 FCO + FCI + FCF = Variação de Disponibilidades O quesito informou o seguinte: • caixa gerado pelas suas atividades operacionais = 5.000 • caixa gerado pelas suas atividades de financiamento = 20.000 • Variação Positiva do saldo de caixa = 2.000 Agora, apliquemos a fórmula: R$ 5.000 + FCI + R$ 20.000 = R$ 2.000 FCI + R$ 25.000 = R$ 2.000 FCI = R$ 2.000 - R$ 25.000 = R$ -23.000 Nota-se que as atividades de investimento consumiram caixa em montante superior a R$ 20 mil.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q26",
+        "question": "(CEBRASPE/TCE – RJ/Analista de Controle Externo/2021) Na demonstração dos fluxos de caixa, os saldos bancários a descoberto originários de empréstimos obtidos por meio de cheques especiais ou contas correntes garantidas, cuja liquidação costuma ocorrer em curto espaço de tempo, devem compor o saldo de caixa e equivalentes de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Sabe aquele valor que você gasta a mais na sua conta corrente e acaba entrando “no negativo”? É o famoso cheque especial e atire a primeira pedra quem nunca precisou dele hahahha. Será que esse saldo a descoberto é importante para a DFC? Sim, mas tenha cuidado, pois ele não se enquadra em nenhum dos três fluxos (operacional, investimento e financiamento). O item 8 do CPC 03 afirma que” Empréstimos bancários são GERALMENTE considerados como atividades de financiamento. Entretanto, saldos bancários a descoberto, decorrentes de empréstimos obtidos por meio de instrumentos como cheques especiais ou contas correntes garantidas que são liquidados em curto lapso temporal compõem parte integral da gestão de caixa da entidade. Nessas circunstâncias, saldos bancários a descoberto são incluídos como componente de caixa e equivalentes de caixa. Traduzindo, pessoal, lá na DFC o valor devido no cheque especial NÃO é classificado com nenhum fluxo, mas como parte da variação do caixa da entidade. Legal, não é mesmo? Portanto, item correto.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q27",
+        "question": "(CEBRASPE/TJ PA/Analista Judiciário/Ciências Contábeis/2020) Conforme os dados da tabela 5A1-I, a variação apurada na demonstração dos fluxos do disponível será negativa e igual a",
+        "options": [
+          "R$ 2.199,00.",
+          "R$ 52.199,00.",
+          "R$ 2.349,20.",
+          "R$ 2.139,00.",
+          "R$ 2.119,00."
+        ],
+        "correct": 0,
+        "explanation": "Primeiramente, filtremos as informações que afetam o caixa: Fique Atento! Algumas datas possuem mais de uma operação. 5/11/2019 - PAGAMENTO destacado de frete sobre compra realizada na data, no valor de R$ 38,00. Lançamento: D – Estoques R$ 38,00 C- Caixa R$ 38,00 Obs.: o frete sobre compras entra no custo de aquisição das mercadorias. 08/11/2019 - VENDA de 4 unidades À VISTA por R$ 25,00 cada 61 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Lançamento: D – Caixa R$ 100,00 (4 x 25) C – Receita de Vendas R$ 100,00 Ainda, com PAGAMENTO de frete sobre vendas no valor de R$ 20,00 Lançamento: D - Despesa com Frete R$ 20,00 C – Caixa R$ 20,00 14/11/2019- DEVOLUÇÃO, EM DINHEIRO, do valor escriturado das cotas de um dos sócios que saiu da sociedade, no montante de R$ 2.000,00 Lançamento: D- Capital Social R$ 2.000,00 C – Caixa R$ 2.000,00 17/11/2019 - COMPRA de 8 unidades de mercadoria para revenda À VISTA no valor de R$ 13,00 cada Lançamento: D – Estoques R$ 104,00 (8 x 13) C- Caixa R$ 104,00 20/11/2019 - VENDA de 12 unidades por R$ 30,00 cada, com recebimento À VISTA Lançamento: D – Caixa R$ 360,00 (12 x 30) C – Receita de Vendas R$ 360,00 21/11/2019 - CLIENTE DEVOLVEU 3 unidades da operação do dia 20/11/2019 E OBTEVE ABATIMENTO de R$ 60,00 sobre o valor total Lançamento: D – Devolução de Vendas R$ 90,00 (3 x 30) D – Abatimento s/ Vendas R$ 60,00 C – Caixa R$ 150,00 (90 + 60) 22/11/2019 - RESSARCIMENTO de R$ 230,00 de despesas A FUNCIONÁRIO que representou a empresa em um evento 62 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Lançamento: D- Despesas com participações em eventos R$ 230,00 C- Caixa R$ 230,00 23/11/2019 - AQUISIÇÃO de 4 unidades de mercadorias por R$ 14,25 cada, À VISTA Lançamento: D – Estoques R$ 57,00 (4 x 14,25) C- Caixa R$ 57,00 28/11/2019 - outras receitas financeiras RECEBIDAS no período iguais a R$ 20,00 Lançamento: D – Caixa R$ 20,00 C – Receita Financeira R$ 20,00 Também, tivemos nesse dia: outras despesas financeiras PAGAS no período iguais a R$ 80,00 Lançamento: D- Despesas financeiras R$ 80,00 C- Caixa R$ 80,00 Para facilitar a visualização, vamos montar o razonete do disponível: D isponível D ébito C rédito 1/11/19 -Saldo inicial R$ 14.507,00 R$ 38,00 5/11/19 – Frete pago 08/11/19 -Venda R$ 100,00 R$ 20,00 08/11/19 – Frete pago 20/11/19 -Venda R$ 360,00 R$ 2.000,00 14/11/19-D ev.C S 28/11/19 RF recebidas R$ 20,00 R$ 104,00 17/11/19 C om pra R$ 150,00 21/11/19 -D ev.+ A bat. R$ 230,00 22/11/19 -Ressarcim ento R$ 57,00 23/11/19 A quisição R$ 80,00 28/11/19 D F pagas R$ 14.987,00 R$ 2.679,00 Saldo final R$ 12.308,00 Por fim, apuremos a diferença entre Saldo Final e Inicial: Variação Disponível = SF – SI = R$ 12.308,00 - R$ 14.507,00 = - R$ 2.199,00",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q28",
+        "question": "(CEBRASPE/TJ PA/Analista Judiciário/Ciências Contábeis/2020) Uma empresa apresentou apenas a informação financeira relativa ao pagamento dos funcionários no mês de outubro de 2019, o que correspondeu a R$ 750.000,00. Além dessa informação, apresentou o seguinte quadro explicativo. Conta saldo no início de outubro/2019 saldo ao final de outubro/2019 salários antecipados R$ 680.000,00 R$ 250.000,00 salários a pagar R$ 350.000,00 R$ 580.000,00 Conforme essas informações, a despesa de salários do período foi de A R$ 230.000,00. B R$ 430.000,00. C R$ 680.000,00. D R$ 1.180.000,00. E R$ 1.410.000,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Para o cálculo dos valores do fluxo de caixa – método direto, usamos sempre a fórmula: Saldo Inicial + Entradas – Saídas = Saldo Final Como o quesito quer o valor das despesas (Entradas), vamos calculá-lo: Saldo inicial = 350.000 (+) Entradas (despesa de salários) = ? (-) Saída (pagamentos) = 750.000 (=) Saldo Final = 580.000 Como a entidade possui a conta salários antecipados (Ativo), precisamos adicionar mais dois valores em nossa equação: (+) Saldo final salários antecipados R$ 250.000,00 (-) Saldo Inicial salários antecipados R$ 680.000,00 Obs.: isso significa que a entidade utilizou 430 mil dos salários antecipados. Ou seja, apenas parte da contrapartida da Despesas de salários passou pela conta Salários a pagar. Ficará assim: SI sal. a pagar + Entradas – Saídas + SF sal. antecipados – SI sal. antecipados = SF sal. a pagar 350.000 + Entradas - 750.000 + 250.000 - 680.000 = 580.000 -830.000 + Entradas = 580.000 64 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Entradas = 580.000 + 830.000 = 1.410.000 Para facilitar, visualizemos os razonetes: Salários a pagar D espesa de Salários Pagam ento 750.000,00 350.000,00 Saldo inicial 1.410.000,00 980.000,00 D espesa de salários 580.000,00 Saldo final Salários antecipados Saldo inicial 680.000,00 430.000,00 D espesa de salários Saldo final 250.000,00",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q29",
+        "question": "(CEBRASPE/TJ PA/Analista Judiciário/Ciências Contábeis/2020) Uma empresa contratou seguros no valor de R$ 210,00, em 1.º/9/2019, e apresentou as seguintes informações em 30/9/2019. conta saldo em 1.º/9/2019 saldo em 30/9/2019 despesa de seguros R$ 0,00 R$ 320,00 seguros antecipados R$ 300,00 R$ 190,00 seguros a pagar R$ 80,00 R$ 130,00 Consoante essas informações, assinale a opção que indica o montante que deve ter sido evidenciado na demonstração do fluxo do disponível a título de pagamento de seguros no mês de setembro de 2019.",
+        "options": [
+          "R$ 80,00",
+          "R$ 160,00",
+          "R$ 190,00",
+          "R$ 210,00",
+          "R$ 270,00"
+        ],
+        "correct": 1,
+        "explanation": "Nessa questão teremos que calcular o pagamento de seguros, para isso utilizaremos a seguinte fórmula: Saldo Inicial + Entradas – Saídas = Saldo Final Saldo inicial = R$ 80,00 (+) Entradas (despesa de seguros) = R$ 320,00 (-) Saída (pagamentos de seguros) = ? (=) Saldo Final = R$ 130,00 Dado que a empresa tinha a conta seguros antecipados (Ativo), precisamos adicionar mais dois valores na equação: 65 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 (+) Saldo final seguros s antecipados R$ 190,00 (-) Saldo Inicial seguros antecipados R$ 300,00 Obs.: isso significa que a entidade utilizou R$ 110,00 dos seguros antecipados. Ou seja, a entidade pagou apenas parte da Despesas de salários nesse período. Resolvendo, temos: SI seg. a pagar + Entradas – Saídas + SF seg. antecipados – SI seg. antecipados = SF seg. a pagar 80 + 320 – Saídas + 190 - 300 = 130 290 – Saídas = 130 Saídas = 290 - 130 = 160 Para facilitar, visualizemos os razonetes: Seguros a pagar D espesa de Seguros Pagam ento 160,00 80,00 Saldo inicial 320,00 210,00 D espesa de seguros 130,00 Saldo final Seguros antecipados Saldo inicial 300,00 110,00 D espesa de seguros Saldo final 190,00",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q30",
+        "question": "(CEBRASPE/TJ PA/Analista Judiciário/Ciências Contábeis/2020) A demonstração dos fluxos de caixa (DFC) apresenta as entradas e saídas de caixa e as classifica em fluxo operacional, de investimento e de financiamento. Os fluxos de caixa decorrentes de transações em moeda estrangeira devem ser",
+        "options": [
+          "registrados na moeda funcional da entidade, convertendo-se o valor em moeda estrangeira à taxa cambial na data da ocorrência do fluxo de caixa.",
+          "registrados na moeda funcional da entidade, convertendo-se o valor em moeda estrangeira com base nas taxas de câmbio do fim do período.",
+          "registrados na moeda de apresentação da entidade, convertendo-se o valor em moeda estrangeira à taxa cambial na data da ocorrência do fluxo de caixa.",
+          "registrados na moeda de apresentação da entidade, convertendo-se o valor em moeda estrangeira com base nas taxas de câmbio do fim do período.",
+          "apresentados separadamente dos fluxos de caixa das atividades operacionais, de investimento e de financiamento, convertidos e registrados com base nas taxas de câmbio do fim do período. 66 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130"
+        ],
+        "correct": 0,
+        "explanation": "Esse assunto é previsto no CPC 03 (R2) - DEMONSTRAÇÃO DOS FLUXOS DE CAIXA: Fluxos de caixa em moeda estrangeira 25. Os fluxos de caixa advindos de transações em moeda estrangeira devem ser REGISTRADOS NA MOEDA FUNCIONAL da entidade pela aplicação, ao montante em moeda estrangeira, das TAXAS DE CÂMBIO entre a moeda funcional e a moeda estrangeira observadas na DATA DA OCORRÊNCIA do fluxo de caixa. Adendo! Moeda funcional é a moeda do ambiente econômico principal no qual a entidade opera. Por exemplo: No Brasil, a moeda funcional é o Real.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q31",
+        "question": "(CEBRASPE/SEFAZ DF/Auditor Fiscal da Receita do Distrito Federal/2020) A partir da análise da demonstração dos fluxos de caixa, o usuário da informação toma conhecimento de como a entidade financia suas atividades, descritas através dos fluxos operacional, de investimento e de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correta, o CPC 03 afirma que Informações sobre o fluxo de caixa de uma entidade são úteis para proporcionar aos usuários das demonstrações contábeis uma base para avaliar a capacidade de a entidade gerar caixa e equivalentes de caixa, bem como as necessidades da entidade de utilização desses fluxos de caixa. As decisões econômicas que são tomadas pelos usuários exigem avaliação da capacidade de a entidade gerar caixa e equivalentes de caixa, bem como da época de sua ocorrência e do grau de certeza de sua geração. A demonstração dos fluxos de caixa deve apresentar os fluxos de caixa do período classificados por atividades operacionais, de investimento e de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q32",
+        "question": "(CEBRASPE/SLU DF/Analista - Ciências Contábeis/2019) As sociedades anônimas de capital fechado devem apresentar a demonstração dos fluxos de caixa pelo método indireto, e as sociedades anônimas de capital aberto, pelo método direto. 67 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Primeiramente, lembramos que a demonstração dos fluxos de caixa é obrigatória para a companhia aberta e para a companhia fechada com patrimônio líquido superior a 2 milhões. Assim, caso a Cia fechada tenha PL igual ou inferior a 2 milhões estará dispensada de elaborar a DFC. Ainda encontramos outro erro, pois a entidade não é obrigada a apresentar a DFC pelo modelo direto ou indireto, mas sim aquele que mais se enquadre as suas necessidades. Observem o texto do CPC 03 (R2): 11. A entidade DEVE APRESENTAR seus fluxos de caixa advindos das atividades operacionais, de investimento e de financiamento da FORMA QUE SEJA MAIS APROPRIADA AOS SEUS NEGÓCIOS. A classificação por atividade proporciona informações que permitem aos usuários avaliar o impacto de tais atividades sobre a posição financeira da entidade e o montante de seu caixa e equivalentes de caixa. Essas informações podem ser usadas também para avaliar a relação entre essas atividades.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q33",
+        "question": "(CEBRASPE/SLU DF/Analista - Ciências Contábeis/2019) Em se tratando de empresa que utilize o método indireto na apresentação da demonstração dos fluxos de caixa, o aumento, de um período para outro, dos valores contabilizados como despesa antecipada deve ser subtraído do resultado do período, pois representa o aumento de saídas de caixa e equivalentes.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Recordamos que a demonstração do resultado do exercício (DRE) utiliza o regime de competência. Consequentemente, despesas e receitas antecipadas não afetam o resultado do período. Já a demonstração do fluxo de caixa (DFC) baseia-se no regime de caixa, por isso devemos subtrair os valores antecipados a terceiros (Despesas Antecipadas) e somar os valores antecipados por terceiros (Receitas Antecipadas). Como o quesito informou que a empresa utiliza o método indireto, então ajustamos os valores que diminuem/aumentam o resultado do período, mas que não afetam o caixa. Em seguida, somamos/subtraímos as variações das contas das atividades operacionais Nesse método, subtraímos os aumentos das contas do ativo (despesa antecipada é uma conta do ativo) e somamos as diminuições dessas contas ao lucro ajustado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q34",
+        "question": "(CEBRASPE/SLU DF/Analista - Ciências Contábeis/2019) Embora não transite por caixa e equivalentes, a conversão de dívidas em capital social deve ser apresentada na demonstração dos fluxos de caixa, o que afeta o fluxo de caixa das atividades de financiamento e de investimento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Errado, o CPC 03 informa que tais transações não devem ser apresentadas na demonstração do fluxo de caixa. Nas palavras, desse pronunciamento: 44. Muitas atividades de investimento e de financiamento não têm impacto direto sobre os fluxos de caixa correntes, muito embora afetem a estrutura de capital e de ativos da entidade. A exclusão de transações que não envolvem caixa ou equivalentes de caixa da demonstração dos fluxos de caixa é consistente com o objetivo da referida demonstração, visto que tais itens não envolvem fluxos de caixa no período corrente. Exemplos de transações que não envolvem caixa ou equivalente de caixa são: (a) a aquisição de ativos, quer seja pela assunção direta do passivo respectivo, quer seja por meio de arrendamento financeiro; (a) a aquisição de ativos, quer seja pela assunção direta do passivo respectivo, quer seja por meio de arrendamento; (Alterada pela Revisão CPC 13) (b) a aquisição de entidade por meio de emissão de instrumentos patrimoniais; e (c) a conversão de dívida em instrumentos patrimoniais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q35",
+        "question": "(CEBRASPE/TJ AM/Analista Judiciário/Contabilidade/2019) Uma das condições necessárias à qualificação de um item como equivalente de caixa é que esse item esteja sujeito a um risco insignificante de mudança de valor.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, CPC 03: Equivalentes de caixa são aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q36",
+        "question": "(CEBRASPE/ABIN/Oficial Técnico de Inteligência/Área 1/2018) Na elaboração da demonstração de fluxo de caixa (DFC) pelo método direto, é facultado à entidade fornecer a conciliação entre lucro líquido e fluxo de caixa líquido das atividades operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Pessoal, o item está errado, pois, o CPC 03 prevê que, caso a empresa opte por apresentar a DFC Método Direto, adicionalmente, deverá apresentar a conciliação do Lucro Líquido, vejam: 20A. A conciliação entre o lucro líquido e o fluxo de caixa líquido das atividades operacionais deve ser fornecida, obrigatoriamente, caso a entidade use o método direto para apurar o fluxo líquido das atividades operacionais. A conciliação deve apresentar, separadamente, por categoria, os principais itens a serem conciliados, à semelhança do que deve fazer a entidade que usa o método indireto em relação aos ajustes ao lucro líquido ou prejuízo para apurar o fluxo de caixa líquido das atividades operacionais. Pode parecer meio esquisito, mas, se a empresa optar por apresentar a DFC pelo Método Direto, terá que apresentar a conciliação do Lucro Líquido.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q37",
+        "question": "(CEBRASPE/TCM-BA/Auditor Estadual/Controle Externo/2018) De acordo com o Comitê de Pronunciamentos Contábeis (CPC), na demonstração de fluxos de caixa, quando do pagamento de empréstimo bancário, a parcela relativa a juros e a parcela relativa a amortização do principal classificam-se como",
+        "options": [
+          "atividade de financiamento, em ambos os casos.",
+          "atividade operacional, em ambos os casos.",
+          "atividade operacional e atividade de investimento, respectivamente.",
+          "atividade de investimento e atividade de financiamento, respectivamente.",
+          "atividade operacional e atividade de financiamento, respectivamente."
+        ],
+        "correct": 4,
+        "explanation": "O CPC 03 encoraja fortemente as entidades a classificarem os juros, recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos como fluxos de caixa das atividades operacionais. Por sua vez, a amortização de empréstimo bancário é classificada com fluxo de financiamento.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q38",
+        "question": "(CEBRASPE/TCM-BA/Auditor Estadual/Controle Externo/2018) De acordo com o CPC, constitui exemplo de fluxo de caixa associado a atividades de investimento",
+        "options": [
+          "o pagamento a empregados ou por conta de empregados. 70 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+          "o pagamento a fornecedores de mercado de serviços.",
+          "o recebimento de caixa decorrente de royalties.",
+          "o recebimento de caixa por seguradora de prêmios e sinistro.",
+          "o ganho ou a perda na alienação de imóveis."
+        ],
+        "correct": 4,
+        "explanation": "Antes, vamos rever o nosso esquema: Principais exemplos de atividades do fluxo Investimentos Venda de imobilizado Venda de intangível Recebimento Outros ativos de longo prazo Venda de participações societárias Aquisição de imobilizado Aquisição de intangível Pagamento Outros ativos de longo prazo Compra de participações societárias Portanto, o ganho ou perda na alienação de imóveis está relacionado com atividades de investimento.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q39",
+        "question": "(CEBRASPE/EBSERH/Analista Administrativo/Contabilidade/2018) O valor pago na aquisição de um imóvel destinado a locação a terceiro é exemplo de fluxo de caixa decorrente de atividades de investimentos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Errado, segundo o CPC 03: Algumas transações, como a venda de item do imobilizado, podem resultar em ganho ou perda, que é incluído na apuração do lucro líquido ou prejuízo. Os fluxos de caixa relativos a tais transações são fluxos de caixa provenientes de atividades de investimento. Entretanto, pagamentos em caixa para a produção ou a aquisição de ativos mantidos para aluguel a terceiros que, em sequência, são vendidos, conforme descrito no item 68A do Pronunciamento Técnico CPC 27 - Ativo Imobilizado, são fluxos de caixa advindos das atividades operacionais. Os recebimentos de aluguéis e das vendas subsequentes de tais ativos são também fluxos de caixa das atividades operacionais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q40",
+        "question": "(CEBRASPE/Analista/TCE MG/2018/Adaptada) O balanço patrimonial comparativo de determinada empresa apresentava os seguintes saldos, em reais, nas contas ativas e passivas, ao final do ano 20X1. 20x0 20x1 Caixa 1500 2300 Duplicatas 500 1000 Estoques 1000 1500 Móveis 1200 1500 Depreciação 200 320 Terrenos 2000 3000 Participações 500 2640 Fornecedores 1000 2000 Empréstimos 1000 1470 Imposto de renda 0 1050 Capital 4500 6000 Reserva de lucros 0 1100 Com base nessas informações, é correto afirmar que o fluxo de caixa das atividades operacionais apurado pelo método indireto",
+        "options": [
+          "gerou R$ 3.770 em caixa.",
+          "gerou R$ 1.120 em caixa.",
+          "consumiu R$ 3.440 em caixa.",
+          "consumiu R$ 3.120 em caixa.",
+          "gerou R$ 3.440 em caixa."
+        ],
+        "correct": 0,
+        "explanation": "Vamos tentar fazer de dois modos (que devem gerar o mesmo resultado). Variação de Caixa = FAO + – FAI +- FAF Variação do Caixa = 2.300 – 1.500 = 800 Fluxo das atividades de financiamento Novos empréstimos: 470 (Caixa Gerado) Caixa Gerado: 470 Fluxo das atividades de investimento Compra de móveis: 1.500 – 1.200 = 300 (Caixa Consumido) Compra de terrenos: 3.000 – 2.000 = 1.000 (Caixa Consumido) Compra de participações: 2.140 (Caixa Consumido) Caixa consumido: -3.440 72 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Agora é só jogar na equação: 800 = FAO – 3.440 + 470 FAO = 3.770 Agora, partindo da reconstrução do lucro líquido. Lucro líquido ou vai para aumentar o capital, para reserva de lucros ou para dividendos. A questão foi silente quanto ao pagamento de dividendos. Assim, teremos: Lucro do exercício = 1.500 (aumento de capital) + 1.100 (reserva de lucros) = 2.600 Agora, é só fazer os ajustes: Lucro líquido = 2.600 + Depreciação = 120 Lucro ajustado = 2.720 Agora, vamos fazer o ajuste das contas patrimoniais: Lucro ajustado = 2.720 – Aumento de estoque (500) – Aumento de duplicatas (500) + Aumento de fornecedores 1.000 + Aumento de IR 1.050 Fluxo Operacional = 3.770 (Caixa Gerado)",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q41",
+        "question": "(CEBRASPE/Analista/Contabilidade/TRE/PE/2017) Considerando que a demonstração dos fluxos de caixa (DFC) apresenta informações relevantes sobre a capacidade das entidades na geração de caixa, assinale a opção correta.",
+        "options": [
+          "A Compõem o fluxo de atividades de investimento os recebimentos de caixa decorrentes de royalties, honorários e comissões, que não entram na apuração do lucro líquido da entidade.",
+          "O valor da venda de ativos de longo prazo não incluídos nos equivalentes de caixa deve ser classificado na DFC como fluxo das atividades de investimento.",
+          "O fluxo de caixa de uma entidade é representado pelo cálculo de entradas de caixa ou equivalentes de caixa em determinado espaço de tempo.",
+          "Uma entidade comercial, tendo adquirido mercadorias para revenda no valor de R$ 80.000, pagando 50% no ato, deverá registrar na DFC uma atividade de financiamento que consumiu caixa no valor de R$ 40.000. 73 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+          "Caso uma sociedade empresária tenha sido constituída com capital de R$ 200.000, dos quais R$ 100.000 tenham sido integralizados em dinheiro e R$ 60.000 em terrenos, com o saldo restante em capital a integralizar, a DFC deverá apresentar atividades de financiamento que geraram caixa no valor de R$ 140.000."
+        ],
+        "correct": 1,
+        "explanation": "a) Compõem o fluxo de atividades de investimento os recebimentos de caixa decorrentes de royalties, honorários e comissões, que não entram na apuração do lucro líquido da entidade. Item incorreto. Os citados itens são considerados fluxos operacionais, conforme item 14, b, do CPC 03. b) O valor da venda de ativos de longo prazo não incluídos nos equivalentes de caixa deve ser classificado na DFC como fluxo das atividades de investimento. Item correto. Este é o nosso gabarito. Segundo o CPC 03: Atividades de investimento são as referentes à aquisição e à venda de ativos de longo prazo e de outros investimentos não incluídos nos equivalentes de caixa. c) O fluxo de caixa de uma entidade é representado pelo cálculo de entradas de caixa ou equivalentes de caixa em determinado espaço de tempo. Item incorreto. Fluxos de caixa são as ENTRADAS e SAÍDAS de caixa equivalentes de caixa. d) Uma entidade comercial, tendo adquirido mercadorias para revenda no valor de R$ 80.000, pagando 50% no ato, deverá registrar na DFC uma atividade de financiamento que consumiu caixa no valor de R$ 40.000. Incorreto. A compra de mercadorias é fluxo operacional. Segundo o CPC 03: Atividades operacionais são as principais atividades geradoras de receita da entidade e outras atividades que não são de investimento e tampouco de financiamento. Atividades de investimento são as referentes à aquisição e à venda de ativos de longo prazo e de outros investimentos não incluídos nos equivalentes de caixa. Atividades de financiamento são aquelas que resultam em mudanças no tamanho e na composição do capital próprio e no capital de terceiros da entidade. e) Caso uma sociedade empresária tenha sido constituída com capital de R$ 200.000, dos quais R$ 100.000 tenham sido integralizados em dinheiro e R$ 60.000 em terrenos, com o saldo restante em capital a integralizar, a DFC deverá apresentar atividades de financiamento que geraram caixa no valor de R$ 140.000. Item incorreto. Somente R$ 100.000,00 ingressaram em caixa. Este é o valor do fluxo de financiamento. O gabarito é letra b.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q42",
+        "question": "(CEBRASPE/SEDF/Analista Gestão Educacional/Contabilidade/2017) O fluxo de caixa das atividades de financiamento integra a demonstração das mutações do patrimônio líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado! O fluxo de caixa das atividades de financiamento integra a demonstração dos fluxos de caixa!",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q43",
+        "question": "(CEBRASPE/SEDF/Analista Gestão Educacional/Contabilidade/2017) A conversão de dívida da entidade em instrumentos patrimoniais dessa mesma entidade tem de ser representada, na demonstração dos fluxos de caixa, como um fluxo de caixa relacionado com as atividades de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O CEBRASPE gosta desse tema: conversão de dívida em instrumentos patrimoniais. Um exemplo é a conversão de debêntures, que é um título de dívida, em ações, que são instrumentos patrimoniais. Essa conversão, não envolve a saída ou entrada de caixa, portanto, não é evidenciada na DFC. Vejamos o que o CPC 03 diz sobre o tema: 44. Exemplos de transações que não envolvem caixa ou equivalente de caixa são: (a) a aquisição de ativos, quer seja pela assunção direta do passivo respectivo, quer seja por meio de arrendamento financeiro; (b) a aquisição de entidade por meio de emissão de instrumentos patrimoniais; e (c) a conversão de dívida em instrumentos patrimoniais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q44",
+        "question": "(CEBRASPE/FUNPRESP-JUD/Contabilidade/2016) Se uma empresa apresentou, na conta duplicatas a receber, saldo final de R$ 35.000,00 em 31/12/20X1 e saldo final de R$ 45.000,00 em 31/12/20X2, então, considerando-se que, em 20X2, a receita de vendas a prazo tenha sido de R$ 150.000,00, é correto afirmar que o valor recebido dos clientes em 20X2, apresentado no grupo atividades operacionais na demonstração dos fluxos de caixa pelo método direto, terá sido superior a R$ 135.000,00. 75 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Para encontrar o valor recebido de clientes, vamos utilizar o Método Direto. Por esse método, a partir de informações do balanço e da DRE, usamos a fórmula: Saldo inicial + entradas - saídas = saldo final É só montar o seguinte razonete: C onta de A tivo Saldo inicial X W Saídas Entradas Y Saldo final Z C onta de Passivo Pagam ento Z X Saldo inicial Y Entrada W Saldo final 1. Recebimento de clientes (duplicatas a receber) Saldo inicial = 35.000 (+) Entradas (vendas) = 150.000 (-) Saídas (recebimentos) = ? (=) Saldo Final = 45.000 É só montar o seguinte razonete: D upl. a rec. (A t) Saldo inicial 35.000,00 X Recebim entos Vendas 150.000,00 Saldo final 45.000,00 Portanto, Recebimentos = 35.000 + 150.000 – 45.000 = 140.000.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q45",
+        "question": "(CEBRASPE/FUNPRESP-JUD/Contabilidade/2016) A demonstração dos fluxos de caixa, composta pelo fluxo dos financiamentos, dos investimentos e pelo fluxo operacional, deve ser elaborada por um dos seguintes métodos: método indireto, em que se apresentam os principais componentes das atividades operacionais; ou método direto, também denominado método da reconciliação, que parte do lucro líquido até chegar ao saldo em caixa. 76 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A DFC pode ser elaborada pelo método direto ou pelo método indireto. A diferença entre os métodos está somente no fluxo operacional. Mas, professores, qual a diferença? Basicamente, o método direto parte diretamente da conta caixa, enquanto o indireto é feito partindo do lucro líquido do exercício, fazendo alguns ajustes na DRE. Só há diferença no fluxo operacional. O de financiamentos e investimentos é igual. Assim sendo, a questão inverteu as definições.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q46",
+        "question": "(CEBRASPE/TCE-PA/Auditor de Controle Externo/Contabilidade/2016) A apuração dos fluxos de caixa pelo método indireto implica a realização de conciliação com os valores obtidos por meio do método direto.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, pessoal. É correto afirmar que a apuração dos fluxos de caixa pelo método indireto implica a realização de conciliação com valores que são extraídos da Demonstração do Resultado e do Balanço Patrimonial. Vejamos o que diz o CPC 03: 20A. A conciliação entre o lucro líquido e o fluxo de caixa líquido das atividades operacionais deve ser fornecida, obrigatoriamente, caso a entidade use o método direto para apurar o fluxo líquido das atividades operacionais. A conciliação deve apresentar, separadamente, por categoria, os principais itens a serem conciliados, à semelhança do que deve fazer a entidade que usa o método indireto em relação aos ajustes ao lucro líquido ou prejuízo para apurar o fluxo de caixa líquido das atividades operacionais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q47",
+        "question": "(CEBRASPE/PC-PE/Perito-Criminal/Ciências-Contábeis/2016) Para fins de levantamento da demonstração dos fluxos de caixa, constitui exemplo de fluxo de caixa originado das atividades operacionais o recebimento",
+        "options": [
+          "por ganhos em derivativos não mantidos para negociação imediata, venda futura ou hedge.",
+          "pela emissão de debêntures.",
+          "por conta de royalties, honorários e comissões.",
+          "pela venda de um item integrante do imobilizado de uso.",
+          "pela venda de instrumentos patrimoniais ou de dívida. 77 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130"
+        ],
+        "correct": 2,
+        "explanation": "Conforme disposição do CPC 03, os fluxos de caixa advindos das atividades operacionais são basicamente derivados das principais atividades geradoras de receita da entidade. Portanto, eles geralmente resultam de transações e de outros eventos que entram na apuração do lucro líquido ou prejuízo. Exemplos de fluxos de caixa que decorrem das atividades operacionais são: (...) (b) recebimentos de caixa decorrentes de royalties, honorários, comissões e outras receitas. ” Com isso, nosso gabarito é a alternativa “C”. Para fins de treinamento, vamos classificar também os demais itens. - Ganhos em derivativos não mantidos para negociação imediata, venda futura ou hedge: Derivativos = Investimento. Hedge: segue o principal, ou seja, o que está sendo protegido. - Pela emissão de debêntures→Atividade de Financiamento; - Pela venda de um item integrante do imobilizado de uso Atividade de Investimento; - Pela venda de instrumentos patrimoniais ou de dívida Atividade de Investimento.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q48",
+        "question": "(CEBRASPE/TRT- 8ª Região (PA e AP) / Contabilidade/2016) A partir dessas informações, extraídas da demonstração do fluxo de caixa de determinada companhia referente ao exercício de 2015, assinale a opção correta, de acordo com o método indireto.",
+        "options": [
+          "Enquanto cada uma das atividades de investimento consumiu o fluxo de caixa, cada uma das atividades de financiamento gerou caixa no período.",
+          "O caixa líquido gerado pelas atividades de investimento foi de R$ 280 mil.",
+          "O caixa líquido gerado pelas atividades operacionais foi de R$ 107 mil. 78 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+          "O montante da depreciação, exaustão e amortização do período reduz o fluxo de caixa das atividades operacionais.",
+          "O caixa líquido gerado pelas atividades de financiamento foi de R$ 1.029 mil."
+        ],
+        "correct": 4,
+        "explanation": "Os passos para fazermos a DFC pelo método indireto, no fluxo operacional, é o seguinte: Passo 1: Pegar o lucro líquido do exercício Passo 2: Ajustar as receitas e despesas que não afetaram o caixa. Passo 3 Eliminar o efeito das vendas e compras a prazo do caixa. A questão forneceu as variações ocorridas em um formato um pouco distinto, mas que organizando as informações corretamente, temos plenas condições de preparar a DFC pelo Método Indireto: Demonstração dos Fluxos de Caixa Fluxo das atividades operacionais Prejuízo Líquido do período -R$ 1.006,00 Resultado Positivo do MEP -R$ 104,00 Depreciação, Exaustão e Amortização R$ 1.050,00 Lucro Líquido Ajustado -R$ 60,00 Aumento em estoques -R$ 220,00 Aumento em fornecedores R$ 179,00 Caixa Consumido pelas Atividades Operacionais -R$ 101,00 Fluxo de caixa Ativ. Financiamento Empréstimos captados R$ 1.566,00 Liquidação de operações com derivativos -R$ 40,00 Pagamento de empréstimos -R$ 497,00 Caixa Gerado pelas Atividades de Financiamento R$ 1.029,00 Fluxo de Caixa Ativ. Investimento Adições no Imobilizado -R$ 274,00 Adições no Intangível -R$ 6,00 Adições nos Ativos Biológicos -R$ 818,00 Caixa Gerado pelas Atividades de Investimentos -R$ 1.098,00 Vale ressaltar que não usamos o valor do pagamento de IR e CSLL, pois eles estão considerados no cálculo do Lucro Líquido e DFC foi elaborada pelo Método Indireto. Vamos analisar cada uma das alternativas: a) Enquanto cada uma das atividades de investimento consumiu o fluxo de caixa, cada uma das atividades de financiamento gerou caixa no período. Errado, a Liquidação de operação com derivativos e o Pagamento de empréstimos consumiram caixa e são atividades de financiamento. 79 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 b) O caixa líquido gerado pelas atividades de investimento foi de R$ 280 mil. Errado, as Atividades de Investimentos consumiram e não geraram caixa e o montante foi de R$ 1.098 mil. c) O caixa líquido gerado pelas atividades operacionais foi de R$ 107 mil. Errado, atividades operacionais consumiram caixa e não geraram, no total de R$ 101 mil. d) O montante da depreciação, exaustão e amortização do período reduz o fluxo de caixa das atividades operacionais. Errado, depreciação, exaustão e amortização não geram saídas ou entradas de caixa, mas são ajustadas na DFC aumentando o valor do Lucro Líquido Ajustado. e) O caixa líquido gerado pelas atividades de financiamento foi de R$ 1.029 mil. Correto, conforme vimos na DFC.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q49",
+        "question": "(CEBRASPE/FUNPRESP-EXE/Contabilidade/2016) O total de recursos aplicados na compra de mercadorias adquiridas para revenda e com pagamento à vista deve ser classificado como fluxo de atividades operacionais na demonstração dos fluxos de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo, conforme previsão do CPC 03: 14. Os fluxos de caixa advindos das atividades operacionais são basicamente derivados das principais atividades geradoras de receita da entidade. Portanto, eles geralmente resultam de transações e de outros eventos que entram na apuração do lucro líquido ou prejuízo. Exemplos de fluxos de caixa que decorrem das atividades operacionais são: (a) recebimentos de caixa pela venda de mercadorias e pela prestação de serviços; (c) pagamentos de caixa a fornecedores de mercadorias e serviços;",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q50",
+        "question": "(CEBRASPE/FUNPRESP-JUD/Contabilidade/2016) A conta de aplicação financeira de liquidez imediata em moeda corrente, constante no grupo do ativo circulante, é exemplo de equivalente de caixa componente da DFC.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Os equivalentes de caixa são mantidos com a finalidade de atender a compromissos de caixa de curto prazo e, não, para investimento ou outros propósitos. Para que um investimento seja qualificado como equivalente de caixa, ele precisa ter conversibilidade imediata em montante conhecido de caixa e estar sujeito a um insignificante risco de mudança de valor. Portanto, a conta de aplicação financeira de liquidez imediata em moeda corrente é considerada um equivalente de caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q51",
+        "question": "(CEBRASPE/FUNPRESP-JUD/Contabilidade/2016) O aumento do capital social, que se inclui entre as mudanças na composição do capital próprio da empresa, é uma entrada de caixa que deve ser apresentada na DFC como fluxo das atividades de investimento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, o aumento do capital social é classificado como fluxo das atividades de financiamento. Está no CPC 03: A divulgação separada dos fluxos de caixa advindos das atividades de financiamento é importante por ser útil na predição de exigências de fluxos futuros de caixa por parte de fornecedores de capital à entidade. Exemplos de fluxos de caixa advindos das atividades de financiamento são: (a) caixa recebido pela emissão de ações ou outros instrumentos patrimoniais; (b) pagamentos em caixa a investidores para adquirir ou resgatar ações da entidade; (c) caixa recebido pela emissão de debêntures, empréstimos, notas promissórias, outros títulos de dívida, hipotecas e outros empréstimos de curto e longo prazos; (d) amortização de empréstimos e financiamentos; e (e) pagamentos em caixa pelo arrendatário para redução do passivo relativo a arrendamento mercantil financeiro.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q52",
+        "question": "(CEBRASPE/FUNPRESP-JUD/Contabilidade/2016) A análise da DFC de uma entidade proporciona aos seus usuários uma base acerca da capacidade da entidade de gerar caixa e equivalentes de caixa, nos diferentes fluxos que a compõem.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O que é e qual a finalidade da DFC? A demonstração dos fluxos de caixa é a demonstração que evidencia a variação das contas caixa e equivalentes de caixa da companhia. O próprio CPC 03 diz que: 14. Os fluxos de caixa advindos das atividades operacionais são basicamente derivados das principais atividades geradoras de receita da entidade. Portanto, eles geralmente resultam de transações e de outros eventos que entram na apuração do lucro líquido ou prejuízo. Exemplos de fluxos de caixa que decorrem das atividades operacionais são: (a) recebimentos de caixa pela venda de mercadorias e pela prestação de serviços; (c) pagamentos de caixa a fornecedores de mercadorias e serviços;",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q53",
+        "question": "(CEBRASPE/DPU/Contador/2016) No fluxo de caixa pelo método indireto, as variações positivas (negativas) do ativo circulante aumentam (reduzem) o caixa e as variações positivas (negativas) do passivo circulante reduzem (aumentam) o caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "No método indireto, partimos do resultado do período e somamos ou diminuímos os valores que afetaram o resultado, mas que não representam saídas ou entradas de dinheiro. Depois, ajustamos as variações dos ativos e passivos relacionados com as atividades operacionais. Esquematizemos: Ativo Passivo Aumento Diminui o caixa Aumenta o caixa Diminuição Aumenta o caixa Diminui o caixa Agora vamos analisar o que a questão afirmou: 82 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 No fluxo de caixa pelo método indireto, as variações positivas (negativas) do ativo circulante aumentam (reduzem) o caixa e as variações positivas (negativas) do passivo circulante reduzem (aumentam) o caixa. Percebam que a análise está invertida, pois no fluxo de caixa pelo método indireto, as variações positivas (negativas) do ativo circulante aumentam (reduzem) DIMINUEM o caixa e as variações positivas (negativas) do passivo circulante reduzem AUMENTAM o caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q54",
+        "question": "(CEBRASPE/DPU/Contador/2016) São denominados equivalentes de caixa os investimentos conversíveis em moeda e que apresentam alto risco de alteração de valor, sendo necessária a exposição, no relatório de administração, dos critérios adotados para identificar as aplicações em equivalente de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, é exatamente ao contrário! Equivalentes de caixa são aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q55",
+        "question": "(CEBRASPE/TRE-MT/Analista Judiciário Contabilidade/2015) Ainda com relação aos dados apresentados na tabela, assinale a opção correta acerca da demonstração dos fluxos de caixa (DFC). posições contábeis R$ integralização de capital em espécie 100.000 vendas líquidas 400.00 impostos sobre vendas 120.000 custo das mercadorias vendidas 200.000 despesa de depreciação 15.000 despesas administrativas e comerciais 140.000 lucro na venda de imobilizado 30.000 imposto de renda e contribuição social sobre o lucro 13.000 receitas financeiras (efetivamente recebidas) 3.000 despesas financeiras (efetivamente pagas) 10.000 dividendos pagos 15.000 despesas diversas 6.000 despesa com perdas em créditos de liquidação duvidosa 10.000 recebimento por imobilizado alienado 150.000 recebimentos de clientes 295.000 pagamento por compra de imobilizado 20.000 desconto de duplicatas 50.000 83 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 posições contábeis R$ pagamentos de fornecedores, impostos e salários 330.000 despesas pagas antecipadamente 26.000 aumento do saldo de empréstimos de curto prazo 100.000",
+        "options": [
+          "A utilização do método indireto obriga a conciliação entre o lucro líquido e o fluxo de caixa das atividades operacionais.",
+          "Pelo método direto, a DFC inicia-se pelo valor do lucro líquido.",
+          "O caixa líquido consumido nas atividades operacionais foi de R$ 18.000.",
+          "No método indireto, a depreciação é uma dedução do caixa das atividades operacionais.",
+          "Variações positivas no capital social representam adições no caixa das atividades de investimento."
+        ],
+        "correct": 2,
+        "explanation": "Essa questão pode ser resolvida rapidamente, sem fazer conta alguma, apenas analisando as alternativas, vejam: a) A utilização do método indireto obriga a conciliação entre o lucro líquido e o fluxo de caixa das atividades operacionais. Errado, conforme previsão do CPC 03: De acordo com o método indireto, o fluxo de caixa líquido advindo das atividades operacionais é determinado ajustando o lucro líquido ou prejuízo quanto aos efeitos de: (a) variações ocorridas no período nos estoques e nas contas operacionais a receber e a pagar; (b) itens que não afetam o caixa, tais como depreciação, provisões, tributos diferidos, ganhos e perdas cambiais não realizados e resultado de equivalência patrimonial quando aplicável; e (c) todos os outros itens tratados como fluxos de caixa advindos das atividades de investimento e de financiamento. Portanto, o erro é afirmar que a conciliação é feita entre o Lucro Líquido e o fluxo de atividades operacionais. b) Pelo método direto, a DFC inicia-se pelo valor do lucro líquido. Errado, pelo método Indireto, a DFC inicia-se pelo valor do lucro líquido. c) O caixa líquido consumido nas atividades operacionais foi de R$ 18.000. Vamos analisar essa assertiva posteriormente! d) No método indireto, a depreciação é uma dedução do caixa das atividades operacionais. 84 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Errado, depreciação, exaustão e amortização não geram saídas ou entradas de caixa, mas são ajustadas na DFC aumentando o valor do Lucro Líquido Ajustado. e) Variações positivas no capital social representam adições no caixa das atividades de investimento. Errado, Variações positivas no capital social representam adições no caixa das atividades de Financiamento. Portanto, por exclusão, o nosso gabarito é “C”, sem fazer conta alguma! Mas como o nosso objetivo é o aprendizado, vamos elaborar o fluxo de atividades operacionais. Pelas informações fornecidas é mais rápido prepararmos a DFC pelo Método Direto, vejam Demonstração dos Fluxos de Caixa - Método Direto Fluxo das Atividades Operacionais Recebimento de Clientes R$ 295.000,00 Pagamento de Fornecedores, Impostos e Salários -R$ 330.000,00 Despesas pagas antecipadamente -R$ 26.000,00 Receitas Financeiras R$ 3.000,00 Despesas Financeiras -R$ 10.000,00 Desconto de Duplicatas R$ 50.000,00 Caixa Consumido pelas Atividades Operacionais -R$ 18.000,00 Destacamos que o CPC 03 encoraja fortemente a seguinte classificação: Juros Recebidos ou pagos → Atividades Operacionais Atualmente, as Duplicatas Descontadas ficam classificadas no Passivo, pois a operação constitui, em essência, um empréstimo garantido pelas duplicatas. Mas, para a Demonstração de Fluxo de Caixa, a operação de duplicatas descontadas entra no fluxo operacional. Vejamos a razão. Contabilização: • Pela venda D – Duplicatas a Receber (Ativo) 10.000 C – Receitas de vendas (Resultado) 10.000 • Pelo desconto da duplicata: D – Caixa (Ativo) 9.500 D – Juros a transcorrer (Passivo) 500 C – Duplicatas descontadas (Passivo) 10.000 Atenção: aqui, houve entrada de caixa. • Pela apropriação dos juros: 85 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 D – Despesa de juros (Resultado) 500 C – Juros a transcorrer (Passivo) 500 • Pelo pagamento da duplicata descontada (feito diretamente ao Banco): D – Duplicata Descontada (Passivo) 10.000 C – Duplicatas a Receber (Ativo) 10.000 Como se percebe, a única entrada de dinheiro ocorreu quando do desconto. Se fosse classificado como fluxo de financiamento (empréstimo garantido pela duplicata), no encerramento da operação a empresa deveria lançar uma entrada fictícia no fluxo operacional (recebimento do cliente) e ao mesmo tempo uma saída fictícia do fluxo de financiamento (para registrar o “pagamento” do empréstimo garantido pela duplicata). Ocorre que não pode ter entradas e saídas fictícias do Fluxo de Caixa. Só entra a efetiva movimentação de dinheiro. Assim, a entrada de dinheiro do desconto da duplicata entra no fluxo operacional.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q56",
+        "question": "(CEBRASPE/TCE-RN/Auditor/2015) É recomendável que os juros sobre o capital próprio e os dividendos pagos sejam classificados, na demonstração dos fluxos de caixa, como fluxo das atividades de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "PONTOS DE ATENÇÃO - JUROS E DIVIDENDOS! 31. Os fluxos de caixa referentes a juros, dividendos e juros sobre o capital próprio recebidos e pagos devem ser apresentados separadamente. Cada um deles deve ser classificado de maneira consistente, de período a período, como decorrentes de atividades operacionais, de investimento ou de financiamento. 32. O montante total dos juros pagos durante o período é divulgado na demonstração dos fluxos de caixa, quer tenha sido reconhecido como despesa na demonstração do resultado, quer tenha sido capitalizado, conforme o Pronunciamento Técnico CPC 20 – Custos de Empréstimos. 33. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos são comumente classificados como fluxos de caixa operacionais em instituições financeiras. Todavia, não há consenso sobre a classificação desses fluxos de caixa para outras entidades. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos podem ser classificados como fluxos de caixa operacionais, porque eles entram 86 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 na determinação do lucro líquido ou prejuízo. Alternativamente, os juros pagos e os juros, os dividendos e os juros sobre o capital próprio recebidos podem ser classificados, respectivamente, como fluxos de caixa de financiamento e fluxos de caixa de investimento, porque são custos de obtenção de recursos financeiros ou retornos sobre investimentos. 34. Os dividendos e os juros sobre o capital próprio pagos podem ser classificados como fluxo de caixa de financiamento porque são custos da obtenção de recursos financeiros. Alternativamente, os dividendos e os juros sobre o capital próprio pagos podem ser classificados como componente dos fluxos de caixa das atividades operacionais, a fim de auxiliar os usuários a determinar a capacidade de a entidade pagar dividendos e juros sobre o capital próprio utilizando os fluxos de caixa operacionais. 34A. Este Pronunciamento encoraja fortemente as entidades a classificarem os juros, recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos como fluxos de caixa das atividades operacionais, e os dividendos e juros sobre o capital próprio pagos como fluxos de caixa das atividades de financiamento. Alternativa diferente deve ser seguida de nota evidenciando esse fato. Portanto, o pronunciamento encoraja fortemente a seguinte classificação: Juros Recebidos ou pagos → Atividades Operacionais Dividendos e Juros sobre o capital próprio recebidos → Atividades operacionais Dividendos e Juros sobre o capital próprio pagos → Atividades de financiamento A empresa pode adotar outra classificação, desde que evidencie tal fato em nota. Fica assim!",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q57",
+        "question": "(CEBRASPE/Telebras/Contador/2015) Assertiva: Nessa situação, a referida entidade apresenta, nesse período, uma variação líquida nula no caixa de suas atividades operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Montemos a DFC: 87 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Demonstração dos Fluxos de Caixa - Método Indireto Fluxo das Atividades Operacionais Lucro Líquido do período R$ 9.000,00 Depreciação R$ 5.000,00 Lucro Líquido Ajustado R$ 14.000,00 Aumento em Ativos -R$ 12.000,00 Aumento em Passivos R$ 2.000,00 Caixa Gerado pelas Atividades Operacionais R$ 4.000,00 Lucro Líquido do período R$ 9.000,00 Diante do exposto, a entidade apresentou uma variação positiva ou geração de caixa de suas atividades operacionais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q58",
+        "question": "(CEBRASPE/Telebras/Contador/2015) Os recebimentos em cheques ainda não depositados integram o caixa da entidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "As disponibilidades são elementos que representam dinheiro ou nele possam ser convertidos de forma imediata, como a conta caixa, bancos conta movimento. Quais são as contas que compõem as disponibilidades? Bem, basicamente a conta caixa e equivalentes de caixa. Exemplos de disponibilidades: - Caixa. - Contas bancárias - Numerários em trânsito, enquanto estiverem em trânsito. - Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. Os recebimentos em cheque também são depositados no caixa da entidade, portanto, item correto.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q59",
+        "question": "(CEBRASPE/Telebras/Contador/2015) Um título público federal indexado à variação cambial deve ser classificado como um equivalente de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme prevê o CPC 03, Equivalente de Caixa são aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. Assim sendo, um título público federal indexado à variação cambial está sujeito variações significativas de valores, em virtude das constantes alterações nas taxas de câmbio. Portanto, não se enquadra na definição de equivalente de caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q60",
+        "question": "(CEBRASPE/Telebras/Analista Superior – Finanças/2015) Facultativa para todas as companhias abertas e para as fechadas com patrimônio líquido, na data do balanço, igual ou superior a R$ 2 milhões, a demonstração dos fluxos de caixa evidencia as modificações ocorridas nas disponibilidades da companhia, em um determinado exercício, por meio da exposição dos fluxos de recebimentos e pagamentos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme a Lei 6404/76: Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração mercantil da companhia, as seguintes demonstrações financeiras, que deverão exprimir com clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício: IV – demonstração dos fluxos de caixa; e (Redação dada pela Lei nº 11.638, de 2007) § 6o A companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da demonstração dos fluxos de caixa. (Redação dada pela Lei nº 11.638, de 2007) Portanto, o item erra ao afirmar que a DFC é facultativa para todas as companhias abertas e para as fechadas com patrimônio líquido, na data do balanço, igual ou superior a R$ 2 milhões. A DFC é obrigatória para as companhias abertas e facultativa para companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q61",
+        "question": "(CEBRASPE/MTE/Contador/2014) Na elaboração da demonstração dos fluxos de caixa, um dos requisitos para se considerar uma aplicação financeira como equivalente de caixa é o fato de a finalidade dessa aplicação ser o atendimento a compromissos financeiros de curto prazo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo a definição do pronunciamento CPC 03 – Fluxos de Caixa: Equivalentes de caixa são aplicações financeiras de curto prazo, de alta liquidez, que são prontamente conversíveis em montante conhecido de caixa e que estão sujeitas a um insignificante risco de mudança de valor. Assim, os equivalentes de caixa são mantidos pela empresa para atendimento de compromissos financeiros de curto prazo, eis que são prontamente conversíveis em dinheiro.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q62",
+        "question": "(CEBRASPE/CADE/Contador/2014) Os fluxos de caixa anuais de uma controlada no exterior devem ser convertidos para a moeda funcional da controladora utilizando-se a taxa cambial na data de fechamento de cada mês.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o Pronunciamento CPC 03 (R2) – Demonstração dos Fluxos de Caixa: 26. Os fluxos de caixa de controlada no exterior devem ser convertidos pela aplicação das taxas de câmbio entre a moeda funcional e a moeda estrangeira observadas na data da ocorrência dos fluxos de caixa. 27. Os fluxos de caixa que estejam expressos em moeda estrangeira devem ser apresentados de acordo com o Pronunciamento Técnico CPC 02 - Efeitos das Mudanças nas Taxas de Câmbio e Conversão de Demonstrações Contábeis. Esse Pronunciamento Técnico permite o uso de taxa de câmbio que se aproxime da taxa de câmbio vigente. Por exemplo, a taxa de câmbio média ponderada para um período pode ser utilizada para o registro de transações em moeda estrangeira ou para a conversão dos fluxos de caixa de controlada no exterior. Entretanto, o Pronunciamento Técnico CPC 02 não permite o uso de taxa de câmbio ao término do período de reporte quando da conversão dos fluxos de caixa de controlada no exterior. 90 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Assim, a questão está errada, pois não deve ser usada a taxa cambial na data de fechamento de cada mês. Deve ser usada a taxa de câmbio da data da ocorrência dos fluxos de caixa, sendo aceitável o uso de uma taxa média que se aproxime da taxa vigente.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q63",
+        "question": "(CEBRASPE/PF/Contabilidade/2014) A integralização de capital em dinheiro pelos acionistas e a venda à vista de um item do ativo imobilizado são eventos que devem ser classificados como fluxos de caixa das atividades de financiamento na demonstração dos fluxos de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Integralização de capital em dinheiro = Fluxo de financiamento Venda à vista de item do imobilizado = Fluxo de investimento Está errada a afirmação de que venda a vista de ativo imobilizado deve ser classificado como fluxo de caixa de atividade de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q66",
+        "question": "(CEBRASPE/ANATEL/Contabilidade/2014) O caixa gerado pelas atividades operacionais é superior a R$ 275 milhões.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vamos esboçar a demonstração dos Fluxos de Caixa: Fluxo das atividades Operacionais $ mil Lucro antes dos tributos 490.200 Depreciação e amortizações no período 80.400 Constituição de provisão para demandas tributárias, trabalhistas, cíveis e regulatórias 20.000 Constituição de provisão para redução ao valor recuperável das contas a receber 26.000 Resultado positivo de equivalência patrimonial -200.000 Aumento de contas a receber -33.000 Redução de estoques 1.200 Redução no passivo operacional -108.000 Total de caixa gerado nas atividades operacionais 276.800 Fluxo das atividades de Investimentos $ mil Adiantamento para futuro aumento de capital em controladas -59.600 Aquisições de imobilizado e intangível -200.000 Total de caixa consumido nas atividades de Investimentos -259.600 Fluxo das atividades de Financiamentos $ mil Captação de debêntures 150.000 Total de caixa gerado nas atividades de Investimentos 150.000 Total de caixa gerado (+276800 – 259600 +167200) 167.200 64 – Errado. As atividades de Investimentos e financiamentos consumiram -259.000 + 150.000 = - 109.000.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q67",
+        "question": "(CEBRASPE/ANTAQ/Ciências Contábeis/2014) Os juros pagos, os dividendos e os juros sobre o capital próprio devem integrar, por determinação do CPC, o fluxo de atividades de financiamento. 92 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o Pronunciamento CPC 03: 31. Os fluxos de caixa referentes a juros, dividendos e juros sobre o capital próprio recebidos e pagos devem ser apresentados separadamente. Cada um deles deve ser classificado de maneira consistente, de período a período, como decorrentes de atividades operacionais, de investimento ou de financiamento. 32. O montante total dos juros pagos durante o período é divulgado na demonstração dos fluxos de caixa, quer tenha sido reconhecido como despesa na demonstração do resultado, quer tenha sido capitalizado, conforme o Pronunciamento Técnico CPC 20 – Custos de Empréstimos. 33. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos são comumente classificados como fluxos de caixa operacionais em instituições financeiras. Todavia, não há consenso sobre a classificação desses fluxos de caixa para outras entidades. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos podem ser classificados como fluxos de caixa operacionais, porque eles entram na determinação do lucro líquido ou prejuízo. Alternativamente, os juros pagos e os juros, os dividendos e os juros sobre o capital próprio recebidos podem ser classificados, respectivamente, como fluxos de caixa de financiamento e fluxos de caixa de investimento, porque são custos de obtenção de recursos financeiros ou retornos sobre investimentos. 34. Os dividendos e os juros sobre o capital próprio pagos podem ser classificados como fluxo de caixa de financiamento porque são custos da obtenção de recursos financeiros. Alternativamente, os dividendos e os juros sobre o capital próprio pagos podem ser classificados como componente dos fluxos de caixa das atividades operacionais, a fim de auxiliar os usuários a determinar a capacidade de a entidade pagar dividendos e juros sobre o capital próprio utilizando os fluxos de caixa operacionais. 34A. Este Pronunciamento encoraja fortemente as entidades a classificarem os juros, recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos como fluxos de caixa das atividades operacionais, e os dividendos e juros sobre o capital próprio pagos como fluxos de caixa das atividades de financiamento. Alternativa diferente deve ser seguida de nota evidenciando esse fato. Portanto, o pronunciamento encoraja fortemente a seguinte classificação: Juros Recebidos ou pagos → Atividades Operacionais Dividendos e Juros sobre o capital próprio recebidos → Atividades operacionais Dividendos e Juros sobre o capital próprio pagos → Atividades de financiamento A empresa pode adotar outra classificação, desde que evidencie tal fato em nota. 93 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q68",
+        "question": "(CEBRASPE/Câmara dos Deputados/Consultor Legislativo/2014) Conforme o setor de atuação e o porte da entidade, a demonstração dos fluxos de caixa pode ser divulgada por três métodos distintos: o método do valor presente, o método direto e o método indireto.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Os fluxos de caixa podem ser apresentados pelo Método Direto ou pelo Método Indireto, confira: CPC 03 (R2) – Demonstrações de Fluxo de caixa: 18. A entidade deve apresentar os fluxos de caixa das atividades operacionais, usando alternativamente: (a) o método direto, segundo o qual as principais classes de recebimentos brutos e pagamentos brutos são divulgadas; ou (b) o método indireto, segundo o qual o lucro líquido ou o prejuízo é ajustado pelos efeitos de transações que não envolvem caixa, pelos efeitos de quaisquer diferimentos ou apropriações por competência sobre recebimentos de caixa ou pagamentos em caixa operacionais passados ou futuros, e pelos efeitos de itens de receita ou despesa associados com fluxos de caixa das atividades de investimento ou de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q69",
+        "question": "(CEBRASPE/Contador/UNIPAMPA/2013) Se determinada sociedade empresária apresentou, no exercício de 2012, saldos de caixa e equivalentes de caixa — inicial e final — no valor de R$ 2.339 mil e de R$ 2.224 mil, respectivamente, e, no mesmo exercício, a aplicação de caixa em investimentos foi de R$ 2.178 mil e o caixa gerado pelas operações foi de R$ 1.584 mil, então, na demonstração do fluxo de caixa deverá ser demonstrada a geração de caixa em financiamentos no valor de R$ 479 mil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Questão interessante: a variação total do caixa é igual à soma dos fluxos de caixa operacional (FCO), financeiro (FCF) e de investimentos (FCI). FCO + FCF + FCI = Variação do caixa Variação do caixa: 2.224 – 2.339 = - 115 • FCI = - 2.178 (negativo, pois é aplicação em investimentos) 94 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 • FCO = 1.584 (positivo, pois o caixa foi gerado) FCO + FCF + FCI = Variação do caixa 1.584 - 2.178 + FCF = - 115 FCF = - 115 + 2.178 – 1.584 = 479 mil.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q70",
+        "question": "(CEBRASPE/Analista Judiciário/Contabilidade/TRT/10ª/2013) Na demonstração dos fluxos de caixa, os juros pagos e recebidos sobre capital próprio devem ser classificados como fluxos de caixa das atividades de financiamento de instituições financeiras.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o CPC 03 (R2): 33. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos são comumente classificados como fluxos de caixa operacionais em instituições financeiras. Todavia, não há consenso sobre a classificação desses fluxos de caixa para outras entidades. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos podem ser classificados como fluxos de caixa operacionais, porque eles entram na determinação do lucro líquido ou prejuízo. Alternativamente, os juros pagos e os juros, os dividendos e os juros sobre o capital próprio recebidos podem ser classificados, respectivamente, como fluxos de caixa de financiamento e fluxos de caixa de investimento, porque são custos de obtenção de recursos financeiros ou retornos sobre investimentos. Ainda dispõe que: 34. Os dividendos e os juros sobre o capital próprio pagos podem ser classificados como fluxo de caixa de financiamento porque são custos da obtenção de recursos financeiros. Alternativamente, os dividendos e os juros sobre o capital próprio pagos podem ser classificados como componente dos fluxos de caixa das atividades operacionais, a fim de auxiliar os usuários a determinar a capacidade de a entidade pagar dividendos e juros sobre o capital próprio utilizando os fluxos de caixa operacionais.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q71",
+        "question": "(CEBRASPE/Especialista/Telebrás/2013) A conversão de debêntures em ações deve ser apresentada como atividade de financiamento na demonstração dos fluxos de caixa da sociedade que as emitiu.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Há uma conversão de dívida (debêntures emitidas) em instrumento patrimonial (ação). 95 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Lembre-se de que as debêntures são uma espécie de empréstimo que a entidade faz perante o público para capitar recursos. • Pela obtenção das debêntures: D – Caixa (ativo) C – Debêntures a resgatar (passivo) Caso a entidade, ao invés de pagar os títulos aos possuidores, ofereça a oportunidade destes debenturistas se tornarem sócios, eles passarão a possuir ações da sociedade. Em contrapartida, a empresa não mais deverá nada a estes debenturistas. Os lançamentos, assim, serão: D – Debêntures a resgatar (passivo) C – Capital social (patrimônio líquido) Veja que o caixa não foi afetado pela conversão da dívida (debêntures) em instrumento patrimonial (ação). É esta, pois, uma transação que não afeta o caixa. Segundo o CPC 03 (R2): Transação que não envolve caixa ou equivalentes de caixa 43. Transações de investimento e financiamento que não envolvem o uso de caixa ou equivalentes de caixa devem ser excluídas da demonstração dos fluxos de caixa. Tais transações devem ser divulgadas nas notas explicativas às demonstrações contábeis, de modo que forneçam todas as informações relevantes sobre essas atividades de investimento e de financiamento. 44. Muitas atividades de investimento e de financiamento não têm impacto direto sobre os fluxos de caixa correntes, muito embora afetem a estrutura de capital e de ativos da entidade. A exclusão de transações que não envolvem caixa ou equivalentes de caixa da demonstração dos fluxos de caixa é consistente com o objetivo de referida demonstração, visto que tais itens não envolvem fluxos de caixa no período corrente. Exemplos de transações que não envolvem caixa ou equivalente de caixa são: (a) a aquisição de ativos, quer seja pela assunção direta do passivo respectivo, quer seja por meio de arrendamento financeiro; (b) a aquisição de entidade por meio de emissão de instrumentos patrimoniais; e (c) a conversão de dívida em instrumentos patrimoniais. Assim, não há evidenciação como atividade de financiamento, já que a operação não afeta o caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q72",
+        "question": "(CEBRASPE/Especialista/Telebrás/2013) A redução do saldo da conta fornecedores, do passivo circulante, decorrente do pagamento de bens e serviços adquiridos a prazo, trará reflexos no valor do caixa líquido das atividades de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O item está incorreto. O reflexo será no valor líquido das atividades operacionais, já que, havendo pagamento de fornecedores (redução do seu saldo), estamos diminuindo o nosso caixa. No método indireto, partimos do resultado do período e somamos ou diminuímos os valores que afetaram o resultado, mas que não representam saídas ou entradas de dinheiro. Depois, ajustamos as variações dos ativos e passivos relacionados com as atividades operacionais. Aumento do Ativo → diminui o caixa Diminuição do Ativo → aumenta o caixa Aumento do Passivo → aumenta o caixa Diminuição do Passivo → diminui o caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q73",
+        "question": "(CEBRASPE/Especialista/Telebrás/2013) Os fluxos de caixa decorrentes de imposto de renda se classificam como fluxos de caixa operacionais e jamais se admite outra classificação para essas movimentações.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o Pronunciamento CPC 03 (R2): 35. Os fluxos de caixa referentes ao imposto de renda (IR) e contribuição social sobre o lucro líquido (CSLL) devem ser divulgados separadamente e devem ser classificados como fluxos de caixa das atividades operacionais, a menos que possam ser identificados especificamente como atividades de financiamento e de investimento. 36. Os tributos sobre o lucro (IR e CSLL) resultam de transações que originam fluxos de caixa que são classificados como atividades operacionais, de investimento ou de financiamento na demonstração dos fluxos de caixa. Embora a despesa com impostos possa ser prontamente identificável com as atividades de investimento ou de financiamento, torna-se, às vezes, impraticável identificar os respectivos fluxos de caixa dos impostos, que podem, também, ocorrer em período diferente dos fluxos de caixa da transação subjacente. Portanto, os impostos pagos são comumente classificados como fluxos de caixa das atividades operacionais. Todavia, quando for praticável identificar o fluxo de caixa dos impostos com uma determinada transação, da qual resultem fluxos de caixa que sejam classificados como atividades de investimento ou de financiamento, o fluxo de caixa dos impostos deve ser classificado como atividade de investimento ou de 97 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 financiamento, conforme seja apropriado. Quando os fluxos de caixa dos impostos forem alocados em mais de uma classe de atividade, o montante total dos impostos pagos no período também deve ser divulgado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q74",
+        "question": "(CEBRASPE/Especialista/Telebrás/2013) O pagamento, em dinheiro, de empréstimo obtido por instituição não financeira, cujo valor inclua o principal e os juros, pode ser classificado em duas atividades distintas: a parte dos juros, como atividade operacional; e a parte do valor principal, como atividade de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 03 (R2): 12. Uma única transação pode incluir fluxos de caixa classificados em mais de uma atividade. Por exemplo, quando o desembolso de caixa para pagamento de empréstimo inclui tanto os juros como o principal, a parte dos juros pode ser classificada como atividade operacional, mas a parte do principal deve ser classificada como atividade de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q75",
+        "question": "(CEBRASPE/Especialista/Telebrás/2013) Nas instituições financeiras, os juros recebidos são geralmente classificados como fluxos de caixa operacional, enquanto nas instituições não financeiras esses juros podem ser classificados como fluxos de caixa operacional ou como fluxos de caixa de investimento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 03 (R2): 33. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos são comumente classificados como fluxos de caixa operacionais em instituições financeiras. Todavia, não há consenso sobre a classificação desses fluxos de caixa para outras entidades. Os juros pagos e recebidos e os dividendos e os juros sobre o capital próprio recebidos podem ser classificados como fluxos de caixa operacionais, porque eles entram na determinação do lucro líquido ou prejuízo. Alternativamente, os juros pagos e os juros, os dividendos e os juros sobre o capital próprio recebidos podem ser classificados, respectivamente, como fluxos de caixa de financiamento e fluxos de caixa de investimento, porque são custos de obtenção de recursos financeiros ou retornos sobre investimentos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q76",
+        "question": "(CEBRASPE/TRE-MS/Técnico Judiciário–Contabilidade/2013)De acordo com dados da tabela acima, levantados para a elaboração da demonstração do fluxo de caixa de determinada empresa, o caixa líquido",
+        "options": [
+          "gerado pelas atividades operacionais foi de R$ 58.000,00.",
+          "gerado pelas atividades operacionais foi de R$ 160.000,00.",
+          "consumido pelas atividades de financiamento foi de R$ 50.000,00.",
+          "consumido pelas atividades de financiamento foi de R$110.000,00.",
+          "consumido pelas atividades de investimento foi de R$ 37.000,00."
+        ],
+        "correct": 0,
+        "explanation": "Vamos esboçar a Demonstração do Fluxo de Caixa: Demonstração dos Fluxos de Caixa Fluxo das atividades operacionais Lucro líquido 80.000,00 (+) Depreciação/amortização do período 20.000,00 (=) Lucro Ajustado 100.000,00 (-) Acréscimos no ativo circulante - 30.000,00 (-) Decréscimo no passivo circulante - 12.000,00 Caixa Gerado Fluxo Operacional 58.000,00 Fluxo de Caixa Ativ. Investimento (+) Alienação do intangível 3.000,00 (-) Aquisição de imobilizado - 60.000,00 Caixa Consumido Fluxo Investimentos - 57.000,00 Fluxo de Financiamentos (+) Tomada de financiamentos 40.000,00 (-) Pagamento de empréstimo longo prazo - 50.000,00 Caixa Consumido Fluxo Financiamentos - 10.000,00 Total de Caixa consumido no período - 9.000,00",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula16_q77",
+        "question": "(CEBRASPE/TJ-AC/Contador/2012) O aumento do valor de contas a receber de clientes no final do período em relação ao valor do início do período implica redução no fluxo de caixa operacional.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto. O aumento do valor de contas a receber significa que, das vendas do período, parte ficou “represada” no contas a receber, e ainda não afetou o caixa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q78",
+        "question": "(CEBRASPE/TJ-AC/Contador/2012) As operações de pagamento de empréstimos e compra de imobilizados geram, respectivamente, reduções nos fluxos de caixa de investimento e de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Está invertido. O correto seria: • Pagamento de empréstimos: reduz o caixa das atividades de financiamentos. • Compras de imobilizado: reduz o caixa das atividades de investimentos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q79",
+        "question": "(CEBRASPE/TJ-AC/Contador/2012) Na elaboração do fluxo de caixa operacional pelo método indireto, o valor das depreciações e amortizações do período é acrescentado ao saldo do lucro líquido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto. No método indireto, partimos do Lucro Líquido, já com todas as receitas e despesas. Ocorre que a despesa de depreciação e amortização diminui o lucro, mas não afeta o caixa. As despesas de depreciação e a amortização não são “pagas” a ninguém, não são desembolsadas. Como o Lucro Líquido já está diminuído de tais despesas, elas devem ser adicionadas, para calcular o Lucro Ajustado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q80",
+        "question": "(CEBRASPE/TJ-AL/Analista – Contabilidade/2012/Adaptada) A demonstração do fluxo de caixa (DFC) não é obrigatória para as sociedades anônimas com faturamento bruto anual inferior a dois milhões de reais. 100 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme a Lei 6404/76: § 6º A companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da demonstração dos fluxos de caixa. (Redação dada pela Lei nº 11.638,de 2007) Assim, a DFC não é obrigatória para as SAs. FECHADAS com PL inferior a 2.000.000 (não tem nada a ver com o faturamento bruto anual).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q81",
+        "question": "(CEBRASPE/TJ-RR/Contador/2012) O resgate do principal de aplicações financeiras não classificadas como equivalentes de caixa e os desembolsos de empréstimos concedidos pela empresa constituem saídas de caixa classificadas nas atividades de investimento e evidenciadas na demonstração do fluxo de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vamos examinar as afirmações: “O resgate do principal de aplicações financeiras (...) são saídas de caixa classificadas nas atividades de investimentos...” Errado. A empresa investiu numa determinada aplicação financeira. O resgate dessa aplicação é entrada de caixa, e não saída. Além disso, deve ser classificada como atividade operacional. Conforme o Pronunciamento CPC 03 (R2) – Demonstração dos Fluxos de Caixa: 15. A entidade pode manter títulos e empréstimos para fins de negociação imediata ou futura (dealing or trading purposes), os quais, no caso, são semelhantes a estoques adquiridos especificamente para revenda. Dessa forma, os fluxos de caixa advindos da compra e venda desses títulos são classificados como atividades operacionais. Da mesma forma, as antecipações de caixa e os empréstimos feitos por instituições financeiras são comumente classificados como atividades operacionais, uma vez que se referem à principal atividade geradora de receita dessas entidades. Vamos continuar: “...desembolsos de empréstimos concedidos pela empresa constituem saídas de caixa classificadas nas atividades de investimento...” Certo. Os empréstimos concedidos são classificados nas atividades de Investimentos. Mas, como a primeira afirmação está errada, esse é o gabarito da questão. 101 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q82",
+        "question": "(CEBRASPE/TJ-RR/Contador/2012) As vendas de ações emitidas e os empréstimos obtidos no mercado mediante emissão de debêntures ou outros instrumentos de dívida de curto ou longo prazo são exemplos de entradas de caixa classificados nas atividades de financiamento e evidenciados na demonstração do fluxo de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo. Devem ser classificadas nas atividades de Financiamento. Confira o Pronunciamento CPC 03 (R2): Atividades de financiamento 17. A divulgação separada dos fluxos de caixa advindos das atividades de financiamento é importante por ser útil na predição de exigências de fluxos futuros de caixa por parte de fornecedores de capital à entidade. Exemplos de fluxos de caixa advindos das atividades de financiamento são: (a) caixa recebido pela emissão de ações ou outros instrumentos patrimoniais; (b) pagamentos em caixa a investidores para adquirir ou resgatar ações da entidade; (c) caixa recebido pela emissão de debêntures, empréstimos, notas promissórias, outros títulos de dívida, hipotecas e outros empréstimos de curto e longo prazos; (d) amortização de empréstimos e financiamentos; e (e) pagamentos em caixa pelo arrendatário para redução do passivo relativo a arrendamento mercantil financeiro",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q83",
+        "question": "(CEBRASPE/SSP-CE/Perito/Ciências Contábeis/2012) A variação no saldo de caixa do período foi positiva.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Basta somar as entradas e saídas de caixa: Entradas: 9.500 + 470 + 1.500 = 11.470 Saídas: 300 + 1.000 + 2.140 + 5.000 + 880 + 500 +850 = 10.670 Como as entradas do caixa são maiores que as saídas, a variação no saldo de caixa no período foi positiva.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q84",
+        "question": "(CEBRASPE/SSP-CE/Perito/Ciências Contábeis/2012) O caixa gerado pelas atividades operacionais foi menor do que o gerado pelas atividades de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Demonstração dos Fluxos de Caixa Fluxo das atividades operacionais Recebimentos de vendas 9.500 (-) Compras do período - 5.000 (-) Despesas operacionais - 880 Caixa gerado ativ. operacionais 3.620 Fluxo de Financiamentos Empréstimos bancários 470 Aumento de capital 1.500 (-) Despesas financeiras - 500 (-) Dividendos pagos - 850 Caixa gerado ativ. Financiamentos 620 O caixa gerado pelas atividades operacionais foi de $3.620, e o das atividades de financiamento, de 620. Observação: lembramos que o pronunciamento cpc 03 (R2) “encoraja fortemente as entidades a classificarem os juros, recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos como fluxos de caixa das atividades operacionais, e os dividendos e juros sobre o capital próprio pagos como fluxos de caixa das atividades de financiamento. Alternativa diferente deve ser seguida de nota evidenciando esse fato.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q85",
+        "question": "(CEBRASPE/SSP-CE/Perito/Ciências Contábeis/2012) As atividades de investimento geraram uma redução de caixa superior a R$ 3.500,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Demonstração dos Fluxos de Caixa Caixa das atividades de investimentos (-) Compra de veículos - 300 (-) Compra de imóveis - 1.000 (-) Aquisição de participações - 2.140 Caixa consumido ativ. Investimentos: - 3.440 As atividades de Investimentos consumiram (ou, nos termos da Banca, “geraram uma redução de caixa”) de 3.440.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q86",
+        "question": "(CEBRASPE/SSP-CE/Perito/Ciências Contábeis/2012) Para construir a DFC pelo método indireto, além das informações acima, a empresa necessitará também de informações sobre o resultado do exercício e sobre a variação do saldo de alguns itens do ativo e do passivo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto. Basta lembrar da estrutura da DFC pelo método indireto: 18. A entidade deve apresentar os fluxos de caixa das atividades operacionais, usando alternativamente: (a) o método direto, segundo o qual as principais classes de recebimentos brutos e pagamentos brutos são divulgadas; ou (b) o método indireto, segundo o qual o lucro líquido ou o prejuízo é ajustado pelos efeitos de transações que não envolvem caixa, pelos efeitos de quaisquer diferimentos ou apropriações por competência sobre recebimentos de caixa ou pagamentos em caixa operacionais passados ou futuros, e pelos efeitos de itens de receita ou despesa associados com fluxos de caixa das atividades de investimento ou de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q87",
+        "question": "(CEBRASPE/MP-PI/Analista Controle Interno/2012) Para as entidades obrigadas à apresentação da DFC que optarem pelo uso do método direto, é recomendável a apresentação da conciliação entre o lucro líquido e o fluxo de caixa líquido das atividades operacionais. 104 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Recomendável, não. É obrigatória. Confira o texto do Pronunciamento CPC 03 (R2) – Demonstração dos Fluxos de Caixa: 20A. A conciliação entre o lucro líquido e o fluxo de caixa líquido das atividades operacionais deve ser fornecida obrigatoriamente caso a entidade use o método direto para apurar o fluxo líquido das atividades operacionais. A conciliação deve apresentar, separadamente, por categoria, os principais itens a serem conciliados, à semelhança do que deve fazer a entidade que usa o método indireto em relação aos ajustes ao lucro líquido ou prejuízo para apurar o fluxo de caixa líquido das atividades operacionais",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q88",
+        "question": "(CEBRASPE/MP-PI/Analista Controle Interno/2012) A forma de divulgação da DFC das atividades operacionais depende do método empregado - se direto ou indireto.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto. Conforme o Pronunciamento CPC 03 (R2) – Demonstração dos Fluxos de Caixa: 18. A entidade deve apresentar os fluxos de caixa das atividades operacionais, usando alternativamente: (a) o método direto, segundo o qual as principais classes de recebimentos brutos e pagamentos brutos são divulgadas; ou (b) o método indireto, segundo o qual o lucro líquido ou o prejuízo é ajustado pelos efeitos de transações que não envolvem caixa, pelos efeitos de quaisquer diferimentos ou apropriações por competência sobre recebimentos de caixa ou pagamentos em caixa operacionais passados ou futuros, e pelos efeitos de itens de receita ou despesa associados com fluxos de caixa das atividades de investimento ou de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q89",
+        "question": "(CEBRASPE/MP-PI/Analista Controle Interno/2012) A aquisição de um veículo deve ser representada na seção relativa às atividades de financiamento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Errado, a aquisição de um veículo deve ser representada nas atividades de Investimentos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q90",
+        "question": "(CEBRASPE/MP-PI/Analista Controle Interno/2012) Recebimentos e pagamentos de prêmios e sinistros, anuidades e outros benefícios da apólice feitos por seguradora são exemplos de atividades operacionais.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo, segundo o CPC 03 (R2): 14. Os fluxos de caixa advindos das atividades operacionais são basicamente derivados das principais atividades geradoras de receita da entidade. Portanto, eles geralmente resultam de transações e de outros eventos que entram na apuração do lucro líquido ou prejuízo. Exemplos de fluxos de caixa que decorrem das atividades operacionais são: (a) recebimentos de caixa pela venda de mercadorias e pela prestação de serviços; (b) recebimentos de caixa decorrentes de royalties, honorários, comissões e outras receitas; (c) pagamentos de caixa a fornecedores de mercadorias e serviços; (d) pagamentos de caixa a empregados ou por conta de empregados; (e) recebimentos e pagamentos de caixa por seguradora de prêmios e sinistros, anuidades e outros benefícios da apólice; (f) pagamentos ou restituição de caixa de impostos sobre a renda, a menos que possam ser especificamente identificados com as atividades de financiamento ou de investimento; e (g) recebimentos e pagamentos de caixa de contratos mantidos para negociação imediata ou disponíveis para venda futura.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q91",
+        "question": "(CEBRASPE/Analista Judiciário/Contabilidade/CNJ/2013) Os recursos recebidos pela emissão de debêntures são classificados como oriundos da atividade operacional ao se elaborar o fluxo de caixa da empresa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o CPC 03 (R2): 17. A divulgação separada dos fluxos de caixa advindos das atividades de financiamento é importante por ser útil na predição de exigências de fluxos futuros de caixa por parte de fornecedores de capital à entidade. Exemplos de fluxos de caixa advindos das atividades de financiamento são: 106 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 (a) caixa recebido pela emissão de ações ou outros instrumentos patrimoniais; (b) pagamentos em caixa a investidores para adquirir ou resgatar ações da entidade; (c) caixa recebido pela emissão de debêntures, empréstimos, notas promissórias, outros títulos de dívida, hipotecas e outros empréstimos de curto e longo prazos; (d) amortização de empréstimos e financiamentos; e (e) pagamentos em caixa pelo arrendatário para redução do passivo relativo a arrendamento mercantil financeiro. Trata-se, pois, de fluxo de financiamento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula16_q92",
+        "question": "(CEBRASPE/DPF/Perito Criminal Federal/Área 01/2013) Durante o exercício de 2011, as atividades operacionais e de investimento geraram caixa, porém as atividades de financiamento consumiram um valor superior ao gerado. Em consequência disso, o saldo de caixa e equivalentes de caixa, no final do exercício de 2011, ficou inferior a R$ 160.000.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Questão difícil!!! Vamos elaborar a Demonstração dos Fluxos de Caixa: 107 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 Fluxo de Caixa R$ Total Atividades Operacionais Lucro Líquido do Exercício 1.367.409 Ajuste negativo para reconciliar o lucro líquido - 918.292 Lucro ajustado 449.117 Variações positivas nos ativos e passivos circulantes 392.962 Total fluxo atividades operacionais 842.079 Fluxo de caixa - Investimentos Aquisição de empresas, líquido do caixa - 155.000 Aquisição de imobilizados - 678.862 Recebimento pela venda de imobilizado 8.579 Resgate de aplicações financeiras 20 Total fluxo atividades de investimentos - 825.263 Fluxo de caixa - Financiamentos Aquisição de ações para tesouraria - 71.956 Obtenção de financiamento 1.815.957 Pagamento de financiamento - 1.315.193 Pagamento de juros sobre o capital próprio - 501.644 Total fluxo atividades de financiamentos - 72.836 Variação cambial sobre as disponibilidades 1.340 Total Caixa Gerado - 54.680 Caixa no início do período 211.159 Caixa no final do período 156.479 O CEBRASPE usou uma estrutura diferente, nessa questão. Estamos acostumados com a seguinte estrutura, para o fluxo de caixa indireto: Lucro Líquido + Depreciação - Resultado positivo da equivalência patrimonial + ou – outras receitas e despesa que não afetam o caixa = Lucro Ajustado As “despesas e receitas que não afetam caixa” viraram “Ajuste Negativo para conciliar o Lucro Líquido”. Muito bem. Depois, temos: Lucro Ajustado + - variações em clientes Variações no estoque Variações em fornecedores etc. Caixa gerado ou consumido pelas atividades operacionais. As diversas variações foram chamadas de “Variações positivas nos ativos e passivos circulantes”. 108 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 130 E, finalmente, quanto à “Variação cambial sobre as disponibilidades”, o CPC 03 (R2) – Demonstração dos Fluxos de Caixa - menciona o seguinte: 28. Ganhos e perdas não realizados resultantes de mudanças nas taxas de câmbio de moedas estrangeiras não são fluxos de caixa. Todavia, o efeito das mudanças nas taxas de câmbio sobre o caixa e equivalentes de caixa, mantidos ou devidos em moeda estrangeira, é apresentado na demonstração dos fluxos de caixa, a fim de conciliar o caixa e equivalentes de caixa no começo e no fim do período. Esse valor é apresentado separadamente dos fluxos de caixa das atividades operacionais, de investimento e de financiamento e inclui as diferenças, se existirem, caso tais fluxos de caixa tivessem sido divulgados às taxas de câmbio do fim do período. Assim, a Variação cambial sobre as disponibilidades fica demonstrada após os fluxos operacionais, de investimentos e de financiamentos. Agora vamos examinar a assertiva: “Durante o exercício de 2011, as atividades operacionais e de investimento geraram caixa,...” Errado. As atividades de investimentos consumiram caixa, e não geraram. “...porém as atividades de financiamento consumiram um valor superior ao gerado. Em consequência disso, o saldo de caixa e equivalentes de caixa, no final do exercício de 2011, ficou inferior a R$ 160.000.” Certo. Mas, como a primeira assertiva está errada, o gabarito da questão é errado.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula17",
+    "title": "17",
+    "description": "Questões comentadas da 17",
+    "color": "bg-yellow-700",
+    "questions": [
+      {
+        "id": "aula17_q1",
+        "question": "(CEBRASPE/SECONT ES/Auditor do Estado/Ciências Contábeis/2022) Em uma situação hipotética de inexistência de estoques iniciais e finais em uma dada economia, os conceitos de valor adicionado e de produto interno bruto convergirão.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 09 – item 10: A DVA está fundamentada em conceitos macroeconômicos, buscando apresentar, eliminados os valores que representam dupla-contagem, a parcela de contribuição que a entidade tem na formação do Produto Interno Bruto (PIB). Essa demonstração apresenta o quanto a entidade agrega de valor aos insumos adquiridos de terceiros e que são vendidos ou consumidos durante determinado período. O pronunciamento menciona, entretanto, no item 11, que existem diferenças temporais entre os modelos contábil e econômico no cálculo do valor adicionado. A ciência econômica, para cálculo do PIB, baseia-se na produção, enquanto a contabilidade utiliza o conceito contábil da realização da receita, isto é, baseia-se no regime contábil de competência. Como os momentos de realização da produção e das vendas são normalmente diferentes, os valores calculados para o PIB por meio dos conceitos oriundos da Economia e os da Contabilidade são naturalmente diferentes em cada período. Essas diferenças serão tanto menores quanto menores forem as diferenças entre os estoques inicial e final para o período considerado. Em síntese, admitindo-se a inexistência de estoques iniciais e finais em uma dada economia, os conceitos de valor adicionado e de produto interno bruto convergirão. Item certo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q2",
+        "question": "(CEBRASPE/TCE-SC/Auditor Fiscal de Controle Externo/Ciências Contábeis/2022) Na demonstração do valor adicionado, as receitas com vendas de mercadorias e produtos, assim como os insumos adquiridos, devem ter seus custos considerados líquidos de tributos incidentes, visto que esses tributos comporão a segunda parte da demonstração do resultado abrangente.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Dissemos que tanto a venda de mercadorias, produtos e serviços quanto o custo das mercadorias vendidas devem incluir todos os tributos, sejam eles recuperáveis ou não. 27 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 Esse procedimento é diferente das práticas utilizadas na demonstração do resultado, já que na DRE esses valores são apresentados líquidos de tributos recuperáveis Vejamos um exemplo: a Empresa KLR comprou a vista mercadorias por R$ 1.000,00, com 20% de ICMS, as quais foram vendidas por R$ 1.500,00 à vista, também com 20% de ICMS. Vamos contabilizar: • Compra da mercadoria (ICMS = 1.000 x 20% = 200) D – Estoque (Ativo) 800 D – ICMS a recuperar (Ativo) 200 C – Caixa (Ativo) 1000 • Pela venda: D – Caixa (Ativo) 1.500 C – Receita Bruta (Resultado) 1.500 • ICMS (1.500 x 20% = 300) D – ICMS sobre vendas (Resultado) 300 C – ICMS a recolher (Passivo) 300 • Pela baixa do estoque: D – Custo da Mercadoria Vendida (Resultado) 800 C – Estoque (Ativo) 800 Na Demonstração do Resultado do Exercício fica assim: DRE R$ Receita 1.500 (-) ICMS sobre vendas (20%) -300 Receita líquida 1.200 Custo Mercadoria Vendida -800 Lucro bruto 400 ICMS a recolher: 300 – 200 = 100 (Passivo) Na Demonstração do Valor Adicionado, a Receita e os Insumos de terceiros são considerados incluindo os impostos (nesse exemplo, o ICMS). E o ICMS recolhido pela empresa entra como distribuição do valor adicionado. Assim: 28 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 DVA R$ Receita 1.500 Insumos de terceiros -1.000 Valor Adicionado bruto 500 Distribuição do Valor adicionado Impostos (300 - 200) 100 Lucros retidos 400 Diante do exposto, na demonstração do valor adicionado, as receitas com vendas de mercadorias e produtos, assim como os insumos adquiridos, devem ter seus custos considerados líquidos de tributos incidentes, visto que esses tributos comporão a segunda parte da demonstração do resultado abrangente.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q3",
+        "question": "(CEBRASPE/DP DF/Analista de Apoio à Assistência Judiciária/Contabilidade/2022) O valor adicionado bruto gerado por uma entidade incorpora as receitas financeiras obtidas nas transações comerciais, mas exclui o resultado de equivalência patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Inicialmente, vamos rever a estrutura da DVA: DESCRIÇÃO 20X1 20X0 1 - Receitas 1.1) Vendas de mercadorias, produtos e serviços 1.2) Outras receitas 1.3) Receitas relativas à construção de ativos próprios 1.4) Perdas estimadas em créditos de liquidação duvidosa - Reversão / (Constituição) 2 - Insumos adquiridos de terceiros (Inclui os valores dos impostos - ICMS, IPI, PIS E COFINS) 2.1) Custos dos produtos, das mercadorias e dos serviços vendidos 2.2) Materiais, energia, serviços de terceiros e outros 2.3) Perda / Recuperação de valores ativos 2.4) Outras (especificar) 3 - Valor adicionado bruto (1-2) 4 – Retenções: Depreciação, amortização e exaustão 5 - Valor adicionado líquido produzido pela entidade (3-4) 6 - Valor adicionado recebido em transferência 6.1) Resultado de equivalência patrimonial 6.2) Receitas financeiras 6.3) Outras 7 - Valor adicionado total a distribuir (5+6) 8 - Distribuição do valor adicionado (*) 29 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 Nota-se que tanto as receitas financeiras obtidas nas transações comerciais quanto o resultado de equivalência patrimonial fazem parte do Valor adicionado recebido em transferência. Ou seja, entram bem depois do valor adicionado bruto e não fazem parte dele. Aproveitemos para revisar o valor adicionado recebido em transferência: Definições 9. Os termos abaixo são utilizados neste Pronunciamento com os seguintes significados: Valor adicionado recebido em transferência representa a riqueza que não tenha sido criada pela própria entidade, e sim por terceiros, e que a ela é transferida, como por exemplo receitas financeiras, de equivalência patrimonial, dividendos, aluguel, royalties, etc. Precisa ficar destacado, inclusive para evitar dupla-contagem em certas agregações.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q6",
+        "question": "(CEBRASPE/CODEVASF/Analista Contabilidade/2021) Receitas Para fins de levantamento da demonstração do valor adicionado, o custo dos produtos vendidos inclui as matérias-primas e os serviços adquiridos de terceiros, sem incluir a mão de obra própria.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto! Custo dos produtos, das mercadorias e dos serviços vendidos – inclui os valores das matérias- primas adquiridas junto a terceiros e contidas no custo do produto vendido, das mercadorias e dos serviços vendidos adquiridos de terceiros; não inclui gastos com pessoal próprio.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q7",
+        "question": "(CEBRASPE/TJ AM/Analista Judiciário - Contabilidade/2019) Receitas financeiras e receitas oriundas de aluguéis devem ser apresentadas na demonstração do valor adicionado (DVA) como valores adicionados recebidos em transferência.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, CPC 09: Valor adicionado recebido em transferência representa a riqueza que não tenha sido criada pela própria entidade, e sim por terceiros, e que a ela é transferida, como por exemplo receitas financeiras, de equivalência patrimonial, dividendos, aluguel, royalties, etc. Precisa ficar destacado, inclusive para evitar dupla-contagem em certas agregações.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q8",
+        "question": "(CEBRASPE/Auditor/SEFAZ RS/2019) Informações a respeito da riqueza econômica gerada por uma entidade e sobre a forma de distribuição dessa riqueza podem ser obtidas mediante a análise do",
+        "options": [
+          "balanço patrimonial.",
+          "demonstração das mutações do patrimônio líquido.",
+          "demonstração do resultado do exercício.",
+          "demonstração dos fluxos de caixa.",
+          "demonstração do valor adicionado. 33 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60"
+        ],
+        "correct": 4,
+        "explanation": "Informações a respeito da riqueza econômica... Demonstração do Valor Adicionado (DVA).",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula17_q9",
+        "question": "(CEBRASPE/Analista/EBSERH/2018) Uma empresa que tenha adquirido insumos de terceiros para seu processo produtivo deve apresentar esses valores na seção da demonstração do valor adicionado destinado à demonstração da riqueza criada pela entidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto! Os insumos adquiridos de terceiro compõem a primeira parte da DVA, também conhecida por representar a riqueza gerada pela entidade. 14. A DVA, em sua primeira parte, deve apresentar de forma detalhada a riqueza criada pela entidade. Os principais componentes da riqueza criada estão apresentados a seguir nos seguintes itens (...): Insumos adquiridos de terceiros (...)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q10",
+        "question": "(CEBRASPE/STM/Analista Judiciário/2018) Na demonstração do valor adicionado, a receita com vendas e prestação de serviços deve ser apresentada líquida de seus efeitos tributários, uma vez que tributos não constituem receitas efetivas da empresa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Pessoal, umas das peculiaridades da DVA é que, para fins de evidenciação da receita, não devemos excluir os tributos incidentes sobre as vendas, vejam: Receitas Venda de mercadorias, produtos e serviços - inclui os valores dos tributos incidentes sobre essas receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do cômputo dessas receitas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q11",
+        "question": "(CEBRASPE/TRT-CE/Analista/2017) Determinada empresa, ao longo de seu último exercício social, obteve faturamento bruto de mercadorias no montante de R$ 291,5 milhões, ICMS de R$ 47,7 milhões e IPI de R$ 26,5 milhões. Nesse período, as compras dessa empresa somaram R$ 138,6 milhões, com ICMS de R$ 22,68 milhões e IPI de R$ 12,7 milhões. Nessa situação hipotética, para fins de cálculo, o valor adicionado bruto que a empresa deverá lançar em sua demonstração do valor adicionado é igual a",
+        "options": [
+          "R$ 152,90 milhões.",
+          "R$ 139 milhões.",
+          "R$ 113,98 milhões.",
+          "R$ 291,50 milhões."
+        ],
+        "correct": 0,
+        "explanation": "Tabela da DVA: RIQUEZA = Receitas (inclui os valores dos tributos incidentes) (-) Insumos adquiridos de terceiros (inclui ICMS e IPI) = Valor adicionado bruto (-) Retenções = Valor adicionado líquido produzido pela entidade (+) Valor adicionado recebido em transferência = Valor adicionado total a distribuir RIQUEZA DISTRIBUIDA Distribuição do valor adicionado - Pessoal e encargos - Impostos, taxas e contribuições - Juros e aluguéis - Juros s/ capital próprio e dividendos - Lucros retidos / prejuízo do exercício Assim: = Receitas 291,50 (-) Insumos adquiridos de terceiros 138,60 = Valor adicionado bruto 152,90 O gabarito é, portanto, Letra A. Sucesso! 35 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 CPC 09 – DVA: Receitas Venda de mercadorias, produtos e serviços – inclui os valores dos tributos incidentes sobre essas receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do cômputo dessas receitas Insumos adquiridos de terceiros Custo dos produtos, das mercadorias e dos serviços vendidos – inclui os valores das matérias-primas adquiridas junto a terceiros e contidas no custo do produto vendido, das mercadorias e dos serviços vendidos adquiridos de terceiros; não inclui gastos com pessoal próprio Nos valores dos custos dos produtos e mercadorias vendidos, materiais, serviços, energia, etc. consumidos, devem ser considerados os tributos incluídos no momento das compras (por exemplo, ICMS, IPI, PIS e COFINS), recuperáveis ou não. Esse procedimento é diferente das práticas utilizadas na demonstração do resultado Logo: 291,5 - 138,6 (pois esses são os valores brutos com impostos) = 152,90 milhões de VA bruto.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula17_q12",
+        "question": "(CEBRASPE/SEDF/Analista Gestão Educacional/ Contabilidade/2017) O custo dos serviços de terceiros recebidos para a execução da atividade fim da entidade representa um valor adicionado recebido em transferência, visto ser uma riqueza criada por terceiros.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A riqueza gerada pela empresa pode, simploriamente, ser representada da seguinte forma: Insumos Riqueza Vendas adquiridos de Depreciação gerada 3º Isto significa dizer que a riqueza corresponde àquilo que recebemos pelas vendas, subtraído daquilo que desembolsamos para aquisição de insumos utilizados nesse processo. 36 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 Segundo o CPC 09, Insumo adquirido de terceiros representa os valores relativos às aquisições de matérias- primas, mercadorias, materiais, energia, serviços, etc. que tenham sido transformados em despesas do período. Enquanto permanecerem nos estoques, não compõem a formação da riqueza criada e distribuída. Dentro do grupo Insumos adquiridos de terceiros temos o Custo dos produtos, das mercadorias e dos serviços vendidos – inclui os valores das matérias-primas adquiridas junto a terceiros e contidas no custo do produto vendido, das mercadorias e dos serviços vendidos adquiridos de terceiros; não inclui gastos com pessoal próprio. Portanto, o item está errado, pois o custo dos serviços de terceiros não é classificado como Valor Adicionado Recebido em Transferência, mas como Insumos adquirido de terceiros.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q13",
+        "question": "(CEBRASPE/FUNPRESP-JUD/Contabilidade/2016) O objetivo da demonstração do valor adicionado é apresentar o valor da riqueza econômica da empresa e distribuir essa riqueza aos acionistas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O item está correto quando afirma que o objetivo da demonstração do valor adicionado é apresentar o valor da riqueza econômica da empresa, porém erra ao restringir a sua distribuição apenas para os acionistas. A lei 6404/76 afirma que: Art. 188. As demonstrações referidas nos incisos IV e V do caput do art. 176 desta Lei indicarão, no mínimo: (Redação dada pela Lei nº 11.638,de 2007) (...) II – demonstração do valor adicionado: o valor da riqueza gerada pela companhia, a sua distribuição entre os elementos que contribuíram para a geração dessa riqueza, tais como empregados, financiadores, acionistas, governo e outros, bem como a parcela da riqueza não distribuída. (Redação dada pela Lei nº 11.638,de 2007)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q14",
+        "question": "(CEBRASPE/Telebras/Contador/2015) Para obtenção da demonstração do valor adicionado (DVA) consolidada, deve-se realizar o somatório das DVA das empresas que compõem o consolidado. 37 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item bem “maldoso”, pessoal! De acordo com o CPC 09, a elaboração da DVA consolidada deve basear-se nas demonstrações consolidadas e não no somatório das DVA das empresas que compõem o consolidado. Portanto, a DVA consolidada não é a soma das DVAs individuais das empresas que compõe a consolidação.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q15",
+        "question": "(CEBRASPE/Telebras/Contador/2015) A demonstração do valor adicionado (DVA) evidencia a riqueza econômica produzida pela companhia em determinado exercício. A DVA apresenta o valor adicionado pela empresa em razão de suas atividades; a forma de distribuição da riqueza gerada, entre empregados, acionistas, financiadores de capital, governo, comunidade; e a parcela retida na empresa para reinvestimento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, e apresenta o objetivo principal da elaboração da Demonstração do Valor Adicionado. Está previsto no CPC 09: A DVA deve proporcionar aos usuários das demonstrações contábeis informações relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram distribuídas. 6. A distribuição da riqueza criada deve ser detalhada, minimamente, da seguinte forma: (a) pessoal e encargos; (b) impostos, taxas e contribuições; (c) juros e aluguéis; (d) juros sobre o capital próprio (JCP) e dividendos; (e) lucros retidos/prejuízos do exercício.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q16",
+        "question": "(CEBRASPE/STJ/Analista Judiciário – Contadoria/2015) Na demonstração do valor adicionado, que contempla informações relacionadas à criação e à distribuição de riqueza por parte de uma entidade, as receitas oriundas de aluguel devem ser classificadas como valores adicionados gerados pela entidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme definido no CPC 09, Valor adicionado recebido em transferência representa a riqueza que não tenha sido criada pela própria entidade, e sim por terceiros, e que a ela é transferida, como por exemplo receitas financeiras, de equivalência patrimonial, dividendos, aluguel, royalties, etc. Precisa ficar destacado, inclusive para evitar dupla-contagem em certas agregações.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q17",
+        "question": "(CEBRASPE/Analista/MPU/2015) As receitas de venda de mercadorias, produtos e serviços de uma indústria devem incluir, na demonstração do valor adicionado, os valores dos tributos incidentes sobre as referidas receitas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, conforme o CPC 09: Receitas Venda de mercadorias, produtos e serviços - inclui os valores dos tributos incidentes sobre essas receitas (por exemplo, ICMS, IPI, PIS e COFINS), ou seja, corresponde ao ingresso bruto ou faturamento bruto, mesmo quando na demonstração do resultado tais tributos estejam fora do cômputo dessas receitas. Outras receitas - da mesma forma que o item anterior, inclui os tributos incidentes sobre essas receitas. Provisão para créditos de liquidação duvidosa – Constituição/Reversão - inclui os valores relativos à constituição e reversão dessa provisão.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q19",
+        "question": "(CEBRASPE/Contabilidade/Anatel/2014) O total do valor adicionado líquido produzido pela entidade no ano de 2012 foi superior a R$ 13.000.000.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "2013 2012 Vendas R$ 31.100.000,00 R$ 27.000.000,00 (-) CMV R$ 7.800.000,00 R$ 6.700.000,00 (-) Materiais, energia, etc R$ 4.900.000,00 R$ 4.200.000,00 (-) Provisão contas a receber R$ 500.000,00 R$ 400.000,00 Valor adicionado bruto R$ 17.900.000,00 R$ 15.700.000,00 (-) Depreciações R$ 4.100.000,00 R$ 3.600.000,00 Valor adicionado líquido R$ 13.800.000,00 R$ 12.100.000,00 Resultado de Equi. Patrimonial R$ 1.900.000,00 R$ 1.700.000,00 Valor adicionado total a distribuir R$ 15.700.000,00 R$ 13.800.000,00 18.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q20",
+        "question": "(CEBRASPE/Contador/CADE/2014) Na segunda parte da demonstração do valor adicionado, em que são apresentadas as destinações da riqueza obtida pela entidade, um dos componentes desse grupo é o pagamento de impostos, taxas e contribuições por parte tanto da empresa quanto a parcela retida dos empregados. 40 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O item está incorreto. Segundo o CPC 09 (DVA): Impostos, taxas e contribuições - Valores relativos ao imposto de renda, contribuição social sobre o lucro, contribuições aos INSS (incluídos aqui os valores do Seguro de Acidentes do Trabalho) que sejam ônus do empregador, bem como os demais impostos e contribuições a que a empresa esteja sujeita. Para os impostos compensáveis, tais como ICMS, IPI, PIS e COFINS, devem ser considerados apenas os valores devidos ou já recolhidos, e representam a diferença entre os impostos e contribuições incidentes sobre as receitas e os respectivos valores incidentes sobre os itens considerados como “insumos adquiridos de terceiros”. - Federais – inclui os tributos devidos à União, inclusive aqueles que são repassados no todo ou em parte aos Estados, Municípios, Autarquias etc., tais como: IRPJ, CSSL, IPI, CIDE, PIS, COFINS. Inclui também a contribuição sindical patronal. - Estaduais – inclui os tributos devidos aos Estados, inclusive aqueles que são repassados no todo ou em parte aos Municípios, Autarquias etc., tais como o ICMS e o IPVA. - Municipais – inclui os tributos devidos aos Municípios, inclusive aqueles que são repassados no todo ou em parte às Autarquias, ou quaisquer outras entidades, tais como o ISS e o IPTU.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q21",
+        "question": "(CEBRASPE/Contador/UNIPAMPA/2013) Considerando que a tabela abaixo se refere a uma empresa listada em bolsa de valores, é correto afirmar que o valor adicionado bruto a ser apresentado na demonstração do valor adicionado é inferior a R$ 1.800.000. receitas R$ 11.161.200 insumos adquiridos de terceiros R$ 8.905.030 depreciação, amortização e exaustão R$ 532.366 valor adicionado recebido em transferência R$ 252.555",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O valor adicionado bruto pode ser encontrado simplesmente pela subtração entre as receitas e o valor dos insumos adquiridos de terceiros. Receitas 11.161.200 (-) Insumos adq. terceiros (8.905.030) Valor adicionado bruto 2.256.170",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q22",
+        "question": "(CEBRASPE/TRE-MS/Técnico Judiciário–Contabilidade/2013) Considere que determinada empresa, no final do exercício, tenha levantado os seguintes dados para elaborar a DVA. Depreciação, amortização e exaustão R$ 14.000,00 Insumos adquiridos de terceiros R$ 110.000,00 Receita R$ 300.000,00 Valor adicionado recebido em transferência R$ 4.000,00 Nesse caso, com base apenas nos dados disponibilizados, é correto afirmar que o valor adicionado bruto e o valor adicionado a distribuir são, respectivamente, iguais a R$ 304.000,00 e R$ 200.000,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vamos elaborar a Demonstração do Valor Adicionado, com os dados fornecidos: DESCRIÇÃO R$ 1 - Receitas 300.000,00 2 - Insumos adquiridos de terceiros (Inclui os valores dos impostos - ICMS, IPI, PIS E COFINS) - 110.000,00 3 - Valor adicionado bruto (1-2) 190.000,00 4 – Retenções: Depreciação, amortização e exaustão - 14.000,00 5 - Valor adicionado líquido produzido pela entidade (3-4) 176.000,00 6 - Valor adicionado recebido em transferência 4.000,00 7 - Valor adicionado total a distribuir (5+6) 180.000,00 8 - Distribuição do valor adicionado (*) 180.000,00 8.1) Pessoal 8.2) Impostos, taxas e contribuições 8.3) Remuneração de capitais de terceiros 8.4) Remuneração de capitais próprios É importante memorizar a estrutura da DVA. Nessa questão, não temos dados sobre a distribuição do Valor Adicionado (item 8). Mas ressaltamos que os itens 7 e 8 da estrutura acima são tem o mesmo valor. O Valor Adicionado Bruto e o Valor Adicionado a Distribuir são, respectivamente, iguais a R$ 190.000,00 e R$ 180.000,00.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q23",
+        "question": "(CEBRASPE/Analista Judiciário/Contabilidade/CNJ/2013) Assim como na demonstração do resultado do exercício, o valor dos impostos recuperáveis é retirado dos custos dos produtos vendidos para a elaboração da demonstração do valor agregado (DVA).",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Dissemos que o custo das mercadorias vendidas deve incluir todos os tributos, sejam eles recuperáveis ou não. Esse procedimento é diferente das práticas utilizadas na demonstração do resultado, já que na DRE esses valores são apresentados líquidos de tributos recuperáveis. 42 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q24",
+        "question": "(CEBRASPE/TJ-RO/Analista Judiciário - Contador/2012) A respeito da demonstração do valor adicionado (DVA), de acordo com a legislação societária e os pronunciamentos do CPC, assinale a opção correta.",
+        "options": [
+          "Na elaboração da DVA, que deve levar em conta o pronunciamento conceitual básico do CPC, a grande maioria dos dados é obtida principalmente a partir do balanço patrimonial.",
+          "A distribuição da riqueza criada deve ser detalhada, no mínimo, em pessoa e encargos; impostos, taxas e contribuições; e distribuição dos resultados.",
+          "A DVA, embora não esteja fundamentada em conceitos macroeconômicos, busca apresentar a parcela de contribuição que a entidade tem na formação do produto interno bruto (PIB).",
+          "A DVA - um dos elementos componentes do balanço social - tem por finalidade evidenciar a riqueza criada pela entidade, e a distribuição dessa riqueza, durante determinado período.",
+          "A DVA tem por objetivo apresentar o valor da riqueza econômica gerada pela empresa como resultante do esforço individual e a distribuição dessa riqueza entre os demais elementos que compõem a demonstração."
+        ],
+        "correct": 3,
+        "explanation": "A) Errado. A DVA é baseada na Demonstração do Resultado do Exercício. B) Errado. Conforme o Pronunciamento CPC 09 – Demonstração do Valor Adicionado: 6. A distribuição da riqueza criada deve ser detalhada, minimamente, da seguinte forma: (a) pessoal e encargos; (b) impostos, taxas e contribuições; (c) juros e aluguéis; (d) juros sobre o capital próprio (JCP) e dividendos; (e) lucros retidos/prejuízos do exercício. O item C refere-se à remuneração do capital de terceiros; e os itens D e E referem-se à remuneração de capital próprio. C) Errado. Conforme o Pronunciamento CPC 09 – Demonstração do Valor Adicionado: 10. A DVA está fundamentada em conceitos macroeconômicos, buscando apresentar, eliminados os valores que representam dupla-contagem, a parcela de contribuição que a entidade tem na formação do Produto Interno Bruto (PIB). Essa demonstração apresenta 43 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 o quanto a entidade agrega de valor aos insumos adquiridos de terceiros e que são vendidos ou consumidos durante determinado período. 11. Existem, todavia, diferenças temporais entre os modelos contábil e econômico no cálculo do valor adicionado. A ciência econômica, para cálculo do PIB, baseia-se na produção, enquanto a contabilidade utiliza o conceito contábil da realização da receita, isto é, baseia-se no regime contábil de competência. Como os momentos de realização da produção e das vendas são normalmente diferentes, os valores calculados para o PIB por meio dos conceitos oriundos da Economia e os da Contabilidade são naturalmente diferentes em cada período. Essas diferenças serão tanto menores quanto menores forem as diferenças entre os estoques inicial e final para o período considerado. Em outras palavras, admitindo-se a inexistência de estoques inicial e final, os valores encontrados com a utilização de conceitos econômicos e contábeis convergirão. D) Correta. Conforme o Pronunciamento CPC 09 – Demonstração do Valor Adicionado: 5. A DVA deve proporcionar aos usuários das demonstrações contábeis informações relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram distribuídas. E a afirmação de que a DVA é um dos elementos da Balanço social? Está correto? Está, sim. Veja o item 1 do Pronunciamento CPC 09: 1. O objetivo deste Pronunciamento Técnico é estabelecer critérios para elaboração e apresentação da Demonstração do Valor Adicionado (DVA), a qual representa um dos elementos componentes do Balanço Social e tem por finalidade evidenciar a riqueza criada pela entidade e sua distribuição, durante determinado período. 2. Sua elaboração deve levar em conta o Pronunciamento Conceitual Básico do CPC intitulado Estrutura Conceitual Básica para a Elaboração e Apresentação das Demonstrações Contábeis, e seus dados, em sua grande maioria, são obtidos principalmente a partir da Demonstração do Resultado. E) Errado. Conforme o Pronunciamento CPC 09 – Demonstração do Valor Adicionado: 5. A DVA deve proporcionar aos usuários das demonstrações contábeis informações relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram distribuídas. Portanto, está errado afirmar que o objetivo é apresentar o “valor da riqueza econômica gerada pela empresa como resultante do esforço individual e a distribuição dessa riqueza entre os demais elementos que compõem a demonstração”.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula17_q25",
+        "question": "(CEBRASPE/TJ-RR/Contador/2012) O valor adicionado bruto que aparecerá na demonstração do valor adicionado - elaborada de acordo com o pronunciamento do CPC - será superior a R$ 90.000,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vamos elaborar parcialmente a Demonstração do Valor Adicionado: DESCRIÇÃO R$ 1 - Receitas 300.000,00 2 - Insumos adquiridos de terceiros (Inclui os valores dos impostos - ICMS, IPI, PIS E - 220.000,00 COFINS) 3 - Valor adicionado bruto (1-2) 80.000,00 4 – Retenções: Depreciação, amortização e exaustão - 13.000,00 5 - Valor adicionado líquido produzido pela entidade (3-4) 67.000,00 6 - Valor adicionado recebido em transferência 2.000,00 7 - Valor adicionado total a distribuir (5+6) 69.000,00 8 - Distribuição do valor adicionado (*) 69.000,00 8.1) Pessoal 8.2) Impostos, taxas e contribuições 8.3) Remuneração de capitais de terceiros 8.4) Remuneração de capitais próprios O Valor Adicionado Bruto é de R$ 90.000,00. Assim, a assertiva está errada. Parece que a Banca acha que o candidato vai confundir o tratamento da depreciação no Fluxo de Caixa (soma ao Lucro Líquido) com o tratamento da Depreciação na Demonstração do Valor Adicionado (diminui do valor Adicionado Bruto para calcular o Valor Adicionado Líquido). Se somarmos a Depreciação ao valor Adicionado Bruto, teremos um valor maior que 90.000, o que bate com o gabarito da Banca. Vamos ficar atentos à diferença no tratamento da depreciação, na DFC e na DVA.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q26",
+        "question": "(CEBRASPE/SSP-CE/Perito – Ciências Contábeis/2012) Na demonstração de valor adicionado, todo o valor criado pela empresa em dado período deve ter sua destinação evidenciada, demonstrando-se os valores destinados à remuneração dos capitais próprios, de terceiros, governos e funcionários.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto. A assertiva descreve corretamente as quatro grandes categorias para as quais o valor adicionado é distribuído.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q27",
+        "question": "(CEBRASPE/MP-PI/Analista Controle Interno/2012) A demonstração do valor adicionado evidencia a criação de valor pela empresa e sua distribuição equânime entre os agentes econômicos que contribuíram nesse processo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Distribuição equânime é uma distribuição justa. Envolve um julgamento de valor, o que a DVA (e a Contabilidade em geral) não faz. A palavra “equânime” torna errada a assertiva. A demonstração do valor adicionado evidencia a criação de valor pela empresa e sua distribuição entre os agentes econômicos que contribuíram nesse processo, sem considerar se a distribuição foi ou não equânime.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q28",
+        "question": "(CEBRASPE/INMETRO/2010) Considere que os dados da tabela acima são relativos à demonstração de resultado de determinada indústria. A venda no período refere-se a toda mercadoria adquirida por $16.800,00. De acordo com as informações apresentados no texto, o valor adicionado a distribuir no período é de:",
+        "options": [
+          "23.400,00;",
+          "21.600,00;",
+          "20.950,00;",
+          "20.400,00;",
+          "17.950,00."
+        ],
+        "correct": 0,
+        "explanation": "Vamos elaborar a demonstração do valor adicionado: DESCRIÇÃO 20X1 1 - Receitas R$ 45.000,00 2 - Insumos adquiridos de terceiros (Inclui os valores dos impostos - ICMS, IPI, PIS E COFINS) 2.1) Custos dos produtos, das mercadorias e dos serviços vendidos R$ 16.800,00 2.2) Materiais, energia, serviços de terceiros e outros R$ 3.000,00 3 - Valor adicionado bruto (1-2) R$ 25.200,00 4 – Retenções: Depreciação, amortização e exaustão R$ 1.800,00 5 - Valor adicionado líquido produzido pela entidade (3-4) R$ 23.400,00 6 - Valor adicionado recebido em transferência R$ - 7 - Valor adicionado total a distribuir (5+6) R$ 23.400,00 8 - Distribuição do valor adicionado 8.1) Pessoal 8.1.1 - Salários R$ 8.000,00 8.1.3 - F.G.T.S R$ 800,00 8.2) Impostos, taxas e contribuições 8.2.1 - Federais (IR/CSLL/INSS) R$ 4.530,00 8.2.2 - Estaduais (ICMS recolhido: 5.450 - 2.450) R$ 3.000,00 8.3) Remuneração de capitais de terceiros R$ - 8.4) Remuneração de capitais próprios 8.4.3 - Lucros retidos / Prejuízo do exercício R$ 7.070,00 A diferença entre o valor da mercadoria adquirida (16800) e o CMV (14350) refere-se ao ICMS sobre compras. (16800-14350 = 2.450).",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula17_q29",
+        "question": "(CEBRASPE/Defensoria Pública da União/2010) Considerando as informações da tabela acima, levantadas para a elaboração da demonstração do valor adicionado de determinada empresa no ano de 2009, assinale a opção correta.",
+        "options": [
+          "O valor adicionado líquido no período é superior ao valor adicionado a distribuir.",
+          "O valor adicionado bruto é maior que R$ 1.300.000,00.",
+          "O valor adicionado a distribuir é superior a R$ 900.000,00.",
+          "O valor adicionado distribuído pela empresa é inferior a R$ 550.000,00.",
+          "O valor adicionado líquido produzido pela empresa é superior a R$ 750.000,00."
+        ],
+        "correct": 4,
+        "explanation": "DEMONSTRAÇÃO DO VALOR ADICIONADO DESCRIÇÃO 20X1 1 - Receitas R$ 4.153.360,00 2 - Insumos adquiridos de terceiros (Inclui os valores dos impostos R$ 2.907.441,00 - ICMS, IPI, PIS E COFINS) 3 - Valor adicionado bruto (1-2) R$ 1.245.919,00 4 – Retenções: Depreciação, amortização e exaustão R$ 475.998,00 5 - Valor adicionado líquido produzido pela entidade (3-4) R$ 769.921,00 6 - Valor adicionado recebido em transferência R$ 66.989,00 7 - Valor adicionado total a distribuir (5+6) R$ 836.910,00 8 - Distribuição do valor adicionado (*) R$ 836.910,00 8.1) Pessoal R$ 209.910,00 8.2) Impostos, taxas e contribuições R$ 108.881,00 8.3) Remuneração de capitais de terceiros R$ 164.804,00 8.4) Remuneração de capitais próprios R$ 353.315,00 O item 7 e o item 8 devem ter o mesmo valor. Analisemos as assertivas... a) O valor adicionado líquido no período é superior ao valor adicionado a distribuir. 48 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 Valor adicionado líquido: 769.921. Valor adicionado a distribuir: 836.910. Item Errado. b) O valor adicionado bruto é maior que R$ 1.300.000,00. Valor adicionado bruto 1.245.919. Item Errado. c) O valor adicionado a distribuir é superior a R$ 900.000,00. Valor adicionado total a distribuir = 836.910. Item Errado. d) O valor adicionado distribuído pela empresa é inferior a R$ 550.000,00. Total do valor distribuído → 836.910 e) O valor adicionado líquido produzido pela empresa é superior a R$ 750.000,00. Valor adicionado líquido 769.921. Correto.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula17_q30",
+        "question": "(CEBRASPE/Oficial de inteligência/ABIN/2010) A elaboração da DVA está fundamentada nos princípios fundamentais de contabilidade, proporcionando aos usuários das demonstrações contábeis informações relativas à parcela de contribuição que a entidade tem na formação do produto interno bruto.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o CPC 09 item 10: A DVA está fundamentada em conceitos macroeconômicos, buscando apresentar, eliminados os valores que representam dupla-contagem, a parcela de contribuição que a entidade tem na formação do Produto Interno Bruto (PIB). Essa demonstração apresenta o quanto a entidade agrega de valor aos insumos adquiridos de terceiros e que são vendidos ou consumidos durante determinado período. O erro da questão é dizer que a DVA está fundamentada nos princípios fundamentais de contabilidade, quando na verdade, é em conceitos macroeconômicos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q31",
+        "question": "(CEBRASPE/Oficial de inteligência/ABIN/2010) O detalhamento da remuneração de capitais de terceiros, um dos componentes da distribuição da riqueza apresentada na DVA, evidencia os juros, inclusive os valores que tenham sido capitalizados no período; os aluguéis, inclusive as despesas com arrendamento operacional pagos ou creditados a terceiros; e outras remunerações, tais como royalties, franquia e direitos autorais, ainda que originadas de capital intelectual. 49 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC, o item remuneração de capitais de terceiros compreende os valores pagos ou creditados aos financiadores externos de capital. Juros - inclui as despesas financeiras, inclusive as variações cambiais passivas, relativas a quaisquer tipos de empréstimos e financiamentos junto a instituições financeiras, empresas do grupo ou outras formas de obtenção de recursos. Inclui os valores que tenham sido capitalizados no período. Aluguéis - inclui os aluguéis (inclusive as despesas com arrendamento operacional) pagos ou creditados a terceiros, inclusive os acrescidos aos ativos. Outras - inclui outras remunerações que configurem transferência de riqueza a terceiros, mesmo que originadas em capital intelectual, tais como royalties, franquia, direitos autorais, etc.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q32",
+        "question": "(CEBRASPE/INMETRO/2009) As receitas financeiras e o resultado de equivalência patrimonial compõem o saldo do valor adicionado recebido em transferência.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Os valores adicionados recebidos em transferência compreendem: 1) Resultado de equivalência patrimonial: o resultado da equivalência pode representar receita ou despesa; se despesa, deve ser considerado como redução ou valor negativo. 2) Receitas financeiras: inclui todas as receitas financeiras, inclusive as variações cambiais ativos, independente de sua origem. 3) Outras: Inclui dividendos relativos a investimentos avaliados ao custo, aluguéis, direitos de franquia, etc.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q33",
+        "question": "(CEBRASPE/INMETRO/2009) Os juros sobre capital próprio, pagos aos acionistas, compõem o rol de itens da distribuição do valor adicionado apurado pela companhia ao final do exercício social.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Remuneração de capitais próprios - valores relativos à remuneração atribuída aos sócios e acionistas. Juros sobre o capital próprio (JCP) e dividendos – inclui os valores pagos ou creditados aos sócios e acionistas por conta do resultado do período, ressalvando-se os valores dos JCP transferidos para conta de reserva de lucros. Devem ser incluídos apenas os valores distribuídos com base no resultado do próprio exercício, desconsiderando-se os dividendos 50 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 60 distribuídos com base em lucros acumulados de exercícios anteriores, uma vez que já foram tratados como “lucros retidos” no exercício em que foram gerados. Lucros retidos e prejuízos do exercício – inclui os valores relativos ao lucro do exercício destinados às reservas, inclusive os JCP quando tiverem esse tratamento; nos casos de prejuízo, esse valor deve ser incluído com sinal negativo. As quantias destinadas aos sócios e acionistas na forma de JCP, independentemente de serem registradas como passivo (JCP a pagar) ou como reserva de lucros, devem ter o mesmo tratamento dado aos dividendos no que diz respeito ao exercício a que devem ser imputados.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula17_q34",
+        "question": "(CEBRASPE/Contador Júnior/Petrobrás/2007) O valor dos insumos adquiridos de terceiros, tais como materiais, energia e água, deve ser apresentado na DVA pelo valor total, sem dedução de PIS, COFINS e outros tributos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Materiais, energia, serviços de terceiros e outros: inclui valores relativos às despesas originadas da utilização desses bens, utilidades e serviços adquiridos junto a terceiros. Nos valores dos custos dos produtos e mercadorias vendidos, materiais, serviços, energia, etc. consumidos, devem ser considerados os tributos incluídos no momento das compras (por exemplo, ICMS, IPI, PIS e COFINS), recuperáveis ou não. Esse procedimento é diferente das práticas utilizadas na demonstração do resultado.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula18",
+    "title": "18",
+    "description": "Questões comentadas da 18",
+    "color": "bg-orange-700",
+    "questions": [
+      {
+        "id": "aula18_q1",
+        "question": "(Cebraspe/INOVERSASUL/Analista/2025) Relevância e representação fidedigna são as características qualitativas de melhoria da informação contábil-financeira.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme previsão do CPC 00 (R2), item 2.5, relevância e representação fidedigna são características qualitativas FUNDAMENTAIS.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q3",
+        "question": "(Cebraspe/INOVERSASUL/Analista/2025) O custo de gerar a informação é uma restrição sempre presente na entidade no processo de elaboração e divulgação do relatório contábil-financeiro.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O custo para gerar a informação é uma restrição, que impede a geração de toda a informação considerada relevante para o usuário. Se divulgar uma informação é mais caro do que a informação propriamente dita, pode ser que seja necessário avaliar se essa decisão é mesmo necessária para a divulgação das demonstrações contábeis. Assim, é necessária a consideração da relação custo-benefício da informação, por parte dos órgãos normatizadores e também por parte de quem elabora as demonstrações contábeis. Isso é previsto no CPC 00: 65 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 2.39 O custo é uma restrição generalizada sobre as informações que podem ser fornecidas pelo relatório financeiro. O relatório de informações financeiras impõe custos, e é importante que esses custos sejam justificados pelos benefícios de apresentar essas informações. Há vários tipos de custos e benefícios a serem considerados.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q4",
+        "question": "(Cebraspe/INOVERSASUL/Analista/2025) A informação contábil-financeira que tem valor preditivo jamais tem valor confirmatório.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A informação financeira é capaz de fazer diferença nas decisões se tiver valor preditivo, valor confirmatório ou ambos. O item 2.10 do CPC 00 ressalta que eles estão interrelacionados, isto é, Informações que possuem valor preditivo frequentemente possuem também valor confirmatório. Ainda, trouxe este exemplo: informações sobre receitas para o ano corrente, que podem ser utilizadas como base para prever receitas em anos futuros, também podem ser comparadas a previsões de receitas para o ano corrente que tenham sido feitas em anos anteriores. Os resultados dessas comparações podem ajudar o usuário a corrigir e a melhorar os processos que foram utilizados para fazer essas previsões anteriores.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q5",
+        "question": "(Cebraspe/INOVERSASUL/Analista/2025) O regime de competência retrata os efeitos de transações e outros eventos e circunstâncias sobre os recursos econômicos da entidade nos períodos em que tais efeitos são produzidos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Nesse quesito a banca parafraseou o item 1.17 do CPC 00, vejam: 1.17 O regime de competência reflete os efeitos de transações e outros eventos e circunstâncias sobre reivindicações e recursos econômicos da entidade que reporta nos períodos em que esses efeitos ocorrem, mesmo que os pagamentos e recebimentos à vista resultantes ocorram em período diferente. Isso é importante porque informações sobre os recursos econômicos e reivindicações da entidade que reporta e mudanças em seus recursos econômicos e reivindicações durante o período fornecem uma base melhor para a avaliação do desempenho passado e futuro da entidade do que informações exclusivamente sobre recebimentos e pagamentos à vista durante esse período. 66 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 No regime de competência, reconheceremos as receitas e as despesas no momento do fato gerador, independentemente do momento do recebimento/pagamento. Isso significa que ele retrata os efeitos de transações e outros eventos e circunstâncias sobre os recursos econômicos da entidade nos períodos em que tais efeitos são produzidos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q6",
+        "question": "(Cebraspe/Analista/INOVERSASUL/2025) A manutenção do capital financeiro só pode ser medida pela unidade monetária nominal.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na verdade, ele pode ser medido pela unidade monetária nominal ou em unidades de poder aquisitivo constante. vejam: Conceitos de manutenção de capital e determinação do lucro 8.3 Os conceitos de capital do item 8.1 originam os seguintes conceitos de manutenção de capital: (a) Manutenção de capital financeiro. Sob esse conceito, o lucro é auferido somente se o montante financeiro (ou dinheiro) dos ativos líquidos no final do período exceder o montante financeiro (ou dinheiro) dos ativos líquidos no início do período, após excluir quaisquer distribuições para, e contribuições de, sócios durante o período. A manutenção de capital financeiro pode ser mensurada em unidades monetárias nominais ou em unidades de poder aquisitivo constante. (b) Manutenção de capital físico. Sob esse conceito, o lucro é auferido somente se a capacidade produtiva física (ou capacidade operacional) da entidade (ou os recursos ou fundos necessários para alcançar essa capacidade) no final do período exceder a capacidade produtiva física no início do período, após excluir quaisquer distribuições para, e contribuições de, sócios durante o período. Assim, com base no CPC 00, o quesito erra ao ignorar a possibilidade de ser medida em unidades de poder aquisitivo constante.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q7",
+        "question": "(CEBRASPE/TRF 6ª Região/Analista/2025) A característica qualitativa da informação financeira útil segundo a qual as informações devem ser completas, neutras e livres de erros é denominada compreensibilidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Tais atributos não são da compreensibilidade, mas sim da representação fidedigna. Para ser representação perfeitamente fidedigna, a representação tem três características. Ela é completa, neutra e isenta de erros. Ressalta-se que com a atualização do CPC 00, trocou-se livre de erro por isenta de erros.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q8",
+        "question": "(CEBRASPE/SEFAZ AC/Contador/2024) De acordo com a NBC TG Estrutura Conceitual, a existência de ==11e785== valor preditivo e de valor confirmatório nas informações contábeis é condição necessária para que nelas se revele a característica qualitativa denominada",
+        "options": [
+          "tempestividade.",
+          "comparabilidade.",
+          "relevância.",
+          "capacidade de verificação.",
+          "representação fidedigna."
+        ],
+        "correct": 2,
+        "explanation": "A) tempestividade. Tempestividade significa ter informação disponível para tomadores de decisão a tempo de poder influenciá- los em suas decisões. Alternativa errada. B) comparabilidade. Comparabilidade é a característica qualitativa que permite que os usuários identifiquem e compreendam similaridades dos itens e diferenças entre eles. Alternativa errada. C) relevância. Informação financeira relevante é aquela capaz de fazer diferença nas decisões que possam ser tomadas pelos usuários. A informação financeira é capaz de fazer diferença nas decisões se tiver valor preditivo, valor confirmatório ou ambos. Esse é o nosso gabarito. D) capacidade de verificação. A capacidade de verificação ajuda a assegurar aos usuários que a informação representa fidedignamente o fenômeno econômico que se propõe representar Alternativa. errada. 68 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 E) representação fidedigna. Para ser representação perfeitamente fidedigna, a representação tem três características. Ela é completa, neutra e isenta de erros. Alternativa errada.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula18_q9",
+        "question": "(CEBRASPE/STJ/Analista/2024) A relação custo-benefício influencia a tomada de decisão acerca da geração e da divulgação de uma informação contábil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Com base no CPC 00, o custo é uma restrição generalizada sobre as informações que podem ser fornecidas pelo relatório financeiro. O relatório de informações financeiras impõe custos, e é importante que esses custos sejam justificados pelos benefícios de apresentar essas informações. Há vários tipos de custos e benefícios a serem considerados. Ao aplicar a restrição de custo, deve-se avaliar se é provável que os benefícios do relatório de informações específicas justificam os custos incorridos para fornecer e utilizar essas informações",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q10",
+        "question": "(CEBRASPE/STJ/Analista/2024) A materialidade é um aspecto da relevância da informação contábil específico da entidade que o reporta.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A materialidade é um aspecto de relevância específico da entidade, baseado na natureza ou na magnitude. Ou seja, o que é material para uma empresa pode não ser para outra. Não é possível determinar um valor ou um percentual uniforme para todas as empresas. Um item pode ter valor pequeno, mas ser material devido à sua natureza. Isso é previso na referida norma:",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q11",
+        "question": "(CEBRASPE/Técnico/Pref. Camaçari/2024) Com relação às características qualitativas de informações financeiras úteis previstas no CPC 00 R2 — Estrutura Conceitual para Relatório Financeiro —, assinale a opção correta.",
+        "options": [
+          "A compreensibilidade é a qualidade da informação que permite que qualquer usuário compreenda o seu significado. 69 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88",
+          "As características qualitativas fundamentais são relevância e comparabilidade.",
+          "A informação contábil é considerada relevante quando é capaz de fazer diferença nas decisões tomadas pelos usuários da informação contábil.",
+          "Comparabilidade, capacidade de verificação, tempestividade e neutralidade são características qualitativas que melhoram a utilidade da informação contábil.",
+          "Para ser considerada fidedigna, a representação tem de ser comparável, neutra e livre de erros."
+        ],
+        "correct": 2,
+        "explanation": "a) A compreensibilidade é a qualidade da informação que permite que qualquer usuário compreenda o seu significado. A compreensibilidade pressupõe que as informações foram classificadas e apresentadas de maneira clara aos usuários. Um balanço patrimonial bem elaborado, estruturado, ele tente a ser mais compreensível aos usuários. Obviamente que existem temas que são complexos por definição, e não devem ser excluídos dos relatórios financeiros só para que fiquem mais “acessíveis”, com o perigo de gerarmos distorções. O próprio pronunciamento ressalta que mesmo usuários bem informados e diligentes podem precisar buscar o auxílio de consultor para compreender informações sobre fenômenos econômicos complexos. Alternativa errada. b) As características qualitativas fundamentais são relevância e comparabilidade. As características qualitativas fundamentais são relevância e representação fidedigna. Recordamos que a comparabilidade é uma característica qualitativa de MELHORIA. Alternativa errada. c) A informação contábil é considerada relevante quando é capaz de fazer diferença nas decisões tomadas pelos usuários da informação contábil. Certo. Isso é previsto no item 2.6 dessa norma: 2.6 Informações financeiras relevantes são capazes de fazer diferença nas decisões tomadas pelos usuários. Informações podem ser capazes de fazer diferença em uma decisão ainda que alguns usuários optem por não tirar vantagem delas ou já tenham conhecimento delas a partir de outras fontes. 2.7 Informações financeiras são capazes de fazer diferença em decisões se tiverem valor preditivo ou valor confirmatório, ou ambos. d) Comparabilidade, capacidade de verificação, tempestividade e neutralidade são características qualitativas que melhoram a utilidade da informação contábil. As características qualitativas foram divididas em duas categorias: • Características qualitativas fundamentais: relevância e representação fidedigna) • Características qualitativas de melhoria: comparabilidade, capacidade de verificação, tempestividade e compreensibilidade. 70 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 A neutralidade é apenas um dos atributos da representação fidedigna (completa, neutra e isenta de erros). Alternativa errada. e) Para ser considerada fidedigna, a representação tem de ser comparável, neutra e livre de erros. Para ser representação perfeitamente fidedigna, a representação tem três características. Ela é completa, neutra e isenta de erros. A banca trocou completa por comparável. Ressalta-se que com a atualização do CPC 00, trocou-se livre de erro por isenta de erros. Alternativa errada.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula18_q12",
+        "question": "(CEBRASPE/Pref. Cachoeiro de Itapemirim/Contador/2024) A exatidão da informação prestada nos relatórios financeiros de propósito geral é uma meta difícil de ser atingida devido à presença de estimativas e julgamentos utilizados na elaboração.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A Estrutura Conceitual afirma que o uso de estimativas razoáveis é parte essencial da elaboração de informações financeiras e não prejudica a utilidade das informações se as estimativas são descritas e explicadas de forma clara e precisa. Adicionalmente, utiliza um exemplo para informar que a exatidão dos conceitos subjacentes a essas estimativas, julgamentos e modelos é uma meta difícil, vejam: 1.11 Em grande medida, relatórios financeiros baseiam-se em estimativas, julgamentos e modelos e, não, em representações exatas. Esta Estrutura Conceitual estabelece os conceitos subjacentes a essas estimativas, julgamentos e modelos. Os conceitos são a meta que os responsáveis pela elaboração (preparadores) de relatórios financeiros se esforçam por atingir. Como na maioria das metas, a visão desta Estrutura Conceitual de relatório financeiro ideal é improvável de ser atingida integralmente, ao menos não em curto prazo, pois leva tempo para compreender, aceitar e implementar novas formas de analisar transações e outros eventos. Contudo, estabelecer uma meta a ser atingida é essencial para que o relatório financeiro evolua de modo a melhorar a sua utilidade.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q13",
+        "question": "(CEBRASPE/TCE AC/Analista/2024) O conceito de recurso econômico, base para o conceito de ativo, envolve somente dois aspectos: direito e potencial de produzir benefícios econômicos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "71 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 Segundo o CPC 00 (R2), ativo é um recurso econômico presente controlado pela entidade como resultado de eventos passados. Por seu turno, recurso econômico é um direito que tem o potencial de produzir benefícios econômicos. Essa norma discute essa definição em TRÊS aspectos: 1. Direito 2. Potencial de produzir benefícios econômicos 3. Controle",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q14",
+        "question": "(CEBRASPE/TCE AC/Analista/2024) As receitas representam os aumentos nos ativos, ou redução nos passivos, cujo resultado aumenta o patrimônio líquido, exceto as contribuições dos detentores de capital.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A Cebraspe trouxe a definição de receita prevista no CPC 00: 4.68 Receitas são aumentos nos ativos, ou reduções nos passivos, que resultam em aumentos no patrimônio líquido, exceto aqueles referentes a contribuições de detentores de direitos sobre o patrimônio.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q15",
+        "question": "(CEBRASPE/Analista/TCE AC/Contabilidade/2024) O benefício econômico futuro refere-se ao potencial de contribuição — seja ela direta ou indireta — para o fluxo de caixa ou equivalentes de caixa da entidade.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O item 4.16 do CPC 00 explica que um recurso econômico pode produzir benefícios econômicos para a entidade ao autorizá-la ou ao permiti-la fazer, por exemplo, um ou mais dos seguintes atos: • Receber fluxos de caixa contratuais ou outro recurso econômico; • Trocar recursos econômicos com outra parte em condições favoráveis; • Produzir fluxos de entrada de caixa ou evitar fluxos de saída de caixa; • Receber caixa ou outros recursos econômicos por meio da venda do recurso econômico; ou 72 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 • Extinguir passivos por meio da transferência do recurso econômico. Realmente, tal potencial pode ser direto (produzir fluxos de caixa) ou indireto (evitar fluxos de saída de caixa).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q16",
+        "question": "(CEBRASPE/Contador/Pref. Cachoeiro de Itapemirim/2024) Para ser útil aos variados segmentos de usuários, a informação contábil deve ser customizada à necessidade de cada segmento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Os relatórios financeiros para fins gerais não fornecem nem podem fornecer todas as informações de que necessitam os principais usuários O próprio pronunciamento 00 ressalta que muitos usuários externos não podem requerer que as empresas prestem a eles diretamente as informações de que necessitam, devendo desse modo confiar nos relatórios financeiros para fins gerais, para grande parte das informações financeiras que necessitam. Para serem úteis, as informações contábeis devem ser relevantes e representar fidedignamente aquilo que pretendem representar. A utilidade das informações financeiras é aumentada se forem comparáveis, verificáveis, tempestivas e compreensíveis.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q17",
+        "question": "(CEBRASPE/CAU BR/Técnico/2024) Ativos são recursos controlados pela entidade, decorrentes de eventos passados e capazes de produzir benefícios econômicos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pois apresenta a definição de ativo prevista na Estrutura Conceitual Básica. O item 4.3 dessa norma afirma que ativo é um recurso econômico presente controlado pela entidade como resultado de eventos passados. Por sua vez, recurso econômico é um direito que tem o potencial de produzir benefícios econômicos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q18",
+        "question": "(CEBRASPE/CAU BR/Técnico-Financeiro/2024) O patrimônio líquido representa a participação residual nos ativos de uma entidade após serem deduzidas todas as suas obrigações presentes de transferir recursos econômicos a terceiros.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pessoal. O item 4.63 da Estrutura Conceitual Básica afirma que Patrimônio líquido é a participação residual nos ativos da entidade após a dedução de todos os seus passivos, suas obrigações presentes de transferir recursos. Lembrem da Equação Fundamental da Contabilidade: Patrimônio Líquido = Ativo - Passivo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q19",
+        "question": "(CEBRASPE/ITAIPU/Contador/2024) Considerando a estrutura conceitual básica da contabilidade, assinale a opção em que são apresentadas características qualitativas que melhoram a utilidade da informação relevante e representada com fidedignidade.",
+        "options": [
+          "materialidade e primazia da essência sobre a forma",
+          "continuidade, oportunidade, registro pelo valor original, competência e prudência",
+          "materialidade, custo-benefício e alcance do equilíbrio apropriado entre as características qualitativas",
+          "comparabilidade, verificabilidade, tempestividade e compreensibilidade",
+          "continuidade e imagem fiel e verdadeira (true and fair view)"
+        ],
+        "correct": 3,
+        "explanation": "O item 2.23 da Estrutura Conceitual Básica - CPC 00 (R2) afirma que comparabilidade, capacidade de verificação, tempestividade e compreensibilidade são características qualitativas que melhoram a utilidade de informações que sejam tanto relevantes como forneçam representação fidedigna do que pretendem representar. As características qualitativas de melhoria podem também ajudar a determinar qual de duas formas deve ser utilizada para representar o fenômeno caso se considere que ambas fornecem informações igualmente relevantes e representação igualmente fidedigna desse fenômeno.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula18_q20",
+        "question": "(CEBRASPE/ITAIPU/Contador/2024) Os gastos incorridos que não proporcionarem expectativa provável de geração de benefícios econômicos para a entidade além do período contábil corrente devem ser reconhecidos como",
+        "options": [
+          "ativos.",
+          "custos. 74 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88",
+          "despesas.",
+          "prejuízos.",
+          "perdas."
+        ],
+        "correct": 2,
+        "explanation": "Sabemos que ativo é um recurso econômico presente controlado pela entidade como resultado de eventos passados. Por sua vez, recurso econômico é um direito que tem o potencial de produzir benefícios econômicos. Contudo, as normas contábeis ensinam que, se um gasto contábil não for gerar benefícios econômicos em mais de um período contábil, ele seja contabilizado como uma despesa em vez de ser ativado. Destacamos que período contábil não é necessariamente um mês ou ano. Mas é um intervalo de tempo no qual as demonstrações contábeis serão elaboradas.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula18_q21",
+        "question": "(CEBRASPE/Técnico Fazendário/Pref Camaçari/2024) Com relação às características qualitativas de informações financeiras úteis previstas no CPC 00 R2 — Estrutura Conceitual para Relatório Financeiro —, assinale a opção correta.",
+        "options": [
+          "A compreensibilidade é a qualidade da informação que permite que qualquer usuário compreenda o seu significado.",
+          "As características qualitativas fundamentais são relevância e comparabilidade.",
+          "A informação contábil é considerada relevante quando é capaz de fazer diferença nas decisões tomadas pelos usuários da informação contábil.",
+          "Comparabilidade, capacidade de verificação, tempestividade e neutralidade são características qualitativas que melhoram a utilidade da informação contábil.",
+          "Para ser considerada fidedigna, a representação tem de ser comparável, neutra e livre de erros."
+        ],
+        "correct": 2,
+        "explanation": "a) A compreensibilidade é a qualidade da informação que permite que qualquer usuário compreenda o seu significado. Errado, classificar, caracterizar e apresentar informações de modo claro e conciso as torna compreensíveis. Contudo, Relatórios financeiros são elaborados para usuários que têm conhecimento razoável das atividades comerciais e econômicas e que revisam e analisam as informações de modo diligente. Portanto, não é porque a informação é compreensível que ela estará acessível a qualquer usuário. b) As características qualitativas fundamentais são relevância e comparabilidade. Errado, as características qualitativas fundamentais são relevância e representação fidedigna. c) A informação contábil é considerada relevante quando é capaz de fazer diferença nas decisões tomadas pelos usuários da informação contábil. Correto, conforme previsão do item 2.6 do CPC 00 (R2). 75 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 d) Comparabilidade, capacidade de verificação, tempestividade e neutralidade são características qualitativas que melhoram a utilidade da informação contábil. Errado, o item 2.23 da Estrutura Conceitual Básica - CPC 00 (R2) afirma que comparabilidade, capacidade de verificação, tempestividade e compreensibilidade são características qualitativas que melhoram a utilidade de informações e) Para ser considerada fidedigna, a representação tem de ser comparável, neutra e livre de erros. Errado, o item 2.13 do CPC 00 (R2) afirma que para ser representação perfeitamente fidedigna, a representação tem três características. Ela é completa, neutra e isenta de erros.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula18_q22",
+        "question": "(CEBRASPE/Analista/AGER MT/2023) Entre as características qualitativas de informações financeiras úteis apresentadas no Pronunciamento Técnico CPC 00 (R2), inclui-se a",
+        "options": [
+          "competência.",
+          "padronização.",
+          "uniformidade.",
+          "tempestividade.",
+          "maximização."
+        ],
+        "correct": 3,
+        "explanation": "As Características qualitativas de melhoria são: Comparabilidade é a característica qualitativa que permite que os usuários identifiquem e compreendam similaridades dos itens e diferenças entre eles. A capacidade de verificação ajuda a assegurar aos usuários que a informação representa fidedignamente o fenômeno econômico que se propõe representar Tempestividade significa ter informação disponível para tomadores de decisão a tempo de poder influenciá- los em suas decisões. Compreensibilidade significa que a classificação, a caracterização e a apresentação da informação são feitas com clareza e concisão, tornando-a compreensível. Mas não é admissível a exclusão de informação complexa e não facilmente compreensível se isso tornar o relatório incompleto e distorcido. Observa-se que apenas a alternativa d trouxe uma característica qualitativa de melhoria.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula18_q23",
+        "question": "(CEBRASPE/Pref. Fortaleza/Analista/2023) A estrutura conceitual obriga que a entidade que reporta seja uma entidade legal, isto é, que seja legalmente constituída perante as autoridades do Estado. 76 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A “entidade que reporta” é a entidade que é elabora as demonstrações contábeis, podendo ser uma única ou pode compreender mais de uma. Destacamos que uma entidade que reporta não é necessariamente uma entidade legal, como por exemplo, uma pessoa física, que pode ter bens, direitos e obrigações, não é uma entidade legal, mas pode reportar suas demonstrações contábeis.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q24",
+        "question": "(CEBRASPE/Pref. Fortaleza/Analista/2023) Por definição, um passivo decorre de uma obrigação da entidade, porém é necessário conhecer a identidade da parte para quem a obrigação é devida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O item 4.29 do CPC 00 explica que não é necessário conhecer a identidade da parte (ou partes) para quem a obrigação é devida. Vejam: 4.29 A obrigação é o dever ou responsabilidade que a entidade não tem a capacidade prática de evitar. A obrigação é sempre devida à outra parte (ou partes). A outra parte (ou partes) pode ser uma pessoa ou outra entidade, grupo de pessoas ou outras entidades, ou a sociedade em geral. Não é necessário conhecer a identidade da parte (ou partes) para quem a obrigação é devida.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q25",
+        "question": "(CEBRASPE/Pref. Fortaleza/Analista/2023) Ao se extinguir passivos por meio de transferência de recursos econômicos, não é possível que uma entidade obtenha benefícios econômicos, pois estes são vinculados ao recebimento de fluxos de caixa.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O item 4.16 do CPC 00 explica que um recurso econômico pode produzir benefícios econômicos para a entidade ao autorizá-la ou ao permiti-la fazer, por exemplo, um ou mais dos seguintes atos: • Receber fluxos de caixa contratuais ou outro recurso econômico; • Trocar recursos econômicos com outra parte em condições favoráveis; • Produzir fluxos de entrada de caixa ou evitar fluxos de saída de caixa; • Receber caixa ou outros recursos econômicos por meio da venda do recurso econômico; ou • Extinguir passivos por meio da transferência do recurso econômico. 77 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88 Veja que é sim possível que uma entidade obtenha benefícios econômicos ao se extinguir passivos por meio de transferência de recursos econômicos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q29",
+        "question": "(CEBRASPE/FUB/Contador/2022) Os relatórios financeiros para fins gerais têm capacidade de fornecer as informações de que necessitam os investidores, os credores por empréstimos e outros credores, existentes e potenciais, não sendo necessário que estes considerem outras informações de outras fontes, ainda que pertinentes.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Os relatórios financeiros para fins gerais não fornecem nem podem fornecer todas as informações de que necessitam os principais usuários, os quais precisam considerar informação pertinente de outras fontes, como, por exemplo, condições econômicas gerais e expectativas, eventos políticos e clima político, e perspectivas do setor e da empresa. Portanto, atente-se! As demonstrações contábeis não possuem todas as informações de que um investidor necessita. 79 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 88",
+        "type": "true-false"
+      },
+      {
+        "id": "aula18_q30",
+        "question": "(CEBRASPE/FUB/Contador/2022) Uma das principais finalidades dos relatórios financeiros para fins gerais é apresentar o valor da entidade que reporta.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Errado, o item 1.7 do CPC 00 (R2) afirma que Relatórios financeiros para fins gerais não se destinam a apresentar o valor da entidade que reporta, mas fornecem informações para auxiliar investidores, credores por empréstimos e outros credores, existentes e potenciais, a estimar o valor da entidade que reporta.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula19",
+    "title": "19",
+    "description": "Questões comentadas da 19",
+    "color": "bg-purple-700",
+    "questions": [
+      {
+        "id": "aula19_q1",
+        "question": "(CEBRASPE/CAU BR/2024) A entidade pode divulgar no balanço patrimonial o valor nominal individual de cada ação que ela tiver emitido, caso tenha valor.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto O item do 79 do CPC 26 - Apresentação das Demonstrações Contábeis afirma que a entidade deve divulgar o seguinte seja no balanço patrimonial, seja na demonstração das mutações do patrimônio líquido ou nas notas explicativas: (a) para cada classe de ações do capital: (i) a quantidade de ações autorizadas; (ii) a quantidade de ações subscritas e inteiramente integralizadas, e subscritas mas não integralizadas; (iii) o valor nominal por ação, ou informar que as ações não têm valor nominal; (iv) a conciliação entre as quantidades de ações em circulação no início e no fim do período; (v) os direitos, preferências e restrições associados a essa classe de ações, incluindo restrições na distribuição de dividendos e no reembolso de capital; (vi) ações ou quotas da entidade mantidas pela própria entidade (ações ou quotas em tesouraria) ou por controladas ou coligadas; e (vii) ações reservadas para emissão em função de opções e contratos para a venda de ações, incluindo os prazos e respectivos montantes; e (b) uma descrição da natureza e da finalidade de cada reserva dentro do patrimônio líquido",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q2",
+        "question": "(CEBRASPE/CAU BR/Contador/2024) A segregação do resultado do período em sócios controladores e sócios não controladores deve ser evitada.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "61 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81 É exatamente o contrário, pessoal. O CPC 26 - Apresentação das Demonstrações Contábeis apoia essa apresentação segregada, vejam: 81B. A entidade deve apresentar os seguintes itens, além da demonstração do resultado e de outros resultados abrangentes, como alocação da demonstração do resultado e de outros resultados abrangentes do período: (a) resultado do período atribuível a: (i) participação de não controladores, e (ii) sócios da controladora; (b) resultado abrangente atribuível a: (i) participação de não controladores, e (ii) sócios da controladora.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q3",
+        "question": "(CEBRASPE/CAU BR/Técnico-Financeiro/2024) Os financiamentos obtidos por uma entidade com vencimento previsto para o período após o término do exercício social seguinte devem ser classificados no passivo não circulante, estando sujeitos a ajustes a valor presente por ocasião de sua avaliação contábil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pessoal. O item 69, c, do CPC 26, afirma que o passivo deve ser classificado como circulante quando deve ser liquidado no período de até doze meses após a data do balanço. Logo, financiamentos obtidos por uma entidade com vencimento previsto para o período após o término do exercício social seguinte devem ser classificados no passivo não circulante. Ademais, passivos não circulantes estão sujeitos ao ajuste a valor presente, conforme determina a legislação societária e os pronunciamentos contábeis.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q4",
+        "question": "(CEBRASPE/Agente de Polícia/PC PE/2024) Conforme as Normas Brasileiras de Contabilidade, assinale a opção correta a respeito do balanço patrimonial.",
+        "options": [
+          "O ativo deve ser organizado por grau de liquidez, e o passivo, por grau de exigibilidade, iniciando-se pelas contas menos líquidas e exigíveis até as mais líquidas e exigíveis.",
+          "O passivo não circulante deve expressar todas as obrigações de longo prazo vencidas e com cláusula de cobrança imediata, em caso de inadimplemento. 62 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81",
+          "Os valores relativos a aplicações de recursos para constituição de ativo diferido devem ser apresentados apenas em conta adequada de ativos não circulantes.",
+          "O balanço patrimonial deve apresentar conta que expresse o total de ativos classificados como disponíveis para venda, caso a legislação permita.",
+          "O patrimônio líquido deve conter conta adequada para a necessária reavaliação de itens patrimoniais ativos."
+        ],
+        "correct": 3,
+        "explanation": "Vamos analisar cada alternativa: a) O ativo deve ser organizado por grau de liquidez, e o passivo, por grau de exigibilidade, iniciando-se pelas contas menos líquidas e exigíveis até as mais líquidas e exigíveis. Errado, pessoal, pois o ativo deve ser apresentado por ordem decrescente de liquidez, isto é, primeiramente as contas mais líquidas, seguidas por aquelas que possuem a menor liquidez. No caso do passivo, a regra geral é que primeiramente sejam apresentadas as obrigações que possuem a maior exigibilidade, como dívidas de curto prazo. b) O passivo não circulante deve expressar todas as obrigações de longo prazo vencidas e com cláusula de cobrança imediata, em caso de inadimplemento. Errado, no caso apresentado, estamos diante de um passivo circulante, visto que existe uma cláusula de cobrança imediata. c) Os valores relativos a aplicações de recursos para constituição de ativo diferido devem ser apresentados apenas em conta adequada de ativos não circulantes. Errado, pessoal, o ativo diferido foi extinto pelas modificações ocorridas na contabilidade (MP 449 convertida na Lei 11.941/09). Segundo o CPC 13 – Adoção inicial da Lei 11.638/2007 e 11.941/2009 (item 20), os saldos porventura existentes deste grupo patrimonial devem ser alocados a outro grupo no balanço patrimonial. d) O balanço patrimonial deve apresentar conta que expresse o total de ativos classificados como disponíveis para venda, caso a legislação permita. Correto, o item 54 do CPC 26 - Apresentação das Demonstrações Contábeis afirma que o balanço patrimonial deve apresentar, respeitada a legislação, as seguintes contas o total de ativos classificados como disponíveis para venda e ativos à disposição para venda de acordo com o CPC 31 – Ativo Não Circulante Mantido para Venda e Operação Descontinuada; e) O patrimônio líquido deve conter conta adequada para a necessária reavaliação de itens patrimoniais ativos. Errado, a reavaliação de ativos está proibida no Brasil.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula19_q5",
+        "question": "(CEBRASPE/TJ ES/Analista Judiciário – Contabilidade/2023) Para fins societários, é admissível apresentar, em uma demonstração única, tanto os resultados do período quanto os outros resultados abrangentes, desde que a legislação vigente o permita.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Pessoal, muitos alunos escorregaram nessa questão pois lembraram que a legislação societária brasileira requer que seja apresentada a demonstração do resultado do período como uma seção separada. Todavia, o pronunciamento contábil n° 26 admite a possibilidade, se permitido legalmente, de apresentar uma única demonstração do resultado do período e outros resultados abrangentes, com a demonstração do resultado e outros resultados abrangentes apresentados em duas seções Vejam que o trecho “desde que a legislação vigente o permita” foi a pegadinha do malandro. Nas palavras do CPC 26 (R1) - Apresentação das Demonstrações Contábeis: I10A. A entidade pode, se permitido legalmente, apresentar uma única demonstração do resultado do período e outros resultados abrangentes, com a demonstração do resultado e outros resultados abrangentes apresentados em duas seções. As seções devem ser apresentadas juntas, com o resultado do período apresentado em primeiro lugar seguido pela seção de outros resultados abrangentes. A entidade pode apresentar a demonstração do resultado como uma demonstração separada. Nesse caso, a demonstração separada do resultado do período precederá imediatamente a demonstração que apresenta o resultado abrangente, que se inicia com o resultado do período. 10B. Quando da aprovação deste Pronunciamento Técnico, deve atentar-se para o fato importante de que a legislação societária brasileira requer que seja apresentada a demonstração do resultado do período como uma seção separada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q6",
+        "question": "(CEBRASPE/TJ ES/Analista Judiciário – Contabilidade/2023) A entidade deve exibir os subtotais de contas adicionais com menos destaque do que os subtotais e totais exigidos na apresentação do balanço patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Consoante o item 54 do CPC 26, o balanço patrimonial deve apresentar, respeitada a legislação, as seguintes contas: (a) caixa e equivalentes de caixa; (b) clientes e outros recebíveis; 64 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81 (c) estoques; (d) ativos financeiros (exceto os mencionados nas alíneas “a”, “b” e “g”); (e) total de ativos classificados como disponíveis para venda e ativos à disposição para venda de acordo com o CPC 31 – Ativo Não Circulante Mantido para Venda e Operação Descontinuada; (f) ativos biológicos dentro do alcance do CPC 29; (Alterada pela Revisão CPC 08) (g) investimentos avaliados pelo método da equivalência patrimonial; (h) propriedades para investimento; (i) imobilizado; (j) intangível; (k) contas a pagar comerciais e outras; (l) provisões; (m) obrigações financeiras (exceto as referidas nas alíneas “k” e “l”); (n) obrigações e ativos relativos à tributação corrente, conforme definido no Pronunciamento Técnico CPC 32 – Tributos sobre o Lucro; (o) impostos diferidos ativos e passivos, como definido no Pronunciamento Técnico CPC 32; (p) obrigações associadas a ativos à disposição para venda de acordo com o Pronunciamento Técnico CPC 31; (q) participação de não controladores apresentada de forma destacada dentro do patrimônio líquido; e (r) capital integralizado e reservas e outras contas atribuíveis aos proprietários da entidade. Além dessas a entidade deve apresentar contas adicionais (pela desagregação de contas listadas no item 54), cabeçalhos e subtotais nos balanços patrimoniais sempre que sejam relevantes para o entendimento da posição financeira e patrimonial da entidade. (Item 55, CPC 26) Ressaltamos que existem algumas exigências na apresentação desses subtotais - ser constituídos de contas compostas de valores reconhecidos e mensurados em conformidade com os pronunciamentos. - ser apresentados e nomeados de forma que as contas que constituem os subtotais sejam claras e compreensíveis; - ser consistentes de período a período - não ser exibidos com mais destaque do que os subtotais e totais exigidos no pronunciamento para o balanço patrimonial. Diante do exposto, é correto afirmar que a entidade deve exibir os subtotais de contas adicionais com menos destaque do que os subtotais e totais exigidos na apresentação do balanço patrimonial.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q7",
+        "question": "(CEBRASPE/TCE-SC/Auditor Fiscal de Controle Externo/Ciências Contábeis/2022) Na perspectiva da legislação societária, a demonstração das mutações do patrimônio líquido possui caráter complementar, sendo obrigatória a demonstração de lucros ou prejuízos acumulados, mas os pronunciamentos do CPC transformaram essas duas demonstrações em obrigatórias.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Pela Lei das SAs., a Demonstração dos Lucros ou Prejuízos Acumulados (DLPA) é obrigatória, podendo ser incluída na Demonstração das Mutações do Patrimônio Líquido (DMPL). Já o Pronunciamento CPC 26 estabelece que a Demonstração dos Mutações do PL é obrigatória, e não menciona nada sobre a DLPA.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q9",
+        "question": "(CEBRASPE/TCE RJ/Analista de Controle Externo/2021) Uma obrigação presente da entidade, gerada por eventos passados e para a qual será necessário o sacrifício de item capaz de trazer benefícios econômicos para a entidade, deve ser registrada no passivo circulante se e somente se for provável que seja liquidada durante o ciclo operacional normal da entidade ou no prazo de doze meses após o fechamento do balanço patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "De acordo com o CPC 26, o passivo deve ser classificado como circulante quando satisfizer qualquer dos seguintes critérios: (a) espera-se que seja liquidado durante o ciclo operacional normal da entidade; 67 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81 (b) está mantido essencialmente para a finalidade de ser negociado; (c) deve ser liquidado no período de até doze meses após a data do balanço; ou (d) a entidade não tem direito incondicional de diferir a liquidação do passivo durante pelo menos doze meses após a data do balanço (ver item 73). Os termos de um passivo que podem, à opção da contraparte, resultar na sua liquidação por meio da emissão de instrumentos patrimoniais não devem afetar a sua classificação O gabarito é errado, pois, a questão fez uma restrição a apenas à liquidação durante o ciclo operacional e ao prazo de doze meses após o fechamento do balanço. Temos as opções b e d também. Exemplo: a empresa possui um empréstimo a pagar, mas para “rolar” a dívida, isto é, esticar o prazo de pagamento para além de 12 meses da data do balanço, depende do seu credor. Ela não pode chegar e determinar isso. Esse passivo também será circulante.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q10",
+        "question": "(CEBRASPE/TCE RJ/Analista de Controle Externo/2021) A classificação de um passivo de financiamento de longo prazo como circulante ou não circulante pode depender, além dos prazos de vencimento, da situação de adimplência ou inadimplência da obrigação.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto e está de acordo com o item 74 do CPC 26 - Apresentação das demonstrações contábeis. 74. Quando a entidade quebrar um acordo contratual (covenant) de um empréstimo de longo prazo (índice de endividamento ou de cobertura de juros, por exemplo) ao término ou antes do término do período de reporte, tornando o passivo vencido e pagável à ordem do credor, o passivo deve ser classificado como circulante mesmo que o credor tenha concordado, após a data do balanço e antes da data da autorização para emissão das demonstrações contábeis, em não exigir pagamento antecipado como consequência da quebra do covenant. O passivo deve ser classificado como circulante porque, à data do balanço, a entidade não tem o direito incondicional de diferir a sua liquidação durante pelo menos doze meses após essa data O que esse item quer dizer? Em algumas situações, a exigibilidade de uma dívida pode estar atrelada não só ao prazo, mas a cláusulas contratuais (covenant). Querem um exemplo? Imagine que o a empresa ABC fez um empréstimo com vencimento para 5 anos, ou seja, uma dívida de longo prazo. Mas o banco faz a seguinte condição: se vocês ultrapassarem a marca de endividamento em 40%, a dívida poderá ser exigida imediatamente. Nesse caso, se a empresa quebrar essa condição, deverá reclassificar a dívida para o passivo circulante, pois, ainda que o banco seja bonzinho e não exija a dívida imediatamente, essa decisão é dele. Não é um direito incondicional da empresa. 68 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81 Portanto, o item está mesmo correto, pois, a classificação de um passivo de financiamento de longo prazo como circulante ou não circulante pode depender, além dos prazos de vencimento, da situação de adimplência ou inadimplência da obrigação, ou seja, os \"covenants\".",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q11",
+        "question": "(CEBRASPE/TCE RJ/Analista de Controle Externo/2021) No balanço patrimonial, os ativos e passivos devem ser apresentados por ordem de liquidez, sempre que tal forma de apresentação proporcionar informação confiável e mais relevante para o usuário do que a apresentação de ativos circulantes e não circulantes e de passivos circulantes e não circulantes como grupos de contas separados do balanço patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Fique Atento! O ativo é dividido em circulante e não circulante pela Lei 6404/76. Portanto, em regra, quando você vir um balanço patrimonial, será essa a classificação que estará lá! Mas os Pronunciamentos Contábeis melhoram esse entendimento e permitem uma certa flexibilização para essa apresentação. Vejam o que diz o CPC 26 – Apresentação das demonstrações contábeis: 60. A entidade deve apresentar ativos circulantes e não circulantes, e passivos circulantes e não circulantes, como grupos de contas separados no balanço patrimonial, de acordo com os itens 66 a 76, exceto quando uma apresentação baseada na liquidez proporcionar informação confiável e mais relevante. Quando essa exceção for aplicável, todos os ativos e passivos devem ser apresentados por ordem de liquidez.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q12",
+        "question": "(CEBRASPE/SLU DF/Analista de Gestão de Resíduos Sólidos - Ciências Contábeis/2019) Companhias abertas são dispensadas de apresentar notas explicativas relacionadas às bases de preparação das demonstrações financeiras adotadas durante o período.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Falamos que os atos relevantes que façam parte das atividades da empresa devem ser apresentados em notas explicativas, como ordena a Lei 6.404/76: 69 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81 Art. 176. § 4º As demonstrações serão complementadas por notas explicativas e outros quadros analíticos ou demonstrações contábeis necessários para esclarecimento da situação patrimonial e dos resultados do exercício. Esse também é o entendimento do CPC 26 (R1): Conjunto completo de demonstrações contábeis 10. O conjunto completo de demonstrações contábeis inclui: (e) notas explicativas, compreendendo um resumo das políticas contábeis significativas e outras informações elucidativas; Tanto a Lei das SAs quanto o Pronunciamento Contábil n° 26, afirmam que as notas explicativas DEVEM ==11e785== incluir às bases de preparação das demonstrações financeiras adotadas durante o período. Vejamos: • Lei 6.404/76 Art. 176. § 5º As notas explicativas DEVEM: (Redação dada pela Lei nº 11.941, de 2009) I – apresentar informações sobre a BASE DE PREPARAÇÃO das demonstrações financeiras e das práticas contábeis específicas selecionadas e aplicadas para negócios e eventos significativos; (Incluído pela Lei nº 11.941, de 2009) • CPC 26 (R1): Notas explicativas Estrutura 112. As notas explicativas devem: (a) apresentar informação acerca da base para a elaboração das demonstrações contábeis e das políticas contábeis específicas utilizadas, de acordo com os itens 117 a 124; Portanto, tais normas não trouxeram essa dispensa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q13",
+        "question": "(CEBRASPE/Auditor/TCM BA/2018) Conforme alteração introduzida na Lei n.º 6.404/1976 pela Lei n.º 11.638/2007, determinada demonstração contábil passou a ser optativa para as companhias abertas. A referida demonstração contábil é o(a)",
+        "options": [
+          "balanço patrimonial.",
+          "demonstração de resultado do exercício. 70 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81",
+          "demonstração dos fluxos de caixa.",
+          "demonstração de origens e aplicações de recursos.",
+          "demonstração do valor adicionado."
+        ],
+        "correct": 3,
+        "explanation": "Como vimos durante a aula, a DOAR deixou de ser obrigatória com a edição da Lei 11.638/2007.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula19_q14",
+        "question": "(CEBRASPE/PC-PE/Perito Criminal/Contabilidade/2016) A respeito das notas explicativas e das demonstrações contábeis, assinale a opção correta.",
+        "options": [
+          "Os pressupostos relativos ao futuro, assim como outras fontes de incertezas, por serem subjetivos, são objeto de relatório da administração e não de notas explicativas.",
+          "Os objetivos, políticas e processos de gestão de capital, por serem informações sensíveis e, muitas vezes, restritas ao corpo diretivo da sociedade, são de divulgação facultativa em notas explicativas.",
+          "Os passivos contingentes e os compromissos contratuais não reconhecidos são objeto de divulgação em notas explicativas.",
+          "As divulgações não financeiras, tais como políticas de gestão do risco financeiro, não são objeto de notas explicativas, mas, sim, de relatório da administração.",
+          "As bases de mensuração utilizadas nas demonstrações contábeis não são objetos de notas explicativas."
+        ],
+        "correct": 2,
+        "explanation": "a) Os pressupostos relativos ao futuro, assim como outras fontes de incertezas, por serem subjetivos, são objeto de relatório da administração e não de notas explicativas. Item incorreto. Segundo o CPC 26: 125. A entidade deve divulgar, nas notas explicativas, informação acerca dos pressupostos relativos ao futuro e outras fontes principais de incerteza nas estimativas ao término do período de reporte que possuam risco significativo de provocar ajuste material nos valores contábeis de ativos e passivos ao longo do próximo exercício social. Com respeito a esses ativos e passivos, as notas explicativas devem incluir detalhes elucidativos acerca: (a) da sua natureza; e (b) do seu valor contábil ao término do período de reporte. b) Os objetivos, políticas e processos de gestão de capital, por serem informações sensíveis e, muitas vezes, restritas ao corpo diretivo da sociedade, são de divulgação facultativa em notas explicativas. Errado, segundo o item 134 do CPC 26: 71 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81 A entidade deve divulgar informações que permitam aos usuários das demonstrações contábeis avaliar seus objetivos, políticas e processos de gestão de capital. A divulgação não é facultativa, de acordo com o CPC 26. c) Os passivos contingentes e os compromissos contratuais não reconhecidos são objeto de divulgação em notas explicativas. A letra c é nosso gabarito. Segundo o CPC 26: 114. Exemplos de ordenação ou agrupamento sistemático das notas explicativas incluem: (iv) outras divulgações, incluindo: (1) passivos contingentes (ver Pronunciamento Técnico CPC 25) e compromissos contratuais não reconhecidos; (2) divulgações não financeiras, por exemplo, os objetivos e as políticas de gestão do risco financeiro da entidade (ver Pronunciamento Técnico CPC 40). (Alterado pela Revisão CPC 08) 134. A entidade deve divulgar informações que permitam aos usuários das demonstrações contábeis avaliar seus objetivos, políticas e processos de gestão de capital. d) As divulgações não financeiras, tais como políticas de gestão do risco financeiro, não são objeto de notas explicativas, mas, sim, de relatório da administração. Errado, conforme determinação do CPC 26: 114. Exemplos de ordenação ou agrupamento sistemático das notas explicativas incluem: (iv) outras divulgações, incluindo: (1) passivos contingentes (ver Pronunciamento Técnico CPC 25) e compromissos contratuais não reconhecidos; (2) divulgações não financeiras, por exemplo, os objetivos e as políticas de gestão do risco financeiro da entidade (ver Pronunciamento Técnico CPC 40). (Alterado pela Revisão CPC 08) e) As bases de mensuração utilizadas nas demonstrações contábeis não são objetos de notas explicativas. Item incorreto. Segundo o CPC 26, as notas devem ser apresentadas, tanto quanto seja praticável, de forma sistemática. Cada item das demonstrações contábeis deve ter referência cruzada com a respectiva informação apresentada nas notas explicativas. 117. A entidade deve divulgar no resumo de políticas contábeis significativas: (a) a base (ou bases) de mensuração utilizada(s) na elaboração das demonstrações contábeis; e 72 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81 (b) outras políticas contábeis utilizadas que sejam relevantes para a compreensão das demonstrações contábeis. É importante que os usuários estejam informados sobre a base ou bases de mensuração utilizada(s) nas demonstrações contábeis (por exemplo, custo histórico, custo corrente, valor realizável líquido, valor justo ou valor recuperável) porque a base sobre a qual as demonstrações contábeis são elaboradas afeta significativamente a análise dos usuários. Quando mais de uma base de mensuração for utilizada nas demonstrações contábeis, por exemplo, quando determinadas classes de ativos são reavaliadas (se permitido legalmente), é suficiente divulgar uma indicação das categorias de ativos e de passivos à qual cada base de mensuração foi aplicada.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula19_q15",
+        "question": "(CEBRASPE/Analista/MPU/2015) As notas explicativas que contêm informações sobre a base para a elaboração das demonstrações contábeis e as políticas contábeis específicas podem ser apresentadas como seção separada das demonstrações contábeis.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 26: 116. As notas explicativas que proporcionam informação acerca da base para a elaboração das demonstrações contábeis e as políticas contábeis específicas podem ser apresentadas como seção separada das demonstrações contábeis.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q17",
+        "question": "(CEBRASPE/Contador/MTE/2014) A demonstração do resultado abrangente integra, obrigatoriamente, a demonstração as mutações do patrimônio líquido (DMPL).",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Questão dúbia. O saldo inicial e a movimentação das contas do Resultado Abrangente integram a DMPL. Parece que a banca se baseou na redação antiga do CPC 26, que menciona que a “demonstração do resultado abrangente pode ser apresentada em quadro demonstrativo próprio ou dentro das mutações do patrimônio líquido.” A versão atual do pronunciamento cpc 26 estabelece que “agora é vedada a apresentação da Demonstração do Resultado Abrangente apenas na Demonstração das Mutações do Patrimônio Líquido.”",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q18",
+        "question": "(CEBRASPE/Contador/CADE/2014) Ao apresentar a demonstração das mutações do patrimônio líquido, uma entidade controlada deverá desmembrar, no resultado abrangente do período, o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não controladores.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 26: 106. A entidade deve apresentar na demonstração das mutações do patrimônio líquido: (a) o resultado abrangente do período, apresentando separadamente o montante total atribuível aos proprietários da entidade controladora e o montante correspondente à participação de não controladores [esse item cai muito!];",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q19",
+        "question": "(CEBRASPE/Oficial de Inteligência/ABIN/2010) Obrigações decorrentes de custos operacionais são classificadas como passivos circulantes, ainda que estejam para ser liquidadas em prazo superior ao ciclo operacional da entidade, que, normalmente, é de doze meses.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O item está correto. Quando o ciclo operacional é maior do que o exercício social, a classificação como circulante ou não circulante levará em conta a duração do ciclo. 74 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 81",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q20",
+        "question": "(CEBRASPE/Oficial de Inteligência/ABIN/2010) Toda entidade é obrigada a apresentar ativos circulantes e não circulantes e passivos circulantes e não circulantes como grupos de contas separados no balanço patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Observemos o item 60 do CPC 26: 60. A entidade deve apresentar ativos circulantes e não circulantes, e passivos circulantes e não circulantes, como grupos de contas separados no balanço patrimonial, de acordo com os itens 66 a 76, exceto quando uma apresentação baseada na liquidez proporcionar informação confiável e mais relevante. Quando essa exceção for aplicável, todos os ativos e passivos devem ser apresentados por ordem de liquidez.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula19_q21",
+        "question": "(CEBRASPE/MPU/Controle Interno/2010) Atualmente, a demonstração do resultado abrangente (DRA) apresenta o resultado do exercício acrescido de ganhos ou perdas, que eram reconhecidos direta e temporariamente na demonstração das mutações do patrimônio líquido (DMPL); dessa forma, a DRA é evidenciada tanto separadamente como dentro da DMPL.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Questão de 2010, quando ainda vigorava a primeira versão do pronunciamento CPC 26 – Apresentação das Demonstrações Contábeis, que estabelecia que a demonstração do resultado abrangente pode ser apresentada em quadro demonstrativo próprio ou dentro das mutações do patrimônio líquido. Questão correta! Atualmente, a primeira revisão (R1) menciona, no apêndice A, que agora é vedada a apresentação da Demonstração do Resultado Abrangente apenas na Demonstração das Mutações do Patrimônio Líquido. Mas a assertiva continua correta: a DRA é evidenciada tanto separadamente como dentro da DMPL.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula20",
+    "title": "20",
+    "description": "Questões comentadas da 20",
+    "color": "bg-pink-700",
+    "questions": [
+      {
+        "id": "aula20_q1",
+        "question": "(CEBRASPE/Pref. Cachoeiro de Itapemirim/Contador/2024) Um investidor que detiver 30% do capital votante de uma investida estará sujeito à aplicação do método da equivalência patrimonial para a avaliação contábil do investimento, independentemente de qualquer outra condição.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A influência significativa existe quando a investidora detém ou exerce o poder de participar nas decisões das políticas financeira ou operacional da investida, sem controlá-la. Ela é presumida quando se possui 20% do capital votante (ações ordinárias). Essa presunção, entretanto, admite prova em contrário! Uma empresa pode ter mais de 20% e não ter influência significativa e ter menos de 20% e ter influência significativa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q2",
+        "question": "(CEBRASPE/ANATEL/Especialista Ciências Contábeis/2024) O goodwill pode ser definido como o ágio pago por expectativa de rentabilidade futura, representado pela diferença entre o montante líquido proporcional adquirido do valor justo e o valor contábil dos ativos e passivos da entidade adquirida, quando tal diferença for positiva.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A diferença entre o Valor Justo e o Valor Patrimonial é a Mais Valia: Mais Valia = Valor Justo – Valor Patrimonial E a diferença entre o Valor pago e o Valor Justo pode ser o Goodwill (quando o adquirente paga mais que o valor justo) ou a Compra Vantajosa (quando o adquirente paga menos que o valor justo). Goodwill = Valor Pago – Valor Justo Compra Vantajosa = Valor Pago – Valor Justo",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q3",
+        "question": "(CEBRASPE/ANATEL/Especialista Ciências Contábeis/2024) Considere que uma empresa faça, pelo valor de R$ 400.000, a aquisição de 40% da participação societária de uma empresa X, que possui patrimônio líquido contábil de R$ 600.000 e ativo subavaliado no montante de R$ 200.000. Nesse caso, é correto concluir que o goodwill é de R$ 80.000.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A diferença entre o Valor pago e o Valor Justo pode ser o Goodwill (quando o adquirente paga mais que o valor justo) ou a Compra Vantajosa (quando o adquirente paga menos que o valor justo). Goodwill = Valor Pago – Valor Justo proporcional Goodwill = R$ 400.000 – [(R$ 600.000 + R$ 200.000) x 40%] Goodwill = R$ 400.000 – (R$ 800.000 x 40%) Goodwill = R$ 400.000 – R$ 320.000 = R$ 80.000",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q4",
+        "question": "(CEBRASPE/DATAPREV/Analista/2023) O investimento em coligadas e controladas deve ser reconhecido inicialmente pelo custo, devendo o valor contábil do investimento ser ajustado de modo a refletir os lucros ou prejuízos gerados pela investida após o reconhecimento inicial do investimento pela investidora.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Pelo método de equivalência patrimonial, um investimento em coligada e em controlada é inicialmente reconhecido pelo custo. O valor contábil do investimento será aumentado ou diminuído pelo reconhecimento da participação do investidor nos lucros ou prejuízos do período, gerados pela investida após a aquisição. A parte do investidor no lucro ou prejuízo do período da investida é reconhecida no lucro ou prejuízo do período do investidor.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q5",
+        "question": "(CEBRASPE/DATAPREV/Analista/2023) A presunção da existência de influência significativa de uma investidora em relação a uma investida ocorre quando a investidora mantém, direta ou indiretamente, pelo menos 20% do poder de voto da investida, a menos que se possa comprovar que essa influência de fato inexiste. 82 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo, isso é previsto no item 5 do CPC 18: 5. Se o investidor mantém direta ou indiretamente (por meio de controladas, por exemplo), vinte por cento ou mais do poder de voto da investida, presume-se que ele tenha influência significativa, a menos que possa ser claramente demonstrado o contrário. Por outro lado, se o investidor detém, direta ou indiretamente (por meio de controladas, por exemplo), menos de vinte por cento do poder de voto da investida, presume-se que ele não tenha influência significativa, a menos que essa influência possa ser claramente demonstrada. A propriedade substancial ou majoritária da investida por outro investidor não necessariamente impede que um investidor tenha influência significativa sobre ela",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q6",
+        "question": "(CEBRASPE/TBG/Analista Júnior Contábil/2023) A avaliação de investimentos em controladas deve ser feita pelo método da equivalência patrimonial, que estabelece o reconhecimento inicial desses investimentos pelo custo, devendo o seu valor contábil ser aumentado ou diminuído para contemplar a participação do investidor nos lucros ou prejuízos auferidos pela investida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Pelo método de equivalência patrimonial, um investimento em coligada e em controlada é inicialmente reconhecido pelo custo. O valor contábil do investimento será aumentado ou diminuído pelo reconhecimento da participação do investidor nos lucros ou prejuízos do período, gerados pela investida após a aquisição. A parte do investidor no lucro ou prejuízo do período da investida é reconhecida no lucro ou prejuízo do período do investidor.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q8",
+        "question": "(CEBRASPE/TCE PB/Auditor/2022) No método da equivalência patrimonial, os dividendos declarados pela investida devem ser reconhecidos pela investidora como receitas de dividendos, em contrapartida à rubrica dividendos a receber.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na verdade, os dividendos distribuídos no método de custo são contabilizados como receita, quando da distribuição FORMAL DE LUCROS. Não importa quando o lucro foi gerado, mas quando houve a formalização da distribuição. Lançamento: D – Dividendos a receber (Ativo circulante) C – Receita de dividendos (Resultado) Já os dividendos recebidos investimentos avaliados pelo MEP reduzem o valor do investimento e não influenciaram o resultado da Companhia. Lançamento: D – Dividendos a receber (Ativo) C - Investimentos – MEP (Ativo) 84 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q9",
+        "question": "(CEBRASPE/TCE PB/Auditor/2022) Presume-se a existência de influência significativa quando o investidor detém, direta ou indiretamente, 20% ou mais do capital votante da investida, a menos que se possa demonstrar claramente que essa influência significativa inexiste.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo, isso é previsto no item 5 do CPC 18: 5. Se o investidor mantém direta ou indiretamente (por meio de controladas, por exemplo), vinte por cento ou mais do poder de voto da investida, presume-se que ele tenha influência significativa, a menos que possa ser claramente demonstrado o contrário. Por outro lado, se o investidor detém, direta ou indiretamente (por meio de controladas, por exemplo), menos de vinte por cento do poder de voto da investida, presume-se que ele não tenha influência significativa, a menos que essa influência possa ser claramente demonstrada. A propriedade substancial ou majoritária da investida por outro investidor não necessariamente impede que um investidor tenha influência significativa sobre ela",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q11",
+        "question": "(CEBRASPE/TJ-PA/Analista Judiciário - Ciências Contábeis/2020.Adaptada) Caso um investimento em coligada torne-se investimento em controlada, a entidade deve substituir o método da equivalência patrimonial pelo método de custo e proceder à remensuração do interesse retido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vimos que os investimentos tanto em coligadas quanto em controladas, são avaliados pelo método da equivalência patrimonial. É importante ressaltar que o pronunciamento contábil n° 18 trouxe algumas exceções, mesmo assim o item está errado devido a expressão “DEVE”.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q12",
+        "question": "(CEBRASPE/TJ AM/Analista Judiciário – Contabilidade/2019) Ao adquirir um investimento avaliado pelo método da equivalência patrimonial, a entidade adquirente deve incluir o goodwill no valor contábil do investimento e amortizar o referido goodwill em prazo não superior a dez anos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "86 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Errado, o Goodwill não pode ser amortizado, pois não há base sistemática para amortização. Nesse caso aplicamos apenas uma metodologia de avaliação chamada de teste de recuperabilidade.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q13",
+        "question": "(CEBRASPE/TJ.AM/Analista.Judiciário.Contabilidade/2019) Na aquisição de um investimento avaliado pelo método da equivalência patrimonial, o goodwill representa o ágio fundamentado na expectativa de rentabilidade futura do investimento adquirido.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, já que apresentou a definição exata de Goodwill (expectativa de rentabilidade futura)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q14",
+        "question": "(CEBRASPE/PF/Perito.Criminal.Federal/Área.1/2018) Se o valor pago pela aquisição de investimentos relevantes de determinada empresa diferir do valor patrimonial contábil, o resultado da equivalência patrimonial nos períodos subsequentes deverá excluir o ágio ou deságio que houver incidido na aquisição",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto. Na aquisição de investimentos, podemos ter o reconhecimento do Goodwill e Mais-Valia, caso o valor pago na aquisição seja distinto do valor patrimonial. Posteriormente, a contabilização de ganhos ou perdas com MEP NÃO AFETA O GOODWILL, NEM A MAIS VALIA, apenas o valor patrimonial dos Investimentos. Vamos imaginar que no exercício seguinte a empresa contabilize um ganho com MEP: D - Investimento – Valor Patrimonial (ANC) C- Ganho MEP (Resultado) Por isso está correto que o resultado do MEP deve excluir o Ágio ou Deságio na operação.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q15",
+        "question": "(CEBRASPE/Tec (FUB)/Contabilidade/2018) Se uma empresa industrial tiver participação de caráter permanente no capital social de outras empresas, esse item patrimonial deverá ser classificado em investimentos, no ativo não circulante. 87 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pessoal. De acordo com a Lei 6404/76, art. 179. As contas serão classificadas do seguinte modo: III - em investimentos: as participações permanentes em outras sociedades e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa; Esquematizemos: Participações permanentes ANC- Não classificáveis Investimentos no AC Direitos Não se destinem à manutenção das atividades • Participações permanentes Portanto, neste subgrupo classificam-se as participações permanentes em outras sociedades, isto é, aqueles investimentos em sociedades cujo caráter não seja o especulativo. Os benefícios esperados são pela permanência desses investimentos na empresa, como um projeto de expansão de negócios.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q16",
+        "question": "(CEBRASPE/FUB/Técnico Contabilidade/2018) Os valores correspondentes a participações permanentes no capital de outras sociedades e avaliados pelos métodos do custo, da equivalência patrimonial ou do valor justo devem compor o subgrupo investimentos do ativo não circulante.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Com base na lei 6.404/76, compõem o subgrupo investimentos do ativo não circulante: as PARTICIPAÇÕES PERMANENTES EM OUTRAS SOCIEDADES e os direitos de qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou da empresa; Pelas normas internacionais (CPCs), esses investimentos podem SER AVALIADOS PELO MEP, PELO CUSTO OU PELO VALOR JUSTO!",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q17",
+        "question": "(CEBRASPE/SEDF/Analista de Gestão Educacional - Contabilidade/2017) A posse de instrumento que conceda potencial direito de voto prontamente exercível ou conversível deve ser considerada para fins de avaliação de influência significativa de uma entidade em outra e, em decorrência, de consolidação de demonstrações contábeis.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 18, item 07 temos que: A entidade pode ter em seu poder direitos de subscrição, opções não padronizadas de compras de ações (warrants), opções de compra de ações, instrumentos de dívida ou patrimoniais conversíveis em ações ordinárias ou outros instrumentos semelhantes com potencial de, se exercidos ou convertidos, conferir à entidade poder de voto adicional ou reduzir o poder de voto de outra parte sobre as políticas financeiras e operacionais da investida (isto é, potenciais direitos de voto). A existência e a efetivação dos potenciais direitos de voto prontamente exercíveis ou conversíveis, incluindo os potenciais direitos de voto detidos por outras entidades, devem ser consideradas na avaliação de a entidade possuir ou não influência significativa ou controle. Os potenciais direitos de voto não são exercíveis ou conversíveis quando, por exemplo, não podem ser exercidos ou convertidos até uma data futura ou até a ocorrência de evento futuro. Vamos apresentar um exemplo, extraído do FIPECAFI, para que possamos entender melhor o que o CPC afirma. A Empresa Alfa possui diretamente uma participação de 10% no capital votante da Empresa Beta, bem como possui opções de compra de ação, as quais, na data da análise, são prontamente exercíveis (sem restrições ou impedimentos) e que permitirão obter adicionalmente mais 15% de participação no capital votante da Empresa Beta. Esse fato, em conjunto com outras evidências, permite aos administradores da Empresa Alfa concluírem pela caracterização da influência significativa sobre a Empresa Beta, a qual passa então a ser considerada como uma coligada. Porém se outras partes (outros sócios da Empresa Beta) também tiverem direitos de voto potenciais, eles também deveriam ser considerados na análise, uma vez que eles podem aumentar (ou concentrar) ou reduzir (ou diluir) o poder de voto das demais partes.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q18",
+        "question": "(CEBRASPE/TCE-PE/Analista de Controle Externo/2017) Embora seja responsável pela nomeação de quatro dos cinco diretores da companhia Beta, a companhia Gama possui apenas 15% das ações com direito a voto da companhia Beta. Nessa situação, a companhia Gama deverá avaliar sua participação na companhia Beta pelo método de custo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Investimentos em coligadas ou controladas são, como regra, avaliados pelo Método da Equivalência Patrimonial. Por sua vez, são coligadas as sociedades nas quais a investidora tenha influência significativa A influência significativa existe quando a investidora detém ou exerce o poder de participar nas decisões das políticas financeira ou operacional da investida, sem controlá-la. Ela é presumida quando se possui 20% do capital votante (ações ordinárias). Essa presunção, entretanto, admite prova em contrário! Uma empresa pode ter mais de 20% e não ter influência significativa e ter menos de 20% e ter influência significativa. A questão tenta induzir o candidato a focar apenas no percentual de 15%, e assim, classificar o item como correto. Porém, temos uma informação muito importante: ela é responsável pela nomeação de quatro dos cinco diretores da companhia Beta. O CPC 18 apresenta situações que podem evidenciar a existência de influência significativa: 6. A existência de influência significativa por investidor geralmente é evidenciada por uma ou mais das seguintes formas: (a) representação no conselho de administração ou na diretoria da investida; (b) participação nos processos de elaboração de políticas, inclusive em decisões sobre dividendos e outras distribuições; (c) operações materiais entre o investidor e a investida; (d) intercâmbio de diretores ou gerentes; (e) fornecimento de informação técnica essencial. Vamos usar um esquema para visualizar melhor essa informação: 90 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Representação Conselho/Diretoria Elaboração Políticas/Decisões Investimentos Operações Materiais: Influência Significativa Investidor x Investida Intercâmbio Diretores/Gerentes Fornecimento Informação Técnica Essencial Assim sendo, ela possui representação na diretoria da investida, portanto, exerce influência significativa, portanto, o investimento deve ser avaliado pelo Método da Equivalência Patrimonial e não pelo custo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q19",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade e Finanças/2016) Reduzido a zero o saldo contábil do investimento avaliado pelo método da equivalência patrimonial, nenhuma perda adicional proporcionada pelo investimento será reconhecida nas demonstrações contábeis do investidor.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item bastante interessante, e conforme previsto no CPC 18: 39. Após reduzir, até zero, o saldo contábil da participação do investidor, perdas adicionais devem ser consideradas, e um passivo deve ser reconhecido, somente na extensão em que o investidor tiver incorrido em obrigações legais ou construtivas (não formalizadas) ou tiver feito pagamentos em nome da investida. Se a investida subsequentemente apurar lucros, o investidor deve retomar o reconhecimento de sua participação nesses lucros somente após o ponto em que a parte que lhe cabe nesses lucros posteriores se igualar à sua participação nas perdas não reconhecidas. 91 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Portanto, se a empresa investida, por exemplo, apurar grande prejuízo e seu patrimônio líquido torna-se negativo (passivo a descoberto), na investidora essa perda irá ser classificada no Passivo. O item erra ao afirmar que nenhuma perda adicional proporcionada pelo investimento será reconhecida. Esquematizemos: Reduzido a zero ou Perda Adicional Passivo negativo o PL Investida",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q20",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade e Finanças/2016) O investimento avaliado pelo método da equivalência patrimonial deve compor o ativo não circulante no balanço patrimonial, exceto se esse investimento for classificado como mantido para venda.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Para resolvermos essa questão, vamos separar o item em duas partes, vejamos: “O investimento avaliado pelo método da equivalência patrimonial deve compor o ativo não circulante no balanço patrimonial”. Os investimentos ou são de caráter transitório, quando a empresa não tem a intenção de permanecer com eles no longo prazo, sendo classificados no circulante ou não circulante realizável a longo prazo, ou, então, são de caráter permanente, quando a empresa tem a intenção de mantê-los, sendo nesta hipótese classificados no ativo não circulante investimentos. Há três formas de avaliar os investimentos permanentes: pelo método de custo, método do valor justo ou pelo método da equivalência patrimonial. Os mais importantes para provas são o método da equivalência patrimonial e o método do custo. Os investimentos em coligadas e controladas, sociedade do mesmo grupo e sob controle comum são avaliados pelo método da equivalência patrimonial. Os outros investimentos, que não sejam em coligadas e controladas, serão avaliados pelo método de Custo ou Valor Justo. Esquematizemos: 92 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Coligadas Controladas MEP Sociedades sob controle comum Mesmo grupo Investimentos Custo Outros Valor Justo Portanto, essa parte está correta. Agora vejamos a segunda parte: “Exceto se esse investimento for classificado como mantido para venda”. De acordo com o artigo 183 da Lei das S/A: Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios: I – As aplicações em instrumentos financeiros, inclusive derivativos, e em direitos e títulos de créditos, classificados no ativo circulante ou no realizável a longo prazo: Pelo seu valor justo, quando se tratar de aplicações destinadas à negociação ou disponíveis para a venda; e Pelo valor de custo de aquisição ou valor de emissão, atualizado conforme disposições legais ou contratuais, ajustado ao valor provável de realização, quando este for inferior, no caso das demais aplicações e os direitos e títulos de crédito. Portanto, esse trecho também está correto, pois é a aquisição de instrumentos patrimoniais de outras empresas que sejam classificados como mantidos para venda não classificados como Investimentos, mas classificados no ativo circulante ou no realizável a longo prazo. O que vale é a “Essência sobre a forma”. Se a intenção é a revenda, a classificação é como circulante.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q21",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade e Finanças/2016) A existência de influência, mesmo que significativa, de uma entidade em relação a outra não é condição suficiente para se concluir que as referidas empresas sejam coligadas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Lei 6.404/76: Art. 243 § 1º: São coligadas as sociedades nas quais a investidora tenha influência significativa. § 4º Considera-se que há influência significativa quando a investidora detém ou exerce o poder de participar nas decisões das políticas financeira ou operacional da investida, sem controlá-la. §5º É presumida influência significativa quando a investidora for titular de 20% (vinte por cento) ou mais do capital votante da investida, sem controlá-la. Políticas Detém poder de financeiras participar nas decisões Operacional Influência Coligadas Significativa > 20% capital votante Presumida Aceita prova em contrário Para definir se uma empresa é ou não coligada precisamos verificar a existência da influência significativa. Esta será a palavra-chave! Sim Coligada MEP Infl. Significativa Invest. Não Custo Perm. 94 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 A influência significativa existe quando a investidora detém ou exerce o poder de participar nas decisões das políticas financeira ou operacional da investida, sem controlá-la. Ela é presumida quando se possui 20% do capital votante (ações ordinárias). Essa presunção, entretanto, admite prova em contrário! Uma empresa pode ter mais de 20% e não ter influência significativa e ter menos de 20% e ter influência significativa. Nos termos do CPC 18: Influência significativa 6. Se o investidor mantém direta ou indiretamente (por exemplo, por meio de controladas), vinte por cento ou mais do poder de voto da investida, presume-se que ele tenha influência significativa, a menos que possa ser claramente demonstrado o contrário. Por outro lado, se o investidor detém, direta ou indiretamente (por meio de controladas, por exemplo), menos de vinte por cento do poder de voto da investida, presume-se que ele não tenha influência significativa, a menos que essa influência possa ser claramente demonstrada. A propriedade substancial ou majoritária da investida por outro investidor não necessariamente impede que o investidor minoritário tenha influência significativa. 7. A existência de influência significativa por investidor geralmente é evidenciada por um ou mais das seguintes formas: (a) representação no conselho de administração ou na diretoria da investida; (b) participação nos processos de elaboração de políticas, inclusive em decisões sobre dividendos e outras distribuições; (c) operações materiais entre o investidor e a investida; (d) intercâmbio de diretores ou gerentes; ou (e) fornecimento de informação técnica essencial. Preparamos o seguinte esquema para vocês, pois consideramos que esses conceitos são muito importantes para provas de concursos, portanto: Representação no conselho de administração ou na diretoria da investida; Participação nos processos de elaboração de políticas, inclusive em decisões sobre dividendos e outras distribuições; Influência Significativa Operações materiais entre o investidor e a investida; Intercâmbio de diretores ou gerentes; Fornecimento de informação técnica essencial 95 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Diante do exposto, a existência de influência, mesmo que significativa, de uma entidade em relação a outra é condição suficiente para se concluir que as referidas empresas sejam coligadas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q22",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade e Finanças/2016) Os investimentos avaliados pelo método da equivalência patrimonial estão sujeitos ao reconhecimento de perdas adicionais em função da redução ao seu valor recuperável.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 18, o investimento em coligada, em controlada e em empreendimento controlado em conjunto deve ser contabilizado pelo método da equivalência patrimonial a partir da data em que o investimento se tornar sua coligada, controlada ou empreendimento controlado em conjunto. De acordo com o item 40 do mesmo pronunciamento, temos que: Após a aplicação do método da equivalência patrimonial, incluindo o reconhecimento dos prejuízos da coligada ou do empreendimento controlado em conjunto em conformidade com o disposto no item 38, o investidor deve aplicar os requisitos do Pronunciamento Técnico CPC 38 – Instrumentos Financeiros: Reconhecimento e Mensuração para determinar a necessidade de reconhecer alguma perda adicional por redução ao valor recuperável do investimento líquido total desse investidor na investida.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q23",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade e Finanças/2016) A intenção da administração e a capacidade financeira de exercer ou converter os potenciais direitos de voto são elementos essenciais para se avaliar se tais direitos contribuem para a influência significativa ou para o controle de uma entidade sobre outra.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Vejamos o que diz o CPC 18, item 08: Ao avaliar se os potenciais direitos de voto contribuem para a influência significativa ou para o controle, a entidade deve examinar todos os fatos e circunstâncias (inclusive os termos do exercício dos potenciais direitos de voto e quaisquer outros acordos contratuais 96 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 considerados individualmente ou em conjunto) que possam afetar os direitos potenciais, exceto a intenção da administração e a capacidade financeira de exercê-los ou convertê- los. Portanto, a assertiva está errada pois a intenção da administração e a capacidade financeira de exercer ou converter os potenciais direitos de voto não são elementos essenciais para se avaliar se tais direitos contribuem para a influência significativa ou para o controle de uma entidade sobre outra.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q24",
+        "question": "(CEBRASPE/Perito Criminal/Contabilidade/PC-PE/2016) A propósito de investimento em sociedade coligada, assinale a opção correta.",
+        "options": [
+          "A participação de membro da investidora no conselho de administração da investida não representa uma influência significativa.",
+          "Sociedade com investimento em coligada deve consolidar as demonstrações contábeis.",
+          "A influência significativa da investidora sobre a investida pode ser verificada pela participação nos processos de criação de políticas, até em decisões sobre dividendos e outras distribuições.",
+          "Um investidor que detiver, direta ou indiretamente, até 20% do poder de voto de uma investida será detentor de influência significativa sobre esta.",
+          "O investimento em sociedade coligada deve ser avaliado pelo método do custo amortizado."
+        ],
+        "correct": 2,
+        "explanation": "a) A participação de membro da investidora no conselho de administração da investida não representa uma influência significativa. Item incorreto, pois, segundo o CPC18, “A existência de influência significativa por investidor geralmente é evidenciada por um ou mais das seguintes formas: (a) representação no conselho de administração ou na diretoria da investida; [...]. b) Sociedade com investimento em coligada deve consolidar as demonstrações contábeis. Item errado, visto que a empresa deve consolidar investimentos em controladas. Empresas coligadas o investimento será avaliado pelo MEP. c) A influência significativa da investidora sobre a investida pode ser verificada pela participação nos processos de criação de políticas, até em decisões sobre dividendos e outras distribuições. Item correto, conforme preconiza o CPC 18, A existência de influência significativa por investidor geralmente é evidenciada por um ou mais das seguintes formas: [...] 97 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 (b) participação nos processos de elaboração de políticas, inclusive em decisões sobre dividendos e outras distribuições. d) Um investidor que detiver, direta ou indiretamente, até 20% do poder de voto de uma investida será detentor de influência significativa sobre esta. Segundo a Lei 6404/76, Art. 243 § 1º: “São coligadas as sociedades nas quais a investidora tenha influência significativa”. “§5º É presumida influência significativa quando a investidora for titular de 20% (vinte por cento) OU MAIS do capital votante da investida, sem controlá-la.” Se o investidor tiver até 20% do poder de voto, não há influência significativa. Item errado. e) O investimento em sociedade coligada deve ser avaliado pelo método do custo amortizado. Item errado, pois investimentos em coligadas devem ser avaliados pelo MEP.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula20_q25",
+        "question": "(CEBRASPE/Perito Criminal–Ciências Contábeis/PC-PE/2016) Se uma investidora tem 40% de participação no capital da investida e influência significativa, e, em 2015, a investida obteve um lucro de R$ 200.000 e distribuiu dividendos no valor de R$ 100.000, então",
+        "options": [
+          "a variação na conta investimento na investidora foi inferior a R$ 55.000.",
+          "o valor dos dividendos recebidos pela investidora foi superior ao valor da receita de equivalência patrimonial.",
+          "a receita de equivalência foi inferior a R$ 70.000.",
+          "o fato de a investidora possuir influência significativa permite concluir que a investida é uma controlada da investidora.",
+          "o valor da despesa de equivalência reconhecido pela investidora foi inferior a R$ 40.000."
+        ],
+        "correct": 0,
+        "explanation": "Se há influência significativa, significa que, no mínimo, estamos em uma situação de coligação (salvo prova em contrário). O investimento será avaliado pelo MEP. Quando a investida apura o lucro, temos: D – Investimentos avaliados pelo MEP (200.000 x 40%) 80.000,00 C – Receita com MEP 80.000,00 Depois, quando houver distribuição dos dividendos, vamos lançar: D – Dividendos a receber (100.000 x 40%) 40.000,00 C – Investimentos avaliados pelo MEP 40.000,00 98 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Logo: a) a variação na conta investimento na investidora foi inferior a R$ 55.000. Gabarito! Variação foi de R$ 80.000 – 40.000 = 40.000 b) o valor dos dividendos recebidos pela investidora foi superior ao valor da receita de equivalência patrimonial. Errado. A receita foi de 80.000,00, os dividendos de 40.000,00. c) a receita de equivalência foi inferior a R$ 70.000. Errado. A receita foi de R$ 80.000,00. ==11e785== d) o fato de a investidora possuir influência significativa permite concluir que a investida é uma controlada da investidora. Errado. Permite concluir que é uma coligada, salvo se houvesse prova em contrário. Mas a questão foi silente. e) o valor da despesa de equivalência reconhecido pela investidora foi inferior a R$ 40.000. Errado. Não há despesa de equivalência patrimonial, mas sim receita.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula20_q26",
+        "question": "(CEBRASPE/Telebrás/Analista Superior - Finanças/2015) O fato de uma empresa conceder a outra empréstimos de acordo com as condições usuais de mercado, com a prática de juros e prazos habituais semelhantes às negociações com as demais empresas, é um indício, segundo a legislação societária, de que as empresas são coligadas e a investidora possui influência significativa na investida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A influência significativa existe quando a investidora detém ou exerce o poder de participar nas decisões das políticas financeira ou operacional da investida, sem controlá-la. Ela é presumida quando se possui 20% do capital votante (ações ordinárias). Essa presunção, entretanto, admite prova em contrário! Uma empresa pode ter mais de 20% e não ter influência significativa e ter menos de 20% e ter influência significativa. Nos termos do CPC 18: 99 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Influência significativa 6. Se o investidor mantém direta ou indiretamente (por exemplo, por meio de controladas), vinte por cento ou mais do poder de voto da investida, presume-se que ele tenha influência significativa, a menos que possa ser claramente demonstrado o contrário. Por outro lado, se o investidor detém, direta ou indiretamente (por meio de controladas, por exemplo), menos de vinte por cento do poder de voto da investida, presume-se que ele não tenha influência significativa, a menos que essa influência possa ser claramente demonstrada. A propriedade substancial ou majoritária da investida por outro investidor não necessariamente impede que o investidor minoritário tenha influência significativa. 7. A existência de influência significativa por investidor geralmente é evidenciada por um ou mais das seguintes formas: (a) representação no conselho de administração ou na diretoria da investida; (b) participação nos processos de elaboração de políticas, inclusive em decisões sobre dividendos e outras distribuições; (c) operações materiais entre o investidor e a investida; (d) intercâmbio de diretores ou gerentes; ou (e) fornecimento de informação técnica essencial. Esquematizemos: Representação no conselho de administração ou na diretoria da investida; Participação nos processos de elaboração de políticas, inclusive em decisões sobre dividendos e outras distribuições; Influência Significativa Operações materiais entre o investidor e a investida; Intercâmbio de diretores ou gerentes; Fornecimento de informação técnica essencial Portanto, o fato de uma empresa conceder a outra empréstimos de acordo com as condições usuais de mercado, com a prática de juros e prazos habituais semelhantes às negociações com as demais empresas não é um indício de que as empresas são coligadas, tampouco que e a investidora possui influência significativa na investida. 100 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 Se as condições fossem diferenciadas, usando condições não usais do mercado, poderíamos, em conjunto com outros fatores, verificar que existe influência significativa.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q27",
+        "question": "(CEBRASPE/DPF/Contabilidade/2014) Os dividendos declarados pela investida em favor da investidora provocam, na contabilidade da investidora, um registro a débito de uma conta patrimonial que representa o direito de receber os dividendos e a crédito de uma conta de resultado que representa o reconhecimento da receita gerada na transação.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "De acordo com o CPC 18: 10. Pelo método da equivalência patrimonial, o investimento em coligada, em empreendimento controlado em conjunto e em controlada (neste caso, no balanço individual) deve ser inicialmente reconhecido pelo custo e o seu valor contábil será aumentado ou diminuído pelo reconhecimento da participação do investidor nos lucros ou prejuízos do período, gerados pela investida após a aquisição. A participação do investidor no lucro ou prejuízo do período da investida deve ser reconhecida no resultado do período do investidor. As distribuições recebidas da investida reduzem o valor contábil do investimento. Assim, o erro da assertiva é afirmar que o lançamento a crédito deve ser feito em conta de resultado, quando o correto seria reduzindo o valor contábil do investimento. Lançamento: D – Dividendos a receber – Coligadas C- Investimento em coligadas. O lançamento no resultado é feito no momento do reconhecimento da receita pelo método da equivalência patrimonial.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula20_q28",
+        "question": "(CEBRASPE/DPF/Contabilidade/2014) Os dividendos declarados pela investida em favor da investidora provocam, na contabilidade da investidora, um registro a débito de uma conta patrimonial que representa o direito de receber os dividendos e a crédito de uma conta de resultado que representa o reconhecimento da receita gerada na transação.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "De acordo com o CPC 18: 101 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 110 10. Pelo método da equivalência patrimonial, o investimento em coligada, em empreendimento controlado em conjunto e em controlada (neste caso, no balanço individual) deve ser inicialmente reconhecido pelo custo e o seu valor contábil será aumentado ou diminuído pelo reconhecimento da participação do investidor nos lucros ou prejuízos do período, gerados pela investida após a aquisição. A participação do investidor no lucro ou prejuízo do período da investida deve ser reconhecida no resultado do período do investidor. As distribuições recebidas da investida reduzem o valor contábil do investimento. Assim, o erro da assertiva é afirmar que o lançamento a crédito deve ser feito em conta de resultado, quando o correto seria reduzindo o valor contábil do investimento. Lançamento: D – Dividendos a receber – Coligadas C- Investimento em coligadas. O lançamento no resultado é feito no momento do reconhecimento da receita pelo método da equivalência patrimonial.",
+        "type": "true-false"
+      }
+    ]
+  },
+  {
+    "id": "aula21",
+    "title": "21",
+    "description": "Questões comentadas da 21",
+    "color": "bg-cyan-700",
+    "questions": [
+      {
+        "id": "aula21_q1",
+        "question": "(CEBRASPE/SEFAZ RS/Auditor-Fiscal/2019) Com relação à consolidação de demonstrações contábeis, julgue o itens a seguir. I Trata-se de procedimento obrigatório para todas as sociedades por ações, abertas ou fechadas, e, ainda, para entidades limitadas, quando existirem investimentos em controladas, sem qualquer exceção. II É admissível uma defasagem de até sessenta dias entre as datas das demonstrações contábeis das empresas consolidadas e da empresa consolidadora, desde que satisfeitas as demais condições exigíveis. III Devem ser excluídos das demonstrações os custos de estoque e os lucros ou prejuízos relativos a resultados ainda não realizados de negócios entre sociedades. IV Os resultados relativos ao goodwill decorrente de operações intragrupo devem ser evidenciados na consolidação. Estão certos apenas os itens",
+        "options": [
+          "I e II.",
+          "I e IV.",
+          "II e III.",
+          "I, III e IV.",
+          "II, III e IV."
+        ],
+        "correct": 4,
+        "explanation": "I Trata-se de procedimento obrigatório para todas as sociedades por ações, abertas ou fechadas, e, ainda, para entidades limitadas, quando existirem investimentos em controladas, sem qualquer exceção. Errado...exceções do CPC 36, item 04: 4. A entidade que seja controladora deve apresentar demonstrações consolidadas. Este Pronunciamento se aplica a todas essas entidades, com as seguintes exceções: (a) a controladora pode deixar de apresentar as demonstrações consolidadas somente se satisfizer todas as condições a seguir, além do permitido legalmente: (i) a controladora é ela própria uma controlada (integral ou parcial) de outra entidade, a qual, em conjunto com os demais proprietários, incluindo aqueles sem direito a voto, foram consultados e não fizeram objeção quanto à não apresentação das demonstrações consolidadas pela controladora; (ii) seus instrumentos de dívida ou patrimoniais não são negociados publicamente (bolsa de valores nacional ou estrangeira ou mercado de balcão, incluindo mercados locais e regionais); 28 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 (iii) ela não tiver arquivado nem estiver em processo de arquivamento de suas demonstrações contábeis junto a uma Comissão de Valores Mobiliários ou outro) órgão regulador, visando à distribuição pública de qualquer tipo ou classe de instrumento no mercado de capitais; e (iv) a controladora final, ou qualquer controladora intermediária da controladora, disponibiliza ao público suas demonstrações em conformidade com os Pronunciamentos do CPC, em que as controladas são consolidadas ou são mensuradas ao valor justo por meio do resultado de acordo com este pronunciamento; (Alterada pela Revisão CPC 08) II É admissível uma defasagem de até sessenta dias entre as datas das demonstrações contábeis das empresas consolidadas e da empresa consolidadora, desde que satisfeitas as demais condições exigíveis. Correto. O CPC 36 (R3), em seu item B92, determina o uso da mesma data-base, a menos que isso seja impraticável. Nesse caso, admite-se uma defasagem máxima da data de encerramento do exercício social entre a controladora e a(s) controlada(s) de até 60 dias (dois meses), desde que: (i) sejam ajustadas para refletir os efeitos de transações ou eventos significativos ocorridos entre a data dessas demonstrações contábeis defasadas e a data das demonstrações consolidadas; e (ii) que a duração dos períodos abrangidos nas demonstrações contábeis e alguma diferença entre as respectivas datas de encerramento seja igual de um período para outro III Devem ser excluídos das demonstrações os custos de estoque e os lucros ou prejuízos relativos a resultados ainda não realizados de negócios entre sociedades. Correto, Procedimentos de consolidação: B86. Demonstrações consolidadas devem: (a) combinar itens similares de ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora com os de suas controladas; (b) compensar (eliminar) o valor contábil do investimento da controladora em cada controlada e a parcela da controladora no patrimônio líquido de cada controlada (o Pronunciamento Técnico CPC 15 explica como contabilizar qualquer ágio correspondente); (c) eliminar integralmente ativos e passivos, patrimônio líquido, receitas, despesas e fluxos de caixa intragrupo relacionados a transações entre entidades do grupo (resultados decorrentes de transações intragrupo que sejam reconhecidos em ativos, tais como estoques e ativos fixos, são eliminados integralmente). IV Os resultados relativos ao goodwill decorrente de operações intragrupo devem ser evidenciados na consolidação. Correto, na consolidação o goodwill é transferido para o ativo intangível e a mais valia para os ativos e passivos que lhe deram origem",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q3",
+        "question": "(CEBRASPE/TCM-BA/Auditor Estadual/Controle Externo/2018) Segundo o CPC 36, as demonstrações consolidadas devem ser apresentadas pela empresa:",
+        "options": [
+          "investidora com controle acionário.",
+          "coligada sem controle acionário.",
+          "investida de grande porte.",
+          "investidora sem controle acionário.",
+          "investida de porte médio."
+        ],
+        "correct": 0,
+        "explanation": "O CPC 36 afirma que o objetivo deste Pronunciamento é estabelecer princípios para a apresentação e elaboração de demonstrações consolidadas quando a entidade controla uma ou mais entidades. Vejamos o texto desse pronunciamento: 30 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 2. Para atingir o objetivo do item 1, este pronunciamento: (a) exige que a entidade (controladora) que controle uma ou mais entidades (controladas) apresente demonstrações consolidadas;",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q4",
+        "question": "(CEBRASPE/TRE-BA/Técnico Judiciário – Contabilidade/2017) O processo mediante o qual os ativos e os passivos de sociedades controladas e controladora são somados e são eliminadas as operações entre tais companhias, mas estas continuam a existir juridicamente, é denominado",
+        "options": [
+          "fusão.",
+          "incorporação.",
+          "combinação de negócios.",
+          "consolidação de demonstrações financeiras.",
+          "cisão."
+        ],
+        "correct": 3,
+        "explanation": "Conforma definição apresentada no CPC 36, Demonstrações Consolidadas são as demonstrações contábeis de grupo econômico, em que os ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora e de suas controladas são apresentados como se fossem uma única entidade econômica.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q5",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade/2016) Os direitos de proteção são considerados para se avaliar se o investidor detém efetivamente o poder sobre a sociedade investida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Segundo o CPC 36 – Demonstrações Consolidada: Direitos de proteção são direitos destinados a proteger o interesse da parte que os detém, sem dar a essa parte poder sobre a entidade à qual esses direitos se referem. Assim sendo, direitos de proteção não são considerados para avaliar se o investidor detém efetivamente o poder sobre a sociedade investida. 31 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 Conforme previsão do FIPECAFI, em geral, os direitos de proteção referem‑se a mudanças fundamentais nas atividades da investida ou aplicam‑se em situações específicas, sem contudo dotar seu detentor de poder sobre a investida e tampouco conferem poder para impedir outra parte de ter poder sobre a investida. O CPC 36 (R3), item B28, cita alguns exemplos de direitos de proteção, são eles: a) direito de credor de impor limites ao tomador de empréstimos com relação à realização de atividades que podem modificar significativamente o risco de crédito do tomador em detrimento do credor; b) direito de parte titular de participação não controladora na investida de aprovar investimentos capitalizáveis superiores ao exigido no curso normal dos negócios ou de aprovar a emissão de instrumentos patrimoniais ou de dívida; c) direito de credor de apropriar-se legalmente de ativos do tomador de empréstimo se este deixar de satisfazer condições especificadas de amortização de empréstimo",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q6",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade/2016) O poder sobre a investida decorre de direitos e deve ser definido em função da capacidade atual do investidor para dirigir as atividades relevantes da investida, isto é, aquelas que afetam significativamente os retornos dessa investida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O CPC 36 afirma que Poder são direitos existentes que dão a capacidade atual de dirigir as atividades relevantes e vejamos o que o item 10 do mesmo pronunciamento nos apresenta: 10. O investidor tem poder sobre a investida quando tem direitos existentes que lhe dão a capacidade atual de dirigir as atividades relevantes, ou seja, as atividades que afetam significativamente os retornos da investida. Em forma de esquema, para ajudar na memorização: direitos Poder dirigir atividades relevantes; Atividades afetam retornos",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q7",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade/2016) A consolidação requer a utilização de políticas contábeis uniformes para transações similares.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Texto do apêndice do Pronunciamento CPC 36 (R3) B87. Se um membro do grupo utilizar políticas contábeis diferentes daquelas adotadas nas demonstrações consolidadas para transações similares e eventos em circunstâncias similares, devem ser feitos ajustes apropriados às demonstrações contábeis desse membro do grupo na elaboração das demonstrações consolidadas para garantir a conformidade com as políticas contábeis do grupo. Os balanços que serão consolidados devem ser elaborados de acordo com políticas contábeis uniformes. Caso contrário, a consolidação será feita somando ativos, passivos, receitas e despesas apuradas com critérios de avaliação e registro diferentes entre si, distorcendo as demonstrações consolidadas. Especial cuidado é necessário no caso de controlada no exterior, que segue as normas contábeis do país em que atua. Nesse caso, para consolidação, a controlada deve elaborar demonstrações com critérios contábeis consistentes com os utilizados pela controladora.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q8",
+        "question": "(CEBRASPE/Funpresp-JUD/Contabilidade/2016) A eliminação de resultados não realizados decorrentes de operações intragrupo impacta tanto o valor do ativo quanto o valor do patrimônio líquido do balanço consolidado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Das demonstrações financeiras consolidadas serão excluídas as participações de uma sociedade em outra; Quando uma empresa adquire participação em outra, deve realizar o seguinte lançamento contábil: 33 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 D – Investimento (Ativo Não Circulante), dividido em: - Valor patrimonial - Mais Valia - Goodwill C – Caixa ou bancos (Ativo Circulante) O valor do investimento da investidora corresponde a uma parcela do patrimônio líquido da investida. Assim, na consolidação, eliminamos o investimento da adquirente contra o PL da adquirida. Para reforçar o entendimento, o CPC 36 afirma ainda: B86. Demonstrações consolidadas devem: ==11e785== (c) eliminar integralmente ativos e passivos, patrimônio líquido, receitas, despesas e fluxos de caixa intragrupo relacionados a transações entre entidades do grupo (resultados decorrentes de transações intragrupo que sejam reconhecidos em ativos, tais como estoques e ativos fixos, são eliminados integralmente).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q9",
+        "question": "(CEBRASPE/PC-PE/Perito Criminal–Ciências Contábeis/2016) No que concerne à consolidação de demonstrações contábeis, assinale a opção correta.",
+        "options": [
+          "Os lucros a realizar reconhecidos no passivo da investidora decorrentes de transações entre investidora e investida não serão eliminados.",
+          "Sociedade com investimento em sociedade coligada avaliada pelo método da equivalência patrimonial consolida as demonstrações contábeis.",
+          "O dividendo a receber da investida reconhecido no ativo da investidora não deve ser compensado com o dividendo a pagar para a investidora reconhecido no passivo da investida.",
+          "O ganho resultante da venda de terreno da investidora para a investida que estiver reconhecido no ativo da investida permanecerá no balanço patrimonial consolidado.",
+          "Devem ser eliminados o valor contábil do investimento da controladora na controlada e a parte dessa controladora no patrimônio líquido da controlada."
+        ],
+        "correct": 4,
+        "explanation": "Conforme o CPC 36 (R3) – Procedimentos de consolidação: B86. Demonstrações consolidadas devem: (c) eliminar integralmente ativos e passivos, patrimônio líquido, receitas, despesas e fluxos de caixa intragrupo relacionados a transações entre entidades do grupo (resultados decorrentes de transações intragrupo que sejam reconhecidos em ativos, tais como estoques e ativos fixos, são eliminados integralmente). Os prejuízos intragrupo podem 34 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 indicar uma redução no valor recuperável de ativos, que exige o seu reconhecimento nas demonstrações consolidadas. O Pronunciamento Técnico CPC 32 – Tributos sobre o Lucro se aplica a diferenças temporárias, que surgem da eliminação de lucros e prejuízos resultantes de transações intragrupo. As instruções acima referem-se às assertivas A, C e D. a) Errado. Devem ser eliminados integralmente ativos e passivos, patrimônio líquido, receitas, despesas e fluxos de caixa intragrupo relacionados a transações entre entidades do grupo. b) Errado. A entidade de investimento não deve consolidar as suas controladas nem deve aplicar o Pronunciamento Técnico CPC 15 quando obtiver o controle de outra entidade. Em vez disso, a entidade de investimento deve mensurar esse investimento em controlada ao valor justo por meio do resultado, de acordo com o Pronunciamento Técnico CPC 38. c) Errado. Devem ser eliminados integralmente ativos e passivos, patrimônio líquido, receitas, despesas e fluxos de caixa intragrupo relacionados a transações entre entidades do grupo. d) Errado. Devem ser eliminados integralmente ativos e passivos, patrimônio líquido, receitas, despesas e fluxos de caixa intragrupo relacionados a transações entre entidades do grupo. e) Certo. Conforme o CPC 36 (R3) Procedimentos de consolidação B86. Demonstrações consolidadas devem: (a) combinar itens similares de ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora com os de suas controladas; (b) compensar (eliminar) o valor contábil do investimento da controladora em cada controlada e a parcela da controladora no patrimônio líquido de cada controlada;",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q10",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças /2016) Se uma entidade de investimento controlar outra entidade de investimento, a controladora deverá consolidar as demonstrações contábeis da controlada.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Antes da analisarmos a assertiva, precisamos definir o que é entidade de investimento. Vamos recorrer ao CPC 36: 35 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 27. A entidade de investimento é uma entidade que: (a) obtém recursos de um ou mais investidores com o intuito de prestar a esses investidores serviços de gestão de investimento; (b) se compromete com os seus investidores no sentido de que seu propósito comercial é investir recursos exclusivamente para retornos de valorização do capital, receitas de investimentos ou ambos; e (c) mensura e avalia o desempenho de substancialmente todos os seus investimentos com base no valor justo. A entidade de investimento é uma exceção à consolidação das demonstrações contábeis, vejam o que está previsto no CPC 36: 31. Salvo conforme descrito no item 32, a entidade de investimento não deve consolidar as suas controladas nem deve aplicar o Pronunciamento Técnico CPC 15 quando obtiver o controle de outra entidade. Em vez disso, a entidade de investimento deve mensurar esse investimento em controlada ao valor justo por meio do resultado, de acordo com o Pronunciamento Técnico CPC 38. (Incluído pela Revisão CPC 04)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q11",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças /2016) Para fins de consolidação dos balanços, caso o período contábil da controlada seja encerrado seis meses antes do final do período contábil da controladora, a controlada deverá elaborar informações contábeis adicionais de mesma data que as demonstrações contábeis da controladora.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto e encontramos a resposta no CPC 36: Data das demonstrações contábeis B92. As demonstrações contábeis da controladora e de suas controladas utilizadas na elaboração das demonstrações consolidadas devem ter a mesma data-base. Quando o final do período das demonstrações contábeis da controladora for diferente do da controlada, a controlada deve elaborar, para fins de consolidação, informações contábeis adicionais de mesma data que as demonstrações contábeis da controladora para permitir que esta consolide as informações contábeis da controlada, a menos que seja impraticável fazê-lo. 36 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 Pessoal, o objetivo da consolidação é apresentar a posição financeira e os resultados das operações das diversas empresas do grupo como se fosse uma única entidade. Assim sendo, é perfeitamente lógico que as demonstrações contábeis possuam a mesma data-base.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q12",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças/2016) A obrigatoriedade de consolidação das demonstrações contábeis está diretamente associada ao controle que uma empresa investidora exerce sobre uma empresa investida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pessoal! Demonstrações consolidadas são as demonstrações contábeis de grupo econômico, em que os ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora e de suas controladas são apresentados como se fossem uma única entidade econômica. Texto do pronunciamento CPC 36 (R3) 4. A entidade que seja controladora deve apresentar demonstrações consolidadas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q13",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças/2016) Sendo aplicável a reavaliação de ativos depreciáveis, a realização do ativo decorrente da depreciação aumentaria o resultado individual da empresa ou, se fosse o caso, o resultado consolidado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A Reavaliação de Ativos não é mais permitida no Brasil, mas os CPCs ainda trazem diversos dispositivos sobre o tema e a banca CEBRASPE tem uma “predileção especial” sobre ele. Destacamos que a realização da Reserva de Reavaliação não transita pelo resultado do exercício, mas é tratada como Outros Resultados Abrangentes, sendo lançada diretamente na conta de Lucros Acumulados. O Pronunciamento Técnico CPC 13 – Adoção Inicial da Lei nº 11.638/07 e da Medida Provisória nº 449/08 determinou que a realização da Reserva de Reavaliação deverá ser registrada contra a conta Lucros ou Prejuízos Acumulados, não devendo ser imputada ao resultado do exercício.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q14",
+        "question": "(CEBRASPE/Telebrás/Contador/2015) Para a empresa consolidadora, a eliminação dos lucros não realizados resultantes de transações entre entidades do mesmo grupo deve ser feita a crédito de uma conta de ativo e a débito de uma conta de resultado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "No caso das demonstrações consolidadas, considera-se realizado o resultado quando ocorre venda a terceiro. O lucro não realizado pode ocorrer na venda de estoque, investimento, instrumentos financeiros de curto prazo, imobilizado ou intangível. Na consolidação da Demonstração do Resultado do Exercício (DRE), o lançamento para eliminar os lucros não realizados é o seguinte: D – Receita de Vendas (pelo total das vendas entre empresas do mesmo grupo) C – Estoque (pelo valor do lucro não realizado) C – CMV (pela diferença: Vendas – lucro não realizado",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q15",
+        "question": "(CEBRASPE/Telebrás/Contador/2015) Os direitos de voto potenciais — como os decorrentes de instrumentos conversíveis e de opções —, somente se forem substantivos, serão considerados na determinação da entidade que detém o controle sobre uma investida.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o FIPECAFI, para ter poder sobre a investida, o investidor deve ter direitos que lhe confiram prontamente a capacidade de dirigir as atividades relevantes. Esse poder advém somente de direitos substantivos, portanto, item correto. Mas o que são direitos substantivos??? Vejamos o que nos traz o CPC 36: Direitos substantivos B22. O investidor, ao avaliar se tem poder, deve considerar somente direitos substantivos relativos à investida (detidos pelo investidor e por outras partes). Para que o direito seja substantivo, o titular deve ter a capacidade prática de exercer esse direito. B23. Determinar se direitos são substantivos exige julgamento, levando-se em conta todos os fatos e circunstâncias. Os fatores a serem considerados ao efetuar essa determinação incluem, entre outros: 38 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 (a) se há quaisquer barreiras (econômicas ou outras) que impedem o titular (ou titulares) de exercer os direitos. Exemplos de barreiras incluem, entre outras: (i) sanções e incentivos pecuniários que impeçam (ou dissuadam) o titular de exercer seus direitos; (ii) preço de exercício ou de conversão que cria uma barreira que impeça (ou dissuada) o titular de exercer seus direitos; (iii) termos e condições que tornam improvável que os direitos sejam exercidos, como, por exemplo, condições que limitam de forma estrita a época de seu exercício; (iv) ausência de mecanismo explícito e razoável nos documentos constitutivos da investida ou nas leis ou regulamentos aplicáveis que permita ao titular exercer seus direitos; (v) incapacidade do titular dos direitos de obter as informações necessárias para exercer seus direitos; (vi) barreiras ou incentivos operacionais que impeçam (ou dissuadam) o titular de exercer seus direitos (por exemplo, ausência de outros gerentes dispostos ou aptos a prestar serviços especializados ou a prestar os serviços e assumir outras participações detidas pelo gerente em exercício); e (vii) exigências legais ou regulatórias que impeçam o titular de exercer seus direitos (por exemplo, quando o investidor estrangeiro é proibido de exercer seus direitos); (b) quando o exercício de direitos exige a concordância de mais de uma parte, ou quando os direitos são detidos por mais de uma parte, quer haja mecanismo que dê a essas partes a capacidade prática de exercer seus direitos coletivamente, se optarem por exercê-lo. A ausência desse mecanismo é um indicador de que os direitos podem não ser substantivos. Quanto maior o número de partes que devam concordar com o exercício de direitos, menor é a probabilidade de que esses direitos sejam substantivos. Contudo, o conselho de administração cujos membros sejam independentes do tomador de decisões pode atuar como mecanismo para que numerosos investidores atuem coletivamente no exercício de seus direitos. Portanto, é mais provável que direitos de destituição que possam ser exercidos por conselho de administração independente sejam substantivos do que se os mesmos direitos pudessem ser exercidos individualmente por grande número de investidores; (c) se a parte ou partes que detêm os direitos se beneficiem do seu exercício. Por exemplo, o titular de direitos de voto potenciais na investida deve considerar o preço de exercício ou de conversão do instrumento. É mais provável que os termos e condições de direitos de voto potenciais sejam substantivos quando o instrumento está dentro do preço (in-the-money) ou quando o investidor se beneficiar, por outras razões (por exemplo, pela captura de sinergias entre o investidor e a investida), do exercício ou conversão do instrumento. 39 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 B24. Para serem substantivos, os direitos precisam também ser exercíveis quando as decisões sobre a direção das atividades relevantes precisam ser tomadas. Normalmente, para serem substantivos, os direitos precisam ser atualmente exercíveis. Contudo, alguns direitos podem ser substantivos ainda que não sejam atualmente exercíveis. Exemplos de aplicação Exemplo 3 A investida realiza assembleias ordinárias de acionistas nas quais são tomadas decisões para a direção das atividades relevantes. A próxima assembleia de acionistas agendada será realizada em oito meses. Contudo, acionistas que, individual ou coletivamente, detêm no mínimo 5% dos direitos de voto podem convocar uma assembleia extraordinária para alterar as políticas existentes sobre as atividades relevantes, mas a exigência de entrega de notificação aos demais acionistas tem por implicação o fato de essa assembleia extraordinária não poder ser realizada antes de decorridos 30 dias. As políticas sobre as atividades relevantes somente podem ser alteradas em assembleias extraordinárias de acionistas ou em assembleias de acionistas agendadas. Isto inclui a aprovação de vendas substanciais de ativos, bem como a realização ou a alienação de investimentos significativos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q16",
+        "question": "(CEBRASPE/STJ/Analista Judiciário - Contadoria/2015) Os resultados decorrentes de transações intragrupo que sejam reconhecidos no ativo, a exemplo da venda de estoques e de itens do ativo imobilizado, somente devem ser eliminados das demonstrações contábeis consolidadas quando tais ativos forem negociados com terceiros.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado! Na verdade, se os ativos NÃO forem negociados com terceiros, teremos resultados não realizados, que devem ser eliminados das demonstrações contábeis consolidadas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q17",
+        "question": "(CEBRASPE/ANATEL/Contabilidade/2014) O goodwill decorrente de aquisição de uma controlada será classificado como uma conta do grupo ativo não circulante, subgrupo investimentos, quando a empresa controladora apresentar balanços consolidados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "40 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 Nos Balanços Consolidados a Mais Valia deve eliminada (agregada) aos itens que lhe deram origem e o Goodwill será transferido para o ativo intangível e não para o subgrupo Investimentos.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q18",
+        "question": "(CEBRASPE/DPF/Perito Criminal Federal/Área 01/2013) As companhias Ydra e Kithero investiram na companhia Xios, detendo, respectivamente, 44,5% e 9% das ações ordinárias emitidas por essa companhia. A companhia Ydra não investiu na companhia Kithero, mas realizou com ela um acordo, segundo o qual a Kithero sempre seguiria os votos da Ydra nas decisões relativas à Xios. Nessa situação, é correto afirmar que as demonstrações financeiras da Xios deverão, obrigatoriamente, ser consolidadas pela companhia Ydra.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Podemos representar a situação descrita na questão da seguinte maneira: Ydra 44,5% Acordo Xios sobre votos 9% Kithero Segundo a LSA, temos que: Art. 116. Entende-se por acionista controlador a pessoa, natural ou jurídica, ou o grupo de pessoas vinculadas por acordo de voto, ou sob controle comum, que: a) é titular de direitos de sócio que lhe assegurem, de modo permanente, a maioria dos votos nas deliberações da assembleia-geral e o poder de eleger a maioria dos administradores da companhia; e b) usa efetivamente seu poder para dirigir as atividades sociais e orientar o funcionamento dos órgãos da companhia. Assim, apesar de possuir apenas 9% de participação na Cia. Xios, a Cia. Ydra é controladora, pois, como a soma das participações como direito a voto daquelas duas companhias sobre esta é de 53,5%, está assegurada, de modo permanente, a maioria dos votos nas deliberações da empresa. Assim, atendendo ao comando do CPC 36 – Demonstrações Consolidadas, a entidade que seja controladora deve apresentar demonstrações consolidadas. 41 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q19",
+        "question": "(CEBRASPE/Auditor Fiscal do Trabalho/2013) Caso haja necessidade, é permitido realizar ajustes para adequar demonstrações contábeis de entidade de grupo econômico que utilize políticas contábeis diferentes para transações e eventos de mesma natureza.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Texto do apêndice do Pronunciamento CPC 36 (R3): B87. Se um membro do grupo utilizar políticas contábeis diferentes daquelas adotadas nas demonstrações consolidadas para transações similares e eventos em circunstâncias similares, devem ser feitos ajustes apropriados às demonstrações contábeis desse membro do grupo na elaboração das demonstrações consolidadas para garantir a conformidade com as políticas contábeis do grupo. Os balanços que serão consolidados devem ser elaborados de acordo com políticas contábeis uniformes. Caso contrário, a consolidação será feita somando ativos, passivos, receitas e despesas apuradas com critérios de avaliação e registro diferentes entre si, distorcendo as demonstrações consolidadas. Especial cuidado é necessário no caso de controlada no exterior, que segue as normas contábeis do país em que atua. Nesse caso, para consolidação, a controlada deve elaborar demonstrações com critérios contábeis consistentes com os utilizados pela controladora.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q20",
+        "question": "(CEBRASPE/INMETRO/Técnico Contabilidade/2012) Considere que, em dezembro de 2009, uma companhia investidora, cujo ativo total e o patrimônio líquido somavam, respectivamente, R$ 5.000.000,00 e R$ 1.200.000,00, tenha adquirido um investimento no valor de R$ 600.000,00, relativo a 60% do capital da companhia investida. Nesse mesmo período, a companhia investida apresentava ativo total de R$ 2.500.000,00 e patrimônio líquido de R$ 1.000.000,00, dos quais R$ 750.000,00 e R$ 250.000,00 consistiam, respectivamente, em capital social e reservas. Sabendo-se que não existem transações efetuadas entre as duas companhias, é correto afirmar que o valor do ativo total (em reais), no balanço patrimonial consolidado, é de",
+        "options": [
+          "6.200.000.",
+          "6.900.000.",
+          "7.500.000.",
+          "8.100.000.",
+          "9.700.000. 42 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76"
+        ],
+        "correct": 1,
+        "explanation": "A questão apresenta muitas informações. Nesses casos, inicie de baixo para cima: o que pede, exatamente, a questão? É o valor do Ativo Total consolidado. Assim, vamos somar o ativo das duas companhias e eliminar o que estiver em dobro. Precisamos, em primeiro lugar, identificar se a aquisição do investimento foi realizada com ágio. Nesse caso, só eliminamos do Ativo da investidora o valor patrimonial, contra o PL da Investida. O valor do ágio permanece no Ativo. PL total da investida 1.000.000 x 60% = 600.000 Como a Investidora adquiriu 60% da Investida por 600.000, não houve ágio e nem deságio (adquiriu pelo valor patrimonial). Vamos calcular o Ativo consolidado: Ativo Investidora: 5.000.000 Ativo Investida: 2.500.000 Ajustes: Investimento em controladas (600.000) ATIVO CONSOLIDADO: 6.900.000",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q21",
+        "question": "(CEBRASPE/TJ-RR/Contador/2012) De acordo com a legislação societária, as parcelas dos resultados do exercício, dos lucros ou prejuízos acumulados e do custo de estoques ou do ativo não circulante que corresponderem a resultados realizados de negócios entre as sociedades devem ser excluídas dos relatórios contábeis consolidados.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Conforme a Lei 6404/76: Art. 250. Das demonstrações financeiras consolidadas serão excluídas: I - as participações de uma sociedade em outra; II - os saldos de quaisquer contas entre as sociedades; 43 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 III – as parcelas dos resultados do exercício, dos lucros ou prejuízos acumulados e do custo de estoques ou do ativo não circulante que corresponderem a resultados, ainda não realizados, de negócios entre as sociedades. (Redação dada pela Lei nº 11.941, de 2009) Prezados, o CEBRASPE adora copiar a lei 6404/76 e alterar ou suprimir uma palavra ou expressão. Nesse caso, “resultados, ainda não realizados,...” virou “resultados realizados”, o que torna a assertiva errada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q22",
+        "question": "(CEBRASPE/TJ-ES/Analista Contabilidade/2012) Nos procedimentos de consolidação, resultados decorrentes das transações intragrupo devem ser eliminados. Desse modo, se a controlada vender por R$ 60.000,00 mercadorias destinadas ao imobilizado da controladora, que tenham sido adquiridas por R$ 50.000,00, deve-se eliminar simultaneamente - nas demonstrações da controlada e da controladora - o valor de R$ 60.000,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na Controlada: vendeu mercadoria que custaram 50.000 por 60.000. Na controladora: Comprou ativo Imobilizado por 50.000. Nesse caso, o ajuste nas demonstrações consolidadas é o seguinte: D – Receita de Vendas (pelo total das vendas entre empresas do mesmo grupo) C – Imobilizado (pelo valor do lucro não realizado) C – CMV (pela diferença: Vendas – lucro não realizado). Assim: D – Receita de Vendas (Resultado).....................60.000 C – Imobilizado (Ativo).....................................10.000 C – CMV (Resultado).........................................50.000",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q23",
+        "question": "(CEBRASPE/ABIN/Agente Técnico Contabilidade/2010) A consolidação do balanço patrimonial permite apresentar aos usuários as informações patrimoniais e financeiras de um grupo empresarial como se fosse de uma única entidade contábil.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Conforme o Pronunciamento CPC 36 (R3) – Demonstrações Consolidadas: Demonstrações consolidadas são as demonstrações contábeis de grupo econômico, em que os ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora e de suas controladas são apresentados como se fossem uma única entidade econômica.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q24",
+        "question": "(CEBRASPE/Serpro/Gestão Financeira/2010) As participações de uma sociedade em outra devem ser excluídas no processo de consolidação de suas demonstrações contábeis.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo, conforme a Lei 6.404/76: Art. 250. Das demonstrações financeiras consolidadas serão excluídas: I - as participações de uma sociedade em outra;",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q25",
+        "question": "(CEBRASPE/Serpro/Gestão Financeira/2010) Os saldos de quaisquer contas existentes entre as sociedades objeto de consolidação devem ser excluídos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Certo, segundo a Lei 6.404/76: Art. 250. Das demonstrações financeiras consolidadas serão excluídas: I - as participações de uma sociedade em outra; II - os saldos de quaisquer contas entre as sociedades; 45 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 III – as parcelas dos resultados do exercício, dos lucros ou prejuízos acumulados e do custo de estoques ou do ativo não circulante que corresponderem a resultados, ainda não realizados, de negócios entre as sociedades. (Redação dada pela Lei nº 11.941, de 2009)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q26",
+        "question": "(CEBRASPE/Inmetro/Ciências contábeis/2009 - adaptada) Uma controladora deve apresentar as participações de não controladores no balanço patrimonial consolidado, dentro do patrimônio líquido, separadamente do patrimônio líquido dos proprietários da controladora.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Participação de não controlador é a parte do patrimônio líquido da controlada não atribuível, direta ou indiretamente, à controladora. Ou seja, é a parte dos minoritários. A assertiva é cópia do CPC 36: 22. Uma controladora deve apresentar as participações de não controladores no balanço patrimonial consolidado, dentro do patrimônio líquido, separadamente do patrimônio líquido dos proprietários da controladora.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q27",
+        "question": "(CEBRASPE/Inmetro/Ciências contábeis/2009 – adaptada) A Comissão de Valores Mobiliários (CVM) poderá expedir normas a respeito da abrangência da consolidação das demonstrações financeiras das companhias abertas. Em casos especiais, a CVM poderá autorizar a exclusão de uma ou mais sociedades controladas das demonstrações financeiras consolidadas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo a Lei 6.404/76: Art. 249. Parágrafo único. A Comissão de Valores Mobiliários poderá expedir normas sobre as sociedades cujas demonstrações devam ser abrangidas na consolidação, e: a) determinar a inclusão de sociedades que, embora não controladas, sejam financeira ou administrativamente dependentes da companhia; b) autorizar, em casos especiais, a exclusão de uma ou mais sociedades controladas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q28",
+        "question": "(CEBRASPE/Inmetro/Ciências contábeis/2009 - adaptada) Para fins de elaboração das demonstrações financeiras, serão excluídas as parcelas dos resultados do exercício, dos lucros ou prejuízos acumulados e do custo de estoques ou do ativo não circulante que corresponderem a resultados, ainda não realizados, de negócios entre as sociedades.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo a Lei 6.404/76: Art. 250. Das demonstrações financeiras consolidadas serão excluídas: III – as parcelas dos resultados do exercício, dos lucros ou prejuízos acumulados e do custo de estoques ou do ativo não circulante que corresponderem a resultados, ainda não realizados, de negócios entre as sociedades. (Redação dada pela Lei nº 11.941, de 2009)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q30",
+        "question": "(CEBRASPE/MEC/2005) Considere que a controladora A detém 60 % do capital da controlada B; o investimento, avaliado com base na equivalência patrimonial, corresponde a R$ 420.000,00; os patrimônios líquidos de A e de B são de R$ 1.000.000,00 e R$ 700.000,00, respectivamente. Na hipótese de consolidação dos balanços de A e de B, a parcela remanescente do patrimônio líquido de B ficará reduzida a R$ 280.000,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O que a questão chamou de “parcela remanescente do patrimônio líquido de B” é a participação de terceiros. É o que sobra do PL de B depois de efetuar o ajuste referente à participação de A. O cálculo da participação dos minoritários é simples: PL da Investida x % dos minoritários. Assim, R$ 700.000,00 x 40% = R$ 280.000,00.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula21_q2",
+        "question": "(FGV/PC AM/Perito Criminal/4ª Classe/Contabilidade/2022 A Cia X tem 100% de participação na Cia Y. Em 31/12/X0, elas apresentam os seguintes balanços patrimoniais: Na data, a Cia X possuía dois terrenos, o primeiro contabilizado por R$ 30.000, e o segundo, por R$ 50.000. Em janeiro de X1, a Cia X vendeu os dois terrenos para a Cia Y, o primeiro por R$ 40.000 e o segundo por R$ 45.000. O valor contabilizado em “Terrenos”, no balanço patrimonial consolidado, em 31/01/X1, é",
+        "options": [
+          "R$ 40.000.",
+          "R$ 75.000.",
+          "R$ 80.000.",
+          "R$ 85.000.",
+          "R$ 90.000."
+        ],
+        "correct": 1,
+        "explanation": "Questão que trata de consolidação de demonstrações contábeis, previsto no CPC 36. Aqui temos uma operação de venda entre uma controladora e uma controlada. Nesse caso, temos que eliminar eventual lucro não realizado na operação. Vamos lá Lucro na Venda do Terreno 1 = 40.000 - 30.000 = 10.000 O lucro não realizado deve ser eliminado na consolidação e o terreno será evidenciado nas demonstrações contábeis por R$ 30.000. Resultado na Venda do Terreno 2 = 45.000 - 50.000 = (5.000) Percebam que uma operação foi com lucro e outra com prejuízo. Como vamos proceder? De acordo com o CPC 36 - Demonstrações Consolidadas, os prejuízos intragrupo podem indicar uma redução no valor recuperável de ativos, que exige o seu reconhecimento nas demonstrações consolidadas Assim sendo, o terreno apresentado será apresentado nas demonstrações contábeis por 50.000 - 5.000 = 45.000. Portanto, o valor total contabilizado em terrenos será de R$ 30.000 + R$ 45.000 = R$ 75.000,00.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q3",
+        "question": "(FGV/SEFAZ AM/Auditor Fiscal da Receita Estadual/2022) Em 31/12/X0, as Cias X e Y apresentavam os seguintes balanços patrimoniais: Em 10/01/X1, a Cia. Y vendeu todo o seu estoque para a Cia. X a prazo por R$20.000. Em 20/01/X1, a Cia. X vendeu 60% do estoque para terceiros por R$24.000, a prazo. Assinale a opção que indica, no balanço patrimonial da Cia. X, em 31/01/X1, o saldo da conta investimentos.",
+        "options": [
+          "R$16.000.",
+          "R$19.200.",
+          "R$20.800.",
+          "R$22.400.",
+          "R$24.000."
+        ],
+        "correct": 1,
+        "explanation": "Questão que trata do reconhecimento de lucro não realizado. O capital social da empresa Y é de 20.000, sendo que 16.000, isto é, 16.000/20.000 = 80%, pertencem à Cia X. Portanto, a empresa X é controladora da empresa Y. A questão pede o saldo da conta investimentos da Cia X, o que corresponde ao valor do capital social da Cia Y que pertence à controladora, após o reconhecimento de lucros na controlada. Ela fala que em 10/01/X1, a Cia. Y vendeu todo o seu estoque para a Cia. X a prazo por R$20.000. Essa operação gerou lucro de 20.000 - 12.000 = 8.000. Como essa operação ocorreu entre controladora e controlada, temos que eliminar 100% do lucro não realizado. Para o grupo como um todo, seria como se a operação não tivesse ocorrido. Em 20/01/X1, a Cia. X vendeu 60% do estoque para terceiros por R$24.000, a prazo. O estoque que ainda permanece na empresa, isto é, 40%, representa lucro não realizado. Agora, como a operação ocorreu com terceiros, a Cia X vai reconhecer o seguinte: Receita de Vendas 24.000 (-) CMV 0,60 x 20.000 = (12.000) Lucro 8.000 51 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 Agora, desse lucro, quanto \"pertence\" à Cia X? 80%, que é o seu percentual de participação: 8.000 x 0,80 = 6.400. Nesse momento, para encontrarmos o saldo final da conta investimentos, temos que retirar o lucro que ainda permanece nos estoques, ou seja, o lucro não realizado: 8.000 x 0,40 = 3.200. Saldo Final da conta Investimentos = 16.000 + 6.400 - 3.200 = 19.200.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q4",
+        "question": "(FGV/SEFAZ AM/Auditor Fiscal da Receita Estadual/2022 As Cias. X e Y apresentavam os seguintes balanços patrimoniais, em 31/12/X0. Em janeiro de X1, a Cia. X vendeu o terreno para a Cia. Y, por R$90.000 à vista. Assinale a opção que indica o resultado apurado com a venda do terreno na Demonstração do Resultado do Exercício da Cia Y.",
+        "options": [
+          "Zero.",
+          "R$4.000.",
+          "R$10.000.",
+          "R$16.000.",
+          "R$20.000."
+        ],
+        "correct": 0,
+        "explanation": "A Cia X possui 70% de participação no Capital Social da empresa Y = 70.000/100.000 = 70%. Portanto, temos uma situação de controle. A Cia X vendeu um terreno que custava 80.000 por 90.000 para sua controlada. Teoricamente o lucro foi de 10.000. Vejamos o que a questão pediu e, confesso, que isso é bem curioso: Assinale a opção que indica o resultado apurado com a venda do terreno na Demonstração do Resultado do Exercício da Cia Y. Se analisarmos a empresa Y, a controlada, a compra de um terreno é apenas um fato permutativo, pessoal! Não há efeitos no resultado. Por isso, o gabarito é ZERO! 52 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 Destacamos que a questão não pediu o resultado na DRE consolidada do grupo, mas também seria ZERO, visto que temos lucro não realizado, pois, para o grupo, é como se a operação não tivesse ocorrido.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula21_q7",
+        "question": "(FGV/SEFIN-RO/Auditor Fiscal de Tributos Estaduais/2018) A Cia. Um possui 80% de participação na Cia. Dois. Em 31/12/2016, o Balanço Patrimonial das duas empresas eram os seguintes: Em 2017, aconteceram os fatos a seguir. • A Cia. Dois comprou 10 unidades de estoque, por R$ 100 cada, à vista. • A Cia. Dois vendeu as 10 unidades para a Cia Um por R$ 120 cada, a prazo. • A Cia. Um vendeu 8 unidades de estoque para terceiros, por R$ 150 cada, à vista. Com base nas informações acima, assinale a opção que indica o valor do Patrimônio Líquido Consolidado da Cia. Um, em 31/12/2017.",
+        "options": [
+          "R$ 1.300.",
+          "R$ 1.660.",
+          "R$ 1.700. 55 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76",
+          "R$ 1.900.",
+          "R$ 2.620."
+        ],
+        "correct": 3,
+        "explanation": "A ideia básica da consolidação das demonstrações contábeis é apresentar as demonstrações contábeis da controladora e suas controladas como se fossem uma unidade econômica. Os procedimentos básicos de consolidação são: Procedimentos de consolidação B86. Demonstrações consolidadas devem: (a) combinar itens similares de ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora com os de suas controladas; (b) compensar (eliminar) o valor contábil do investimento da controladora em cada controlada e a parcela da controladora no patrimônio líquido de cada controlada (o Pronunciamento Técnico CPC 15 explica como contabilizar qualquer ágio correspondente); (c) eliminar integralmente ativos e passivos, patrimônio líquido, receitas, despesas e fluxos de caixa intragrupo relacionados a transações entre entidades do grupo (resultados decorrentes de transações intragrupo que sejam reconhecidos em ativos, tais como estoques e ativos fixos, são eliminados integralmente). Os prejuízos intragrupo podem indicar uma redução no valor recuperável de ativos, que exige o seu reconhecimento nas demonstrações consolidadas. O Pronunciamento Técnico CPC 32 – Tributos sobre o Lucro se aplica a diferenças temporárias, que surgem da eliminação de lucros e prejuízos resultantes de transações intragrupo. Vejamos a contabilização das vendas de mercadorias: Cia Dois Compra de mercadoria: D – Estoque (Ativo) 1000 C – Caixa (Ativo) 1000 Venda para Cia Um: D – Contas a Receber (ativo) 1200 C – Receita de Vendas (Resultado) 1200 D – CMV (Resultado) 1000 C – Estoque (Ativo) 1000 56 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 Lucro da Cia Dois: 1200 – 1000 = 200 (consideramos que o lucro foi transferido para reservas, no PL). Cia Um: Compra de estoque da Cia Dois: D – Estoque (Ativo) 1.200 C – Contas a pagar – Cia Dois (Passivo) 1.200 Venda para terceiros de 8 unidades por 150 cada, a vista: D – Caixa (Ativo) 1.200 C – Receita de vendas (Resultado) 1.200 D – CMV (Resultado) 960 C – Estoque (Ativo) 960 Lucro da Cia um: 1200 – 960 = R$ 240,00 Teoricamente, o Lucro Consolidado seria a soma dos dois, isto é, fazendo, “linha a linha”, 240 + 200 = 440. Porém, temos que eliminar os lucros não realizados referente a duas unidades em estoque: D – Lucro não realizado (Resultado) 40 C – Estoque (Ativo) 40 O lucro líquido consolidado na verdade é de 440 – 40 = 400. Outra forma de analisar: Consideramos apenas no cálculo da receita bruta, as vendas efetuadas para terceiros, isto é, R$ 1.200. E como CMV, o custo da aquisição e venda feita de terceiros também. A Cia. Dois comprou 10 unidades de estoque, por R$ 100 cada e foram vendidas 8 unidades para terceiros. Assim, o CMV consolidado é de 8 x 100 = 800. Portanto, o Lucro Consolidado é 1200 – 800 = 400. Consolidação: Cia Um Cia Dois Soma Débito Crédito Consolidado Caixa 1200 1200 1200 contas a receber - Cia Um 1200 1200 1200 0 Estoque 200 200 200 Investimento 800 800 800 0 Goodwill 500 500 500 0 Intangível 500 500 Ativo Total 2700 1200 3900 1900 Contas a pagar - Cia Dois 1200 1200 1200 0 57 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 76 Cia Um Cia Dois Soma Débito Crédito Consolidado Capital Social 1300 1000 2300 1000 1300 Reservas 200 200 400 40 360 Minoritários 0 240 240 PL total 2700 1200 3900 1900 Observações: - as contas de investimentos, obrigações e direitos entre as empresas do grupo foram eliminadas na consolidação; - o goodwill é classificado no investimento no balanço individual, mas no consolidado ele é transferido para o Intangível.",
+        "type": "multiple-choice"
+      }
+    ]
+  },
+  {
+    "id": "aula22",
+    "title": "22",
+    "description": "Questões comentadas da 22",
+    "color": "bg-red-700",
+    "questions": [
+      {
+        "id": "aula22_q1",
+        "question": "(FGV/Prefeitura de SJC/Analista em Gestão Municipal/2024) A Cia Lilás e a Cia Violeta eram independentes. Em 2023, a Cia Lilás comprou a Cia Violeta e, em seguida, absorveu todo o patrimônio desta, trazendo seus ativos e passivos para o seu patrimônio, de modo que a Cia Violeta deixou de existir. Essa operação é considerada uma",
+        "options": [
+          "cisão.",
+          "fusão.",
+          "fusão reversa.",
+          "incorporação.",
+          "incorporação reversa."
+        ],
+        "correct": 3,
+        "explanation": "Segundo a Lei 6.404/76: Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações. Foi o que a nossa questão apresentou. Houve incorporação, pois a Cia Violeta deixou de existir, sendo incorporada a Lilás, passando apenas essa a existir, sucedendo Violeta em todos os direitos e obrigações. A sociedade incorporada é extinta, independentemente de sua liquidação ou dissolução.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q2",
+        "question": "(FGV/Auditor Fiscal de Tributos Municipais/SJC/2024) Em relação à reorganização e reestruturação de empresas, analise as situações a seguir: I. encerramento da liquidação; II incorporação ou fusão; III. cisão com versão de todo o patrimônio em outras sociedades. De acordo com a Lei nº 6.404/76 e modificações, extingue-se a companhia na(s) seguinte(s) situação(ões):",
+        "options": [
+          "I, somente.",
+          "e II, somente.",
+          "e III, somente.",
+          "II e III, somente.",
+          "I, II e III. 46 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156"
+        ],
+        "correct": 4,
+        "explanation": "Conforme previsão da Lei 6404/76, temos que: Art. 219. Extingue-se a companhia: I - pelo encerramento da liquidação; II - pela incorporação ou fusão, e pela cisão com versão de todo o patrimônio em outras sociedades. Assim sendo, todas as alternativas estão corretas.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q8",
+        "question": "(FGV/Senado Federal/Analista Legislativo - Contabilidade/2022) Em relação ao reconhecimento e à mensuração do goodwill, assinale a afirmativa correta. (A) No balanço patrimonial consolidado, é contabilizado como investimentos. (B) No balanço patrimonial individual da empresa controladora, é contabilizado como ativo intangível. (C) Nas demonstrações contábeis consolidadas, deve ser feito o teste por recuperabilidade de maneira isolada. (D) Nas demonstrações contábeis individuais da empresa controladora, deve ser feito o teste por recuperabilidade de maneira isolada. (E) Nas demonstrações contábeis individuais das empresas controladora e consolidadas, deve haver amortização pelo período esperado de retorno.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "53 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Para resolvermos essa questão, vamos recorrer ao Manual de Contabilidade Societária (FIPECAFI), o qual afirma, na página 217: A partir da adoção de normas contábeis brasileiras convergentes com as normas internacionais, o ágio por expectativa de rentabilidade futura – goodwill – não pode mais ser amortizado, devendo simplesmente permanecer como subconta dos investimentos em coligadas ou controladas (inclusive controladas em conjunto) até a baixa do investimento por perda do controle ou da influência, como quando da alienação total ou parcial do investimento, ou ainda pelo reconhecimento de perdas por impairment. Na perspectiva das demonstrações individuais do investidor, o que está sujeito ao teste de recuperabilidade é o investimento como um todo (no caso das coligadas e controladas em conjunto) e não o valor específico do goodwill (apesar de que, em havendo perdas, a subconta do goodwill é que será primeiramente baixada). Já no caso de goodwill por investimento em controlada, ele também não é mais amortizado, mas o teste de impairment é feito de maneira isolada, sobre ele especificamente. Lembrar que o goodwill, nos balanços individuais da controladora, também é apresentado dentro de Investimentos, e não no Ativo Intangível. Afinal, o goodwill é da investida, da controlada, e não da controladora. Para esta, trata-se de um investimento. A subdivisão na sua conta de Investimentos é tão somente para controle interno. Ou seja, o ágio por expectativa de rentabilidade futura (goodwill adquirido) advindo da combinação de negócios possui \"dupla classificação\". No balanço individual da controladora, o goodwill fica no ativo não circulante, subgrupo Investimento. Mas, no balanço consolidado, o goodwill é reclassificado para o Ativo Intangível. Portanto, as assertivas A e B estão incorretas. Além disso, o goodwill não deve ser amortizado, visto que não há base sistemática para tal. Portanto, a assertiva E está errada. A alternativa D está errada, pois, nas demonstrações contábeis individuais da empresa controladora, deve ser feito o teste por recuperabilidade no investimento como um todo. Assim sendo, nosso gabarito é a alternativa C.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q9",
+        "question": "(FGV/SEFAZ AM/Auditor Fiscal da Receita Estadual/2022) Em 01/01/X0, a Cia. X adquiriu 100% de participação na Cia. Y, por R$350.000. O controle foi transferido em 10/01/X0. Neste dia, a Cia X, com o apoio de uma empresa de consultoria externa, estimou o valor justo dos ativos e dos passivos da Cia. Y, do seguinte modo: 54 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Valor Contábil Valor Justo Ativo Total 250.000 290.000 Passivo Total 70.000 70.000 Patrimônio Líquido 180.000 220.000 Além disso, o valor justo dos ativos intangíveis não reconhecidos contabilmente na Cia. Y correspondiam a R$15.000. Assinale a opção que indica o valor do goodwill contabilizado pela Cia. X no momento do reconhecimento contábil da operação.",
+        "options": [
+          "R$45.000.",
+          "R$60.000.",
+          "R$115.000.",
+          "R$130.000.",
+          "R$170.000."
+        ],
+        "correct": 2,
+        "explanation": "De acordo com o CPC 15 - Combinações de Negócios, item 32, o adquirente deve reconhecer o ágio por expectativa de rentabilidade futura (goodwill), na data da aquisição, mensurado pelo montante que (a) exceder (b) abaixo: (a) a soma: (i) da contraprestação transferida em troca do controle da adquirida, mensurada de acordo com este Pronunciamento, para a qual geralmente se exige o valor justo na data da aquisição (ver item 37); (ii) do montante de quaisquer participações de não controladores na adquirida, mensuradas de acordo com este Pronunciamento; e (iii) no caso de combinação de negócios realizada em estágios (ver itens 41 e 42), o valor justo, na data da aquisição, da participação do adquirente na adquirida imediatamente antes da combinação; (b) o valor líquido, na data da aquisição, dos ativos identificáveis adquiridos e dos passivos assumidos, mensurados de acordo com este Pronunciamento. Em suma: o goodwill é a diferença entre a contraprestação transferida pelo controle da adquirida e o valor líquido, avaliado a valor justo, dos ativos identificáveis e dos passivos assumidos: Valor Pago = 350.000 Valor Justo dos Ativos Identificáveis e Passivos Assumidos = 220.000 + 15.000 (intangível não reconhecido) = 235.000 Goodwill = 350.000 - 235.000 = R$ 115.000.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q10",
+        "question": "(FGV/SEMSA Manaus/Especialista em Saúde/Contador/2022) Em 31/12/X0, as Cias X e Y, independentes, apresentavam os seguintes balanços patrimoniais: Cia X: Ativo Circulante 160.000 Passivo Circulante 12.000 Caixa 100.000 Salários a pagar 12.000 Estoques 20.000 Pasivo não Circulante 58.000 Clientes 40.000 Contas a pagar 58.000 Ativo não Circulante 50.000 Ativo Imobilizado Patrimônio Líquido 140.000 Móveis 50.000 Capital Social 140.000 Ativo Total 210.000 210.000 Cia Y: Ativo Circulante 100.000 Caixa 100.000 Ativo não Circulante 60.000 Ativo Imobilizado Patrimônio Líquido 160.000 Terrenos 60.000 Capital Social 160.000 Ativo Total 160.000 Passivo + PL 160.000 Em janeiro de X1, as Cias X e Y fazem uma fusão, constituindo a Cia Z. Na data, o valor de mercado do terreno era de R$80.000. Assinale a opção que indica a porcentagem da Cia Z que pertence ao sócio da Cia X após a fusão.",
+        "options": [
+          "43,75%.",
+          "46,67%.",
+          "50%.",
+          "53,85%.",
+          "56,76%."
+        ],
+        "correct": 0,
+        "explanation": "De acordo com o art. 228 da Lei 6404/76, a fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que lhes sucederá em todos os direitos e obrigações. Assim, duas ou mais sociedades se juntam para a formação de uma nova. As antigas desaparecem. Esquematizemos: X Z Y 56 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Na questão apresentada, nesse caso, a Cia Z irá receber os ativos e os passivos das Cias X e Y, todavia, esses elementos serão avaliados a valor justo, quando da combinação de negócios. Ativos Cia X = 210.000 Passivos Cia X = 70.000 PL Cia X = 210.000 - 70.000 = 140.000 Agora, vamos analisar a Cia Y: Ativos Cia Y = 160.000 + 20.000 (terreno avaliado a valor justo) = 180.000 Passivos Cia Y = 0 PL Cia Y = 180.000 PL da Cia Z (fusão) = 140.000 + 180.000 = 320.000. O percentual que cabe ao sócio X é igual = 140.000/320.000 = 43,75%",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q14",
+        "question": "(FGV/ALE-RO/Analista Leg./Contabilidade/2018) As Cias. X e Y apresentavam os seguintes balanços patrimoniais em 31/12/2017: Em 02/01/2018, os sócios da Cia. X e da Cia. Y fazem uma fusão, constituindo a Cia. Z. Antes da fusão, as empresas fizeram um estudo que constatou que os empregados da Cia. X têm valor de R$ 40.000, enquanto os empregados da Cia. Y têm valor de R$ 30.000. Assinale a opção que indica a porcentagem da Cia. Z atribuída aos sócios da Cia. X e da Cia. Y, respectivamente.",
+        "options": [
+          "22,22% e 77,78%.",
+          "37,50% e 62,50%.",
+          "41,18% e 58,82%.",
+          "50,00% e 50,00%.",
+          "57,14% e 42,86%."
+        ],
+        "correct": 1,
+        "explanation": "Questão polêmica, pessoal. De acordo com o art. 228 da Lei 6404/76, a fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que lhes sucederá em todos os direitos e obrigações. 61 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Assim, duas ou mais sociedades se juntam para a formação de uma nova. As antigas desaparecem. Esquematizemos: X Z Y Na questão apresentada, nesse caso, a Cia Z irá receber os ativos e os passivos das Cias X e Y, todavia, esses elementos serão avaliados a valor justo, quando da combinação de negócios. PL Cia X = 20.000 Agora, vamos analisar a Cia Y: PL Cia Y = 70.000 PL da Cia Z (fusão) = 20.000 + 70.000 = 90.000. O percentual que cabe ao sócio X é igual = 20.000/90.000 = 22,22% O percentual que cabe ao sócio Y é igual = 70.000/90.000 = 77,78% O que nos levaria ao gabarito A pessoal. Mas esse não foi o entendimento da banca. Ela considerou que os empregados deveriam ser agregados ao goodwill na combinação de negócios, provavelmente com base nesse item do CPC 15: Força de trabalho e outros itens não identificáveis B37. O adquirente deve incorporar ao ágio por expectativa de rentabilidade futura (goodwill) o valor de um ativo intangível adquirido que não seja identificável na data da aquisição. Por exemplo, o adquirente pode atribuir valor à existência de força de trabalho organizada, a qual é um conjunto de empregados que permite que o adquirente continue a operar o negócio a partir da data da aquisição. Um conjunto de empregados não representa o capital intelectual de uma força de trabalho especializada - o conhecimento e a experiência (frequentemente especializados) que os empregados da adquirida trazem para seus trabalhos. Em razão de a força de trabalho organizada não se constituir em um ativo identificável para ser reconhecido separadamente do ágio por expectativa de rentabilidade futura (goodwill), qualquer valor que lhe seja atribuído deve integrar o ágio por expectativa de rentabilidade futura (goodwill). 62 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Ou seja, nessa questão, a FGV considerou que o valor dos empregados seria adicionado ao goodwill. Vejam o cálculo da FGV: Ativo X = 30.000 + 40.000 = R$ 70.000 Passivo X = 10.000 PL X = 60.000 Ativo Y = 70.000 + 30.000 = R$ 100.000 Passivo X = 0 PL X = 100.000 PL Z (após a fusão) = 60.000 + 100.000 = R$ 160.000 Percentual X = 60.000/160.000 = 37,50% Percentual Y = 100.000/160.000 = 62,50% O que nos leva ao gabarito B. Todavia, vejam o que diz o CPC 04: 15. A entidade pode dispor de EQUIPE DE PESSOAL ESPECIALIZADO e ser capaz de identificar habilidades adicionais que gerarão benefícios econômicos futuros a partir do treinamento. A entidade pode também esperar que esse pessoal continue a disponibilizar as suas habilidades. Entretanto, o controle da entidade sobre os eventuais benefícios econômicos futuros gerados pelo pessoal especializado e pelo treinamento é insuficiente para que esses itens se enquadrem na definição de ativo intangível. Por razão semelhante, raramente um talento gerencial ou técnico específico atende à definição de ativo intangível, a não ser que esteja protegido por direitos legais sobre a sua utilização e obtenção dos benefícios econômicos futuros, além de se enquadrar nos outros aspectos da definição. E a própria FGV já considerou esse posicionamento em outras questões não agregando esse valor ao goodwill. Enfim, temos que lidar com esses problemas em prova.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q15",
+        "question": "(FGV/ALE-RO/Analista Leg./Contabilidade/2018) As Cias. A e B apresentavam os seguintes balanços patrimoniais em 31/12/2017: 63 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Na data, o terreno da Cia. A tinha valor justo de R$ 200.000, enquanto o terreno da Cia. B tinha valor justo de R$ 150.000. Em 02/01/2018, os sócios das duas empresas fazem uma fusão, constituindo a Cia. ABC. Assinale a opção que indica o valor do patrimônio líquido da Cia. ABC na data da fusão.",
+        "options": [
+          "R$ 150.000.",
+          "R$ 250.000.",
+          "R$ 290.000.",
+          "R$ 320.000.",
+          "R$ 460.000."
+        ],
+        "correct": 4,
+        "explanation": "Para encontrarmos o valor do patrimônio líquido da Cia ABC, resultante da Fusão, temos que somar o Patrimônio Líquido de cada uma das empresas, lembrando que ativos e passivos, na combinação de negócios devem ser avaliados a valor justo. Ativo A = 150.000 + 100.000 (terreno avaliado a valor justo) = R$ 250.000 Passivo A = 0 PL A = 250.000 Ativo B = 140.000 + 70.000 = R$ 210.000 Passivo B = 0 PL B = 210.000 PL ABC (após a fusão) = 250.000 + 210.000 = R$ 460.000",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q19",
+        "question": "(FGV/CODEMIG/Contador Corporativo/2015) A Cia. Digama detinha 25% de participação na Zeta S.A. Em 01/07/x1, essa participação estava avaliada, nas demonstrações financeiras da Cia. Digama, por R$ 250.000. Nessa data, a Cia. Digama fechou um acordo com os antigos controladores da Zeta S.A., pagando-lhes R$ 500.000 para adquirir mais 40% de participação na Zeta S.A. Os avaliadores contratados pelas partes estimaram em R$ 1.200.000 os ativos líquidos identificáveis da Zeta S.A., mensurados conforme determina o Pronunciamento Técnico CPC 15 (R1) – Combinação de Negócios; o valor justo da participação detida pela Cia. Digama, antes dessa transação, em R$ 312.500; e o valor justo da participação detida pelos acionistas minoritários da Zeta S.A., após a transação, em R$ 437.500. Em suas demonstrações financeiras consolidadas, após a contabilização dessa combinação de negócios, a Cia. Digama registrará, em relação à Zeta S.A., um ágio por expectativa de rentabilidade futura (goodwill) de:",
+        "options": [
+          "R$ 32.500 ou R$ 50.000;",
+          "R$ 50.000 ou R$ 130.000;",
+          "R$ 130.000 ou R$ 162.500;",
+          "R$ 162.500 ou R$ 200.000;",
+          "R$ 200.000 ou R$ 250.000."
+        ],
+        "correct": 0,
+        "explanation": "70 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 O ponto central para a resolução é que a questão indica, nas respostas, duas possibilidades de valor para o Goodwill (“após a contabilização dessa combinação de negócios, a Cia Digama registrará, em relação à Zeta S.A., um ágio de expectativa futura (Goodwill) de:” A) $32.500 OU $50.000 Assim, precisamos apenas identificar o componente da combinação de negócios que pode ser calculado de duas formas. O único valor que pode ser calculado de duas formas é a participação dos acionistas não controladores. Pode ser: 1 – pelo valor justo; ou 2 – pela participação nos ativos líquidos. Assim, a parte dos não controladores pode ser: 1 – valor justo = $ 437.500 (informado pela questão). 2 – Participação nos ativos líquidos: Após a aquisição, Digama fica com 65%, portanto a participação dos não controladores é de 35%. Valor dos ativos líquidos identificáveis da Zeta: 35% x $1.200.000 = $ 420.000 Muito bem. Os outros valores para cálculo do Goodwill (valor pago, valor justo da participação anterior) não se alteram. Dessa forma, a escolha de uma ou outra opção para valorizar a participação dos não controladores irá impactar o Goodwill assim: $437.500 – $420.000 = $17.500 Já podemos indicar a resposta: Letra A, é a única que indica essa diferença entre os valores.Mas vamos calcular o Goodwill de acordo com cada método: Pagamento = $500.000 Participação anterior da Digama: deve ser mensurado pelo valor justo, que a questão informa ser de $312.500. Não controladores: pode ser pelo Valor Justo ou pela participação nos ativos líquidos. Participação nos ValorJusto Ativos Líquidos Pagam ento 500.000 500.000 Valordos não controladores. 420.000 437.500 Participação anteriora valorjusto. 312.500 312.500 Total 1.232.500 1.250.000 Valorjusto da participação 1.200.000 1.200.000 G oodw ill 32.500 50.000 71 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Assim, o Goodwill pode ser de $32.500 ( se a participação dos não controladores for considerada como a participação dos ativos líquidos) OU de $50.000 (se for considerado o valor justo da participação dos não controladores)",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q20",
+        "question": "(FGV/Auditor Tributário/ISS Niterói/2015) A Cia. Gama adquiriu, em 31.03.X1, o controle das Linhas Aéreas Epsilon S.A, que era titular de direitos de operação em aeroportos das regiões Sudeste e Centro- Oeste do Brasil. Ao contabilizar a aquisição da Linhas Aéreas Epsilon S.A., a Coa Gama deverá reconhecer esses direitos:",
+        "options": [
+          "como ativo intangível, mensurado pelo valor justo na data de aquisição.",
+          "como ativo intangível, se sua concessão for por um prazo limitado.",
+          "como ativo intangível, se puderem ser separados da Linhas Aéreas Epsilon S.A. e vendidos, transferidos, licenciados, alugados ou trocados.",
+          "como ativo intangível, se a Linhas Aéreas Epsilon S.A. assim os tiver reconhecido em suas demonstrações financeiras anteriores à aquisição.",
+          "como parte do ágio por expectativa de rentabilidade futura (goodwill) dessa aquisição."
+        ],
+        "correct": 0,
+        "explanation": "Vamos analisar cada alternativa: Letra A: Correta. Se fosse um ativo intangível adquirido como uma aquisição separada, seria mensurado pelo custo de aquisição. Mas um ativo intangível adquirido como parte de uma combinação de negócios (que é o caso da questão) deve ser avaliado pelo valor justo. Letra B: Errado. A classificação como ativo intangível independe do prazo de concessão ser ou não limitado. Letra C: Errado. Essa é a que mais confunde. Vamos lá: - O adquirente deve reconhecer, separadamente do ágio por expectativa de rentabilidade futura (goodwill), os ativos intangíveis identificáveis em uma combinação de negócios. Um ativo intangível é identificável se ele atender ao critério de separação ou ao critério legal-contratual. - O critério de separação implica que um ativo intangível adquirido seja capaz de ser separado ou dividido da adquirida e vendido, transferido, licenciado, alugado ou trocado individualmente. Até aqui, parece que a letra C está correta, não é? Mas o ativo intangível atende ao critério de separação também através do critério legal-contratual. Esse é o caso da questão. - Um ativo intangível que atende ao critério legal-contratual é identificável mesmo se ele não puder ser transferido ou separado da adquirida ou de outros direitos e obrigações. Por exemplo: (a) (...); 72 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 (b) a adquirida possui e opera uma usina geradora de energia nuclear. A licença para operar essa usina é um ativo intangível que atende ao critério contratual-legal para seu reconhecimento separado do ágio por expectativa de rentabilidade futura (goodwill), mesmo que o adquirente não possa vender ou transferir essa licença separadamente da usina geradora de energia nuclear adquirida. O adquirente pode reconhecer o valor justo da licença de operação e o valor justo da usina geradora de energia nuclear como único ativo para fins de demonstrações contábeis, caso a vida útil econômica de ambos os ativos seja similar; Letra D: Errado. Não é necessário que a adquirida tenha classificado como Intangível, no caso de combinação de negócios. Letra E: Errado. Os ativos intangíveis identificados devem ser contabilizado separadamente do Goodwill.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q21",
+        "question": "(FGV/Analista/DPE MT/2015) Em 01/01/2013, a Cia. “X” comprou 100% da Cia. ”Z” pagando R$100.000,00 à vista. O balanço patrimonial da Cia. “Z” na data da compra era o seguinte: ATIVO PASSIVO + PL Caixa R$ 20.000,00 Capital Social R$ 60.000,00 Terrenos R$ 50.000,00 Reservas de lucros R$ 10.000,00 Total R$ 70.000,00 Total R$ 70.000,00 Na elaboração do laudo sobre a Cia. “Z”, na data da compra, foram apurados os seguintes fatos: O valor de mercado do terreno era de R$ 55.000,00. A empresa possuía uma carteira de clientes com grande rentabilidade, avaliada por R$ 12.000,00. A empresa possuía uma equipe muito motivada que havia sido treinada recentemente. O custo do treinamento foi de R$ 3.000,00. Com base nas informações acima, de acordo com o Pronunciamento Técnico CPC 15 - Combinação de Negócios, o valor do goodwill que deve ser reconhecido no processo de alocação do preço de compra, é de",
+        "options": [
+          "R$ 10.000,00.",
+          "R$ 13.000,00.",
+          "R$ 25.000,00.",
+          "R$ 30.000,00.",
+          "R$ 40.000,00."
+        ],
+        "correct": 1,
+        "explanation": "Vamos calcular o valor justo: PL Cia Z = 70.000 “O valor de mercado do terreno era de R$ 55.000,00.” 73 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Como o valor contábil do Terreno era de R$50.000,00, há $5.000,00 não contabilizado, que deverá ser somado ao PL. “A empresa possuía uma equipe muito motivada que havia sido treinada recentemente. O custo do treinamento foi de R$ 3.000,00.” A equipe treinada e motivada não entra como aumento do valor justo, conforme o Pronunciamento CPC 04 – Ativo Intangível: 15. A entidade pode dispor de equipe de pessoal especializado e ser capaz de identificar habilidades adicionais que gerarão benefícios econômicos futuros a partir do treinamento. A entidade pode também esperar que esse pessoal continue a disponibilizar as suas habilidades. Entretanto, o controle da entidade sobre os eventuais benefícios econômicos futuros gerados pelo pessoal especializado e pelo treinamento é insuficiente para que esses itens se enquadrem na definição de ativo intangível. Por razão semelhante, raramente um talento gerencial ou técnico específico atende à definição de ativo intangível, a não ser que esteja protegido por direitos legais sobre a sua utilização e obtenção dos benefícios econômicos futuros, além de se enquadrar nos outros aspectos da definição. “A empresa possuía uma carteira de clientes com grande rentabilidade, avaliada por R$ 12.000,00. “ A carteira de cliente entra no valor justo, conforme o CPC 04: 16. A entidade pode ter uma carteira de clientes ou participação de mercado e esperar que, em virtude dos seus esforços para criar relacionamentos e fidelizar clientes, estes continuarão a negociar com a entidade. No entanto, a ausência de direitos legais de proteção ou de outro tipo de controle sobre as relações com os clientes ou a sua fidelidade faz com que a entidade normalmente não tenha controle suficiente sobre os benefícios econômicos previstos, gerados do relacionamento com os clientes e de sua fidelidade, para considerar que tais itens (por exemplo, carteira de clientes, participação de mercado, relacionamento e fidelidade dos clientes) se enquadrem na definição de ativo intangível. Entretanto, na ausência de direitos legais de proteção do relacionamento com clientes, a capacidade de realizar operações com esses clientes ou similares por meio de relações não contratuais (que não sejam as advindas de uma combinação de negócios) fornece evidências de que a entidade é, mesmo assim, capaz de controlar os eventuais benefícios econômicos futuros gerados pelas relações com clientes. Uma vez que tais operações também fornecem evidências que esse relacionamento com clientes é separável, ele pode ser definido como ativo intangível. Portanto, o PL da Cia fica assim: 70.000 + 5.000 + 12.000 = 87.000 Valor da aquisição 100.000 – valor justo 87.000 = 13.000 goodwill",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q23",
+        "question": "(FGV/DPE RJ/TSE/Ciências Contábeis/2014) A Companhia Acima, líder no setor de brinquedos, está em processo para adquirir o controle da empresa concorrente Aolado. A ideia da Companhia Acima é adquirir 100% das ações da empresa e retirar o mais rápido possível de circulação a marca “Aolado”. O valor da marca, registrado como um intangível no balanço da Aolado, é de R$ 550.000. Todavia, especialistas constataram que outras empresas do setor de brinquedos estariam dispostas a pagar R$ 2.500.000 pela marca “Aolado”, considerando-se esse, portanto, o valor justo para o referido ativo. Caso a operação ocorra, o Balanço Patrimonial da Companhia Acima",
+        "options": [
+          "não identificará a marca Aolado como Intangível em suas demonstrações individuais, mas sim no grupo de Investimentos em Controladas. Por outro lado, nas demonstrações consolidadas, a marca Aolado será apresentada no grupo de Intangível com o valor de R$ 2.500.000.",
+          "não identificará a marca Aolado como Intangível em suas demonstrações individuais, mas sim no grupo de Investimentos em Controladas. Por outro lado, nas demonstrações consolidadas, a marca Aolado será apresentada como ativo intangível com o valor de R$ 550.000 e ágio no valor de R$ 1.950.000.",
+          "não identificará a marca Aolado em nenhuma de suas demonstrações contábeis, uma vez que pretende descontinuar seu uso.",
+          "identificará a marca no valor de R$ 550.000 e como Ágio no valor de R$ 1.950.000, ambos no grupo de Intangível, tanto em suas demonstrações individuais como nas consolidadas.",
+          "identificará a marca no valor de R$ 550.000 no grupo intangível e como ganho por compra vantajosa (Demonstração de Resultado) no valor de R$ 1.950.000, ambos em suas demonstrações consolidadas."
+        ],
+        "correct": 0,
+        "explanation": "Na adquirente, a aquisição de participação em outra empresa será contabilizada em três subcontas: Valor patrimonial, Mais Valia e Goodwill. Exemplo: A Cia A adquire 100% da Cia B por $12.000. Na data da aquisição, o valor contábil da Cia B era de $8.500 e o valor justo dos ativos identificáveis e passivos assumidos era de $10.000. Cálculo do Goodwill: Valor da aquisição 12.000 (-) Valor justo dos ativos e passivos assumidos (10.000) (=) Goodwill 2.000 Mais Valia: Valor justo – valor patrimonial Mais valia = 10.000 – 8.500 = 1.500 Contabilização do investimento na Cia A: 77 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 D - Investimentos em controladas -------Valor patrimonial 8 .500 -------Mais Valia 1.500 -------Goodwill 2.000 Total do investimento 12.000 C – Caixa 12.000 Observação: no balanço individual, aparece apenas o valor do investimento: 12.000. Mas a Mais Valia e o Goodwill devem ser controlados em subcontas. No balanço consolidado, a Mais Valia fica junto com os ativos e passivos que a originaram; e o Goodwill é transferido para o Ativo Intangível. A Mais Valia é realizada conforme a realização dos ativos e passivos; o Goodwill não é amortizado, deve apenas ser submetido ao Teste de Recuperabilidade. Esse teste de recuperabilidade é realizado para o conjunto investimento + goodwill Muito bem. A questão não menciona o valor que a Companhia Acima iria pagar pela aquisição, portanto não dá para calcular o Goodwill. Mas a marca Aolado será avaliada, no balanço individual da adquirente, pelo valor justo, como Investimentos em Controladas: Contabilização no Balanço individual – Companhia Acima D – Investimentos em controlada ------ Valor patrimonial 550.000 ------ Mais Valia 1.950.000 C – Caixa/bancos 2.500.000 Como já mencionamos, pode constar apenas o valor total em investimentos, mas com a Mais Valia controlada em subconta. No balanço consolidado, a marca ficará no Intangível, pelo valor patrimonial mais a Mais Valia. Ou seja, pelo valor justo.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q2",
+        "question": "(FCC/TRT-18/Administrativa/Contabilidade/2023) A empresa Secundária S.A. apresentava no Balanço Patrimonial de 30/06/2018 o valor de R$ 25.000.000,00 contabilizado no seu Patrimônio Líquido. O valor justo líquido apurado para os ativos e passivos da empresa, na referida data, era R$ 30.000.000,00. A empresa Primária S.A. adquiriu 40% das ações da empresa Secundária S.A. pelo valor de R$ 14.000.000,00 passando a deter o seu controle. Sabendo-se que no ano de 2018 a empresa Secundária S.A. apurou o lucro líquido de R$ 5.000.000,00, os valores apresentados na Demonstração do Resultado do ano de 2018 e no Balanço Patrimonial de 31/12/2018 das demonstrações individuais da empresa Primária S.A. foram, respectivamente, em reais: 83 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156",
+        "options": [
+          "Resultado de Equivalência Patrimonial = 5.000.000,00; Investimentos = 15.000.000,00.",
+          "Resultado de Equivalência Patrimonial = 2.000.000,00; Investimentos = 16.000.000,00.",
+          "Resultado de Equivalência Patrimonial = 2.000.000,00; Investimentos = 12.000.000,00.",
+          "Resultado de Equivalência Patrimonial = 5.000.000,00; Investimentos = 19.000.000,00.",
+          "Resultado de Equivalência Patrimonial = 2.000.000,00; Investimentos = 14.000.000,00."
+        ],
+        "correct": 1,
+        "explanation": "Vamos organizar as informações: Primária S.A adquiriu--> 40 % Secundária S.A Valor pago = 14.000.000,00 PL da Secundária S.A (valor contábil) = 25.000.000,00 Valor justo = 30.000.000,00 Portanto, para os 40 % adquiridos temos: PL = 25.000.000,00 x 40% = 10.000.000,00 Valor justo = 30.000.000,00 x 40% = 12.000.000,00 Temos o seguinte: Valor pago 14.000.000,00 Valor de mercado (valor justo) 12.000.000,00 Valor contábil: 10.000.000,00 A diferença valor pago – valor justo é o goodwill = 14.000.000 - 12.000.000 = R$ 2.000.000,00 A diferença valor justo – valor contábil é a mais valia = 12.000.000 - 10.000.000 = 2.000.000 Todos ficam contabilizados junto do investimento no balanço individual, controlados em subcontas. D – Investimento – Valor Patrimonial 10.000.000,00 D - Goodwill 2.000.000,00 D – Mais valia 2.000.000,00 C – Caixa 14.000.000,00 A empresa Secundária S.A. apurou o lucro líquido de R$ 5.000.000,00, portanto, a Primária S/A vai reconhecer um ganho com MEP de 5.000.000 x 0,40 = R$ 2.000.000,00: 84 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Contabilização: D – Investimento – Valor Patrimonial 2.000.000,00 C – Ganhos com MEP 2.000.000,00 A empresa Secundária S.A vai reconhecer Resultado de Equivalência Patrimonial = 2.000.000,00 e o saldo final dos Investimentos será de 14.000.000 + 2.000.000 = 16.000.000,00.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q3",
+        "question": "(CEBRASPE/FUNPRESP-EXE/Analista de Previdência Complementar – Contábil/2022) Se optarem por uma das sociedades suceder a outra em todos os seus direitos e obrigações, a forma escolhida será a incorporação.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo a Lei 6.404/76: Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações. Com efeito, imagine-se a sociedade ALFA e BETA. Há incorporação se, por exemplo, BETA deixa de existir, sendo incorporada a ALFA, passando apenas essa a existir, sucedendo BETA em todos os direitos e obrigações. Alfa Alfa Beta A sociedade incorporada é extinta, independentemente de sua liquidação ou dissolução. Nas duas situações apresentadas, a contabilidade da empresa cindida ou incorporada deve baixar contabilmente todos os ativos e os passivos exigíveis.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q4",
+        "question": "(CEBRASPE/FUNPRESP-EXE/Analista de Previdência Complementar/Contábil/2022) Uma transformação estará caracterizada, caso apenas parte do patrimônio de uma das entidades seja adquirido pela outra.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Na transformação, a sociedade passa de um tipo a outro, independente de dissolução ou liquidação. É o caso da empresa Limitada que passa para Sociedade Anônima, por exemplo. Nas palavras da Lei 6.404/76: Art. 220. A transformação é a operação pela qual a sociedade passa, independentemente de dissolução e liquidação, de um tipo para outro. Assim o quesito erra ao informar que houve uma transformação. Na verdade, o quesito trouxe um caso de cisão parcial: Art. 229. A cisão é a operação pela qual a companhia transfere parcelas do seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes, extinguindo-se a companhia cindida, se houver versão de todo o seu patrimônio, ou dividindo-se o seu capital, se parcial a versão. Assim, temos cisão se a empresa ALFA transfere seu patrimônio total ou parcialmente para a empresa BETA (já existente) ou CELTA (criada para esse fim específico). Essa transferência de patrimônio pode ser total ou parcial, quando a cindida transfere todo seu patrimônio ou apenas parte dele.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q7",
+        "question": "(Consulplan/Exame CFC/2021.1) Em 04/01/2021, a Companhia A S.A. adquiriu 100% de participação na Companhia B S.A. Os ativos identificáveis adquiridos e os passivos assumidos constam no Balanço Patrimonial apresentado por B, considerado para fins de fechamento do negócio. Outras informações: • Antes da aquisição as companhias não tinham qualquer tipo de participação/relação uma com a outra. • A contraprestação transferida em troca do controle de B foi de R$ 32.387.108,00 em dinheiro. • A Companhia A S.A. mensurou os ativos identificáveis adquiridos e os passivos assumidos de B pelos respectivos valores justos da data da aquisição (04/01/2021). A única divergência encontrada em relação ao respectivo valor contábil foi no Ativo Imobilizado, o qual foi avaliado ao valor justo de R$ 10.637.104,00. 88 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Considerando somente as informações apresentadas e a NBC TG 15 (R4) Combinação de negócios, na data da aquisição, a Companhia A S.A. deveria reconhecer:",
+        "options": [
+          "R$ 2.000.000,00 de Goodwill e R$ 5.000.000,00 de mais-valia.",
+          "R$ 3.000.000,00 de Goodwill e R$ 2.000.000,00 de mais-valia.",
+          "R$ 3.000.000,00 de Compra Vantajosa e R$ 2.000.000,00 de mais-valia.",
+          "R$ 5.000.000,00 de Compra Vantajosa e R$ 2.000.000,00 de menos-valia."
+        ],
+        "correct": 1,
+        "explanation": "De acordo com o CPC 15, a mais valia é a diferença entre o valor justo e o valor patrimonial dos ativos identificáveis. Por sua vez, o goodwill é a diferença entre o valor pago e o valor justo. Imobilizado valor patrimonial R$ 8.637.104,00 Imobilizado valor justo R$ 10.637.104,00 Mais valia (Valor Patrimonial - Valor Justo) R$ 2.000.000,00 Valor justo total R$ 29.387.108,00 Valor pago R$ 32.387.108,00 Goodwill (Valor Pago – Valor Justo) R$ 3.000.000,00",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q10",
+        "question": "(CEBRASPE/Analista/EBSERH/2018) Se uma empresa for adquirida em uma combinação de negócios e, inesperadamente, após a aquisição, o adquirente obtiver um ganho com a liquidação em condições vantajosas de um passivo da adquirida, tal ganho representará um goodwill.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 15 – Combinação de negócios: 90 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 47. O adquirente deve considerar todos os fatores pertinentes para determinar se a informação obtida após a data de aquisição teria resultado em ajuste nos valores provisórios reconhecidos ou se essa informação é proveniente de eventos que ocorreram após a data da aquisição. Fatores pertinentes incluem a data em que a informação adicional é obtida, bem como se o adquirente consegue identificar uma razão para a alteração dos valores provisórios. É mais provável que uma informação obtida logo após a data da aquisição represente circunstâncias existentes na data de aquisição do que uma informação obtida vários meses depois. Por exemplo, a menos que um evento interveniente que altere o valor justo possa ser identificado, a venda de ativo para terceiros logo após a data da aquisição por um valor significativamente diferente do valor justo mensurado provisoriamente para esse ativo constitui um evento indicativo de que o valor provisório reconhecido provavelmente estava errado. (Alterado pela Revisão CPC 03) 48. O adquirente deve reconhecer aumento (ou redução) nos valores provisórios reconhecidos para um ativo identificável (ou passivo assumido) por meio de aumento (ou redução) no ágio por expectativa de rentabilidade futura (goodwill)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q11",
+        "question": "(CEBRASPE/TCE-PE/Analista de Controle Externo/2017) Na aquisição de uma coligada por uma empresa investidora, eventual ágio fundamentado em rentabilidade futura (goodwill) surgido nessa aquisição deverá ser tratado contabilmente junto com o valor do investimento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O item está correto. Nas demonstrações contábeis individuais, o ágio por diferença entre valor justo (valor de mercado) e valor contábil, apurado na aquisição de investimentos em coligadas e controladas, continua classificado no subgrupo de Investimentos, também no Ativo Não-Circulante. Nos balanços consolidados, todavia, o ágio por diferença entre valor justo (valor de mercado) de ativos e passivos e valor contábil fica, conforme inclusive detalhado na Instrução CVM nº. 247/96, agregado aos ativos ou passivos que lhe deram origem, e não no subgrupo Investimentos. Os deságios anteriormente classificados nos balanços consolidados como resultados de exercícios futuros devem ser reclassificados para o passivo não-circulante, devido à extinção daquele grupo de contas. Portanto, nas demonstrações individuais, quando se tratar, por exemplo, apenas de coligação, o goodwill fica no investimento. Quando se tratar de demonstrações consolidadas, ele fica no intangível. Lembrando que a entidade que seja controladora deve apresentar demonstrações consolidadas.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q12",
+        "question": "(CEBRASPE/TRE-BA/Técnico Judiciário – Contabilidade/2017) A empresa Exemplo S.A. adquiriu uma nova sociedade em 20/1/20x1 e preparou informações financeiras pro forma do exercício social de 20x0. A referida aquisição se enquadra no escopo do Comitê de Pronunciamentos Contábeis (CPC) 15, e foi apurada uma mais-valia das máquinas e equipamentos da sociedade adquirida. Nessa situação, para o exercício social de 20x0, as informações financeiras pro forma da referida mais-valia",
+        "options": [
+          "causaram redução do patrimônio líquido.",
+          "provocaram aumento do patrimônio líquido.",
+          "acarretaram redução do lucro líquido.",
+          "provocaram aumento do lucro líquido.",
+          "não tiveram efeito sobre o lucro líquido."
+        ],
+        "correct": 2,
+        "explanation": "Pessoal, pensem em um assunto totalmente “fora da curva”. Apresentação de Informações Financeiras Pro Forma é tratada na ORIENTAÇÃO TÉCNICA OCPC 06. Vamos apresentar apenas alguns conceitos básicos sobre o tema. Resumidamente, uma Demonstração Financeira Pro Forma seria uma projeção ou estimativa desse demonstrativo caso determinado fato relevante tivesse ocorrido em exercício anterior. O exemplo da nossa questão é valido para entendermos essa definição. A aquisição do Investimento foi 20x1, mas como ficaria o Balanço Patrimonial de 20x0, isto é, um exercício anterior, se considerássemos o efeito dessa operação, que é relevante para entidade. Para termos uma noção pode ser preparado uma Balanço Patrimonial Proforma. Interessante, não é? A OCPC 06 apresenta alguns pontos relevantes sobre esse conceito: 2. Em muitos casos, a entidade passou ou está passando por processo de reestruturação societária ou de negócio, ou ainda efetuou ou está efetuando uma transação. Assim, determinadas informações, tais como discutido nesta Orientação, ajudam os usuários das informações contábeis na análise de perspectivas futuras da entidade, pois ilustram a possível abrangência da mudança na sua posição financeira histórica e nos resultados das suas operações causada pela transação ou reestruturação societária. 3. As informações financeiras pro forma devem somente ilustrar os efeitos de uma transação específica, mensuráveis de maneira objetiva (a partir dos valores históricos), excluindo os efeitos baseados em estimativas e julgamentos sobre como as práticas e decisões operacionais da administração poderiam ou não ter afetado as demonstrações contábeis históricas em decorrência da transação. Informações sobre os possíveis ou esperados impactos de decisões tomadas pela administração atual em decorrência da transação, como se tivessem sido tomadas em períodos anteriores, são consideradas projeções e não fazem parte do alcance desta Orientação. A administração da entidade deve incluir uma afirmação com teor similar ao descrito neste item nas notas explicativas às informações financeiras pro forma, conforme ilustrado no Apêndice II desta Orientação. 92 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Voltando para nossa questão, A empresa Exemplo S.A. adquiriu uma nova sociedade em 20/1/20x1 e preparou informações financeiras pro forma do exercício social de 20x0.\" Nas informações \"pró-forma\", a empresa deve demonstrar como ficaria a contabilização em 20x0 se a aquisição tivesse ocorrido naquele exercício. A aquisição da participação, no momento inicial, fica assim (supondo que houve mais-valia e Goodwill): D - Investimento (dividido em:) ----- valor patrimonial ---- Mais-valia ----Goodwill C - Caixa/bancos. A Mais-valia deve ser realizada conforme a realização dos ativos que a geraram. Ou seja, quando a investida deprecia ou vende as máquinas e equipamento, a investidora realiza (reconhece no resultado) a parcela proporcional da mais-valia. E isso diminui o resultado líquido de 2010. O Goodwill não é realizado, mas deve ser submetido anualmente ao teste de recuperabilidade (impairment).",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q13",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças/2016) Assertiva: Nesse caso, a fusão das empresas A e B gera uma nova empresa, com patrimônio líquido superior a R$ 215.000.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo a Lei 6404/76: Art. 228. A fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que lhes sucederá em todos os direitos e obrigações. Assim, duas ou mais sociedades se juntam para a formação de uma nova. As antigas desaparecem. 93 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Alfa Charlie Beta Vamos efetuar a contabilização da fusão dessas empresas. Em um processo de reorganização, para competirem juntas no mercado, ALFA e BETA decidem se fundir. Ambas deixarão de existir, dando-se início a uma pessoa jurídica, chamada CELTA: Inicialmente, façamos a baixa do ativo de BETA. D – Conta de fusão 100.000 C – Ativo 100.000 Agora, a baixa do passivo exigível de BETA: D – Passivo 20.000 C – Conta de fusão 20.000 Façamos, também, a baixa do Ativo de ALFA: D – Conta de fusão 200.000 C – Ativo 200.000 Igualmente, a baixa do passivo exigível de ALFA: D – Passivo 60.000 C – Conta de fusão 60.000 Zeramos, deste modo, todos os saldos de ALFA e todos os saldos de BETA. Agora é só “jogar” todos esses valores para a sociedade Charlie. Extintas Conta Alfa Beta Charlie Ativo R$ 200.000,00 R$ 100.000,00 R$ 300.000,00 Passivo R$ 60.000,00 R$ 20.000,00 R$ 80.000,00 Patrimônio Líquido R$ 140.000,00 R$ 80.000,00 R$ 220.000,00 Nesse caso, a fusão das empresas A e B gera uma nova empresa, com patrimônio líquido superior a R$ 215.000, isto é, R$ 220.000,00.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q14",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças/2016) Nos casos de cisão total ou de incorporação, a contabilidade da empresa cindida ou incorporada deve baixar contabilmente todos os ativos e os passivos exigíveis.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo a Lei das Sociedades por Ações: Art. 229. A cisão é a operação pela qual a companhia transfere parcelas do seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes, extinguindo-se a companhia cindida, se houver versão de todo o seu patrimônio, ou dividindo-se o seu capital, se parcial a versão. Alfa Celta Beta Assim, temos cisão se a empresa ALFA transfere seu patrimônio total ou parcialmente para a empresa BETA (já existente) ou CELTA (criada para esse fim específico). Essa transferência de patrimônio pode ser total ou parcial, quando a cindida transfere todo seu patrimônio ou apenas parte dele. Por sua vez, temos a incorporação: Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações. Com efeito, imagine-se a sociedade ALFA e BETA. Há incorporação se, por exemplo, BETA deixa de existir, sendo incorporada a ALFA, passando apenas essa a existir, sucedendo BETA em todos os direitos e obrigações. Alfa Alfa Beta 95 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 A sociedade incorporada é extinta, independentemente de sua liquidação ou dissolução. Nas duas situações apresentadas, a contabilidade da empresa cindida ou incorporada deve baixar contabilmente todos os ativos e os passivos exigíveis.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q15",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças/2016) Assertiva: Nesse caso, o aumento do patrimônio líquido da sociedade incorporadora será inferior a R$ 150.000 após a transferência.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Está previsto na Lei das Sociedades Anônimas: Art. 229. A cisão é a operação pela qual a companhia transfere parcelas do seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes, extinguindo-se a companhia cindida, se houver versão de todo o seu patrimônio, ou dividindo-se o seu capital, se parcial a versão. Na questão apresentada, temos uma cisão total, isto é, a empresa cindida transferiu todos os seus ativos e passivos para outra. Pela equação fundamental da Contabilidade, o Patrimônio Líquido transferido foi de R$ 300.000 – R$ 140.000 = R$ 160.000, portanto, superior a R$ 150.000 e não inferior, conforme apresentado na assertiva.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q16",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças/2016) A sociedade controladora que tenha 100% do capital da controlada deve, na contabilização da incorporação, independentemente de outros lançamentos, debitar o saldo da conta de incorporação contra o saldo de conta de investimento avaliado pela equivalência patrimonial.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações. 96 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Vejamos este exemplo de contabilização de incorporação: Imagine-se que as empresas ALFA e BETA possuem os seguintes balanços patrimoniais: CONTA ALFA BETA Caixa 500 1.000 Bancos 3.000 6.000 Veículos 11.500 3000 ATIVO TOTAL 15000 10000 Impostos a pagar 1000 0 Fornecedores 3000 5000 Capital Social 8000 3000 Reservas de lucros 3000 2000 PASSIVO TOTAL 15000 10000 Então, em um processo de reorganização, para competirem juntas no mercado, ALFA decide incorporar BETA. Como BETA deixará de existir, devemos dar baixa em seus ativos e passivos, pelos lançamentos que se seguem (suponha-se que os valores registrados são todos equivalentes ao valor contábil): Inicialmente, façamos a baixa do ativo da incorporada. D – Conta de incorporação 10.000 C – Caixa 1.000 C – Bancos 6.000 C – Veículos 3.000 Agora, a baixa do passivo exigível: D – Fornecedores 5.000 C – Conta de incorporação 5.000 O patrimônio líquido deve ser acrescido totalmente ao capital social da incorporadora, independentemente de na incorporada haver subdivisão. Assim, o capital social da incorporadora, que era de R$ 8.000, passará para R$ 13.000 (8.000 + 3.000 + 2.000). Os ativos serão assim registrados na incorporadora: D – Caixa 1.000 D – Bancos 6.000 D – Veículos 3.000 C – Conta de incorporação 10.000 97 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Os passivos serão assim registrados na incorporadora: D – Conta de incorporação 5.000 C – Fornecedores 5.000 Deste modo, o patrimônio da empresa incorporadora, que é a que subsiste ao final, ficará assim registrado: CONTA ALFA Caixa 1500 Bancos 9000 Veículos 14500 ATIVO TOTAL 25000 Impostos a pagar 1000 Fornecedores 8000 Capital Social 13000 Reservas de lucros 3000 PASSIVO TOTAL 25000 Os saldos, transações, receitas e despesas intragrupo (entre as entidades do grupo econômico), devem ser eliminados. Os saldos mais comuns são contas a receber / a pagar recíprocos, e empréstimos a receber / a pagar. Portanto, está correto afirmar que devemos debitar o saldo da conta de incorporação contra o saldo de conta de investimento avaliado pela equivalência patrimonial.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q17",
+        "question": "(CEBRASPE/Funpresp-EXE/Contabilidade e Finanças/2016) Em se tratando de empresas independentes, o saldo referente ao goodwill existente em uma empresa cindida deverá ser totalmente baixado e registrado pelo mesmo valor na empresa incorporadora.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Os ativos e passivos que fazem parte da operação devem ser mensurados pelo valor justo. A empresa adquirente deverá calcular o custo da aquisição através do reconhecimento dos ativos e passivos ao seu valor justo, na data em que a aquisição se efetivar. Vejamos o que está previsto no CPC 15 – Combinação de Negócios: Reconhecimento e mensuração do ágio por expectativa de rentabilidade futura (goodwill) ou do ganho proveniente de compra vantajosa 32. O adquirente deve reconhecer o ágio por rentabilidade futura (goodwill), na data da aquisição, mensurado como o valor em que (a) exceder (b) abaixo: 98 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 a) a soma: (i) da contraprestação transferida em troca do controle da adquirida, mensurada de acordo com este Pronunciamento, para a qual geralmente se exige o valor justo na data da aquisição (veja item 37); (ii) do valor das participações de não controladores na adquirida, mensuradas de acordo com este Pronunciamento; e (iii) no caso de combinação de negócios realizada em estágios (veja itens 41 e 42), o valor justo, na data da aquisição, da participação do adquirente na adquirida imediatamente antes da combinação; (b) o valor líquido, na data da aquisição, dos ativos identificáveis adquiridos e dos passivos assumidos, mensurados de acordo com este Pronunciamento. O valor do ágio ou da compra vantajosa é calculado da seguinte forma: Valor justo do montante transferido...............................xxxxx (+) Valor da participação de não controladores................xxxxx (+) Valor justo de qualquer participação pré existente.......xxxxx (-) Valor justo dos ativos identificáveis e dos passivos assumidos ............(xxxxx) A questão está correta quando afirma que o saldo referente ao goodwill existente em uma empresa cindida deverá ser totalmente baixado, porém, erra ao dizer que é registrado pelo mesmo valor na empresa incorporadora. Ele deve ser avaliado a valor justo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q18",
+        "question": "(CESGRANRIO/Transpetro/Auditor Junior/2016) A Companhia Z e a Companhia Y, do mesmo ramo de negócios e sob o controle comum dos acionistas portadores de todo o capital votante, mas sem participação de uma companhia na outra, resolveram pela incorporação da Companhia Y pela Companhia Z. Aprovados todos os trâmites determinados pela legislação societária, indispensáveis para a realização da incorporação, as duas companhias apresentaram, em reais, as informações, por grupo de contas, de seus respectivos balanços: 99 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Considerando-se os dizeres da lei societária e das normas contábeis vigentes, o registro contábil na incorporadora Z do aumento de capital decorrente da incorporação realizada por ela, em reais, é o seguinte:",
+        "options": [
+          "D: Conta de Incorporação 17.000,00 C: Patrimônio Líquido 17.000,00",
+          "D: Patrimônio Líquido / Investida Cia. Y 17.000,00 D: Patrimônio Líquido / Investidora Cia. Z 17.000,00",
+          "D: Investimentos / Cia. Y 17.000,00 D: Patrimônio Líquido 17.000,00",
+          "D: Contas do Passivo 10.000,00 D: Patrimônio Líquido 17.000,00 C: Contas do Ativo 27.000,00",
+          "D: Incorporação da Cia. Y 27.000,00 D: Patrimônio Líquido 27.000,00"
+        ],
+        "correct": 0,
+        "explanation": "Segundo a Lei 6.404/76: Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações. Na nossa questão, a incorporação ocorre, a companhia Y deixa de existir, sendo incorporada a Z, passando apenas essa a existir, sucedendo Y em todos os direitos e obrigações. 100 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Z Z Y Vamos fazer a contabilização completa da incorporação. Inicialmente, façamos a baixa do ativo da incorporada. D – Conta de incorporação 27.000 C – Ativo Circulante 6.375 C – Ativo Não Circulante 20.625 Agora, a baixa do passivo exigível: D – Passivo Circulante 7.000 C – Conta de incorporação 7.000 O patrimônio líquido deve ser acrescido totalmente ao capital social da incorporadora, independentemente de na incorporada haver subdivisão. Assim, o capital social da incorporadora, que era de R$ 117.850, passará para R$ 134.850 (117.850+ 17.000). Os ativos serão assim registrados na incorporadora: D – Ativo Circulante 6.375 D – Ativo Não Circulante 20.625 C – Conta de incorporação 27.000 Os passivos serão assim registrados na incorporadora: D – Conta de incorporação 7.000 C – Passivo Exigível 7.000 Por fim, o patrimônio líquido: D – Conta de incorporação 17.000 C – Capital Social (Patrimônio Líquido 17.000",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q19",
+        "question": "(CESGRANRIO/LIQUIGÁS/Ciências Contábeis/2015) Uma Sociedade Anônima de médio porte, por decisão unânime dos acionistas, aprovou a mudança da forma de sua constituição societária, passando de Sociedade Anônima para Sociedade de Responsabilidade Limitada, atendendo a todas as determinações legais que regem a matéria e regulam a constituição e o registro de sociedades nos órgãos competentes. A mudança aprovada pelos acionistas indica que ocorreu uma operação de modificação societária denominada",
+        "options": [
+          "cisão parcial",
+          "cisão total",
+          "fusão",
+          "incorporação",
+          "transformação"
+        ],
+        "correct": 4,
+        "explanation": "Segundo a Lei das Sociedades por Ações: Art. 220. A transformação é a operação pela qual a sociedade passa, independentemente de dissolução e liquidação, de um tipo para outro. Parágrafo único. A transformação obedecerá aos preceitos que regulam a constituição e o registro do tipo a ser adotado pela sociedade. Deliberação Art. 221. A transformação exige o consentimento unânime dos sócios ou acionistas, salvo se prevista no estatuto ou no contrato social, caso em que o sócio dissidente terá o direito de retirar-se da sociedade. Parágrafo único. Os sócios podem renunciar, no contrato social, ao direito de retirada no caso de transformação em companhia",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q20",
+        "question": "(CEBRASPE/Telebrás/2015) Os saldos dos ativos, dos passivos e do patrimônio líquido das empresas envolvidas no processo de fusão terão de ser zerados da seguinte forma: os ativos serão debitados em contrapartida a uma conta transitória criada especificamente para atender ao processo de fusão; e os passivos e o patrimônio líquido serão creditados em contrapartida à mesma conta transitória de fusão.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "102 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 A questão inverteu os lançamentos, vejam: Imagine-se que as empresas ALFA e BETA possuem os seguintes balanços patrimoniais: CONTA ALFA BETA Caixa 500 1.000 Bancos 3.000 6.000 Veículos 11.500 3000 ATIVO TOTAL 15000 10000 Impostos a pagar 1000 0 Fornecedores 3000 5000 Capital Social 8000 3000 Reservas de lucros 3000 2000 PASSIVO TOTAL 15000 10000 Então, em um processo de reorganização, para competirem juntas no mercado, ALFA e BETA decidem se fundir. Ambas deixarão de existir, dando-se início a uma pessoa jurídica, chamada CELTA: Inicialmente, façamos a baixa do ativo de BETA. D – Conta de fusão 10.000 C – Caixa 1.000 C – Bancos 6.000 C – Veículos 3.000 Agora, a baixa do passivo exigível de BETA: D – Fornecedores 5.000 D – Capital Social 2.000 D – Reservas de lucros 3.000 C – Conta de fusão 10.000 Façamos, também, a baixa de ALFA: D – Conta de fusão 15.000 C – Caixa 500 C – Bancos 3.000 C – Veículos 11.500 Igualmente, a baixa do passivo exigível de ALFA: D – Impostos a pagar 1.000 D – Fornecedores 3.000 103 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 D – Capital social 8.000 D – Reservas de lucros 3.000 C – Conta de fusão 15.000 Zeramos, deste modo, todos os saldos de ALFA e todos os saldos de BETA. Agora é só “jogar” todos esses valores para a sociedade CELTA. EXTINTAS CONTA ALFA BETA CELTA Caixa 500 1.000 1500 Bancos 3.000 6.000 9000 Veículos 11.500 3000 14500 ATIVO TOTAL 15000 10000 25000 Impostos a pagar 1000 0 1000 Fornecedores 3000 5000 8000 Capital Social 8000 3000 16000 Reservas de lucros 3000 2000 - PASSIVO TOTAL 15000 10000 25000 Portanto, os saldos dos ativos, dos passivos e do patrimônio líquido das empresas envolvidas no processo de fusão terão de ser zerados da seguinte forma: os ativos serão debitados creditados em contrapartida a uma conta transitória criada especificamente para atender ao processo de fusão; e os passivos e o patrimônio líquido serão creditados debitados em contrapartida à mesma conta transitória de fusão.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q21",
+        "question": "(CEBRASPE/ANTAQ/Contabilidade/2015) O goodwill identificado na operação é zero.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A diferença entre o valor justo e o valor contábil dos ativos líquidos é a Mais Valia (antigamente chamada de “ágio por diferença de valor de mercado dos ativos”). E a diferença entre o valor pago e o valor justo é o goodwill (também chamado de “ágio por expectativa de rentabilidade futura”). 104 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Na operação apresentada, temos que: Valor Justo dos Ativos Identificáveis = R$ 495.500,00 Valor Justo dos Passivos Assumidos = R$ 195.800,00 Valor Justo do Patrimônio Líquido (Ativos Líquidos) = R$ 299.700 Valor Pago = R$ 299.700 Goodwill = 0",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q22",
+        "question": "(CEBRASPE/ANTAQ/Contabilidade/2015) O valor dos ativos líquidos a ser considerado para o cálculo do goodwill é de R$ 495.500,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Ativo Líquido é sinônimo de Patrimônio Líquido, isto é, os Ativo excluídos os Passivos. Valor Justo dos Ativos Identificáveis = R$ 495.500,00 Valor Justo dos Passivos Assumidos = R$ 195.800,00 Valor Justo do Patrimônio Líquido (Ativos Líquidos) = R$ 299.700",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q23",
+        "question": "(CEBRASPE/ANTAQ/Contabilidade/2015) De acordo com a teoria da contabilidade relativa à combinação de negócios, só há nova entidade econômica se ocorrer alteração do controlador.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 15 – Combinação de Negócios, uma combinação de negócio é definida como segue: Combinação de negócios é uma operação ou outro evento por meio do qual um adquirente obtém o controle de um ou mais negócios, independentemente da forma jurídica da operação. Vejamos o que o Manual das SAs nos ensina sobre o tema: “Cumpre observar que o CPC 15 é aplicado somente quando o conjunto de ativos líquidos (do qual uma entidade esteja obtendo o controle) vier a se constituir efetivamente em um negócio, nos termos da norma e desde que a combinação não envolva entidades sob controle comum. Também não se aplica a norma quando da formação de uma joint venture, ou seja, de uma entidade controlada em conjunto. De forma geral, a expressão “combinação de negócio” não era comumente empregada no Brasil para representar a obtenção de controle, mas sim “fusões e aquisições”. Entretanto, não podem ser literalmente tomadas como sinônimas essas expressões. Isso porque os termos “fusão”, “incorporação”, “cisão” são 105 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 operações de natureza jurídica, pelas quais sociedades são modificadas formalmente, conforme regulamentação dada pela Lei nº 6.404/76, mas que podem ser realizadas independentemente de aquisição de controle. É muito comum grupos de sociedades efetuarem reorganizações societárias utilizando‑se dessas formas jurídicas, sem que, de fato, qualquer negócio novo esteja sendo adquirido ou vendido pelo grupo. Há, pois, que se distinguir entre uma operação de aquisição de controle e outra que pode, muitas vezes na sequência, ou não, provocar incorporação, fusão etc. Assim, se uma Entidade A compra 60% do capital votante de outra, o controle foi obtido pela Empresa A e o CPC 15 (R1) deve ser aplicado na data da obtenção do controle, independentemente de a Empresa A decidir efetuar uma incorporação da adquirida. A transferência do controle sobre uma controlada A para outra controlada (digamos B), sendo que ambas constituem negócio e são controladas pela mesma entidade, constitui outro exemplo de reorganização societária e, apesar de se constituir em uma efetiva combinação de negócio, esse caso está fora do escopo de aplicação do CPC 15 (R1), já que antes e depois da transação, nada mudou na relação de controle considerando‑se o conjunto de empresas de um determinado grupo econômico, ou seja, os ativos líquidos de ambas as empresas continuam sob comando da controladora do grupo e, portanto, não houve uma efetiva transferência de controle. Assim, a aplicação do CPC 15 restringe‑se à operação de combinação de negócio entre entidades economicamente independentes, pela qual o controle é transferido de uma parte para outra. Portanto, meus amigos, segundo entendimento do CPC 15, só há nova entidade econômica se ocorrer alteração do controlador, portanto, item correto. Questão Casca Grossa!",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q24",
+        "question": "(FCC/SEFAZ PI/ATE/2015) O valor do Patrimônio Líquido da Cia. Bons Negócios, em determinada data, era R$ 36.000.000,00 e o valor justo líquido dos seus ativos e passivos identificáveis era, na mesma data, R$ 45.000.000,00. A Cia. Investidora adquiriu, nesta data, 60% das ações da Cia. Bons Negócios por R$ 33.000.000,00. Sabendo que a Cia. Investidora passou a deter o controle da Cia. Bons Negócios e que a participação dos não controladores é mensurada pela parte que lhes cabe no valor justo líquido dos ativos e passivos identificáveis da Cia. Bons Negócios, os valores reconhecidos no grupo Investimentos (no balanço individual da Cia. Investidora) e no grupo Intangíveis (no balanço consolidado) foram, respectivamente, em reais:",
+        "options": [
+          "21.600.000,00 e 11.400.000,00",
+          "33.000.000,00 e 6.000.000,00",
+          "33.000.000,00 e 11.400.000,00",
+          "27.000.000,00 e 0,00 (zero)",
+          "27.000.000,00 e 18.000.000"
+        ],
+        "correct": 1,
+        "explanation": "106 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 100% 60% Valor Patrimonial 36.000.000 21.600.000 Valor Justo 45.000.000 27.000.000 Valor pago 33.000.000 Mais Valia = Valor Justo – valor Patrimonial Mais Valia = $27.000.000 - $21.600.000 = $ 5.400.000 Goodwill = Valor pago – valor justo adquirido Goodwill = $33.000.000 - $ 27.000.000 = $6.000.000 Em Investimento, fica o valor justo ou o valor pago, dos dois o maior. Contabilização: D – Investimento 33.000.000 --- Valor patrimonial 21.600.000 --- Mais valia 5.400.000 --- Goodwill 6.000.000 E o goodwill de $ 6.000.000 fica no intangível, no balanço consolidado.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q25",
+        "question": "(CEBRASPE/ANATEL/Contabilidade/2014) O goodwill identificado na operação é zero.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Para calcular o goodwill, devemos comparar o valor pago com o valor justo dos ativos e passivos adquiridos. Valor justo do Ativo 495.500 – valor justo do passivo 195.800 Valor justo = 495.500 – 195.800 = 299.700 Como o valor pago foi igual ao valor justo, não houve goodwill e nem compra vantajosa. 107 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q26",
+        "question": "(CEBRASPE/ANATEL/Contabilidade/2014) O valor dos ativos líquidos a ser considerado para o cálculo do goodwill é de R$ 495.500,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "O valor dos ativos líquidos é o ativo menos o passivo. Ativo líquido = 495.500 – 195.800 = 299.700",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q27",
+        "question": "(FBC/CFC/Exame de Suficiência/2014 - 1) Uma sociedade empresária adquiriu o controle de duas outras sociedades durante o ano de 2013. Na aquisição do controle da sociedade “A”, foi apurado um ágio por expectativa de rentabilidade futura - goodwill no valor de R$2.000.000,00. Na aquisição do controle da sociedade “B”, foi apurada uma compra vantajosa no valor de R$200.000,00. O registro contábil dos valores apurados irá gerar: um aumento de R$2.000.000,00 no Ativo Não Circulante e um aumento de R$200.000,00 no Resultado do Período.",
+        "options": [
+          "um aumento de R$2.200.000,00 no Ativo Não Circulante.",
+          "uma redução de R$1.800.000,00 no Resultado do Período.",
+          "uma redução de R$2.000.000,00 no Ativo Não Circulante e um aumento de R$200.000,00 no Resultado do Período."
+        ],
+        "correct": 0,
+        "explanation": "No balanço individual da investidora, o goodwill de $2.000.000 fica classificado em Investimento, no Ativo Não Circulante. E a compra vantajosa de $200.000 vai para o resultado. Assim, a empresa terá um aumento de $2.000.000 no Ativo Não Circulante e um aumento de $200.000 no resultado do exercício.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q28",
+        "question": "(CESGRANRIO/Liquigás/Contador/2013) As empresas A e B, sem participação entre elas, decidiram se fundir constituindo uma nova empresa C, atendendo a todos os requisitos legais ou normativos necessários e indispensáveis para a realização da fusão e, de acordo com os seus respectivos termos, a empresa A foi considerada a empresa adquirente, para efeitos contábeis. Balanços apresentados pelas empresas elaborados na data da fusão. De acordo com as normas vigentes, a empresa B avaliou seu patrimônio, pelo valor justo, apurando que: Ativo Circulante e Passivo Circulante: serão mantidos os valores contábeis Ativo Não Circulante: um galpão já totalmente depreciado foi avaliado em 150.000,00 Desconsiderando qualquer efeito tributário e considerando somente as informações recebidas, o valor do Capital Próprio da nova Empresa C, em reais, é",
+        "options": [
+          "1.100.000,00",
+          "1.850.000,00",
+          "1.950.000,00",
+          "2.050.000,00",
+          "3.250.000,00"
+        ],
+        "correct": 3,
+        "explanation": "A fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que lhes sucederá em todos os direitos e obrigações. Assim, duas ou mais sociedades se juntam para a formação de uma nova. As antigas desaparecem. A B C A questão solicitou o valor do capital próprio da nova empresa C, resultante da fusão. Nosso objetivo é obter o valor do patrimônio líquido de cada uma das empresas e soma-los. 109 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Conforme determina o CPC 15, a avaliação deve ser feita a valor justo: Empresa A Patrimônio Líquido = 1.500.000,00 Empresa B Patrimônio Líquido = 400.000,00+150.000 = 550.000,00 Empresa C Patrimônio Líquido = 1.500.000 + 550.000 = 2.050.000,00",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q29",
+        "question": "(CESGRANRIO/Innova/Contador/2012) Cisão é a operação pela qual uma companhia transfere parcelas de seu patrimônio para uma ou mais sociedades, constituídas para esse fim, ou já existentes, extinguindo-se a companhia cindida, se houver versão de todo o seu patrimônio, ou dividindo-se o seu capital, se parcial a versão. Se a companhia que pretende fazer a cisão for emissora de debêntures em circulação, a mesma dependerá da prévia autorização dos debenturistas, tomada em assembleia especialmente convocada para esse fim. Entretanto, será dispensada a aprovação pela assembleia, se for assegurado aos debenturistas, que assim o desejarem, o resgate das debêntures das quais são titulares, no prazo contado da data de publicação das atas de assembleias da companhia. Esse prazo, estabelecido em meses, é, no mínimo, de",
+        "options": [
+          "3",
+          "6",
+          "12",
+          "18",
+          "24"
+        ],
+        "correct": 1,
+        "explanation": "Se a companhia objeto da operação societária for emissora de debêntures, a incorporação, fusão ou cisão dependerá de prévia autorização destes debenturistas, reunidos em assembleia específica. Essa obrigatoriedade, contudo, deixa de existir quando a companhia assegurar o resgate das debêntures em um prazo mínimo de seis meses.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q30",
+        "question": "(FCC/TRT 6/Contabilidade/2012) A Cia. Investidora adquiriu 90% das ações da Cia. Gama por R$ 5.000.000,00. Na data da aquisição, o Patrimônio Líquido da Cia. Gama era de R$ 3.500.000,00 e o valor justo líquido dos ativos e passivos identificáveis da Cia. era de R$ 4.500.000,00. Com base nessas informações e sabendo que a Participação dos Não Controladores é avaliada pela parte que lhes cabe no valor justo líquido dos ativos e passivos identificáveis da adquirida, o valor do ágio pago pela Cia. Investidora em função de rentabilidade futura foi, em reais,",
+        "options": [
+          "1.850.000",
+          "1.500.000",
+          "1.000.000",
+          "950.000",
+          "500.000"
+        ],
+        "correct": 3,
+        "explanation": "O ágio por rentabilidade futura (Goodwill) é o valor pago menos o Valor Justo da participação adquirida. Valor Justo = $4.500.000 x 90% = 4.050.000 Goodwill = Valor pago – Valor Justo Goodwill = $5.000.000 - $4.050.000 = $ 950.000 A contabilização na investidora, no momento da aquisição, fica assim: 100% 90% Valor Patrimonial 3.500.000 3.150.000 Valor Justo 4.500.000 4.050.000 Valor pago 5.000.000 Contabilização: D – Investimento 5.000.000 --- Valor Patrimonial 3.150.000 --- Mais Valia 900.000 --- Goodwill 950.000 C – Caixa/bancos (Ativo) 5.000.000",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q31",
+        "question": "(FCC/ISS-SP/Auditor/2012) Na combinação de negócios, o adquirente deve mensurar os ativos identificáveis adquiridos pelos seus respectivos",
+        "options": [
+          "custos históricos corrigidos na data de aquisição.",
+          "valores justos da data de aquisição.",
+          "valores justos do último balanço patrimonial anterior à aquisição.",
+          "valores de liquidação.",
+          "custos históricos."
+        ],
+        "correct": 1,
+        "explanation": "Conforme o pronunciamento CPC 15 (R1) – Combinação de negócios: 18. O adquirente deve mensurar os ativos identificáveis adquiridos e os passivos assumidos pelos respectivos valores justos da data da aquisição.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q32",
+        "question": "(FBC/CFC/Exame de Suficiência/2012 – 1) A Sociedade Investidora A adquiriu 100% do Capital da Sociedade Investida B, por R$1.000.000,00 pagos em dinheiro. Na data da aquisição, o valor líquido dos ativos identificáveis adquiridos e dos passivos assumidos da Sociedade Investida B, mensurados de acordo com a NBC TG 15 – Combinações de Negócios, somava R$1.200.000,00. Na mesma data, o saldo contábil do Patrimônio Líquido da Sociedade Investida B era de R$800.000,00. Como resultado desta combinação de negócios, a Sociedade Investidora A deverá registrar: um Ágio por expectativa de rentabilidade futura – goodwill – de R$200.000,00, em conta do Ativo Não Circulante.",
+        "options": [
+          "uma compra vantajosa de R$200.000,00 em conta do Ativo Não Circulante.",
+          "um Ágio por expectativa de rentabilidade futura – goodwill – de R$200.000,00, no resultado do período.",
+          "uma compra vantajosa de R$200.000,00 no resultado do período."
+        ],
+        "correct": 3,
+        "explanation": "A questão informa os seguintes valores: Valor contábil: $ 800.000 Valor pago $1.000.000 Valor justo: $1.200.000 A diferença entre o Valor Justo e o Valor Patrimonial é a Mais Valia: Mais Valia = Valor justo – Valor patrimonial 112 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Mais Valia = $1.200.000 - $800.000 = $400.000 E a diferença entre o Valor pago e o Valor Justo pode ser o Goodwill (quando o adquirente paga mais que o valor justo) ou a Compra Vantajosa (quando o adquirente paga menos que o valor justo). Nessa questão, temos uma Compra Vantajosa: Compra Vantajosa = Valor justo – Valor pago = $ 1.200.000 - $1.000.000 = $200.000 Contabilização: D – Investimento (Ativo) 1.200.000 Dividido em subcontas: Valor Patrimonial 800.000 Mais Valia 400.000 C – Compra Vantajosa (Resultado) 200.000 C – Caixa (Ativo) 1.000.000",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q33",
+        "question": "(CESGRANRIO/Petrobrás/Contador/2011) Empresários, executivos e dirigentes de empresas, em decorrência da alta carga tributária brasileira, podem, ao abrigo da lei, criar, extinguir, agrupar e desmembrar as sociedades, com o objetivo principal de reduzirem o pesado ônus dessa carga de impostos e contribuições, especificamente do imposto de renda e contribuição social sobre o lucro. Esse leque de procedimentos, no âmbito societário, indica uma",
+        "options": [
+          "reestruturação",
+          "incorporação",
+          "fusão",
+          "conglomeração",
+          "cisão"
+        ],
+        "correct": 0,
+        "explanation": "No Brasil temos diversos tipos societários que permitem o exercício do empreendedorismo. Embora a quase que totalidade dos empreendimentos adote a forma de sociedade limitada e sociedade anônima, é possível a adoção de outros tipos (como sociedade em nome coletivo, sociedade em comandita simples). Imagine-se que ALFA constitua determinado tipo societário e, decidindo expandir sua área negocial, resolve juntamente de BETA realizar determinado empreendimento. Todavia, os sócios pretendem trabalhar juntos, 113 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 formalizando toda a operação na Junta Comercial, para que dividam os riscos e benefícios inerentes ao mercado. Assim, para que se evite a extinção de ALFA e BETA, processo que pode ser extremamente burocrático e moroso, a legislação prevê caminhos alternativos, passos estes que colimam no mesmo fim, através de outros passos, como por exemplo, a fusão. Além da fusão, existem outros tipos de processos de reorganização e reestruturação de empresas, como a incorporação ou, ainda, a cisão.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q34",
+        "question": "(CESGRANRIO/Tranpetro/Contador/2011) A Comercial Obra não tem participação na Comercial Pronta e as duas empresas não estão sob o mesmo controle acionário. Elas acordaram que a primeira incorporaria a segunda, em 30 de junho de 2009, com base no acervo líquido avaliado pelo justo valor, por não estarem sob o mesmo controle acionário. As companhias apresentaram os balanços a seguir, elaborados em 30 de junho de 2009. Na incorporação, houve a efetiva transferência do controle acionário, e a incorporada foi considerada como adquirida. Nessas condições, o lançamento do aumento de capital na incorporadora, em decorrência da incorporação, em reais, foi (A) D. Ativos Companhia Obra 3.990,00 C. Capital Social Companhia Obra 3.990,00 (B) D. Capital Social Companhia Pronta 3.990,00 C. Capital Social Companhia Obra 3.990,00 (C) D. Incorporação Companhia Obra 3.240,00 C. Capital Social Companhia Obra 3.240,00 (D) D. Capital Social Companhia Pronta 3.240,00 C. Capital Social Companhia Obra 3.240,00 (E) D. Incorporação Companhia Obra 4.570,00 C. Capital Social Companhia Obra 4.570,00",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "114 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações. O patrimônio líquido deve ser acrescido totalmente ao capital social da incorporadora, independentemente de na incorporada haver subdivisão, considerando o valor justo. Comercial Pronta – Patrimônio Líquido avaliado a valor justo: Ativos 5.320 (-) Passivos (750) = Patrimônio Líquido 4.570 Assim, o capital social da incorporadora, que era de R$ 6.320, passará para R$ 10.890 (6.320 + 4.570) Contabilização: D – Conta de incorporação 4.570 C – Capital Social (Patrimônio Líquido 4.570",
+        "type": "true-false"
+      },
+      {
+        "id": "aula22_q35",
+        "question": "(CESGRANRIO/Tranpetro/Auditor - Junior/2011) Atualmente, o mercado vive uma grande tendência para formação de grandes grupos empresariais, que surgem por meio das operações de fusão, cisão e incorporação, realizadas entre as empresas. Conforme consta na Lei nº 6.404/76, fusão é a operação pela qual",
+        "options": [
+          "uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações.",
+          "uma Companhia transfere parcelas do seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes.",
+          "uma sociedade passa, independente de dissolução e liquidação, de um tipo para outro.",
+          "duas ou mais sociedades se unem para formar sociedade nova, que lhes sucederá em todos os direitos e obrigações.",
+          "duas ou mais empresas criam uma associação, definitiva ou não, para explorar determinados negócios, sem perder a personalidade jurídica."
+        ],
+        "correct": 3,
+        "explanation": "A lei 6404/76 apresenta esse conceito: Art. 228. A fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que lhes sucederá em todos os direitos e obrigações. Assim, duas ou mais sociedades se juntam para a formação de uma nova. As antigas desaparecem. 115 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 ALFA BETA CHARLIE",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q36",
+        "question": "(CESGRANRIO/EPE/AGC-Contabilidade/2010) Sobre os conceitos de transformações societárias, analise as afirmações a seguir. I - Fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que a elas sucederá em todos os direitos e obrigações. II - Quando uma ou mais sociedades são absorvidas por outra, que a elas sucede em todos os direitos e obrigações, ocorre a cisão total. III - A incorporação é a operação pela qual a sociedade passa, independente de dissolução e liquidação, de um tipo para outro. Está correto o que se afirma em",
+        "options": [
+          "I, apenas.",
+          "II, apenas.",
+          "III, apenas.",
+          "II e III, apenas.",
+          "I, II e III."
+        ],
+        "correct": 0,
+        "explanation": "I - Fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que a elas sucederá em todos os direitos e obrigações. Correta. Esta é a definição de fusão. II - Quando uma ou mais sociedades são absorvidas por outra, que a elas sucede em todos os direitos e obrigações, ocorre a cisão total. Errada. A alternativa descreve a incorporação, e não a cisão. III - A incorporação é a operação pela qual a sociedade passa, independente de dissolução e liquidação, de um tipo para outro. Errada. Leia na alternativa anterior a definição de incorporação.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q37",
+        "question": "(CESGRANRIO/PETROBRAS/Auditor Jr./2010) De acordo com a legislação societária atual, existem três tipos de operação que possibilitam a reorganização da estrutura de uma empresa, seja por crescimento, mudança de ramo, planejamento fiscal, ou necessidade de caixa, entre outros. Essas operações são: incorporação, cisão e fusão. A incorporação é caracterizada por ser a operação pela qual",
+        "options": [
+          "duas ou mais Sociedades se unem para formar uma Sociedade nova que a elas sucederá em todos os direitos e obrigações.",
+          "duas ou mais Companhias se unem para combinação dos preços de seus produtos e domínio do mercado consumidor.",
+          "uma ou mais Sociedades são absorvidas por outra, que a elas sucede em todos os direitos e obrigações.",
+          "uma Companhia transfere parcelas do seu patrimônio para uma ou mais Sociedades constituídas para esse fim, ou já existentes.",
+          "uma empresa familiar resolve abrir capital, colocando parte de seu patrimônio para ser negociado na bolsa de valores."
+        ],
+        "correct": 2,
+        "explanation": "A) duas ou mais Sociedades se unem para formar uma Sociedade nova que a elas sucederá em todos os direitos e obrigações. Errada, esta é a descrição da Fusão. B) duas ou mais Companhias se unem para combinação dos preços de seus produtos e domínio do mercado consumidor. Errada, a situação acima caracteriza o Cartel. C) uma ou mais Sociedades são absorvidas por outra, que a elas sucede em todos os direitos e obrigações. Correta, a alternativa descreve a Incorporação. D) uma Companhia transfere parcelas do seu patrimônio para uma ou mais Sociedades constituídas para esse fim, ou já existentes. Errada, isto é a cisão. E) uma empresa familiar resolve abrir capital, colocando parte de seu patrimônio para ser negociado na bolsa de valores. Errada, trata-se de situação de abertura do capital.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q38",
+        "question": "(INSTITUTO MOVENS/DNPM/Contabilidade/2010) Os balanços a seguir apresentam a situação patrimonial das Companhias A e B. Considerando que a Companhia C resultará do processo de fusão entre os saldos contábeis das empresas A e B, apresentados acima, assinale a opção correta.",
+        "options": [
+          "O valor inicial do patrimônio líquido da Companhia C será de R$10.700,00.",
+          "O saldo inicial da conta Depreciação acumulada, na contabilidade da nova companhia, será de R$3.100,00.",
+          "O valor inicial do passivo circulante da Companhia C será de R$400,00.",
+          "Os saldos contábeis iniciais da nova empresa serão idênticos ao da empresa com maior patrimônio líquido.",
+          "O valor inicial do ativo não circulante da nova companhia será de R$2.900,00."
+        ],
+        "correct": 4,
+        "explanation": "No caso de fusão, devemos eliminar os saldos de transações entre as empresas, inclusive lucros não realizados e a participação de uma empresa na outra. Mas a questão não informa nenhuma participação ou saldos inter-companhias. Portanto, vamos simplesmente somar os saldos de mesma natureza. Vamos analisar as alternativas: A) O valor inicial do patrimônio líquido da Companhia C será de R$10.700,00. Errada, o valor inicial do patrimônio líquido da Cia C será a soma dos PLs de A e B. 10.700 + 2.700 = 13.400. B) O saldo inicial da conta Depreciação acumulada, na contabilidade da nova companhia, será de R$3.100,00. Errada. Depreciação Acumulada de A + B = 3.600 + 500 = 4.100 C) O valor inicial do passivo circulante da Companhia C será de R$400,00. Errada. Passivo circulante de A + Passivo de B = 1.500 + 400 = 1.900 118 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 D) Os saldos contábeis iniciais da nova empresa serão idênticos ao da empresa com maior patrimônio líquido. Errada, os saldos contábeis de mesma natureza serão somados, para a criação da nova empresa. E) O valor inicial do ativo não circulante da nova companhia será de R$2.900,00. Certa, ativo não circulante de A + B = 2.400 + 500 = 2.900.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q39",
+        "question": "(FCC/TRF-5ª Região/Analista Contábil/2008) A Cia. A possui ações da Cia. B e as assembleias gerais das duas sociedades aprovaram a incorporação da Cia. B pela Cia. A, com base nos seguintes balanços patrimoniais: Ativo Cia. A Cia. B Disponível 200.000,00 140.000,00 Clientes 350.000,00 200.000,00 Estoques 140.000,00 60.000,00 Investimento na Cia B 120.000,00 0,00 Imobilizado 700.000,00 300.000,00 Total do Ativo 1.510.000,00 700.000,00 Passivo Fornecedores 350.000,00 120.000,00 Outras contas a pagar 100.000,00 110.000,00 Empréstimos a Longo Prazo 450.000,00 230.000,00 Capital 410.000,00 100.000,00 Reservas 200.000,00 140.000,00 Total do Passivo 1.510.000,00 700.000,00 No decorrer do exercício, a Cia. B vendeu R$ 80.000,00 de mercadorias para a Cia. A pelo preço de custo, cujo pagamento não tinha sido efetuado pela investidora até o final do exercício. Após a operação de incorporação, que foi feita com base nos valores contábeis, o valor total do Ativo da Cia. A passou a ser",
+        "options": [
+          "2.290.000,00",
+          "2.210.000,00",
+          "2.130.000,00",
+          "2.090.000,00",
+          "2010.000,00"
+        ],
+        "correct": 4,
+        "explanation": "A incorporação é semelhante à consolidação de balanços. Devemos somar as contas de ativo, passivo e PL das duas entidades e excluir o que estiver em dobro, e as operações inter-companhias. O quadro completo da incorporação fica assim: 119 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Ativo CIA A CIA B Soma Débito Crédito Total Disponível 200.000 140.000 340.000 340.000 Clientes 350.000 200.000 550.000 80.000 470.000 Estoques 140.000 60.000 200.000 200.000 Investimentos na Cia B 120.000 - 120.000 120.000 - Imobilizado 700.000 300.000 1.000.000 1.000.000 TOTAL DO ATIVO 1.510.000 700.000 2.210.000 2.010.000 Passivo CIA A CIA B Soma Débito Crédito Total Fornecedores 350.000 120.000 470.000 80.000 390.000 Outras contas a pagar 100.000 110.000 210.000 210.000 Empréstimos de longo prazo 450.000 230.000 680.000 680.000 Capital 410.000 100.000 510.000 50.000 460.000 Reservas 200.000 140.000 340.000 70.000 270.000 TOTAL DO PASSIVO 1.510.000 700.000 2.210.000 2.010.000 Os ajustes são os seguintes: 1) Cia. B vendeu R$ 80.000,00 de mercadorias para a Cia. A pelo preço de custo, cujo pagamento não tinha sido efetuado pela investidora até o final do exercício. Portanto, este valor está na conta de clientes, na Cia B, e em fornecedores, na Cia A. Com a incorporação, esse valor deve ser eliminado, pois não tem sentido uma entidade dever a si mesma. Ajuste: D – Fornecedores 80.000 C – Clientes 80.000 2) Investimento na Cia B: 120.000 O valor no ativo da Cia A deve ser ajustado contra o PL da Cia B, de forma proporcional às contas do PL. Assim: C – Investimento na Cia B 120.000 D – Capital Social 50.000 D – Reservas 70.000 Mas, na prova, não precisa fazer o quadro completo. Identifique o que a questão está pedindo e efetue os ajustes necessários. Total do Ativo: Ativo Cia A 1.510.000 (+) Ativo Cia B 700.000 Sub-total 2.210.000 120 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 (-) Clientes (venda Cia B) (80.000) (-) Investimento Cia B (120.000) Total ativo 2.010.000",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q40",
+        "question": "(FCC/Metro-SP/Analista Trainee/Contabilidade/2008) Fusão é a operação na qual",
+        "options": [
+          "duas ou mais companhias se juntam com o objetivo de submeterem-se à concorrência para execução de um bem ou serviço público, ficando cada uma responsável por determinada parcela da obra a ser executada.",
+          "uma sociedade absorve o patrimônio de outra, sucedendo-lhe os direitos e obrigações.",
+          "uma sociedade realiza seus ativos, paga seus passivos e restitui o capital a seus sócios ou acionistas.",
+          "uma sociedade transfere parcelas de seu patrimônio para outra que lhe sucederá em todos os direitos e obrigações.",
+          "duas ou mais companhias se unem para formar uma sociedade nova, que lhes sucederá em todos os direitos e obrigações."
+        ],
+        "correct": 4,
+        "explanation": "Conforme a Lei 6404/76 (Lei das S.A.s): Incorporação Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações. Fusão Art. 228. A fusão é a operação pela qual se unem duas ou mais sociedades para formar sociedade nova, que lhes sucederá em todos os direitos e obrigações. Cisão Art. 229. A cisão é a operação pela qual a companhia transfere parcelas do seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes, extinguindo-se a companhia cindida, se houver versão de todo o seu patrimônio, ou dividindo-se o seu capital, se parcial a versão. Vamos analisar as alternativas: A) duas ou mais companhias se juntam com o objetivo de submeterem-se à concorrência para execução de um bem ou serviço público, ficando cada uma responsável por determinada parcela da obra a ser executada. Errada. Essa é a definição de consórcio de empresas. 121 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 B) uma sociedade absorve o patrimônio de outra, sucedendo-lhe os direitos e obrigações. Errada. Esta é a definição de Incorporação. C) uma sociedade realiza seus ativos, paga seus passivos e restitui o capital a seus sócios ou acionistas. Errada. Trata-se de dissolução da entidade D) uma sociedade transfere parcelas de seu patrimônio para outra que lhe sucederá em todos os direitos e obrigações. Errada. Trata-se de Cisão. E) duas ou mais companhias se unem para formar uma sociedade nova, que lhes sucederá em todos os direitos e obrigações. Alternativo correta. É a definição de Fusão.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q41",
+        "question": "(FCC/TRF-2ª Região/Analista Contábil/2008) De acordo com a Lei no 6404/76, a operação pela qual uma companhia transfere parcelas de seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes, é denominada de",
+        "options": [
+          "incorporação.",
+          "fusão.",
+          "cisão.",
+          "dissolução.",
+          "encampação."
+        ],
+        "correct": 2,
+        "explanation": "Esta é a definição de cisão, confira: Cisão Art. 229. A cisão é a operação pela qual a companhia transfere parcelas do seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes, extinguindo-se a companhia cindida, se houver versão de todo o seu patrimônio, ou dividindo-se o seu capital, se parcial a versão.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q42",
+        "question": "(FCC/ISS-SP/Auditor/2007) Em relação aos aspectos fiscais dos processos de reorganização e reestruturação de empresas, é correto afirmar que 122 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156",
+        "options": [
+          "apenas as sociedades extintas nos processos de incorporação, fusão e cisão terão que apresentar declaração de informações da pessoa jurídica e tributar o lucro correspondente.",
+          "a incorporadora poderá compensar os prejuízos fiscais da incorporada, observando o limite de redução de 30% do lucro real, antes de tal compensação.",
+          "a sociedade cindida parcialmente não mais terá direito a compensar seus prejuízos fiscais, devendo dar baixa dos mesmos na parte B do LALUR.",
+          "as sociedades resultantes da cisão total de uma companhia terão direito de compensar os prejuízos fiscais da sucedida na proporção do acervo líquido recebido por cada uma.",
+          "a reserva de reavaliação terá na sucessora o mesmo tratamento tributário que teria na sucedida."
+        ],
+        "correct": 4,
+        "explanation": "A) apenas as sociedades extintas nos processos de incorporação, fusão e cisão terão que apresentar declaração de informações da pessoa jurídica e tributar o lucro correspondente. Errada. Conforme o regulamento do IR, Art. 235: § 7º A pessoa jurídica incorporada, fusionada ou cindida deverá apresentar declaração de rendimentos correspondente ao período transcorrido durante o ano-calendário, em seu próprio nome, até o último dia útil do mês subsequente ao do evento. Portanto, não são apenas as sociedades extintas. B) a incorporadora poderá compensar os prejuízos fiscais da incorporada, observando o limite de redução de 30% do lucro real, antes de tal compensação. Errada. A pessoa jurídica sucessora por incorporação, fusão ou cisão não poderá compensar prejuízos fiscais da sucedida, o mesmo ocorrendo com a base de cálculo negativa da contribuição social sobre o lucro líquido (CSLL). Há uma exceção, que veremos a seguir. C) a sociedade cindida parcialmente não mais terá direito a compensar seus prejuízos fiscais, devendo dar baixa deles na parte B do LALUR. Errada. No caso de cisão parcial, a pessoa jurídica cindida poderá compensar os seus próprios prejuízos, proporcionalmente à parcela remanescente do patrimônio líquido. D) as sociedades resultantes da cisão total de uma companhia terão direito de compensar os prejuízos fiscais da sucedida na proporção do acervo líquido recebido por cada uma. Errada. Apenas no caso de cisão parcial é possível a compensação, conforme resposta à alternativa C. E) a reserva de reavaliação terá na sucessora o mesmo tratamento tributário que teria na sucedida. Correta. Conforme o Regulamento do IR: 123 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Art. 441. As reservas de reavaliação transferidas por ocasião da incorporação, fusão ou cisão terão, na sucessora, o mesmo tratamento tributário que teriam na sucedida.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula22_q44",
+        "question": "(FCC/CEAL/Contador/2005) A Cia. Alpha incorporou a Cia. Beta, da qual detinha 30% das ações. Os balanços patrimoniais das duas companhias estão reproduzidos abaixo. Ativo Alpha Beta Disponível 170.000,00 50.000,00 Clientes 220.000,00 80.000,00 Estoques 240.000,00 70.000,00 Investimento - Beta 45.000,00 - Imobilizado 325.000,00 100.000,00 1.000.000,00 300.000,00 124 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 156 Passivo + PL Alpha Beta 260.000,00 90.000,00 Fornecedores 140.000,00 60.000,00 Contas a pagar 400.000,00 100.000,00 Capital 200.000,00 50.000,00 Reservas 1.000.000,00 300.000,00 Supondo-se que a incorporação seja feita pelos valores contábeis, o patrimônio líquido da Cia. Alpha, após a operação, corresponderá (em R$) a",
+        "options": [
+          "500 000,00",
+          "600 000,00",
+          "605 000,00",
+          "705 000,00",
+          "750 000,00"
+        ],
+        "correct": 3,
+        "explanation": "Vamos usar a resolução rápida, que é a que devemos levar para a prova. Vamos somar os valores do PL das duas empresas e diminuir o investimento de uma na outra. Assim: PL de Alpha: 400.000 + 200.000 = 600.000 PL de Beta: 100.000 + 50.000 = 150.000 PL total: 600.000 + 150.000 = 750.000 (-) Investimento Beta.............(45.000) PL após incorporação...............705.000",
+        "type": "multiple-choice"
+      }
+    ]
+  },
+  {
+    "id": "aula23",
+    "title": "23",
+    "description": "Questões comentadas da 23",
+    "color": "bg-blue-800",
+    "questions": [
+      {
+        "id": "aula23_q2",
+        "question": "(FGV/Auditor Fiscal de Receitas Estaduais/SEFAZ AM/2022) De acordo com o Pronunciamento Técnico CPC 46 - Mensuração do Valor Justo, a mensuração do valor justo presume que a transação para a venda do ativo ocorre no mercado principal para o ativo ou, em sua ausência,",
+        "options": [
+          "em fatos históricos mais recentes.",
+          "no mercado mais similar para o ativo.",
+          "no mercado mais vantajoso para o ativo.",
+          "com base nos preços cotados no mercado internacional.",
+          "no mercado em que a empresa comprou o bem no passado."
+        ],
+        "correct": 2,
+        "explanation": "O CPC 46 define valor justo como o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. 25 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 O item 16 desse pronunciamento afirma que a mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorre: (a) no mercado principal para o ativo ou passivo; ou (b) na ausência de mercado principal, no mercado mais vantajoso para o ativo ou passivo.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q3",
+        "question": "(FGV/Auditor de Finanças e Controle/SEFAZ AM/2022) De acordo com a modificação trazida pela Lei nº 11.941/2009 à Lei nº 6.404/1976, no balanço patrimonial, as aplicações em instrumentos financeiros e em direitos e títulos de crédito, classificados no ativo circulante ou no ativo realizável, a longo prazo, são avaliadas pelo seu valor justo no seguinte caso:",
+        "options": [
+          "são aplicações destinadas à negociação ou disponíveis para venda.",
+          "são aplicações relevantes para a entidade.",
+          "dizem respeito a créditos com sociedades controladas.",
+          "representam investimentos em bancos de primeira linha.",
+          "dizem respeito a vendas a crédito com empresas no exterior."
+        ],
+        "correct": 0,
+        "explanation": "De acordo com a Lei 6404/76, art. 183, no balanço, os elementos do ativo serão avaliados segundo os seguintes critérios: I - as aplicações em instrumentos financeiros, inclusive derivativos, e em direitos e títulos de créditos, classificados no ativo circulante ou no realizável a longo prazo: a) pelo seu valor justo, quando se tratar de aplicações destinadas à negociação ou disponíveis para venda;",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q4",
+        "question": "(FGV/MPE GO/Analista Contábil/2022) De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, a entidade deve divulgar, em notas explicativas, informação acerca dos pressupostos relativos ao futuro e outras fontes principais de incerteza nas estimativas ao término do período de reporte que possuam risco significativo de provocar ajuste material nos valores contábeis de ativos e passivos ao longo do próximo exercício social, incluindo detalhes sobre a sua natureza e o seu valor contábil ao término do período de reporte. Essa divulgação não é requerida para os ativos que tenham risco significativo de que seus valores contábeis possam sofrer alteração significativa ao longo do próximo exercício social se, ao término do período das demonstrações contábeis, forem mensurados pelo",
+        "options": [
+          "custo corrente de reposição, com base na cotação do mercado.",
+          "custo histórico, com base no custo de aquisição. 26 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78",
+          "valor presente, com base no desconto do ativo vendido a prazo.",
+          "custo corrente histórico, corrigido com base no reconhecimento da inflação",
+          "valor justo com base em preço cotado em mercado ativo para ativo idêntico."
+        ],
+        "correct": 4,
+        "explanation": "Questão que exigiu conhecimento de itens pouco cobrados do CPC 26 - Apresentação das Demonstrações Contábeis. O item 125 do referido pronunciamento afirma que a entidade deve divulgar, nas notas explicativas, informação acerca dos pressupostos relativos ao futuro e outras fontes principais de incerteza nas estimativas ao término do período de reporte que possuam risco significativo de provocar ajuste material nos valores contábeis de ativos e passivos ao longo do próximo exercício social. Com respeito a esses ativos e passivos, as notas explicativas devem incluir detalhes elucidativos acerca: (a) da sua natureza; e (b) do seu valor contábil ao término do período de reporte. Todavia, há exceções. O item 128 do CPC 26 afirma que. as divulgações descritas no item 125 não são requeridas para ativos e passivos que tenham risco significativo de que seus valores contábeis possam sofrer alteração significativa ao longo do próximo exercício social se, ao término do período das demonstrações contábeis, forem mensurados pelo valor justo com base em preço cotado em mercado ativo para ativo ou passivo idêntico. A justificativa é que, nesse caso, os valores justos podem alterar-se materialmente ao longo do próximo exercício social, mas essas alterações não serão fruto de pressupostos ou de outras fontes da incerteza das estimativas ao término do período das demonstrações contábeis.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q5",
+        "question": "(FGV/MPE GO/Analista Contábil/2022) A conta Ajustes de Avaliação Patrimonial foi introduzida na contabilidade brasileira pela Lei 11.638/07. Em relação a essa conta, é correto afirmar que",
+        "options": [
+          "sua contrapartida é uma conta redutora do ativo.",
+          "corresponde a uma conta de reserva no patrimônio líquido.",
+          "sua constituição é evidenciada na Demonstração do Resultado do Exercício.",
+          "reconhece as variações de valor atribuído a elementos do ativo e do passivo em decorrência da avaliação a valor justo.",
+          "os valores registrados na conta devem ser transferidos para o resultado do exercício no final do exercício social."
+        ],
+        "correct": 3,
+        "explanation": "27 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 O ajuste de avaliação patrimonial recebe a contrapartida de aumentos e diminuições de ativos e de passivos avaliados a valor justo: Art. 183, § 3o Serão classificadas como ajustes de avaliação patrimonial, enquanto não computadas no resultado do exercício em obediência ao regime de competência, as contrapartidas de aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua avaliação a valor justo, nos casos previstos nesta Lei ou, em normas expedidas pela Comissão de Valores Mobiliários, com base na competência conferida pelo § 3o do art. 177. Resumidamente: Ajuste de avaliação patrimonial Enquanto não computado no resultado do exercício Contrapartida de aumento ou redução do ativo ou passivo Em decorrência da avaliação a valor justo Agora, vamos analisar cada alternativa: a) sua contrapartida é uma conta redutora do ativo. Errado, pois a contrapartida pode ser aumento ou diminuição de ativos ou passivos. b) corresponde a uma conta de reserva no patrimônio líquido. Errado, é uma conta separada das reservas. c) sua constituição é evidenciada na Demonstração do Resultado do Exercício. Errado, a constituição dessa conta é lançada diretamente no patrimônio líquido, sem afetar o resultado. d) reconhece as variações de valor atribuído a elementos do ativo e do passivo em decorrência da avaliação a valor justo. Correto, conforme apresentado na Lei 6404/76. e) os valores registrados na conta devem ser transferidos para o resultado do exercício no final do exercício social. Errado, em situações específicas, o saldo dessa conta pode ser reclassificado para o resultado do exercício, como por exemplo, a baixa pela venda de instrumentos financeiros avaliados a valor justo por meio de outros resultados abrangentes.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q7",
+        "question": "(FGV/ALE-RO/Analista Legislativo - Contabilidade/2018) De acordo com o Pronunciamento Técnico CPC 46 - Mensuração do Valor Justo, a mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorra em primeiro lugar no mercado principal para o ativo ou passivo. Na ausência de evidência ao contrário, presume-se que o mercado principal é o mercado",
+        "options": [
+          "no qual a entidade normalmente realizaria a transação para a venda do ativo ou para a transferência do passivo.",
+          "em que a transação é mais vantajosa para a entidade.",
+          "geograficamente mais perto de onde acontecem as transações.",
+          "no qual a entidade realizou transações nos exercícios passados.",
+          "no qual os principais concorrentes da entidade geralmente realizam suas transações."
+        ],
+        "correct": 0,
+        "explanation": "29 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 Questão literal! Aqui a FGV cobrou o item 17 do CPC 46 – Mensuração do Valor Justo: 17. A entidade não necessita empreender uma busca exaustiva de todos os possíveis mercados para identificar o mercado principal ou, na ausência de mercado principal, o mercado mais vantajoso, mas ela deve levar em consideração todas as informações que estejam disponíveis. Na ausência de evidência em contrário, presume-se que o mercado no qual a entidade normalmente realizaria a transação para a venda do ativo ou para a transferência do passivo seja o mercado principal ou, na ausência de mercado principal, o mercado mais vantajoso.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q8",
+        "question": "(FGV/Analista/DPE MT/2015) De acordo com o Pronunciamento Técnico CPC 46 - Mensuração do Valor Justo, a mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorre no mercado principal para o ativo ou para o passivo. Na ausência do mercado principal, deve-se presumir a transferência:",
+        "options": [
+          "no mercado mais vantajoso para o ativo ou passivo.",
+          "no mercado que oferece os maiores preços de compra para o ativo.",
+          "no mercado que oferece os melhores prazos para o passivo.",
+          "no mercado geograficamente mais perto de onde acontecem as transações.",
+          "com base em fatos de exercícios passados."
+        ],
+        "correct": 0,
+        "explanation": "Conforme o pronunciamento CPC 46 – Mensuração do Valor Justo: 16. A mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorre: (a) no mercado principal para o ativo ou passivo; ou (b) na ausência de mercado principal, no mercado mais vantajoso para o ativo ou passivo. Mensuração Mercado Ausência Mais Vantajoso Valor Justo Principal Portanto, o gabarito é a letra A. Mas vamos ler um pouco mais sobre o Valor Justo. Texto do Pronunciamento CPC 46: 9. Este Pronunciamento define valor justo como o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. 30 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 Essa definição é para decorar. Os pronunciamentos anteriores tinham outra definição. A que vale atualmente é essa. Recebido Venda Ativo Preço Pago Valor Justo Transferência Transação não Passivo forçada Vamos definir os nossos termos: Transação não forçada: Transação que presume exposição ao mercado por um período antes da data de mensuração para permitir atividades de marketing que são usuais e habituais para transações envolvendo esses ativos ou passivos; não se trata de uma transação forçada (por exemplo, liquidação forçada ou venda em situação adversa). Participantes do mercado: Compradores e vendedores do mercado principal (ou mais vantajoso) para o ativo ou passivo, os quais têm todas as características a seguir: (a) são independentes entre si, ou seja, não são partes relacionadas, conforme definido no Pronunciamento CPC 05, embora o preço em uma transação com partes relacionadas possa ser utilizado como informação (input) na mensuração do valor justo se a entidade tiver evidência de que a transação foi realizada em condições de mercado; (b) são conhecedores, tendo entendimento razoável do ativo ou passivo e da transação com a utilização de todas as informações disponíveis, incluindo informações que possam ser obtidas por meio de esforços usuais e habituais com a devida diligência; (c) são capazes de realizar transação com o ativo ou passivo; (d) estão interessados em realizar transação com o ativo ou passivo, ou seja, estão motivados, mas não forçados ou, de outro modo, obrigados a fazê-lo. Texto do Pronunciamento CPC 46: Abordagem da mensuração do valor justo B2 O objetivo da mensuração do valor justo é estimar o preço pelo qual uma transação não forçada para a venda do ativo ou para a transferência do passivo ocorreria entre participantes do mercado na data de mensuração sob condições atuais de mercado. A mensuração do valor justo requer que a entidade determine todos os itens a seguir: 31 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 (a) o ativo ou passivo específico objeto da mensuração (de forma consistente com a sua unidade de contabilização); (b) para um ativo não financeiro, a premissa de avaliação apropriada para a mensuração (de forma consistente com o seu melhor uso possível); (c) o mercado principal (ou mais vantajoso) para o ativo ou passivo; (d) as técnicas de avaliação apropriadas para a mensuração, considerando-se a disponibilidade de dados com os quais se possam desenvolver informações que representem as premissas que seriam utilizadas por participantes do mercado ao precificar o ativo ou o passivo e o nível da hierarquia de valor justo no qual se classificam os dados. Vejamos os pontos principais: ==11e785== a) o ativo ou passivo específico objeto da mensuração (de forma consistente com a sua unidade de contabilização): A mensuração do valor justo destina-se a um ativo ou passivo em particular. Portanto, ao mensurar o valor justo, a entidade deve levar em consideração as características do ativo ou passivo, como por exemplo a sua condição e localização, e eventuais restrições de venda ou de uso. O valor justo pode ser aplicado tanto a ativos ou passivos individualmente ou em grupo. A determinação de se o ativo ou o passivo é ativo ou passivo independente, grupo de ativos, grupo de passivos ou grupo de ativos e passivos para fins de reconhecimento ou divulgação, depende de sua unidade de contabilização (unit of account). A unidade de contabilização (unit of account) para o ativo ou o passivo deve ser determinada de acordo com o Pronunciamento que exigir ou permitir a mensuração do valor justo. (b) para um ativo não financeiro, a premissa de avaliação apropriada para a mensuração (de forma consistente com o seu melhor uso possível): A mensuração do valor justo de um ativo não financeiro presume o uso do ativo em seu melhor uso possível (highest and best use) ou vendendo-o a outro participante do mercado que utilizaria o ativo em seu melhor uso, considerando que tal uso seja fisicamente possível, legalmente permitido e financeiramente viável. O melhor uso possível é determinado do ponto de vista dos participantes do mercado, ainda que a entidade pretenda um uso diferente. Para proteger sua posição competitiva, ou por outras razões, a entidade pode pretender não utilizar ativamente um ativo não financeiro adquirido ou pode pretender não utilizá-lo de acordo com o seu melhor uso possível. Por exemplo, um ativo intangível adquirido que a entidade planeje utilizar defensivamente impedindo que outros o utilizem. Não obstante, a entidade deve mensurar o valor justo de um ativo não financeiro presumindo o seu melhor uso possível pelos participantes do mercado. (c) o mercado principal (ou mais vantajoso) para o ativo ou passivo: 32 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 A mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorra no mercado principal para o ativo ou passivo; ou, na ausência de mercado principal, no mercado mais vantajoso. O mercado principal é aquele com o maior volume e nível de atividade para o ativo ou passivo. O mercado mais vantajoso é o que maximiza o valor que seria recebido para vender o ativo ou que minimiza o valor que seria pago para transferir o passivo, após levar em consideração os custos de transação e os custos de transporte.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q9",
+        "question": "(FGV/DPE-MT/Contador/2015) De acordo com o Pronunciamento Técnico CPC 46 - Mensuração do Valor Justo, a mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorre no mercado principal para o ativo ou para o passivo. Na ausência do mercado principal, deve-se presumir a transferência",
+        "options": [
+          "no mercado mais vantajoso para o ativo ou passivo.",
+          "no mercado que oferece os maiores preços de compra para o ativo.",
+          "no mercado que oferece os melhores prazos para o passivo.",
+          "no mercado geograficamente mais perto de onde acontecem as transações.",
+          "com base em fatos de exercícios passados."
+        ],
+        "correct": 0,
+        "explanation": "Literalidade do item 16 do CPC 46: 16. A mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorre: (a) no mercado principal para o ativo ou passivo; ou (b) na ausência de mercado principal, no mercado mais vantajoso para o ativo ou passivo.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q1",
+        "question": "(CEBRASPE/MPE CE/Ciências Contábeis/2020) O balanço patrimonial é uma demonstração estática, que mensura o patrimônio da entidade em uma data-base. Com a mensuração a valor justo, o valor do ativo é o mesmo mensurado pelo mercado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Se analisarmos o item em partes, entendemos que a primeira está correta, vejam: \" O balanço patrimonial é uma demonstração estática, que mensura o patrimônio da entidade em uma data- base.\" Isso está correto, visto que é função do Balanço Patrimonial apresentar a posição financeira e patrimonial da entidade, ou seja, o balanço patrimonial é, sim uma demonstração estática. Por seu turno, a segunda parte está errada, pois o valor de mercado é uma das abordagens do valor justo, mas NÃO se confundem. Temos basicamente três abordagens para apuração do Valor Justo: A entidade deve utilizar técnicas de avaliação que sejam apropriadas nas circunstâncias e para as quais haja dados suficientes disponíveis para mensurar o valor justo, maximizando o uso de dados observáveis relevantes e minimizando o uso de dados não observáveis. preços das transações Mercado de mercado Técnica de Avaliação custo de substituição Custo do Valor Justo ou reposição atual valor presente, Receita modelos de precificação de opções Portanto, ativos avaliados a valor justo não representam necessariamente o valor de mercado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q2",
+        "question": "(CEBRASPE/TJ AM/Analista Judiciário/Contabilidade/2019) A utilização da abordagem de custo como técnica de avaliação do valor justo requer que o valor atribuído a um ativo corresponda ao valor necessário para substituir a capacidade de serviço do referido ativo na data da avaliação.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, com base no CPC 46: B8. A abordagem de custo reflete o valor que seria necessário atualmente para substituir a capacidade de serviço de ativo (normalmente referido como custo de substituição/reposição atual).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q3",
+        "question": "(CEBRASPE/COGE CE/Auditor de Controle Interno/2019) Com relação ao valor justo, assinale a opção correta, conforme o Pronunciamento Técnico CPC 46 do Comitê de Pronunciamentos Contábeis.",
+        "options": [
+          "A utilização de custos de reposição correntes para mensuração do valor justo é compatível com a técnica de avaliação abordagem de receita.",
+          "A utilização de preços de cotação para ativos idênticos ou similares ao ativo objeto de mensuração a valor justo é compatível com a técnica de avaliação abordagem de resultado.",
+          "A utilização de preços de cotação para ativos idênticos ou similares ao ativo objeto de mensuração a valor justo é compatível com a técnica de avaliação abordagem de mercado.",
+          "A utilização de conversão de fluxos de caixa futuros a valor presente, por meio de taxas de desconto, é compatível com a técnica de avaliação abordagem de mercado.",
+          "A utilização de conversão de fluxos de caixa futuros a valor presente, por meio de taxas de desconto, é compatível com a técnica de avaliação abordagem de custo."
+        ],
+        "correct": 2,
+        "explanation": "As técnicas de avaliação podem ser classificadas quanto a abordagem, segundo o CPC 46: a) Abordagem de Mercado; b) Abordagem de Custo; e c) Abordagem de Resultado (ou Receita, como consta no CPC 46). Em síntese: 35 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 preços das Mercado transações de mercado Técnica de Avaliação custo de substituição Custo do Valor Justo ou reposição atual valor presente, modelos de Receita precificação de opções Agora, analisemos as alternativas: a) A utilização de custos de reposição correntes para mensuração do valor justo é compatível com a técnica de avaliação abordagem de receita. Errado, isso é compatível com a técnica de avaliação abordagem de CUSTO: B8 A abordagem de custo reflete o valor que seria necessário atualmente para substituir a capacidade de serviço de ativo (normalmente referido como custo de substituição/reposição atual). b) A utilização de preços de cotação para ativos idênticos ou similares ao ativo objeto de mensuração a valor justo é compatível com a técnica de avaliação abordagem de resultado. Errado, isso é compatível com a técnica de avaliação abordagem de MERCADO: B5 A abordagem de mercado utiliza preços e outras informações relevantes geradas por transações de mercado envolvendo ativos, passivos ou grupo de ativos e passivos – como, por exemplo, um negócio – idêntico ou comparável (ou seja, similar). c) A utilização de preços de cotação para ativos idênticos ou similares ao ativo objeto de mensuração a valor justo é compatível com a técnica de avaliação abordagem de mercado. Correto, com base no item B5 do CPC 46: B5 A abordagem de mercado utiliza preços e outras informações relevantes geradas por transações de mercado envolvendo ativos, passivos ou grupo de ativos e passivos – como, por exemplo, um negócio – idêntico ou comparável (ou seja, similar). d) A utilização de conversão de fluxos de caixa futuros a valor presente, por meio de taxas de desconto, é compatível com a técnica de avaliação abordagem de mercado. Errado, isso é compatível com a técnica de avaliação abordagem de RECEITA: 36 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 B10 A abordagem de receita converte valores futuros (por exemplo, fluxos de caixa ou receitas e despesas) em um valor único atual (ou seja, descontado). Quando a abordagem de receita é utilizada, a mensuração do valor justo reflete as expectativas de mercado atuais em relação a esses valores futuros. e) A utilização de conversão de fluxos de caixa futuros a valor presente, por meio de taxas de desconto, é compatível com a técnica de avaliação abordagem de custo. Errado, isso é compatível com a técnica de avaliação abordagem de RECEITA: B10 A abordagem de receita converte valores futuros (por exemplo, fluxos de caixa ou receitas e despesas) em um valor único atual (ou seja, descontado). Quando a abordagem de receita é utilizada, a mensuração do valor justo reflete as expectativas de mercado atuais em relação a esses valores futuros.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q4",
+        "question": "(CEBRASPE/TCM-BA/Auditor Estadual/Controle Externo/2018) A mensuração do valor justo de um ativo já registrado relaciona-se:",
+        "options": [
+          "ao ponto de vista de um participante da gestão.",
+          "às premissas sobre risco, envolvendo a precificação.",
+          "ao total da NF de entrada na data da compra.",
+          "ao preço de transferência entre empresas coligadas.",
+          "à ausência de estimativa do mercado para a precificação."
+        ],
+        "correct": 1,
+        "explanation": "O CPC 46, em seu Apêndice A, define valor justo como sendo o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração, portanto, representa um valor de saída. Assim, eliminamos a alternativa C, pois trata-se valor da NF representa um valor de entrada. Ademais, o valor justo mensurado em conformidade com as orientações do CPC 46 resultará no montante que se espera receber pela venda do ativo em condições normais. O FIPECAFI afirma que, nesse sentido, em geral, o preço de cotação num mercado ativo do item será a melhor evidência de valor justo. Com isso, eliminamos a alternativa E. A alternativa A também não está correta, pois o valor justo está relacionado ao ponto de vistas dos participantes do mercado e não da gestão da empresa. Sobre a assertiva D, ela também não está correta, pois como regra preço de transferência entre partes relacionadas não pode ser considerado valor justo, somente se for comprovado que a operação foi realizada em condições do mercado. Portanto, nosso gabarito é a assertiva “B”, porque o CPC 46 afirma que ser uma mensuração baseada em mercado, o valor justo é mensurado utilizando-se as premissas que os participantes do mercado utilizariam 37 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 ao precificar o ativo ou o passivo, incluindo premissas sobre risco. Como resultado, a intenção da entidade de manter um ativo ou de liquidar ou, de outro modo, satisfazer um passivo não é relevante ao mensurar o valor justo.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q5",
+        "question": "(CEBRASPE/Analista/EBSERH/2018) Assertiva: Nessa situação, na data da realização da transação, o preço acordado foi o seu valor justo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 46: 9. Este Pronunciamento define valor justo como o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. B4. Ao determinar se o valor justo no reconhecimento inicial é igual ao preço da transação, a entidade deve levar em conta fatores específicos da transação e do ativo ou passivo. Por exemplo, o preço da transação pode não representar o valor justo de ativo ou passivo no reconhecimento inicial se qualquer das condições seguintes se aplicar: (a) a transação for entre partes relacionadas, embora o preço na transação com partes relacionadas possa ser utilizado como informação na mensuração do valor justo se a entidade tiver evidência de que a transação foi realizada em condições de mercado; (b) a transação ocorre sob coação ou o vendedor é forçado a aceitar o preço na transação. Por exemplo, esse pode ser o caso quando o vendedor está passando por dificuldades financeiras; (c) a unidade de contabilização representada pelo preço da transação é diferente da unidade de contabilização para o ativo ou passivo mensurado ao valor justo. Por exemplo, esse pode ser o caso se o ativo ou o passivo mensurado ao valor justo for apenas um dos elementos na transação (por exemplo, na combinação de negócios), a transação incluir direitos e privilégios implícitos que sejam mensurados separadamente de acordo com outro Pronunciamento ou o preço da transação incluir custos de transação; (d) o mercado no qual ocorre a transação é diferente do mercado principal (ou mais vantajoso). Por exemplo, esses mercados podem ser diferentes se a entidade for uma revendedora que celebrar transações com clientes no mercado de varejo, mas o mercado 38 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 principal (ou mais vantajoso) para a transação de saída for com outros revendedores no mercado de revendedores. Faltou apenas mencionar que a transação foi feita no mercado principal. Mas a questão atende perfeitamente à definição de valor justo: “É o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração.”",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q7",
+        "question": "(CEBRASPE/SEDF/Analista de Gestão Educacional – Contabilidade/2017) Os custos para colocação de debêntures em um mercado de livre concorrência, desde que não impliquem nenhum tipo de transação forçada, expressam um valor justo para o passivo debênture.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, o preço no mercado principal (ou mais vantajoso) utilizado para mensurar o valor justo do ativo ou passivo não deve ser ajustado para refletir custos de transação. Os custos de transação devem ser contabilizados de acordo com outros Pronunciamentos. Os custos de transação não são uma característica de um ativo ou passivo; em vez disso, são específicos de uma transação e podem diferir dependendo de como a entidade realizar a transação para o ativo ou passivo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q8",
+        "question": "(CEBRASPE/TRE – TO/Analista Contabilidade/2017) O Pronunciamento Técnico CPC 46 – Mensuração do Valor Justo – cria uma espécie de hierarquia de valor justo em que as informações utilizadas como subsídios para as técnicas de avaliação aplicáveis ao processo de mensuração do valor justo sã classificadas em diferentes níveis. Com base nessa classificação, as informações constantes no nível 2 incluem:",
+        "options": [
+          "os custos correntes dos ativos e passivos.",
+          "os dados não observáveis para ativos e passivos.",
+          "os preços cotados em mercados ativos para ativo e passivos idênticos aos que a entidade possa ter acesso na data da mensuração.",
+          "as premissas sobre riscos.",
+          "os preços cortados para ativos ou passivos idênticos ou similares em mercados que não sejam ativos."
+        ],
+        "correct": 4,
+        "explanation": "É interessante o pronunciamento definir um nível de hierarquia para o “Valor Justo”. Tal hierarquia está baseada na utilização de dados observáveis para as técnicas de avaliação. A disponibilidade e a confiabilidade de dados relevantes afetam a escolha da técnica de avaliação. Mas é importante ressaltar que a hierarquia não se refere às técnicas de avaliação em si; refere-se aos dados (informações) que serão utilizados pela técnica de avaliação. Vamos resumir a os pontos principais da hierarquia do valor justo: Hierarquia do Valor Justo •Informações de Nível 1: são preços cotados (não ajustados) em mercados ativos para ativos ou passivos idênticos. •Informações de Nível 2: --- preços cotados para ativos ou passivos similares em mercados ativos; --- preços cotados para ativos ou passivos idênticos ou similares em mercados que não sejam ativos; •Informações de Nível 3: são dados não observáveis para o ativo ou passivo 41 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 O pronunciamento não define o que seja Ativo Idêntico ou Ativo Similar. Mas, normalmente, ativos idênticos são as “Mercadorias Fungíveis” ou “Commodities”: café, açúcar, soja, suco de laranja. E as mercadorias similares são, por exemplo, automóveis. Um veículo de determinada marca, de três anos de uso, pode ter vários outros carros similares, mas nenhum idêntico. O veículo em questão pode ter pequenos arranhões, pode já ter sofrido uma batida, enfim, é similar, mas não idêntico a outro veículo da mesma marca e ano.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q9",
+        "question": "(CEBRASPE/TCE-PE/Contabilidade/2017) Uma empresa vendeu determinado ativo nos mercados ativos de Salvador e Recife, mas nenhum desses mercados é o principal. Na data da mensuração desse ativo, os valores relacionados às transações de venda eram os seguintes. Salvador (em reais) Recife (em reais) Preço de Venda 30 29 Custos de transação 7 5 Custos de transporte 4 4 Nessa situação, o referido ativo será avaliado a valor justo por R$ 25.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Texto do Pronunciamento CPC 46: 24. Valor justo é o preço que seria recebido pela venda de um ativo ou pago pela transferência de um passivo em uma transação não forçada no mercado principal (ou mais vantajoso) na data de mensuração nas condições atuais de mercado (ou seja, um preço de saída), independentemente de esse preço ser diretamente observável ou estimado utilizando-se outra técnica de avaliação. 25. O preço no mercado principal (ou mais vantajoso) utilizado para mensurar o valor justo do ativo ou passivo não deve ser ajustado para refletir custos de transação. Os custos de transação devem ser contabilizados de acordo com outros Pronunciamentos. Os custos de transação não são uma característica de um ativo ou passivo; em vez disso, são específicos de uma transação e podem diferir dependendo de como a entidade realizar a transação para o ativo ou passivo. 26. Os custos de transação não incluem custos de transporte. Se a localização for uma característica do ativo (como pode ser o caso para, por exemplo, uma commodity), o preço no mercado principal (ou mais vantajoso) deve ser ajustado para refletir os custos, se houver, que seriam incorridos para transportar o ativo de seu local atual para esse mercado. 42 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 Os principais pontos a destacar são: Preço no ou mais Valor Justo mercado vantajoso principal nas condições na data da atuais de mensuração mercado Mercado principal (ou mais vantajoso) para o ativo ou passivo: A mensuração do valor justo presume que a transação para a venda do ativo ou transferência do passivo ocorra no mercado principal para o ativo ou passivo; ou, na ausência de mercado principal, no mercado mais vantajoso. O mercado principal é aquele com o maior volume e nível de atividade para o ativo ou passivo. O mercado mais vantajoso é o que maximiza o valor que seria recebido para vender o ativo ou que minimiza o valor que seria pago para transferir o passivo, considerando os custos de transação e os custos de transportes. Esquematizemos: Maior volume e Mercado nível de Principal atividade Valor Justo Mercado mais Mais lucrativo vantajoso --- No cálculo do valor justo, o preço não deve ser ajustado para refletir custo de transação, pois estes não são uma característica do ativo. --- Os custos de transportes, se houver, devem ser ajustados. Para a questão acima, fica assim: Mercado mais vantajoso (já que não houve indicação do mercado principal): Salvador Recife Preço de Venda 30 29 Custo de transação -7 -5 Custo de transporte -4 -4 Total 19 20 43 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 Como Recife é o mercado mais vantajoso, vamos calcular o valor justo para esse mercado. No cálculo do valor justo, não consideramos os custos de transação, mas apenas os custos de transporte. Recife Preço de Venda 29 Custo de transporte -4 Valor Justo 25 Na ausência de dados sobre o mercado principal, devemos considerar como valor justo o mercado mais vantajoso, que é o de Recife no valor de $25.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q10",
+        "question": "(CEBRASPE/TRT-CE/Analista – Contabilidade/2017) Uma loja estava ofertando uma máquina de lavar e secar roupas por determinado preço, que poderia ser parcelado em quatro vezes iguais e sem acréscimo. Se o cliente pagasse à vista, teria um desconto de 10% sobre o valor anunciado. Um cliente, ao certificar-se das condições de venda nessa loja, dirigiu-se a outras lojas, a fim de conferir o preço do bem, e constatou que, nessas outras lojas, o preço à vista era igual ao preço com desconto de 10% que estava sendo oferecido pela primeira loja. Nessa situação hipotética, o preço do bem com 10% de desconto corresponde ao",
+        "options": [
+          "custo corrente.",
+          "valor presente.",
+          "valor justo.",
+          "valor realizável."
+        ],
+        "correct": 2,
+        "explanation": "Pessoal, o CPC 46 define Valor Justo como o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada (ou seja, liquidação não forçada ou venda em situação não adversa) entre participantes do mercado na data de mensuração sob condições de mercado atuais. Além disso, o próprio CPC 46 define que o valor justo não é uma mensuração específica da entidade, mas baseadas em dados observáveis no mercado. Percebam que o preço com desconto representa um dado observável diretamente no mercado, portanto, pode ser considerado como valor justo.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q11",
+        "question": "(CEBRASPE/TRE-PE/Analista Judiciário/2017) Conforme o Pronunciamento CPC 46, na mensuração do valor justo de um ativo, deve-se garantir que",
+        "options": [
+          "a negociação do ativo seja realizada em uma transação não forçada entre os participantes do mercado — principal ou o mais vantajoso — de venda do ativo. 44 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78",
+          "a entidade seja capaz de vender o ativo na data de mensuração realizada no mercado principal, sob pena de invalidação do fato contábil.",
+          "o valor justo, ou seja, o valor que seria recebido pela venda de um ativo seja contabilizado após a transação e corresponda ao preço que seria pago pela entidade para reposição.",
+          "a entidade tenha observado as restrições para a venda ou o uso do ativo, desconsiderando, nessa situação, características relacionadas à condição e à localização do ativo.",
+          "o ativo a ser mensurado ao valor justo seja um ativo individual, e não um grupo de ativos, como, por exemplo, uma unidade geradora de caixa."
+        ],
+        "correct": 0,
+        "explanation": "O valor justo é uma mensuração baseada em mercado e não uma mensuração específica da entidade. Para alguns ativos e passivos, pode haver informações de mercado ou transações de mercado observáveis disponíveis e para outros pode não haver. Contudo, o objetivo da mensuração do valor justo em ambos os casos é o mesmo – estimar o preço pelo qual uma transação não forçada para vender o ativo ou para transferir o passivo ocorreria entre participantes do mercado na data de mensuração sob condições correntes de mercado (ou seja, um preço de saída na data de mensuração do ponto de vista de participante do mercado que detenha o ativo ou o passivo).",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q12",
+        "question": "(CEBRASPE/TRE-MT/ Analista Judiciário – Contabilidade/2015) Com relação a valor justo, assinale a opção correta.",
+        "options": [
+          "O critério para definição do valor justo de um terreno é o menor valor entre os melhores usos possíveis para esse terreno.",
+          "O valor justo é um valor objetivamente construído a partir da observação dos preços de mercado ou dos custos da empresa.",
+          "O valor justo de um ativo, com custo contábil de R$ 100 e sujeito a gastos de comercialização de R$ 5 é, em função disso, R$ 95.",
+          "O modelo de precificação de opções de Black-Scholes-Merton busca determinar o valor justo de uma opção por meio de uma abordagem de custo.",
+          "Pela abordagem de mercado o preço de cotação de um ativo é o seu valor justo."
+        ],
+        "correct": 4,
+        "explanation": "a) O critério para definição do valor justo de um terreno é o menor valor entre os melhores usos possíveis para esse terreno. Errado, esse item foi tirado de um exemplo do CPC 46, vejam: 45 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 Exemplo 2 – Terrenos EI7. A entidade adquire um terreno em uma combinação de negócios. O terreno é atualmente incorporado para uso industrial como local para uma fábrica. Presume-se que o uso atual do terreno seja o seu melhor uso possível, a menos que fatores de mercado ou outros sugiram um uso diferente. Locais próximos foram incorporados recentemente para uso residencial como locais para prédios de apartamentos de muitos andares. Com base nessa incorporação e em recente mudança de zoneamento e outras para facilitar essa incorporação, a entidade determina que o terreno atualmente usado como local para uma fábrica poderia ser incorporado como local para uso residencial (ou seja, para prédios de apartamento de muitos andares), pois os participantes do mercado levariam em conta o potencial de incorporar o local para uso residencial ao precificar o terreno. EI8. O melhor uso possível do terreno seria determinado comparando-se ambos os itens a seguir: (a) o valor do terreno conforme atualmente incorporado para uso industrial (ou seja, o terreno seria usado em combinação com outros ativos, tais como a fábrica, ou com outros ativos e passivos); (b) o valor do terreno como local vago para uso residencial, levando-se em conta os custos de demolição da fábrica e outros custos (incluindo a incerteza sobre se a entidade poderia converter o ativo para o uso alternativo) necessários para converter o terreno em local vago (ou seja, o terreno deverá ser usado por participantes do mercado de forma individual). O melhor uso possível do terreno seria determinado com base no MAIOR e não menor, desses valores. Em situações envolvendo avaliação de imóveis, a determinação do melhor uso possível poderia levar em conta fatores relativos às operações da fábrica, incluindo seus ativos e passivos. b) O valor justo é um valor objetivamente construído a partir da observação dos preços de mercado ou dos custos da empresa. Errado, valor justo como o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. Não é um valor construído pela empresa, mas resultado das forças de mercado. c) O valor justo de um ativo, com custo contábil de R$ 100 e sujeito a gastos de comercialização de R$ 5 é, em função disso, R$ 95. Errado, os custos de transação não devem ser considerados na quando da avaliação do valor justo. O preço no mercado principal (ou mais vantajoso) utilizado para mensurar o valor justo do ativo ou passivo não deve ser ajustado para refletir custos de transação. Os custos de transação devem ser contabilizados de acordo com outros Pronunciamentos. Os custos de transação não são uma característica de um ativo ou passivo; em vez disso, são específicos de uma transação e podem diferir dependendo de como a entidade realizar a transação para o ativo ou passivo. 46 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 d) O modelo de precificação de opções de Black-Scholes-Merton busca determinar o valor justo de uma opção por meio de uma abordagem de custo. Errado, Black-Scholes-Merton é uma abordagem pela receita. e) Pela abordagem de mercado o preço de cotação de um ativo é o seu valor justo. Correto! Texto do Pronunciamento CPC 46: Abordagem de mercado B5 A abordagem de mercado utiliza preços e outras informações relevantes geradas por transações de mercado envolvendo ativos, passivos ou grupo de ativos e passivos – como, por exemplo, um negócio – idêntico ou comparável (ou seja, similar). B6 Por exemplo, técnicas de avaliação consistentes com a abordagem de mercado frequentemente utilizam múltiplos de mercado obtidos a partir de um conjunto de elementos de comparação. Os múltiplos devem estar em faixas, com um múltiplo diferente para cada elemento de comparação. A escolha do múltiplo apropriado dentro da faixa exige julgamento, considerando-se fatores qualitativos e quantitativos específicos da mensuração Ainda de acordo com o CPC 46, o preço cotado em mercado ativo oferece a evidência mais confiável do valor justo e deve ser utilizado sem ajuste para mensurar o valor justo sempre que disponível, salvo conforme especificado no item 79.\"",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q13",
+        "question": "(CEBRASPE/Telebras/Contador/2015) Para definir o valor justo de um passivo, pode ser utilizado o preço cotado em um mercado ativo de dívidas ou, na impossibilidade desse primeiro critério, outra técnica de avaliação que maximize o uso de dados observáveis relevantes.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, pois o CPC 46 afirma que quando o preço para um ativo ou passivo idêntico não é observável, a entidade mensura o valor justo utilizando outra técnica de avaliação que maximiza o uso de dados observáveis relevantes e minimiza o uso de dados não observáveis. Por ser uma mensuração baseada em mercado, o valor justo é mensurado utilizando-se as premissas que os participantes do mercado utilizariam ao precificar o ativo ou o passivo, incluindo premissas sobre risco. Como resultado, a intenção da entidade de manter um ativo ou de liquidar ou, de outro modo, satisfazer um passivo não é relevante ao mensurar o valor justo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q14",
+        "question": "(CEBRASPE/FUB/Contabilidade/2015) Na transação entre duas empresas coligadas, a mensuração do valor justo fica prejudicada.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item que não é de fácil julgamento! Mas vamos por partes! O CPC 46 define valor justo como o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. Por seu turno, apresenta a definição de Participantes do Mercado: Compradores e vendedores do mercado principal (ou mais vantajoso) para o ativo ou passivo, os quais têm todas as características a seguir: (a) são independentes entre si, ou seja, não são partes relacionadas, conforme definido no Pronunciamento CPC 05, embora o preço em uma transação com partes relacionadas possa ser utilizado como informação (input) na mensuração do valor justo se a entidade tiver evidência de que a transação foi realizada em condições de mercado; Visto que empresas coligadas são consideradas partes relacionadas, conforme definido no CPC 05, a mensuração do valor justo entre ela realmente fica prejudicada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q15",
+        "question": "(CEBRASPE/FUB/Contabilidade/2015) A fórmula Black-Scholes-Merton de precificação de opções é uma técnica de apuração do valor justo, segundo a abordagem de mercado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Texto do Pronunciamento CPC 46: Abordagem de receita B10. A abordagem de receita converte valores futuros (por exemplo, fluxos de caixa ou receitas e despesas) em um valor único atual (ou seja, descontado). Quando a abordagem de receita é utilizada, a mensuração do valor justo reflete as expectativas de mercado atuais em relação a esses valores futuros. B11. Essas técnicas de avaliação incluem, por exemplo: (a) técnicas de valor presente (ver itens B12 a B30); 48 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 (b) modelos de precificação de opções, como a fórmula de Black-Scholes-Merton ou modelo binomial (ou seja, modelo de árvore), que incorporem técnicas de valor presente e reflitam tanto o valor temporal quanto o valor intrínseco da opção; e (c) o método de ganhos excedentes em múltiplos períodos, que é utilizado para mensurar o valor justo de alguns ativos intangíveis. Esquematizemos: Valor Presente Black-Scholes- Abordagem da Merton Receita Ganhos excedentes em múltiplos períodos A questão está errada, pois a abordagem Black-Scholes-Merton é uma técnica de apuração do valor justo, segundo a abordagem da receita.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q16",
+        "question": "(CEBRASPE/Telebrás/Analista Superior/Auditoria/2015) Valor presente é aquele pelo qual um ativo pode ser trocado, ou um passivo ser liquidado, entre partes conhecedoras, dispostas a isso, em uma transação atual e sem favorecimentos.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, pessoal essa é a definição de Valor Justo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q17",
+        "question": "(CEBRASPE/CADE/Contador/2014) Para os casos de ativos e passivos mensurados a valor justo de modo não recorrente, a divulgação dos saldos no balanço patrimonial é obrigatória, não sendo necessária, porém, a divulgação das técnicas de avaliação e das informações utilizadas para desenvolver essas mensurações nas notas explicativas. 49 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A CEBRASPE adora questões com duas afirmações. Vamos examiná-las: “Para os casos de ativos e passivos mensurados a valor justo de modo não recorrente, a divulgação dos saldos no balanço patrimonial é obrigatória...” CERTO. “...não sendo necessária, porém, a divulgação das técnicas de avaliação e das informações utilizadas para desenvolver essas mensurações nas notas explicativas.” ERRADO. Conforme o pronunciamento CPC 46: 91. A entidade deve divulgar informações que auxiliem os usuários de suas demonstrações contábeis a avaliar ambas as seguintes opções: ==11e785== (a) para ativos e passivos que sejam mensurados ao valor justo de forma recorrente ou não recorrente no balanço patrimonial após o reconhecimento inicial, as técnicas de avaliação e informações utilizadas para desenvolver essas mensurações;",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q18",
+        "question": "(CEBRASPE/CADE/Contador/2014) Para maior acurácia na determinação do valor justo, a empresa deve optar por técnica de avaliação que seja apropriada e que proporcione dados suficientes para mensurar o valor justo, com maximização de dados observáveis relevantes e minimização de dados não observáveis.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Literalidade do Pronunciamento CPC 46 – Mensuração do Valor Justo, confira: 3. Quando o preço para um ativo ou passivo idêntico não é observável, a entidade mensura o valor justo utilizando outra técnica de avaliação que maximiza o uso de dados observáveis relevantes e minimiza o uso de dados não observáveis. Por ser uma mensuração baseada em mercado, o valor justo é mensurado utilizando-se as premissas que os participantes do mercado utilizariam ao precificar o ativo ou o passivo, incluindo premissas sobre risco. Como resultado, a intenção da entidade de manter um ativo ou de liquidar ou, de outro modo, satisfazer um passivo não é relevante ao mensurar o valor justo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q19",
+        "question": "(CEBRASPE/CADE/Contador/2014) As condições físicas e as restrições de venda ou de uso do ativo são exemplos de fatores considerados na precificação pelo valor justo por parte tanto da entidade, quanto dos participantes do mercado. Certo 50 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Mais literalidade do Pronunciamento CPC 46: 11. A mensuração do valor justo destina-se a um ativo ou passivo em particular. Portanto, ao mensurar o valor justo, a entidade deve levar em consideração as características do ativo ou passivo se os participantes do mercado, ao precificar o ativo ou o passivo na data de mensuração, levarem essas características em consideração. Essas características incluem, por exemplo: (a) a condição e a localização do ativo; e (b) restrições, se houver, para a venda ou o uso do ativo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q20",
+        "question": "(CEBRASPE/SUFRAMA/Contador/2014) Na definição do valor justo de um item do ativo, diferencia-se o efeito sobre a mensuração resultante de uma de suas características específicas, como uma restrição de venda, o que depende de como essa característica seria levada em consideração pelos participantes do mercado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O CEBRASPE cobrou novamente... 11. A mensuração do valor justo destina-se a um ativo ou passivo em particular. Portanto, ao mensurar o valor justo, a entidade deve levar em consideração as características do ativo ou passivo se os participantes do mercado, ao precificar o ativo ou o passivo na data de mensuração, levarem essas características em consideração. Essas características incluem, por exemplo: (a) a condição e a localização do ativo; e (b) restrições, se houver, para a venda ou o uso do ativo. 12. O efeito sobre a mensuração resultante de uma característica específica pode diferir dependendo de como essa característica é levada em consideração pelos participantes do mercado.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q21",
+        "question": "(CEBRASPE/DPF/Contabilidade/2014) Na ausência de mercado ativo para um instrumento financeiro, o valor justo desse instrumento pode ser assumido como o valor que se obteria, em um mercado ativo, com a negociação de outro instrumento financeiro de natureza, prazo e riscos similares.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item correto, visto que, de acordo com o da Lei n.º 6.404/1976, Art. 183 §1º Para efeitos do disposto neste artigo, considera-se valor justo: d) dos instrumentos financeiros, o valor que pode se obter em um mercado ativo, decorrente de transação não compulsória realizada entre partes independentes; e, na ausência de um mercado ativo para um determinado instrumento financeiro: 1) o valor que se pode obter em um mercado ativo com a negociação de outro instrumento financeiro de natureza, prazo e risco similares; 2) o valor presente líquido dos fluxos de caixa futuros para instrumentos financeiros de natureza, prazo e risco similares; ou 3) o valor obtido por meio de modelos matemático-estatísticos de precificação de instrumentos financeiros. (Incluído pela Lei n.º 11.638/2007).",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q22",
+        "question": "(CEBRASPE/ANATEL/Contabilidade/2014) Para mensurar o valor justo de determinado item do imobilizado, é necessário considerar o melhor uso possível desse ativo, para a entidade ou para eventual comprador, pressupondo que esse uso seja legalmente permitido, financeiramente estável e fisicamente possível.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Pessoal, essa questão apresenta um pequeno erro, que, numa leitura menos atenta, pode nem ser percebida pelo candidato, veja: 28. O melhor uso possível de um ativo não financeiro leva em conta o uso do ativo que seja fisicamente possível, legalmente permitido e financeiramente viável, conforme abaixo: (a) Um uso que seja fisicamente possível leva em conta as características físicas do ativo que os participantes do mercado levariam em conta ao Precificar o ativo (por exemplo, a localização ou o tamanho de um imóvel). 52 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 (b) Um uso que seja legalmente permitido leva em conta quaisquer restrições legais sobre o uso do ativo que os participantes do mercado levariam em conta ao precificá-lo (por exemplo, as regras de zoneamento aplicáveis a um imóvel). (c) Um uso que seja financeiramente viável leva em conta se o uso do ativo que seja fisicamente possível e legalmente permitido gera receita ou fluxos de caixa adequados (levando em conta os custos para converter o ativo para esse uso) para produzir o retorno do investimento que os participantes do mercado exigiriam do investimento nesse ativo colocado para esse uso. O único erro da nossa assertiva foi, pasmem, a expressão financeiramente estável, quando o correto, conforme a literalidade do CPC 46 é financeiramente viável. Uma simples palavra tornou a questão errada!",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q23",
+        "question": "(CEBRASPE/ANATEL/Contabilidade/2014) Se o preço de um ativo avaliado pelo valor justo for obtido no mercado principal, então, na data da mensuração e nas condições atuais de mercado, esse preço deverá ser ajustado para refletir os custos da transação e os custos de transporte, quando existirem.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, meus amigos! Vejamos o que prescreve o CPC 46: 25. O preço no mercado principal (ou mais vantajoso) utilizado para mensurar o valor justo do ativo ou passivo não deve ser ajustado para refletir custos de transação. Os custos de transação devem ser contabilizados de acordo com outros Pronunciamentos. Os custos de transação não são uma característica de um ativo ou passivo; em vez disso, são específicos de uma transação e podem diferir dependendo de como a entidade realizar a transação para o ativo ou passivo. 26. Os custos de transação não incluem custos de transporte. Se a localização for uma característica do ativo (como pode ser o caso para, por exemplo, uma commodity), o preço no mercado principal (ou mais vantajoso) deve ser ajustado para refletir os custos, se houver, que seriam incorridos para transportar o ativo de seu local atual para esse mercado. O item erra por incluir os custos de transporte no ajuste!",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q24",
+        "question": "(CEBRASPE/ANATEL/Contabilidade/2014) Abordagem de mercado, abordagem de custo e abordagem de receita são técnicas de avaliação amplamente utilizadas para estimar o valor justo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "As técnicas de avaliação podem ser classificadas quanto a abordagem, segundo o CPC 46: a) Abordagem de Mercado; b) Abordagem de Custo; e c) Abordagem de Resultado (ou Receita, como consta no CPC 46). Segundo o FIPECAFI, “o CPC 46 dispõe que a entidade deve utilizar técnicas de avaliação consistentes com uma ou mais dessas abordagens para mensurar o valor justo e orienta que, em alguns casos em que apenas uma técnica de avaliação será suficiente para avaliar um ativo, como quando pelo uso de preço de cotação de ativo idêntico em mercado ativo; mas em outros casos mais de uma técnica é adequada, como quando da avaliação de uma unidade geradora de caixa. ”",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q25",
+        "question": "(CEBRASPE/TJ-SE/Contabilidade/2014) Ao se mensurar um ativo por valor justo, parte-se da premissa de que o ativo foi trocado em uma transação forçada entre participantes do mercado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, o CPC 46 define valor justo como o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q26",
+        "question": "(CEBRASPE/BACEN/Analista - Contabilidade e Finanças/2013) O valor justo consiste em uma mensuração a valor de saída, contrariamente ao custo-histórico, que se enquadra como uma mensuração a valor de entrada.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Vejamos o que está previsto no CPC 46: 54 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 24. Valor justo é o preço que seria recebido pela venda de um ativo ou pago pela transferência de um passivo em uma transação não forçada no mercado principal (ou mais vantajoso) na data de mensuração nas condições atuais de mercado (ou seja, um preço de saída), independentemente de esse preço ser diretamente observável ou estimado utilizando-se outra técnica de avaliação. O custo histórico, por sua vez, se enquadra como uma mensuração a valor de entrada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q1",
+        "question": "(Cesgranrio/UNEMAT/Contador/2024) Em uma reunião entre a diretoria financeira e a contábil, os presentes conversavam sobre a mensuração de um item do passivo da empresa, um título de dívida. Nessa ocasião, o contador afirmou que a precificação por matriz deveria ser adotada. Considerando- se as informações apresentadas, a técnica de avaliação apresentada pelo contador é consistente com a abordagem de (A) custo (B) despesa (C) mercado (D) receita (E) valor esperado",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O item B7 do CPC 46 – Valor Justo afirma que B7. Técnicas de avaliação consistentes com a abordagem de mercado incluem a precificação por matriz. Precificação por matriz é uma técnica matemática utilizada principalmente para avaliar alguns tipos de instrumentos financeiros, tais como títulos de dívida, sem se basear exclusivamente em preços cotados para os títulos específicos, mas, sim, baseando-se na relação dos títulos com outros títulos cotados de referência.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q2",
+        "question": "(AOCP/Pref Belém (PA)/Contador/2022) De acordo o CPC 46 - Mensuração do Valor Justo, a entidade deve utilizar técnicas de avaliação que sejam apropriadas nas circunstâncias e para as quais haja dados suficientes disponíveis para mensurar o valor justo, maximizando o uso de dados observáveis relevantes e minimizando o uso de dados não observáveis. Essas técnicas de avaliação amplamente utilizadas e estabelecidas pelo CPC - 46 são de",
+        "options": [
+          "abordagem de mercado, abordagem de custo e abordagem de receita.",
+          "abordagem de precificação, abordagem financeira e abordagem de custos.",
+          "reconhecimento, mensuração e evidenciação.",
+          "normativas, sistêmicas e avaliação.",
+          "abordagem mercadológica, abordagem de planejamento e abordagem operacional."
+        ],
+        "correct": 0,
+        "explanation": "De acordo com o CPC 46 – Valor Justo, são exemplos de metodologias, abordagens, para a obtenção do valor justo: 56 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 preços das Mercado transações de mercado custo de Técnica de Avaliação Custo substituição ou do Valor Justo reposição atual valor presente, modelos de Receita precificação de opções",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q4",
+        "question": "(FBC/EQT Perito Contábil/2019) De acordo com a NBC TG 46 (R2) – Mensuração do Valor Justo, item B23, a técnica de valor presente esperado utiliza como ponto de partida um conjunto de fluxos de caixa (FC) que representam a média ponderada por probabilidade de todos os fluxos de caixa (FC). No decurso de uma perícia contábil realizada sobre empresa A, o contador Z identificou três cenários de fluxos de caixa (FC): • Cenário 1 com FC de R$ 50.500 mil e probabilidade de ocorrência de 30 em 100. • Cenário 2 com FC de R$ 70.600 mil e probabilidade de ocorrência de 25 em 100. • Cenário 3 com FC de R$ 40.900 mil e probabilidade de ocorrência de 45 em 100. Com base nesses três cenários, o expert calculou o valor esperado do fluxo de caixa da empresa A. Representa o valor encontrado pelo experto:",
+        "options": [
+          "Fluxo de caixa esperado de R$ 54.000 mil.",
+          "Fluxo de caixa esperado de R$ 51.000 mil.",
+          "Fluxo de caixa esperado de R$ 52.605 mil.",
+          "Fluxo de caixa esperado de R$ 51.205 mil."
+        ],
+        "correct": 3,
+        "explanation": "De acordo com a NBC TG 46 (R2) – Mensuração do Valor Justo: 58 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 Técnica de valor presente esperado B23. A técnica de valor presente esperado utiliza como ponto de partida um conjunto de fluxos de caixa que representam a média ponderada por probabilidade de todos os fluxos de caixa futuros possíveis (ou seja, fluxos de caixa esperados). A estimativa resultante é idêntica ao valor esperado, o qual, em termos estatísticos, é a média ponderada dos valores possíveis de uma variável aleatória discreta tendo como pesos as respectivas probabilidades. Como todos os fluxos de caixa possíveis são ponderados por probabilidade, os fluxos de caixa esperados resultantes não dependem da ocorrência de qualquer evento determinado (diferentemente dos fluxos de caixa utilizados na técnica de ajuste de taxa de desconto). Cenário Fluxos de caixa possíveis Probabilidade Fluxos de caixa ponderados por probabilidade 1 R$ 50.500,00 30% R$ 15.150,00 2 R$ 70.600,00 25% R$ 17.650,00 3 R$ 40.900,00 45% R$ 18.405,00 Total R$ 51.205,00",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q5",
+        "question": "(FBC/CNAI/Exame de Qualificação Técnica/2018) Uma empresa mensura um determinado ativo pelo seu valor justo, mas o preço cotado em mercado ativo não representa o valor justo na data da mensuração. Isto pode ocorrer, por exemplo, por causa de eventos significativos (tais como transações em mercado não intermediado, negociações em mercado intermediado ou anúncios) ocorridos após o fechamento do balanço, mas antes da data de mensuração. Nesta circunstância, qual a base de mensuração que a empresa deve adotar?",
+        "options": [
+          "Utilizar o preço de mercado mesmo nessa circunstância, de modo a conservar a base de mensuração mais confiável (Nível 1).",
+          "Manter os valores do exercício anterior.",
+          "Manter os valores do exercício anterior, atualizados monetariamente.",
+          "Ajustar a informação de modo a eliminar a distorção."
+        ],
+        "correct": 3,
+        "explanation": "De acordo com o CPC 46 – Valor Justo, Informações de Nível 1 são preços cotados (não ajustados) em mercados ativos para ativos ou passivos idênticos a que a entidade possa ter acesso na data de mensuração. O mesmo Pronunciamento afirma que: 79. A entidade não deve efetuar ajuste em informação (input) de Nível 1, exceto nas seguintes circunstâncias: 59 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 (a) quando a entidade detiver grande número de ativos ou passivos similares (mas não idênticos) (por exemplo, títulos de dívida) que forem mensurados ao valor justo, e o preço cotado em mercado ativo estiver disponível, mas não prontamente acessível para cada um desses ativos ou passivos individualmente (ou seja, dado o grande número de ativos ou passivos similares mantidos pela entidade, seria difícil obter informações de precificação para cada ativo ou passivo individual na data de mensuração). Nesse caso, como expediente prático, a entidade pode mensurar o valor justo utilizando método de precificação alternativo que não se baseie exclusivamente em preços cotados (por exemplo, precificação por matriz). Contudo, o uso de um método de precificação alternativo resulta na mensuração do valor justo classificada em nível mais baixo na hierarquia de valor justo; (b) quando o preço cotado em mercado ativo não representar o valor justo na data de mensuração. Esse pode ser o caso se, por exemplo, eventos significativos (tais como transações em mercado não intermediado, negociações em mercado intermediado ou ==11e785== anúncios) ocorrerem após o fechamento de mercado, mas antes da data de mensuração. A entidade deve estabelecer e aplicar de forma consistente uma política para a identificação dos eventos que possam afetar mensurações do valor justo. Contudo, se o preço cotado for ajustado para refletir novas informações, o ajuste resulta na mensuração do valor justo classificada em nível mais baixo na hierarquia de valor justo. (CASO APRESENTADO NA QUESTÃO) (c) ao mensurar o valor justo de um passivo ou de instrumento patrimonial próprio da entidade utilizando o preço cotado para o item idêntico negociado como um ativo em mercado ativo, e esse preço precisar ser ajustado para refletir fatores específicos do item ou ativo (vide item 39). Se nenhum ajuste ao preço cotado do ativo for necessário, o resultado da mensuração do valor justo é classificado no Nível 1 da hierarquia de valor justo. Contudo, qualquer ajuste no preço cotado do ativo resulta na mensuração do valor justo classificada em nível mais baixo na hierarquia de valor justo Assim sendo, no caso apresentado na questão, quando o preço cotado em mercado ativo não representar o valor justo na data de mensuração, a empresa deve ajustar a informação de modo a eliminar a distorção.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula23_q6",
+        "question": "(PAC/BANPARÁ/Contador/2014) De acordo com o CPC 46 – Mensuração a Valor Justo não é correto afirmar que: É necessário determinar qual ativo ou passivo será objeto da mensuração. Definir como mercado principal aquele em que o ativo ou passivo possui o maior volume de transação. Considerar como mercado mais vantajoso aquele em que as transações envolvendo o ativo ou passivo ocorrem de forma inesperada, indicando uma liquidação imediata. Utilizar técnicas de avaliação adequadas ao tipo de dado (input) disponível, que reflitam aproximadamente os mesmos critérios utilizados pelos participantes do mercado, para precificar o ativo ou passivo. 60 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 Determinar premissas apropriadas para mensuração, considerando o maior e o melhor uso do ativo não financeiro.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O mercado mais vantajoso é o mercado mais lucrativo, e não aquele em que as transações ocorrem de forma inesperada.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula23_q7",
+        "question": "(NBC/CFC/Exame Suficiência – Bacharel em Contabilidade/2013) De acordo com a NBC TG 46 - Mensuração do Valor Justo, assinale a opção INCORRETA.",
+        "options": [
+          "O valor justo é uma mensuração baseada em mercado.",
+          "O valor justo é o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração.",
+          "O valor justo caracteriza-se pelo reconhecimento de perdas estimadas nos estoques avaliados pelo valor realizável líquido.",
+          "O valor em uso utilizado no teste de recuperabilidade de um ativo imobilizado desconsidera na sua mensuração o Valor Justo."
+        ],
+        "correct": 2,
+        "explanation": "A) O valor justo é uma mensuração baseada em mercado. CERTO. Conforme o pronunciamento CPC 46: “2. O valor justo é uma mensuração baseada em mercado e não uma mensuração específica da entidade.” B) O valor justo é o preço que seria recebido pela venda de um ativo ou que seria pago pela transferência de um passivo em uma transação não forçada entre participantes do mercado na data de mensuração. CERTO. Essa é a definição que consta no Pronunciamento CPC 46, e que difere um pouco da definição anterior. Prezado concurseiro, você já decorou essa definição? C) O valor justo caracteriza-se pelo reconhecimento de perdas estimadas nos estoques avaliados pelo valor realizável líquido. ERRADO. Conforme a Lei 6404/76: § 1o Para efeitos do disposto neste artigo, considera-se valor justo: (...) b) dos bens ou direitos destinados à venda, o preço líquido de realização mediante venda no mercado, deduzidos os impostos e demais despesas necessárias para a venda, e a margem de lucro; 61 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 78 O “Valor Justo” da Lei 6404/76 difere do Valor Justo do pronunciamento CPC 46, pois deduz as despesas necessárias para a venda (que incluem os custos de transação) e a margem de lucro. Para o CPC 46, não se deduz os custos de transações e nem a margem de lucro, embora um custo específico do ativo, por exemplo custo de transporte, deva ser deduzido do cálculo do valor justo. D) O valor em uso utilizado no teste de recuperabilidade de um ativo imobilizado desconsidera na sua mensuração o Valor Justo. CERTO. Conforme o pronunciamento CPC 01 – Redução ao Valor recuperável de ativos: “18. Este Pronunciamento define valor recuperável como o maior valor entre o valor justo líquido de despesas de venda de um ativo ou de unidade geradora de caixa e o seu valor em uso.” E mais: “Valor em uso é o valor presente de fluxos de caixa futuros esperados que devem advir de um ativo ou de unidade geradora de caixa.” Portanto, o valor justo é usado na mensuração do Valor líquido de Venda, mas não no Valor em Uso (perguntinha capciosa...).",
+        "type": "multiple-choice"
+      }
+    ]
+  },
+  {
+    "id": "aula24",
+    "title": "24",
+    "description": "Questões comentadas da 24",
+    "color": "bg-indigo-900",
+    "questions": [
+      {
+        "id": "aula24_q4",
+        "question": "(CESGRANRIO/ELETRONUCLEAR/Contador/2022) Custos de empréstimos, sob o enfoque do Pronunciamento Contábil CPC 20 (R1), aprovado pela Deliberação CVM no 672/2011, objetivam apresentar o tratamento que a eles deve ser dado quando atribuíveis diretamente à aquisição, produção ou construção de um ativo qualificável. Nesse contexto, e de acordo com as definições apresentadas no item 7 do CPC 20 (R1), pode ser classificado como ativo NÃO qualificável, um(a)",
+        "options": [
+          "ativo financeiro",
+          "ativo intangível",
+          "estoque de longa maturação",
+          "propriedade para investimento",
+          "usina de geração de energia 22 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51"
+        ],
+        "correct": 0,
+        "explanation": "De acordo com o CPC 20 - Custos de Empréstimos, Ativo qualificável é um ativo que, necessariamente, demanda um período de tempo substancial para ficar pronto para seu uso ou venda pretendidos. De acordo com o item 7 do referido pronunciamento, dependendo das circunstâncias, um ou mais dos seguintes ativos podem ser considerados ativos qualificáveis: (a) estoques; (b) plantas industriais para manufatura; (c) usinas de geração de energia; (d) ativos intangíveis; (e) propriedades para investimentos; (f) plantas portadoras. (Incluída pela Revisão CPC 08) Ativos financeiros e estoques que são manufaturados, ou de outro modo produzidos, ao longo de um curto período de tempo, não são ativos qualificáveis. Ativos que estão prontos para seu uso ou venda pretendidos quando adquiridos não são ativos qualificáveis. Portanto, o gabarito da questão é a alternativa A, pois ativos financeiros não são ativos qualificáveis.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q5",
+        "question": "(CESGRANRIO/Exame de Peritos Contábeis/CFC/2022) Na aquisição, produção ou construção de ativos, é frequente que entidades recorram à contratação de empréstimos, cujo tratamento dos custos é definido pela NBC TG 20 (R2). Segundo a norma, os custos incorridos na obtenção de empréstimos podem ser atribuídos ao custo de um ativo, se este for qualificável, como pode ser o caso de",
+        "options": [
+          "ativos biológicos.",
+          "ativos financeiros.",
+          "ativos classificados como propriedade para investimento.",
+          "estoques produzidos em larga escala e em bases repetitivas.",
+          "estoques prontos para uso ou venda quando adquiridos."
+        ],
+        "correct": 2,
+        "explanation": "De acordo com o item 7 do CPC 20, dependendo das circunstâncias, um ou mais dos seguintes ativos podem ser considerados ativos qualificáveis: (a) estoques; 23 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51 (b) plantas industriais para manufatura; (c) usinas de geração de energia; (d) ativos intangíveis; (e) propriedades para investimentos; (f) plantas portadoras. (Incluída pela Revisão CPC 08) Ativos financeiros e estoques que são manufaturados, ou de outro modo produzidos, ao longo de um curto período de tempo, não são ativos qualificáveis. Ativos que estão prontos para seu uso ou venda pretendidos quando adquiridos não são ativos qualificáveis. Logo, as alternativas b, d e \"e\" não podem ser ativos qualificáveis. Ativos Biológicos também não se enquadram na definição, apenas as plantas portadoras podem ser ativos qualificáveis.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q8",
+        "question": "(FGV/Contabilidade/CODEMIG/2015) A Cia. Invest, após criterioso estudo de demanda e viabilidade, decidiu construir um edifício empresarial na principal avenida da cidade, com custos estimados em R$ 7 milhões, e prazo de três anos para construção. Como não dispunha do capital para o investimento, a Cia. Invest recorreu ao crédito bancário. Não obtendo aprovação integral em nenhum dos bancos, a entidade optou por aceitar as taxas e condições de três instituições diferentes para levantar os recursos necessários. Os empréstimos foram obtidos conforme apresentado no quadro em janeiro de 20x5. Banco Valor do em préstim o Taxa de juros anual Banco A R$ 2.500.000,00 12,50% Banco B R$ 4.500.000,00 15,00% Banco C R$ 3.000.000,00 10,00% A Cia. Invest iniciou a construção do edifício empresarial logo após a liberação do empréstimo e para isso destinou R$ 7 milhões. A Cia. Invest pretende destinar o restante do valor obtido com o empréstimo para outras finalidades. Nas demonstrações contábeis de 20x5, o valor que poderá ser capitalizado como custo de construção do edifício empresarial, de acordo com o CPC 20 (R1) - Custos de Empréstimos é:",
+        "options": [
+          "R$ 901.250,00;",
+          "R$ 987.500,00;",
+          "R$ 1.287.500,00;",
+          "R$ 2.703.750,00;",
+          "não deverá reconhecer os juros no custo de construção, pois o edifício empresarial não é um ativo qualificável."
+        ],
+        "correct": 0,
+        "explanation": "Vejam que a captação total é R$ 10.000,00 (2.500.000,00 + 4.500.000,00 + 3.000.000,00). Todavia, somente 7.000.000,00 (70%) irão para a construção do ativo qualificável. Sobre os custos de empréstimos: 2.500.000,00 x 12,5% 312.500,00 4.500.000,00 x 15,0% 675.000,00 3.000.000,00 x 10,00 300.000,00 Total dos custos dos empréstimos 1.287.500,00 Esse custo é para os R$ 10.000.000,00. Para nosso ativo qualificado irá somente a proporção (70%). 70% x 1.287.500,00 = R$ 901.250,00!",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q9",
+        "question": "(FGV/Auditor Tributário/ISS Niterói/2015) Em 01/02/X0, a Cia. Digama adquiriu, por R$ 3.000.000,00, um terreno destinado à construção de um novo armazém. De 01/02/X0 a 30/04/X0 o terreno foi utilizado como estacionamento, e a companhia faturou R$ 70.000,00 durante esse período com a locação de vagas. Em 01/05/X0, a companhia pagou R$ 25.000,00 de honorários aos engenheiros responsáveis pelo projeto do armazém e deu início à sua construção. Para isso, ela tomou um empréstimo de R$ 6.000.000,00 junto ao Banco Zeta S.A. Até 01/12/X0 data em que foi concluída, a Cia. Digama gastou na construção do armazém R$ 850.000,00 com mão de obra, R$ 150.000,00 com a preparação do terreno, R$ 300.000,00 com frete e R$ 5.000.000,00 com materiais de construção. Os juros incorridos sobre o empréstimo tomado junto ao Banco Zeta S.A, durante esse período foram de R$ 40.000,00, e a companhia obteve receitas financeiras de R$ 8.000,00 pela aplicação desses recursos antes de efetuar os pagamentos necessários à condução da obra. De 01/12/X0 a 15/12/X0, data em que o armazém foi inaugurado, a Cia. Digama gastou R$ 50.000,00 para transferir os equipamentos de um armazém antigo para esse novo armazém. Esse novo armazém deverá ser reconhecido no imobilizado da Cia. Digama pelo custo de:",
+        "options": [
+          "6.287.000",
+          "6.325.000",
+          "6.357.000",
+          "6.365.000",
+          "6.407.000"
+        ],
+        "correct": 2,
+        "explanation": "Custo do ativo imobilizado (CPC 27) Inclui Não inclui Preço de aquisição + Imposto Importação+ Impostos não Descontos comerciais e abatimentos recuperáveis Preparação do local Custos de abertura de nova instalação Frete e manuseio por conta do comprador Frete por conta do vendedor Instalação e montagem Propaganda e atividades promocionais Testes Custos de treinamento Honorários profissionais (engenheiros, arquitetos, por Transferência posterior (novo local) exemplo) Custos de desmontagem (futuro, traz a valor presente) Custos administrativos Custo de remoção (futuro, traz a valor presente) Outros custos indiretos Outros custos diretamente atribuíveis Remoção, desmontagem de máquinas antigas Vamos para a questão... - Honorários 25.000,00 - Gastos mão de obra 850.000,00 - Preparação do terreno 150.000,00 27 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51 - Frete 300.000,00 - Materiais de construção 5.000.000,00 - Juros (ativo qualificável) 40.000,00 – 8.000 = 32.000,00 Total 6.357.000,00 O terreno deve ser reconhecido separadamente no balanço patrimonial. Sobre as receitas com o estacionamento (CPC 27): 21. Algumas operações realizadas em conexão com a construção ou o desenvolvimento de um item do ativo imobilizado não são necessárias para deixá-lo no local e nas condições operacionais pretendidas pela administração. Essas atividades eventuais podem ocorrer antes ou durante as atividades de construção ou desenvolvimento. Por exemplo, o local de construção pode ser usado como estacionamento e gerar receitas, até que a construção se inicie. Como essas atividades não são necessárias para que o ativo fique em condições de funcionar no local e nas condições operacionais pretendidas pela administração, as receitas e as despesas relacionadas devem ser reconhecidas no resultado e incluídas nas respectivas classificações de receita e despesa. Sobre retirar as receitas dos juros qualificáveis, a resposta está no CPC 20: 12. Na extensão em que a entidade toma recursos emprestados especificamente com o propósito de obter um ativo qualificável, a entidade deve determinar o montante dos custos dos empréstimos elegíveis à capitalização como sendo aqueles efetivamente incorridos sobre tais empréstimos durante o período, menos qualquer receita financeira decorrente do investimento temporário de tais empréstimos.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q10",
+        "question": "(CESGRANRIO/Petrobrás/Contabilidade/2015) Uma grande indústria em fase de expansão, por razões estratégicas, decidiu pela construção de uma nova unidade produtiva, ao invés de ampliar o atual parque industrial, adquirindo três terrenos para construir a nova unidade fabril, com financiamentos de longo prazo. O desenvolvimento do projeto e construção da unidade encontra-se na seguinte situação: Terreno A: em fase de licenciamento ambiental Terreno B: em fase de terraplanagem para o nivelamento do terreno, indispensável à construção das unidades produtivas Terreno C: não precisa de licenciamento ambiental e, como é destinado à construção das unidades para estocagem dos produtos, 3ª fase do projeto, nada está sendo feito nele, mas serve como estacionamento de visitantes, quando necessário. 28 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51 Nas condições descritas e de acordo com o Pronunciamento Técnico CPC 20(R1) que trata de custos de empréstimos, aprovado pela Deliberação CVM n° 652/2011, essa indústria poderá proceder à capitalização do custo dos empréstimos obtidos para os terrenos",
+        "options": [
+          "A, apenas",
+          "A e B, apenas",
+          "A e C, apenas",
+          "B e C, apenas",
+          "A, B e C"
+        ],
+        "correct": 1,
+        "explanation": "O principal objetivo do CPC 20 – Custos de Empréstimos é determinar a capitalização do custo dos empréstimos utilizados na confecção de ativos qualificáveis. Quando falamos “capitalizar” entenda que o custo dos empréstimos será ativado, isto é, tratado como custo dos ativos e não com despesa financeira. Um ativo qualificável (tradução de “qualifying assets”) é um ativo que, necessariamente, demanda um período de tempo substancial para ficar pronto para seu uso ou venda pretendidos, também chamado de ativo qualificado. O mesmo pronunciamento afirma, no item 19, que: 19. As atividades necessárias ao preparo do ativo para seu uso ou venda pretendidos abrangem mais do que a construção física do ativo. Elas incluem trabalho técnico e administrativo anterior ao início da construção física, tais como atividades associadas à obtenção de permissões para o início da construção física. Entretanto, os custos dos empréstimos tomados para a elaboração de um ativo qualificável não podem ser capitalizados se nenhuma atividade de manter o ativo ou nenhum desenvolvimento que altere as condições do ativo estiverem sendo efetuados. Por exemplo, custos de empréstimos incorridos enquanto um terreno está em preparação devem ser capitalizados durante o período em que tais atividades relacionadas ao desenvolvimento estiverem sendo executadas. Entretanto, custos de empréstimos incorridos enquanto o terreno adquirido para fins de construção for mantido sem nenhuma atividade de preparação associada não se qualificam para capitalização. Resumidamente, temos essa situação: Sim Capitaliza Custos de Tem atividade Empréstimos de preparação Não Não Capitaliza As situações apresentadas na questão são: 29 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51 Terreno A: em fase de licenciamento ambiental→ é uma atividade de preparação→ Capitaliza. Terreno B: em fase de terraplanagem para o nivelamento do terreno, indispensável à construção das unidades produtivas→ é uma atividade de preparação→ Capitaliza. Terreno C: não precisa de licenciamento ambiental e, como é destinado à construção das unidades para estocagem dos produtos, 3ª fase do projeto, nada está sendo feito nele, mas serve como estacionamento de visitantes, quando necessário→ não tem atividade de preparação, assim, não capitaliza.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q12",
+        "question": "(FUNCAB/PRODAN/Contabilidade/2014) Os custos de empréstimos que são diretamente atribuíveis à aquisição, à construção ou à produção de ativo qualificável formam parte do custo de tal ativo. Com relação aos aspectos relativos aos custos de empréstimos, é correto afirmar:",
+        "options": [
+          "Dependendo das circunstâncias, uma usina de geração de energia pode ser considerada um ativo qualificável",
+          "Os custos de empréstimos incluem os dividendos pagos em que a entidade incorre em conexão com o empréstimo de recursos.",
+          "Os custos de empréstimos incluem as variações cambiais decorrentes de empréstimos em moeda estrangeira na medida em que elas são consideradas como provisões, para mais ou para menos, do custo dos juros.",
+          "Os estoques que são manufaturados, ou produzidos, ao longo de um curto período de tempo, são ativos qualificáveis.",
+          "Os custos de empréstimos que são diretamente atribuíveis à aquisição, à construção ou à produção de ativo qualificável devem ser capitalizados como parte do custo do ativo, quando for improvável que eles resultarão em benefícios econômicos futuros para a entidade e que tais custos possam ser mensurados com segurança."
+        ],
+        "correct": 0,
+        "explanation": "30 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51 Vamos analisar as assertivas: A) Dependendo das circunstâncias, uma usina de geração de energia pode ser considerada um ativo qualificável. Certo. Conforme o pronunciamento CPC 20: 7. Dependendo das circunstâncias, um ou mais dos seguintes ativos podem ser considerados ativos qualificáveis: (a) estoque; (b) planta para manufatura; (c) usina de geração de energia; (d) ativo intangível; e (e) propriedade para investimento. B) Os custos de empréstimos incluem os dividendos pagos em que a entidade incorre em conexão com o empréstimo de recursos. Errado. Custos de empréstimos incluem: (a) encargos financeiros calculados com base no método da taxa efetiva de juros como descrito no Pronunciamento Técnico CPC 38 – Instrumentos Financeiros: Reconhecimento e Mensuração; (b) encargos financeiros relativos aos arrendamentos mercantis financeiros reconhecidos de acordo com o Pronunciamento Técnico CPC 06 – Operações de Arrendamento Mercantil; e (c) variações cambiais decorrentes de empréstimos em moeda estrangeira na medida em que elas são consideradas como ajustes, para mais ou para menos, do custo dos juros. Assim, os custos de empréstimos não incluem os dividendos pagos. C) Os custos de empréstimos incluem as variações cambiais decorrentes de empréstimos em moeda estrangeira na medida em que elas são consideradas como provisões ajustes, para mais ou para menos, do custo dos juros. Errado. D) Os estoques que são manufaturados, ou produzidos, ao longo de um curto período de tempo, são ativos qualificáveis. Errado. Os ativos qualificáveis demoram um tempo substancial para ficar pronto. E) Os custos de empréstimos que são diretamente atribuíveis à aquisição, à construção ou à produção de ativo qualificável devem ser capitalizados como parte do custo do ativo, quando for improvável provável que eles resultarão em benefícios econômicos futuros para a entidade e que tais custos possam ser mensurados com segurança. Errado. 31 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q13",
+        "question": "(FCC/Analista de Controle Externo/TCE GO/2014) O montante dos custos dos empréstimos elegíveis à capitalização que são tomados sem que a entidade identifique de forma específica para quais ativos qualificáveis serão utilizados para aquisição deve utilizar como taxa de capitalização",
+        "options": [
+          "a variação da taxa SELIC vigente durante o período dos empréstimos, que não sejam os empréstimos feitos especificamente com o propósito de obter um ativo qualificável.",
+          "o custo total de empréstimos da entidade que estiveram vigentes durante o período, que não sejam os empréstimos feitos especificamente com o propósito de obter um ativo qualificável.",
+          "a média ponderada dos custos dos empréstimos aplicáveis aos empréstimos da entidade que estiveram vigentes durante o período, que não sejam os empréstimos feitos especificamente com o propósito de obter um ativo qualificável.",
+          "a variação da TJLP vigente durante o período dos empréstimos, que não sejam os empréstimos feitos especificamente com o propósito de obter um ativo qualificável.",
+          "a média ponderada dos custos do total de empréstimos da entidade que estiveram vigentes durante o período, que não sejam os empréstimos feitos especificamente com o propósito de obter um ativo qualificável."
+        ],
+        "correct": 2,
+        "explanation": "Quando uma empresa possui diversas fontes de captação de recursos, com prazos e taxas diversas, que são incluídos no caixa geral da empresa e usado para várias finalidades, torna-se complexo apurar o custo a ser capitalizado, sendo requerido o exercício de julgamento. Uma saída aceitável, em tal caso, é o uso de uma taxa média ponderada do custo dos empréstimos que estiveram vigentes durante o período.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q14",
+        "question": "(FCC/TRO-RO/Contabilidade/2013) A Cia. Tetra comercializa equipamentos de informática e, em 01/01/2013, obteve um empréstimo bancário para compra de mercadorias para revenda no valor de R$ 105.000,00 para ser pago em 4 prestações mensais de R$ 27.575,49 cada, com vencimento da primeira parcela em 31/01/2013. A empresa adquiriu mercadorias no valor de R$ 100.000,00 em 01/02/2013, sendo totalmente revendidas para um único cliente em 31/03/2013 para recebimento em abril de 2013. Sabendo que a taxa efetiva de juros do empréstimo é de 2% ao mês, é correto afirmar que a Cia. Tetra",
+        "options": [
+          "deveria capitalizar R$ 2.000,00 de custos dos empréstimos para os estoques.",
+          "deveria capitalizar R$ 2.100,00 de custos dos empréstimos para os estoques.",
+          "deveria capitalizar R$ 4.040,00 de custos dos empréstimos para os estoques.",
+          "deveria capitalizar R$ 2.661,28 de custos dos empréstimos para os estoques.",
+          "não poderia capitalizar custos dos empréstimos para os estoques."
+        ],
+        "correct": 4,
+        "explanation": "32 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 51 Os custos dos empréstimos devem ser capitalizados no caso de ativo qualificável, que é um ativo que demora um tempo substancial para ficar pronto. Nesta questão, a empresa comprou mercadoria. Ou seja, o ativo já estava pronto, portanto, os custos dos empréstimos devem ser contabilizados como despesa financeira quando ocorrerem.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula24_q15",
+        "question": "(CESGRANRIO/BNDES/Profissional Básico/2013) De acordo com o Pronunciamento Técnico CPC 20(R1), aprovado pela Deliberação CVM no 672, de 20 de outubro de 2011, que trata de custos de empréstimos, um ativo qualificável é aquele que:",
+        "options": [
+          "é utilizado de imediato, mas somente como ativo de renda.",
+          "é financiado integralmente por capitais de terceiros de longo prazo.",
+          "demora um período substancial para ficar pronto para uso ou venda.",
+          "fica pronto em curto prazo, sendo financiado por capital de terceiros de longo prazo.",
+          "tem prazo curto para ficar pronto, desde que financiado a curto prazo."
+        ],
+        "correct": 2,
+        "explanation": "Um ativo qualificável (tradução de “qualifying assets”) é um ativo que, necessariamente, demanda um período de tempo substancial para ficar pronto para seu uso ou venda pretendidos, também chamado de ativo qualificado.",
+        "type": "multiple-choice"
+      }
+    ]
+  },
+  {
+    "id": "aula25",
+    "title": "25",
+    "description": "Questões comentadas da 25",
+    "color": "bg-green-800",
+    "questions": [
+      {
+        "id": "aula25_q2",
+        "question": "(CEBRASPE/TCE RJ/Analista de Controle Externo/2021) O adiantamento em dinheiro destinado ao recebimento futuro de um bem ou serviço dá origem a um ativo não monetário que estará sujeito a ajuste a valor presente.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "A contabilização do recebimento do adiantamento de um cliente será feita da seguinte forma: D - Adiantamento a Fornecedores (Ativo) C - Bancos Agora, o CPC 12, item 9, afirma que nem todo ativo ou passivo não-monetário está sujeito ao efeito do ajuste a valor presente; por exemplo, um item não monetário que, pela sua natureza, não está sujeito ao ajuste a valor presente é o adiantamento em dinheiro para recebimento ou pagamento em bens e serviços. Assim sendo, o item está errado, pois, na verdade, e esse adiantamento NÃO está sujeito ao ajuste a valor presente. 26 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q3",
+        "question": "(CEBRASPE/TCE RJ/Analista de Controle Externo/2021) A taxa de desconto utilizada para o cálculo do ajuste a valor presente de uma duplicata a receber de longo prazo deve equivaler, durante todo o prazo de vigência do referido ativo, à taxa de juros observada na data de origem da transação, independentemente da taxa de juros que venha a ser praticada no mercado em períodos subsequentes.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Item de difícil julgamento! De acordo com o CPC 12 - Ajuste a Valor Presente, anexo 1. Qual a diferença entre AVP e valor justo? [...] Cenário: a entidade efetua uma venda a prazo no valor de $ 10.000 mil para receber o valor em parcela única, com vencimento em cinco anos. Caso a venda fosse efetuada à vista, de acordo com opção disponível, o valor da venda teria sido de $ 6.210 mil, o que equivale a um custo financeiro anual de 10%. Verifica-se que essa taxa é igual à taxa de mercado, na data da transação. No primeiro momento, a transação deve ser contabilizada considerando o seu valor presente, cujo montante de $ 6.210 mil é registrado como contas a receber, em contrapartida de receita de vendas pelo mesmo montante. Nota-se que, nesse primeiro momento, o valor presente da transação é equivalente a seu valor de mercado ou valor justo (fair value). No caso de aplicação da técnica de ajuste a valor presente, passado o primeiro ano, o reconhecimento da receita financeira deve respeitar a taxa de juros da transação na data de sua origem (ou seja, 10% ao ano), independentemente da taxa de juros de mercado em períodos subsequentes. Assim, depois de um ano, o valor das contas a receber, para fins de registros contábeis, será de $ 6.830 mil, independentemente de variações da taxa de juros no mercado. Ao fim de cada um dos cinco exercícios, a contabilidade deverá refletir os seguintes efeitos: O que nós podemos inferir dessa análise: as taxas praticadas pelo mercado são, sim, relevantes, mas na data inicial, de origem da operação. Variações ocorridas posteriormente não devem afetar a taxa de desconto, assim sendo, item correto e difícil.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q4",
+        "question": "(CEBRASPE/TJ-PA/Analista Judiciário - Ciências Contábeis/2020) O adiantamento recebido de um cliente por um serviço que será prestado após o término do exercício social seguinte gera, para a empresa que irá prestar o serviço, uma disponibilidade de recursos cuja contrapartida é uma conta do balanço patrimonial que deve ser 27 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56",
+        "options": [
+          "classificada no passivo não circulante e ajustada ao seu valor presente.",
+          "classificada no passivo circulante e ajustada ao seu valor presente somente se tal ajuste tiver efeito relevante.",
+          "classificada no passivo não circulante e ajustada ao seu valor presente somente se tal ajuste tiver efeito relevante.",
+          "classificada no passivo circulante e ajustada ao seu valor presente.",
+          "classificada no patrimônio líquido e ajustada ao seu valor presente."
+        ],
+        "correct": 0,
+        "explanation": "Com base no regime de competência, quando o cliente efetua um adiantamento não podemos reconhecer a receita de vendas. Assim, a empresa irá registrar a entrada de dinheiro no ativo, mas também irá registrar um Passivo, pois ela agora possui a obrigação de entregar as mercadorias, veja: D – Disponibilidades (ativo) 10.000,00 C – Adiantamento de Clientes (passivo) 10.000,00 Falamos que para classificar em circulante e não circulante, a Lei 6.404/76 adota como marco temporal a data do encerramento do exercício social. Contudo, se não estivermos falando dessa data, devemos considerar o período de 12 meses. A seguir, um esquema: Passivo circulante Passivo não circulante Exercício de X2 X3 em diante 31.12.X1 31.12.X2 Dado que serviço que será prestado após o término do exercício social seguinte, iremos classificar esse adiantamento como passivo não circulante. Ainda, devemos ajustá-lo ao valor presente. Tal afirmação está em conformidade a Lei 6.404/76: Art. 184. No balanço, os elementos do passivo serão avaliados de acordo com os seguintes critérios: III – as obrigações, os encargos e os riscos classificados no passivo não circulante serão ajustados ao seu valor presente, sendo os demais ajustados quando houver efeito relevante. (Redação dada pela Lei nº 11.941, de 2009) Obs.: para as contas do não circulante, realizamos o ajuste a valor presente independe dele ser relevante ou não",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q5",
+        "question": "(CEBRASPE/TJ AM/Analista Judiciário - Contabilidade/2019) O valor presente líquido do financiamento é igual a R$ 50.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Vimos que a conta Encargos Financeiros a Transcorrer é uma retificadora do passivo, sendo utilizar para ajustar ao valor presente as contas desse grupo patrimonial. Então: Financiamento de Longo Prazo = 60 (-) Encargos Financeiros a Transcorrer = 10 Valor Presente do Financiamento de Longo Prazo = 50",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q6",
+        "question": "(CEBRASPE/TJ-AM/Analista Judiciário - Contabilidade/2019) Uma obrigação de longo prazo com fornecedores registrada no passivo da entidade deve ser ajustada pelo seu valor presente. 29 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto, CPC 12 – Ajuste a Valor Presente, itens de longo prazo DEVEM ser ajustados a valor presente e itens de curto prazo QUANDO O EFEITO FOR RELEVANTE.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q7",
+        "question": "(CEBRASPE/TJ-AM/Analista Judiciário - Contabilidade/2019) Para fins contábeis, a taxa de desconto a ser utilizada para o cálculo do ajuste a valor presente de elementos patrimoniais decorrentes de operações de longo prazo deve refletir unicamente a taxa de juros livre de risco, mesmo que se possa estimar o prêmio por risco desses elementos de forma confiável.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Errado, se puder ser calculado o prêmio por risco, deve ser levado em consideração. Isso está previsto no CPC 12: 14. Em muitas situações não é possível se chegar a uma estimativa confiável para o prêmio pelo risco ou, em sendo possível, o montante estimado pode ser relativamente pequeno se comparado a erros potenciais nos fluxos de caixa estimados. Nesses casos, excepcionalmente, o valor presente de fluxos de caixa esperados pode ser obtido com a adoção de taxa de desconto que reflita unicamente a taxa de juros livre de risco, desde que com ampla divulgação do fato e das razões que levaram a esse procedimento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q8",
+        "question": "(CEBRASPE/SEFAZ RS/Auditor-Fiscal da Receita Estadual/2019) Ao estimar e registrar o valor corrente dos fluxos de caixa futuros para suas obrigações, encargos e riscos classificados no passivo não circulante, uma empresa que se encontre no curso normal de suas atividades aplica o conceito de",
+        "options": [
+          "ajuste de avaliação patrimonial.",
+          "evento subsequente.",
+          "moeda funcional.",
+          "regime de caixa.",
+          "valor presente."
+        ],
+        "correct": 4,
+        "explanation": "Atenção as palavras chaves: “estimar”, “valor corrente”. “Fluxo futuro”. Tais afirmações caracterizam o valor presente. Vejamos a definição feita pelo CPC n° 12: 30 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56 Valor presente (present value) - é a ESTIMATIVA DO VALOR CORRENTE de um fluxo de caixa futuro, no curso normal das operações da entidade.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q9",
+        "question": "(CEBRASPE/EBSERH/Analista/2018) Ao se ajustar o fluxo de caixa de um negócio a valor presente, não havendo possibilidade de estimar confiavelmente o prêmio de risco envolvido, poder-se-á optar pela taxa de juros livre de risco, externa ao negócio, como taxa de desconto.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Segundo o CPC 12: 14. Em muitas situações não é possível se chegar a uma estimativa confiável para o prêmio pelo risco ou, em sendo possível, o montante estimado pode ser relativamente pequeno se comparado a erros potenciais nos fluxos de caixa estimados. Nesses casos, excepcionalmente, o valor presente de fluxos de caixa esperados pode ser obtido com a adoção de taxa de desconto que reflita unicamente a taxa de juros livre de risco, desde que com ampla divulgação do fato e das razões que levaram a esse procedimento.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q10",
+        "question": "(CEBRASPE/Analista/STM/2018) Os financiamentos obtidos no BNDES, com juros abaixo dos padrões do mercado, têm de ser ajustados a valor presente com base na média das taxas do mercado de dívidas de longo prazo.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Financiamentos obtidos junto ao BNDES são exceções ao ajuste a valor presente. Resposta prevista no CPC 12: 10. No caso de empréstimos, financiamentos e mútuos com encargos financeiros diferentes das atuais taxas de juros praticadas pelo mercado, deve ser feito o AVP? (a) Financiamentos do BNDES, contratados com taxas de juros diferentes das taxas praticadas pelo mercado em geral para outras modalidades de empréstimos, estão sujeitos ao AVP? Resposta - Não. Esses financiamentos reúnem características próprias e as condições definidas nos contratos de financiamento do BNDES, entre partes independentes, e refletem as condições para aqueles tipos de financiamentos. Em alguns casos, os encargos 31 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56 financeiros são inferiores às taxas de juros aplicáveis para empréstimos em geral e/ou para capital de giro, mas deve-se levar em consideração que o BNDES financia projetos, com características próprias, em geral aplicando taxas que seriam aplicáveis a qualquer entidade, ajustadas apenas pelo risco específico de crédito das entidades e projetos envolvidos. No Brasil, não há um mercado consolidado de dívidas de longo prazo com as características dos financiamentos do BNDES, com o que a oferta de crédito às entidades em geral, com essa característica de longo prazo, normalmente está limitada ao BNDES. Esse tratamento está alinhado às normas internacionais, mais especificamente os IAS 20 e 37 e com este Pronunciamento. Você conhece quais são as exceções ao Ajuste a Valor Presente? Financiamentos BNDES Mútuo entre Não se sujeitam Partes ao AVP Relacionadas Ativos e Passivos Fiscais Diferidos",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q1",
+        "question": "(IDECAN/PEFOCE - Perito Criminal/Ciências Contábeis/2021) Assinale a alternativa que indique a contabilização correta das reversões dos ajustes a valor presente dos ativos e passivos monetários qualificáveis de acordo com o Pronunciamento Técnico CPC 12 – Ajuste a Valor Presente de uma empresa de serviços, que normalmente efetua vendas à vista. A Receitas ou despesas operacionais B Outras receitas ou despesas operacionais C Receitas ou despesas financeiras D Despesas administrativas E Receitas comerciais",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Em regra, devem ser apropriadas como receitas ou despesas financeiras. Ressaltamos que existe a seguinte exceção: quando o financiamento feito a seus clientes faça parte de suas atividades operacionais, nesse caso então as reversões serão apropriadas como receita operacional. Isso é previsto no CPC 12: 23. As reversões dos ajustes a valor presente dos ativos e passivos monetários qualificáveis devem ser apropriadas como receitas ou despesas financeiras, a não ser que a entidade possa devidamente fundamentar que o financiamento feito a seus clientes faça parte de suas atividades operacionais, quando então as reversões serão apropriadas como receita operacional. Esse é o caso, por exemplo, quando a entidade opera em dois segmentos distintos: (i) venda de produtos e serviços e (ii) financiamento das vendas a prazo, e desde que CPC_12 7 sejam relevantes esse ajuste e os efeitos de sua evidenciação.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q2",
+        "question": "(AOCP/ ISS CARIACICA – ES/ Fiscal de Tributos Municipais /2020) No Balanço Patrimonial, as obrigações, os encargos e os riscos classificados no passivo não circulante serão ajustados ao seu valor presente, sendo que os demais passivos serão ajustados (A) pelo custo de aquisição. (B) pelo método de equivalência patrimonial. (C) quando houver efeito relevante. (D) a valor realizável líquido de saídas.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "A LSA prevê no Art. 184. No balanço, os elementos do passivo serão avaliados de acordo com os seguintes critérios: 33 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56 III – as obrigações, os encargos e os riscos classificados no passivo não circulante serão ajustados ao seu valor presente, sendo os demais ajustados quando houver efeito relevante.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula25_q3",
+        "question": "(Vunesp/CM SJC/Analista/2018) Uma determinada empresa realizou, em 31.01.2018, uma venda no valor total de R$ 2.000.000,00 nas seguintes condições: – R$ 800.000,00 foram recebidos à vista; – O saldo remanescente seria recebido em 31.01.2020. Se a venda tivesse sido realizada totalmente à vista, o seu valor total seria de R$ 1.800.000,00. Com base nessas informações e de acordo com as normas contábeis vigentes, a empresa reconheceu, no momento da venda,",
+        "options": [
+          "receita de vendas de R$ 2.000.000,00.",
+          "receita de vendas de R$ 1.800.000,00.",
+          "receita de vendas de R$ 800.000,00.",
+          "despesa financeira de R$ 200.000,00.",
+          "receita financeira de R$ 200.000,00."
+        ],
+        "correct": 1,
+        "explanation": "O Montante foi R$ 2.000.000,00, todavia R$ 800.000,00 foram recebidos à vista e $ 1.200.000,00, a prazo (2.000.000 – 800.000). Dado que caso a venda total fosse realizada à vista o valor seria diferente, conclui-se que a venda a prazo engloba juros. Nessa situação, devemos seguir o CPC 12: 9. Ativos e passivos monetários com juros implícitos ou explícitos embutidos devem ser mensurados pelo seu valor presente quando do seu reconhecimento inicial, por ser este o valor de custo original dentro da filosofia de valor justo (fair value). O quesito informou que o valor presente do total vendido seria R$ 1.800.000,00, consequentemente, já podemos marcar letra b como gabarito. Para fins didáticos, contabilizemos: D – Caixa (AC) 800.000 D – Contas a Receber (RLP) 1.200.000 (2.000.000 – 800.000) C – Ajuste a VP (ANC – Realizável a LP) 200.000 (2.000.000 – 1.800.000) C – Receita de Vendas (resultado) 1.800.000",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q4",
+        "question": "(VUNESP/UFTM/Contador/2018) Os elementos integrantes do ativo e do passivo, decorrentes de operações de longo prazo, ou de curto prazo quando houver efeito relevante, ________________ que reflitam as melhores avaliações do mercado quanto ao valor do dinheiro no tempo e os riscos específicos do ativo e do passivo em suas datas originais. Assinale a alternativa que completa o texto corretamente.",
+        "options": [
+          "devem ser calculados de acordo com as metodologias de correção integral",
+          "serão ajustados pelos modelos de moeda constante",
+          "serão corrigidos por taxas de mercado para tomada de recursos",
+          "devem ser ajustados a valor presente com base em taxas de desconto",
+          "fazem parte integrante dos laudos de avaliação econômicos- financeiros"
+        ],
+        "correct": 3,
+        "explanation": "Com base na Lei das Sociedades por Ações: Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios: VIII – os elementos do ativo decorrentes de operações de longo prazo serão ajustados a valor presente, sendo os demais ajustados quando houver efeito relevante. (Incluído pela Lei nº 11.638, de 2007) Art. 184. No balanço, os elementos do passivo serão avaliados de acordo com os seguintes critérios: III – as obrigações, os encargos e os riscos classificados no passivo não circulante serão ajustados ao seu valor presente, sendo os demais ajustados quando houver efeito relevante. (Redação dada pela Lei nº 11.941, de 2009)",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q5",
+        "question": "(CESGRANRIO/LIQUIGÁS/Profissional Júnior - Ciências Contábeis/2018) A companhia Y realizou a venda de um equipamento de seu ativo imobilizado em 2/fev/2018, para receber em 5 parcelas iguais e sucessivas. Considerando a necessidade de atender às determinações normativas, no que se refere ao ajuste a valor presente, a companhia Y elaborou a seguinte planilha com as informações da venda realizada: 35 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56 Considerando os aspectos técnico-conceituais do ajuste a valor presente, a companhia Y deve reconhecer, no próprio dia da venda, o valor da receita da venda. Tal valor, em reais, foi de",
+        "options": [
+          "28.654,05",
+          "98.033,22",
+          "100.000,00",
+          "471.345,95",
+          "500.000,00"
+        ],
+        "correct": 3,
+        "explanation": "O Montante foi R$ 500.000,00, todavia serão recebidos a prazo. Dado que caso a venda total fosse realizada à vista o valor seria diferente, conclui-se que a venda a prazo engloba juros. Nessa situação, devemos seguir o CPC 12: 9. Ativos e passivos monetários com juros implícitos ou explícitos embutidos devem ser mensurados pelo seu valor presente quando do seu reconhecimento inicial, por ser este o valor de custo original dentro da filosofia de valor justo (fair value). O quesito informou que o valor presente do total vendido seria R$ 471.345,95, consequentemente, já podemos marcar letra D como gabarito. Para fins didáticos, contabilizemos: D – Contas a Receber 500.000,00 C – Ajuste a VP 28.654,05 C – Receita de Vendas 471.345,95",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q6",
+        "question": "(Vunesp/Prefeitura de São José do Rio Preto/Auditor Fiscal/2016) A Cia. Comercial Amazonas vendeu mercadorias a prazo, em 20 prestações iguais e sucessivas de R$ 1.000,00, a primeira vencendo no mês posterior ao da venda. A companhia usou uma taxa de juros de 1% ao mês para calcular o ajuste a valor presente desse fluxo de caixa. Sabe-se que o ajuste a valor presente dessa alienação correspondeu a R$ 1.950,00. A companhia efetuou corretamente a contabilização dessa transação segundo as normas brasileiras de contabilidade, lançando o ajuste como conta redutora de recebíveis. Pode-se concluir que",
+        "options": [
+          "o Ativo da companhia aumentou R$ 20.000,00.",
+          "a companhia auferiu uma receita de vendas de R$ 18.050,00.",
+          "a conta de Recebíveis foi creditada em R$ 1.950,00.",
+          "a conta de Ajustes a Valor Presente foi debitada em R$ 20.000,00.",
+          "o Passivo da companhia foi aumentado em R$ 1.950,00. 36 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56"
+        ],
+        "correct": 1,
+        "explanation": "Valor Nominal das Receitas = 20 x 1.000 = 20.000 Ajuste a Valor Presente = 1.950 Contabilização no momento inicial: D – Contas a Receber (RLP) 20.000 C – Ajuste a VP (ANC – Realizável a LP) 1.950 C – Receita de Vendas (resultado) 18.050",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q7",
+        "question": "(Vunesp/Urbanismo/Analista Administrativo/2014) No que tange ao ajuste a valor presente – AVP, conforme previsto no CPC12, ativos e passivos monetários, com juros implícitos ou explícitos embutidos, devem ser mensurados",
+        "options": [
+          "pelas regras dos ativos e passivos financeiros, considerando ainda a limitação imposta pelos instrumentos financeiros.",
+          "pelo seu valor de liquidação, considerando o valor do custo inicial de investimento.",
+          "pelo seu valor presente, quando do seu reconhecimento inicial, por ser este o valor de custo original dentro da filosofia de valor justo (fair value).",
+          "pelo seu valor inicial, acrescido dos referidos juros, trazidos a valor de mercado, uma vez que se trata de fluxo de caixa operacional",
+          "pelo seu valor corrente, quando do seu reconhecimento inicial e valorização do seu preço de resgate; dos dois, o menor"
+        ],
+        "correct": 2,
+        "explanation": "No tocante aos ativos e passivos monetários, com juros implícitos ou explícitos embutidos o CPC 12 nos afirma o seguinte: 9. Ativos e passivos monetários com juros implícitos ou explícitos embutidos devem ser mensurados pelo seu valor presente quando do seu reconhecimento inicial, por ser este o valor de custo original dentro da filosofia de valor justo (fair value). Adicionalmente, conforme o Pronunciamento Técnico 02 do CPC: Itens monetários são aqueles representados por dinheiro ou por direitos a serem recebidos e obrigações a serem liquidadas em dinheiro.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q8",
+        "question": "(VUNESP/SJRP/Auditor Fiscal/2014) A Cia. Comercial Amazonas vendeu mercadorias a prazo, em 20 prestações iguais e sucessivas de R$ 1.000,00, a primeira vencendo no mês posterior ao da venda. A companhia usou uma taxa de juros de 1% ao mês para calcular o ajuste a valor presente desse fluxo de caixa. Sabe-se que o ajuste a valor presente dessa alienação correspondeu a R$ 1.950,00. A companhia efetuou corretamente a contabilização dessa transação segundo as normas brasileiras de contabilidade, lançando o ajuste como conta redutora de recebíveis. Pode-se concluir que",
+        "options": [
+          "o Ativo da companhia aumentou R$ 20.000,00.",
+          "a companhia auferiu uma receita de vendas de R$ 18.050,00.",
+          "a conta de Recebíveis foi creditada em R$ 1.950,00.",
+          "a conta de Ajustes a Valor Presente foi debitada em R$ 20.000,00.",
+          "o Passivo da companhia foi aumentado em R$ 1.950,00."
+        ],
+        "correct": 1,
+        "explanation": "Na venda para recebimento em longo prazo, devemos fazer o ajuste a valor presente, vejam: Valor a prazo = 20 x 1000 = 20.000 (-) Ajuste a Valor Presente 1.950 Valor Presente 18.050 Contabilização: D – Clientes (Ativo) 20.000 C - AVP de Clientes (Ativo) 1.950 C – Receita de Vendas 18.050 Informamos que essa contabilização está de acordo com o CPC 12 – Ajuste a Valor Presente.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q9",
+        "question": "(CESGRANRIO/LIQUIGÁS/Profissional Júnior/2014) Considere os dados a seguir para responder à questão. Em 5 de janeiro de 2013, uma companhia obteve um financiamento para adquirir um novo equipamento para seu ativo imobilizado nas seguintes condições: • Entrada de 200.000,00, no ato da operação, efetuada em cheque. • 3 parcelas anuais iguais e sucessivas de 200.000,00 cada uma, pactuadas à taxa de 8% ao ano, vencendo a primeira em 5 de janeiro de 2014. Concluída a negociação, a companhia elaborou a seguinte planilha da operação realizada: 38 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56 Vencimento Histórico Valor Original Taxa de desconto Valor Presente 05/01/2013 Entrada R$ 200.000,00 0 R$ 200.000,00 05/01/2014 1ª Parcela R$ 200.000,00 0,9259 R$ 185.180,00 05/01/2015 2ª Parcela R$ 200.000,00 0,8573 R$ 171.460,00 05/01/2016 3ªParcela R$ 200.000,00 0,7938 R$ 158.760,00 Totais R$ 800.000,00 R$ 715.400,00 De acordo com a legislação societária e as normas contábeis vigentes, o registro contábil da operação, feito pela companhia, no dia da operação, é o seguinte:",
+        "options": [
+          "D. Equipamentos 715.400,00 C. Bancos c/ Movimento 200.000,00 C. Contas a Pagar 515.400,00",
+          "D. Equipamentos 715.400,00 D. Juros a Apropriar (redutora de contas a pagar 69.780,00 D. Juros Passivos (despesa) 14.820,00 C. Bancos c/ Movimento 200.000,00 C. Contas a Pagar 600.000,00",
+          "D. Equipamentos 715.400,00 D. Juros a Apropriar (redutora de contas a pagar) 84.600,00 C. Bancos c/ Movimento 200.000,00 C. Contas a Pagar 600.000,00",
+          "D. Equipamentos 800.000,00 C. Bancos c/ Movimento 200.000,00 C. Contas a Pagar 600.000,00",
+          "D. Equipamentos 800.000,00 C. Bancos c/ Movimento 200.000,00 C. Encargos Financeiros Futuros a Pagar 84.600,00 C. Contas a Pagar 515.400,00"
+        ],
+        "correct": 2,
+        "explanation": "Vamos organizar as informações fornecidas pelo examinador e efetuar as contabilizações: ▪ Taxa de juros: 8% ao ano ▪ Valor Total da obrigação: 4 x 200.000,00 = R$ 800.000,00 ▪ Valor presente do custo do equipamento: 715.400,00 ▪ Encargos Financeiros da operação: 800.000 – 715.400 = 84.600,00 39 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56 Contabilização no momento inicial: D. Equipamentos (valor presente) 715.400,00 D. Juros a Apropriar (redutora de contas a pagar) 84.600,00 C. Bancos c/ Movimento 200.000,00 C. Contas a Pagar 600.000,00",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q10",
+        "question": "(CESGRANRIO/LIQUIGÁS/Contabilidade/2013) Uma companhia, ao realizar os devidos cálculos de ajuste a valor presente do valor de uma Duplicata a Receber classificada no Ativo Não Circulante / Realizável a Longo prazo, fez as seguintes anotações. Valor inicial da Duplicata a Receber 15.000,00 ==11e785== Valor da Duplicata ajustada a valor presente 10.800,00 Considerando exclusivamente as informações recebidas e a boa técnica contábil, o registro contábil que a companhia vai realizar, para reconhecer o valor presente da duplicata a receber, é",
+        "options": [
+          "D Despesa de Ajuste a Valor Presente 4.200,00 C Provisão para Ajuste a Valor Presente 4.200,00",
+          "D Duplicatas a Receber 4.200,00 C Provisão para Ajuste a Valor Presente 4.200,00",
+          "D Receita de Financiamento de Vendas 4.200,00 C Provisão para Ajuste a Valor Presente 4.200,00",
+          "D Despesa de Ajuste a Valor Presente 10.800,00 C Duplicatas a Receber 10.800,00",
+          "D Receita de Financiamento de Vendas 10.800,00 C Duplicatas a Receber 10.800,00"
+        ],
+        "correct": 0,
+        "explanation": "Devemos efetuar o Ajuste a Valor Presente das duplicatas de longo prazo, considerando o seguinte: Valor inicial da Duplicata a Receber 15.000,00 (-) Valor da Duplicata ajustada a valor presente 10.800,00 (=) Encargos Financeiros a Transcorrer 4.200,00 Contabilização: D – Despesas com AVP 4.200,00 C – AVP de Duplicatas de Longo Prazo* 4.200,00 40 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56 * A banca usou a rubrica Provisão para Ajuste a Valor Presente, mas, segundo o CPC 25, Provisão é um Passivo de Prazo ou Valor Incertos, portanto, não temos mais provisões classificadas no Ativo.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q11",
+        "question": "(COPS UEL/SEFAZ PR/Auditor Fiscal/2012) À luz do Comitê de Pronunciamentos Contábeis, os ativos e passivos monetários com juros implícitos ou explícitos embutidos, quando do seu reconhecimento inicial, devem ser mensurados pelo seu valor",
+        "options": [
+          "de compra.",
+          "de mercado.",
+          "de venda.",
+          "justo.",
+          "presente."
+        ],
+        "correct": 4,
+        "explanation": "Vimos que eles devem ser mensurados pelo seu valor PRESENTE. Conforme o CPC 12: 9. Ativos e passivos monetários com juros implícitos ou explícitos embutidos devem ser mensurados pelo seu VALOR PRESENTE quando do seu reconhecimento inicial, por ser este o valor de custo original dentro da filosofia de valor justo (fair value). Por isso, quando aplicável, o custo de ativos não monetários deve ser ajustado em contrapartida; ou então a conta de receita, despesa ou outra conforme a situação. A esse respeito, uma vez ajustado o item não monetário, não deve mais ser submetido a ajustes subsequentes no que respeita à figura de juros embutidos. Ressalte-se que nem todo ativo ou passivo não- monetário está sujeito ao efeito do ajuste a valor presente; por exemplo, um item não monetário que, pela sua natureza, não está sujeito ao ajuste a valor presente é o adiantamento em dinheiro para recebimento ou pagamento em bens e serviços.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula25_q13",
+        "question": "(CESGRANRIO/Petrobrás/Contabilidade/2011) Os itens monetários classificados no Ativo, decorrentes de operações prefixadas, com taxas de juros explícitas, devem ser expressos a valor presente nas demonstrações contábeis. No cálculo deste valor presente deve ser utilizada a taxa de juros vigente na data da(o)",
+        "options": [
+          "competência do ativo",
+          "origem da transação",
+          "elaboração das demonstrações contábeis",
+          "vencimento do ativo 42 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 56",
+          "término da transação."
+        ],
+        "correct": 1,
+        "explanation": "Vejamos esse trecho do CPC 12 – Ajuste a Valor Presente: Como deve ser definida a taxa de juros para fins de cálculo do AVP? Resposta - Há operações cuja taxa de juros é explícita (por exemplo, descrita e conhecida no contrato da operação) ou implícita (por exemplo, desconhecida, mas embutida na precificação inicial da operação pela entidade no ato da compra ou da venda). Em ambos os casos, é necessário utilizar uma taxa de desconto que reflita juros compatíveis com a natureza, o prazo e os riscos relacionados à transação, levando-se em consideração, ainda, as taxas de mercado praticadas na data inicial da transação entre partes conhecedoras do negócio, que tenham a intenção de efetuar a transação e em condições usuais de mercado. Nos casos em que a taxa é explícita, o processo de avaliação passa por uma comparação entre a taxa de juros da operação e a taxa de juros de mercado, na data da origem da transação.",
+        "type": "multiple-choice"
+      }
+    ]
+  },
+  {
+    "id": "aula26",
+    "title": "26",
+    "description": "Questões comentadas da 26",
+    "color": "bg-teal-800",
+    "questions": [
+      {
+        "id": "aula26_q1",
+        "question": "(CEBRASPE/CNPq/Gestão Orçamentária, Financeira e Contábil/2024) As aplicações em instrumentos financeiros, inclusive derivativos, devem ser avaliadas pelo seu valor justo caso a intenção da entidade seja mantê-las para resgate na data do vencimento.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item errado, pessoal. O art. 183, I, b, da Lei 6404/76 afirma que as aplicações em instrumentos financeiros, inclusive derivativos, e em direitos e títulos de créditos, classificados no ativo circulante ou no realizável a longo prazo serão avaliadas pelo seu valor justo, quando se tratar de aplicações destinadas à negociação ou disponíveis para venda. Caso a intenção da entidade seja mantê-las para resgate na data do vencimento, o critério que será adotado é \"custo amortizado\", ou seja, o valor inicial atualizados dos encargos de operação (curva do papel). Não há avaliação a valor justo.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q2",
+        "question": "(CEBRASPE/Especialista em Regulação/ANTT/2024) Considere que a carteira de investimentos de determinada empresa tenha sido avaliada pelo seu valor justo, sendo constatada uma perda de valor de seus componentes. Considere, ainda, que essa carteira tenha sido avaliada a valor justo em outros resultados abrangentes, tendo sua variação registrada em conta apropriada do patrimônio líquido. Nessa situação, a contabilização adequada provocará um lançamento credor em conta do patrimônio líquido",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Se os investimentos da empresa tenham sido avaliados a valor justo em outros resultados abrangentes, as variações ocorridas no valor justo não serão lançadas no resultado do exercício, mas diretamente no patrimônio líquido, na conta de ajuste de avaliação patrimonial. Se for valorização: D - Ativo Financeiro C - Ajuste de Avaliação Patrimonial - PL Se for desvalorização: 14 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 D - Ajuste de Avaliação Patrimonial - PL C - Ativo Financeiro Percebam que o item está errado, pois a perda registrada será contabilizada com um lançamento DEVEDOR no patrimônio líquido e não credor.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q5",
+        "question": "(FCC/TRT-18/Administrativa/Contabilidade/2023) No dia 01/12/2017, uma empresa aplicou R$ 400.000,00 em ativos financeiros e definiu os seguintes critérios de mensuração: • R$ 200.000,00 são mensurados ao custo amortizado; • R$ 150.000,00 são mensurados ao valor justo por meio de outros resultados abrangentes; • R$ 50.000,00 são mensurados ao valor justo por meio do resultado do período. Todos os títulos mencionados rendem a taxa de juros de 1% ao mês e apresentavam, em 31/12/2017, proporcionalmente, o mesmo valor justo, sendo que o valor justo total na data era R$ 408.000,00. Os valores, em reais, apresentados no Balanço Patrimonial da empresa, em 31/12/2017, para os títulos adquiridos em 01/12/2017 e mensurados ao custo amortizado, mensurados ao valor justo por meio de outros resultados abrangentes e mensurados ao valor justo por meio do resultado do período, foram, respectivamente:",
+        "options": [
+          "202.000,00, 151.500,00 e 50.500,00",
+          "204.000,00, 153.000,00 e 51.000,00",
+          "202.000,00, 153.000,00 e 51.000,00",
+          "204.000,00, 151.500,00 e 50.500,00",
+          "200.000,00, 150.000,00 e 50.000,00."
+        ],
+        "correct": 2,
+        "explanation": "Questão que trata do CPC 48 - Instrumentos Financeiros. Os Títulos mensurados ao custo amortizado são semelhantes aos antigos títulos mantidos até o vencimento. O valor dos rendimentos (juros) vai para o resultado e não são ajustados ao valor justo. Para os títulos mensuração ao valor justo por meio de outros resultados abrangentes, o valor dos rendimentos (juros) vai para o resultado; o ajuste a valor justo vai para o PL, na conta Ajuste de Avaliação Patrimonial. Quanto aos títulos mensurados ao valor justo por meio do resultado, os rendimentos e o ajuste a valor justo vão para o Resultado. 17 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 O valor total aplicado em instrumentos financeiros é de 400.000, sendo que ocorrerá uma divisão proporcional, a qual também será usada para determinarmos o valor justo de cada investimentos: • R$ 200.000,00 são mensurados ao custo amortizado = 200.000/400.000 = 50%. Valor Justo = 50% de 408.000 = 204.000 Contudo, esse instrumento financeiro não é avaliado a valor justo, mas pela chamada \"curva do papel\", o valor de custo mais os rendimentos. Juros = 200.000 x 0,01 = 2.000. Valor Apresentado no Balanço Patrimonial = 200.000 + 2.000 = R$ 202.000,00. • R$ 150.000,00 são mensurados ao valor justo por meio de outros resultados abrangentes = 150.000/400.000 = 37,5% Valor Justo = 37,5% de 408.000 = 153.000 • R$ 50.000,00 são mensurados ao valor justo por meio do resultado do período = 12,5% Valor Justo = 12,5% de 408.000 = 51.000 Os dois últimos títulos serão apresentados no balanço patrimonial por esses saldos, R$ 153.000 e R$ 51.000, respectivamente.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula26_q6",
+        "question": "(CEBRASPE/TCE RJ/Analista de Controle Externo/2021) Os critérios aplicáveis à mensuração de um ativo financeiro após o seu reconhecimento inicial são custo amortizado, valor justo por meio de outros resultados abrangentes e valor justo por meio do resultado.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Correto e, com a entrada em vigor do CPC 48, o modelo de negócios da entidade que será determinante na classificação dos instrumentos financeiros. Esse modelo refere-se a como a entidade gerencia seus ativos financeiros para gerar fluxos de caixa. Ou seja, o modelo de negócios da entidade determina se os fluxos de caixa resultam do recebimento de fluxos de caixa contratuais, venda de ativos financeiros ou ambos. Não é o que a empresa espera fazer com relação aos ativos financeiros; é o que ela efetivamente faz com tais ativos. Vejamos agora as classificações. 18 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 Custo amortizado Ao valor justo por meio de outros Ativos Financeiros Mensurados ao resul. abrangentes (PL) Ao valor justo por meio de resultados (residual)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q8",
+        "question": "(FGV/FunSaúde CE/Analista Administrativo - Contabilidade/2021) Uma empresa possui, entre seus ativos, instrumentos financeiros destinados à venda futura. As variações de preço de mercado destes instrumentos financeiros devem ser contabilizadas na conta A receita financeira. B outras receitas operacionais. C ajustes de avaliação patrimonial. 20 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 D reserva de lucros. E reserva de capital.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Podemos relacionar a classificação em ativo financeiro mensurado ao valor justo por meio de outros resultados abrangentes com a antiga categoria dos “títulos disponíveis para venda futura”. Para os títulos mensuração ao valor justo por meio de outros resultados abrangentes, o valor dos rendimentos (juros) vai para o resultado; o ajuste a valor justo vai para o PL, na conta Ajuste de Avaliação Patrimonial.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q9",
+        "question": "(CEBRASPE/TJ-PA/Analista Judiciário - Ciências Contábeis/2020) Uma empresa adquiriu um instrumento financeiro no valor de R$ 300.000,00, com remuneração estabelecida de R$ 32.500,00 para o vencimento. No vencimento, esse título possuía valor justo de R$ 340.000,00. Considerando essa situação e as normas acerca do reconhecimento, da mensuração e do registro das operações contábeis dessa natureza, assinale a opção correta.",
+        "options": [
+          "Se a empresa avaliar o título pelo custo amortizado na data do vencimento, ela deverá registrar os valores de R$ 7.500,00 e R$ 32.500,00 como receita de juros.",
+          "Se a empresa avaliar o instrumento financeiro pelo valor justo por meio de outros resultados abrangentes, ela deverá registrar um crédito de R$ 7.500,00 em conta de ajuste de avaliação patrimonial em seu patrimônio líquido e um crédito de R$ 32.500,00 na conta receita de juros.",
+          "Se a empresa avaliar o instrumento financeiro pelo valor justo por meio de resultado, ela deverá registrar apenas o crédito de R$ 40.000,00 em conta de ajuste de avaliação patrimonial em seu patrimônio líquido.",
+          "Se a empresa avaliar o instrumento financeiro pelo valor justo por meio de outros resultados abrangentes, ela deverá registrar um crédito de R$ 40.000,00 em conta de ajuste de avaliação patrimonial.",
+          "Se a empresa avaliar o instrumento financeiro pelo custo amortizado, o registro proporcionará um crédito de R$ 7.500,00 na conta de ajuste de avaliação patrimonial no patrimônio líquido da empresa e R$ 32.500,00 correspondentes a receita de juros na demonstração do resultado do exercício."
+        ],
+        "correct": 1,
+        "explanation": "a)Se a empresa avaliar o título pelo custo amortizado na data do vencimento, ela deverá registrar os valores de R$ 7.500,00 e R$ 32.500,00 como receita de juros. e) Se a empresa avaliar o instrumento financeiro pelo custo amortizado, o registro proporcionará um crédito de R$ 7.500,00 na conta de ajuste de avaliação patrimonial no patrimônio líquido da empresa e R$ 32.500,00 correspondentes a receita de juros na demonstração do resultado do exercício. Errados, os investimentos ao custo amortizado não são não são ajustados ao valor justo. Assim: Contabilização inicial: 21 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 D – Instrumento financeiro – custo amortizado (Ativo) 300.000 C – Caixa (Ativo) 300.000 Contabilização dos juros: D - Instrumento financeiro – custo amortizado (Ativo) 32.500 C – Receita financeira (Resultado) 32.500 Logo, reconheceremos 32,5 mil como receita de juros. b) Se a empresa avaliar o instrumento financeiro pelo valor justo por meio de outros resultados abrangentes, ela deverá registrar um crédito de R$ 7.500,00 em conta de ajuste de avaliação patrimonial em seu patrimônio líquido e um crédito de R$ 32.500,00 na conta receita de juros. Durante a aula falamos que os instrumento financeiro pelo valor justo por meio de outros resultados abrangentes, possuem as seguintes características: • Juros: Resultado. • Ajuste a Valor justo no Patrimônio Líquido Agora, analisemos essa alternativa: Contabilização inicial: D – Instr. Finan. ao valor justo – result. Abrangente 300.000 C – Caixa (Ativo) 300.000 Contabilização dos juros: D - Instr. Finan. ao valor justo – result. Abrangente 32.500 C – Receita financeira (Resultado) 32.500 Assim, é correto afirmar que a entidade lançou um crédito de R$ 32.500,00 na conta receita de juros Após esse lançamento, o título fica registrado pelo valor de R$ 332.500. Mas, como o valor justo é de R$ 340.000, precisamos reconhecer uma receita de 7.500 reais, reconhecida em outros resultados abrangentes (no Patrimônio Líquido – PL), na conta Ajuste de Avaliação Patrimonial (AAP). Contabilização Pela avaliação a valor justo: D – Instr. Finan. ao valor justo – result. Abrangente 7.500 C – Ajuste de Avaliação Patrimonial (PL) 7.500 Logo, também está correto dizer que ela deverá registrar um crédito de R$ 7.500,00 em conta de ajuste de avaliação patrimonial em seu patrimônio líquido. Portanto, essa alternativa é o nosso gabarito. 22 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 c) Se a empresa avaliar o instrumento financeiro pelo valor justo por meio de resultado, ela deverá registrar apenas o crédito de R$ 40.000,00 em conta de ajuste de avaliação patrimonial em seu patrimônio líquido. Errado, falamos que esse tipo de instrumento tanto os juros quanto o ajuste ao valor justo são lançados no resultado. Desse modo, o correto seria: [...] o crédito de R$ 40.000,00 no resultado. d) Se a empresa avaliar o instrumento financeiro pelo valor justo por meio de outros resultados abrangentes, ela deverá registrar um crédito de R$ 40.000,00 em conta de ajuste de avaliação patrimonial. Errado, verificamos na alternativa b que houve um crédito de R$ 7.500,00 nessa conta e não de R$ 40.000.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula26_q10",
+        "question": "(CEBRASPE/TJ-AM/Analista Judiciário - Contabilidade/2019) Uma das condições necessárias para que um ativo financeiro seja mensurado ao custo amortizado é que esse ativo financeiro esteja inserido em um modelo de negócios que tenha por objetivo a manutenção de ativos financeiros em carteira, para receber os fluxos de caixa contratuais deles decorrentes.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "Questão literal do CPC 48, vejamos: 4.1.2 O ativo financeiro deve ser mensurado ao custo amortizado se ambas as seguintes condições forem atendidas: (a) o ativo financeiro for mantido dentro de modelo de negócios cujo objetivo seja manter ativos financeiros com o fim de receber fluxos de caixa contratuais; e",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q11",
+        "question": "(CEBRASPE/TJ-AM/Analista Judiciário - Contabilidade/2019) A opção por designar, no reconhecimento inicial, um ativo financeiro como mensurado ao valor justo por meio do resultado é uma decisão passível de revogação pela entidade optante quando o descasamento contábil que motivou tal designação deixar de existir.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 1,
+        "explanation": "Item difícil. Errado, conforme o CPC 48: 23 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 Opção de designar ativo financeiro como ao valor justo por meio do resultado 4.1.5 Não obstante os itens 4.1.1 a 4.1.4, a entidade pode, no reconhecimento inicial, designar de modo IRREVOGÁVEL o ativo financeiro como mensurado ao valor justo por meio do resultado se, ao fazê-lo, puder eliminar ou reduzir significativamente uma inconsistência de mensuração ou de reconhecimento (algumas vezes referida como “descasamento contábil”) que, de outro modo, pode resultar da mensuração de ativos ou passivos ou do reconhecimento de ganhos e perdas nesses ativos e passivos em bases diferentes (ver itens B4.1.29 a B4.1.32). Portanto, o item está errado, a ocorrência de descasamento contábil não é motivo para mudar a classificação do ativo financeiro. Seria possível se a empresa alterasse seu modelo de negócios, aplicando o CPC 23.",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q12",
+        "question": "(CEBRASPE/COGE CE/Auditor de Controle Interno/2019) Um título público de longo prazo que renderá juros nos termos do contrato foi adquirido por uma companhia que tem liquidez e cotação no mercado. Conforme o Pronunciamento Técnico CPC 48 do Comitê de Pronunciamentos Contábeis, assinale a opção correta, a respeito do título mencionado na situação hipotética.",
+        "options": [
+          "Se esse título for mensurado pelo método do custo amortizado, os juros contratuais e a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título deverão ser reconhecidos no resultado.",
+          "Se esse título for mensurado pelo método do valor justo por meio do resultado, deverá ser reconhecida no resultado a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título, mas não os juros contratuais.",
+          "Se esse título for mensurado pelo método do valor justo por meio do resultado, os juros contratuais deverão ser reconhecidos no resultado, mas não a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título.",
+          "Se esse título for mensurado pelo método do custo amortizado, deverão ser reconhecidos no resultado os juros contratuais, mas não a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título.",
+          "Se esse título for mensurado pelo método do valor justo por meio dos outros resultados abrangentes, deverá ser reconhecida no resultado a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título, mas não os juros contratuais."
+        ],
+        "correct": 3,
+        "explanation": "Antes, vamos revisar as caracteristicas de casa tipo: 24 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 Empréstimos/Recebíveis normais • Valor original - Ajuste perda - AVP Ativos Financeiros Mensurados Ao Custo Amortizado • Valor original + Encargos ou rendimentos Ativo Financeiro Mensurado Ao Valor Justo Por Meio De Outros Resultados Abrangentes. • Juros: Resultado . Ajuste a Valor justo no Patrimônio Líquido Ativo Financeiro Mensurado Ao Valor Justo Por Meio Do Resultado (categoria residual) • Encargos: resultado; Ajustes ao valor justo: Resultado a) Se esse título for mensurado pelo método do custo amortizado, os juros contratuais e a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título deverão ser reconhecidos no resultado. Errado, os investimentos ao custo amortizado não são não são ajustados ao valor justo. b) Se esse título for mensurado pelo método do valor justo por meio do resultado, deverá ser reconhecida no resultado a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título, mas não os juros contratuais. c) Se esse título for mensurado pelo método do valor justo por meio do resultado, os juros contratuais deverão ser reconhecidos no resultado, mas não a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título. Errados, nesse tipo de instrumento tanto os juros quanto o ajuste ao valor justo são lançados no resultado. d) Se esse título for mensurado pelo método do custo amortizado, deverão ser reconhecidos no resultado os juros contratuais, mas não a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título. Esse é o nosso gabarito! e) Se esse título for mensurado pelo método do valor justo por meio dos outros resultados abrangentes, deverá ser reconhecida no resultado a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título, mas não os juros contratuais Errado, o correto seria: [...] deverão ser reconhecida no resultado os juros contratuais, mas não a diferença entre os juros contratuais e as variações decorrentes da marcação a mercado do título, a qual deverá ser reconhecida em outros resultados abrangentes (no Patrimônio Líquido – PL), na conta Ajuste de Avaliação Patrimonial (AAP).",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula26_q14",
+        "question": "(FCC/AFAP/Contabilidade/2019) A empresa Aplic S.A. ajustou o valor em sua contabilidade de um Certificado de Depósito Bancário (CDB), refletindo o valor de mercado do papel. Esse procedimento contábil evidencia que o CDB passou a estar registrado a",
+        "options": [
+          "custo histórico.",
+          "valor justo.",
+          "valor financeiro.",
+          "custo amortizado.",
+          "custo de reposição"
+        ],
+        "correct": 1,
+        "explanation": "De acordo com Manual de Contabilidade Societária (FIPECAFI), “a classificação dos instrumentos financeiros supramencionada deverá refletir o modelo de negócios de seus detentores e as características contratuais dos fluxos de caixa do instrumento, resultando em uma das três modalidades de classificação e mensuração, sendo: • Custo Amortizado, • Valor Justo por Meio do Resultado ou • Valor Justo por Meio dos Outros Resultados Abrangentes, Na nossa questão, a empresa ajustou o valor em sua contabilidade de um Certificado de Depósito Bancário (CDB), refletindo o valor de mercado do papel, esse procedimento evidencia que o CDB passou a estar registrado a valor justo.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula26_q16",
+        "question": "(FCC/SEFAZ-GO/Auditor Fiscal/2018) O valor total dessas aplicações apresentado no Balanço Patrimonial da empresa Valoração S.A., em 31/07/2017, foi, em reais, (A) 786.250,00. (B) 776.750,00. (C) 778.750,00. (D) 785.000,00. (E) 783.000,00.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "CPC 48 na área. A FCC adaptou o padrão antigo de questões com as novas classificações. Como alertamos sempre, esse tipo de questão vai ser recorrente nas próximas provas de Contabilidade. Os Títulos mensurados ao custo amortizado são semelhantes aos antigos títulos mantidos até o vencimento. O valor dos rendimentos (juros) vai para o resultado e não são ajustados ao valor justo. Para os títulos mensuração ao valor justo por meio de outros resultados abrangentes, o valor dos rendimentos (juros) vai para o resultado; o ajuste a valor justo vai para o PL, na conta Ajuste de Avaliação Patrimonial. Quanto aos títulos mensurados ao valor justo por meio do resultado, os rendimentos e o ajuste a valor justo vão para o Resultado. Fica assim: Juros (Valor Custo Amortizado Valor Justo Avaliação Valor Mensuração definida pela Valor Aplicado x (Valor Aplicado + em a Valor Apresentado no empresa Aplicado Taxa) Juros) 31.12.2017 Justo Balanço Mensuração ao custo amortizado R$ 250.000,00 R$ 3.750,00 R$ 253.750,00 R$ 260.000,00 Não R$ 253.750,00 Mensuração ao valor justo por meio de outros resultados abrangentes R$ 300.000,00 R$ 3.000,00 R$ 303.000,00 R$ 305.000,00 Sim R$ 305.000,00 Mensuração ao valor justo por meio do resultado R$ 225.000,00 R$ 4.500,00 R$ 229.500,00 R$ 220.000,00 Sim R$ 220.000,00 Total Apresentado no Balanço R$ 778.750,00 30 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q18",
+        "question": "(FEPESE/CELESC/Contabilidade/2018) Sobre a Reclassificação de Ativos Financeiros, analise as afirmativas abaixo. 1. Se a entidade reclassificar um ativo financeiro da categoria de mensuração ao custo amortizado para a categoria de mensuração ao valor justo por meio do resultado, seu valor justo deve ser mensurado na data da reclassificação. Qualquer ganho ou perda decorrente da diferença entre o custo amortizado anterior do ativo financeiro e o valor justo deve ser reconhecido em outros resultados abrangentes. 2. Se a entidade reclassificar o ativo financeiro da categoria de mensuração ao valor justo por meio do resultado para a categoria de mensuração ao custo amortizado, seu valor justo na data da classificação tornar-se-á seu novo valor contábil líquido. 3. Se a entidade reclassificar o ativo financeiro da categoria de mensuração ao valor justo, por meio de outros resultados abrangentes para a categoria de mensuração ao valor justo por meio do resultado, o ativo financeiro deve continuar a ser mensurado ao valor justo. O ganho ou a perda acumulada, anteriormente reconhecido em outros resultados abrangentes, deve ser reclassificado do patrimônio líquido para o resultado como ajuste de reclassificação, na data da reclassificação. Assinale a alternativa que indica todas as afirmativas corretas.",
+        "options": [
+          "É correta apenas a afirmativa 1.",
+          "É correta apenas a afirmativa 3.",
+          "São corretas apenas as afirmativas 1 e 2. 32 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50",
+          "São corretas apenas as afirmativas 2 e 3.",
+          "São corretas as afirmativas 1, 2 e 3."
+        ],
+        "correct": 1,
+        "explanation": "1. Se a entidade reclassificar um ativo financeiro da categoria de mensuração ao custo amortizado para a categoria de mensuração ao valor justo por meio do resultado, seu valor justo deve ser mensurado na data da reclassificação. Qualquer ganho ou perda decorrente da diferença entre o custo amortizado anterior do ativo financeiro e o valor justo deve ser reconhecido em outros resultados abrangentes. Errado, o reconhecimento é no resultado, conforme previsão do CPC 48: 5.6.2 Se a entidade reclassificar um ativo financeiro da categoria de mensuração ao custo amortizado para a categoria de mensuração ao valor justo por meio do resultado, seu valor justo deve ser mensurado na data da reclassificação. Qualquer ganho ou perda decorrente da diferença entre o custo amortizado anterior do ativo financeiro e o valor justo deve ser reconhecido no resultado. 2. Se a entidade reclassificar o ativo financeiro da categoria de mensuração ao valor justo por meio do resultado para a categoria de mensuração ao custo amortizado, seu valor justo na data da classificação tornar-se-á seu novo valor contábil líquido. Errado, na verdade será o seu novo valor contábil BRUTO, conforme CPC 48 nos ensina: 5.6.3 Se a entidade reclassificar o ativo financeiro da categoria de mensuração ao valor justo por meio do resultado para a categoria de mensuração ao custo amortizado, seu valor justo na data da reclassificação tornar-se-á seu novo valor contábil bruto (ver item B5.6.2 para orientação sobre a determinação da taxa de juros efetiva e uma provisão para perdas na data da reclassificação). 3. Se a entidade reclassificar o ativo financeiro da categoria de mensuração ao valor justo, por meio de outros resultados abrangentes para a categoria de mensuração ao valor justo por meio do resultado, o ativo financeiro deve continuar a ser mensurado ao valor justo. O ganho ou a perda acumulada, anteriormente reconhecido em outros resultados abrangentes, deve ser reclassificado do patrimônio líquido para o resultado como ajuste de reclassificação, na data da reclassificação. Correto, conforme previsão do CPC 48: 5.6.7 Se a entidade reclassificar o ativo financeiro da categoria de mensuração ao valor justo, por meio de outros resultados abrangentes para a categoria de mensuração ao valor justo por meio do resultado o ativo financeiro deve continuar a ser mensurado ao valor justo. O ganho ou a perda acumulada, anteriormente reconhecido em outros resultados abrangentes, deve ser reclassificado do patrimônio líquido para o resultado como ajuste de reclassificação (ver CPC 26), na data da reclassificação.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula26_q20",
+        "question": "(CEBRASPE/Analista/EBSERH/2018) Para que um ativo financeiro seja mensurado ao custo amortizado, é necessário que suas cláusulas contratuais prevejam fluxos de caixa exclusivamente de principal e juros sobre esse principal, nas datas previamente acordadas, e que o modelo de negócio em que o ativo esteja inserido tenha por objetivo receber esses fluxos de caixa contratuais. 34 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "O CPC 48 entrou em vigor em 2018 e já está aparecendo em provas do CEBRASPE. É um tema bem complexo, mas de certa forma, esse novo CPC veio clarificar alguns conceitos que eram de difícil entendimento e aplicação nas normas anteriores que tratavam do tema. Segundo o CPC 48 – Instrumentos Financeiros: 4.1.1 A menos que o item 4.1.5 seja aplicável, a entidade deve classificar ativos financeiros como subsequentemente mensurados ao custo amortizado, ao valor justo por meio de outros resultados abrangentes ou ao valor justo por meio do resultado com base tanto: (a) no modelo de negócios da entidade para a gestão dos ativos financeiros; quanto (b) nas características de fluxo de caixa contratual do ativo financeiro. 4.1.2 O ativo financeiro deve ser mensurado ao custo amortizado se ambas as seguintes condições forem atendidas: (a) o ativo financeiro for mantido dentro de modelo de negócios cujo objetivo seja manter ativos financeiros com o fim de receber fluxos de caixa contratuais; e (b) os termos contratuais do ativo financeiro derem origem, em datas especificadas, a fluxos de caixa que constituam, exclusivamente, pagamentos de principal e juros sobre o valor do principal em aberto. Então, vamos esquematizar? os termos contratuais do Ativos Financeiros ativo financeiro mantido ativo financeiro derem mensurados ao custo para receber fluxos de origem a pagamentos de amortizado caixa contratuais; e principal e juros",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q21",
+        "question": "(CEBRASPE/STM/Contabilidade/2018) A avaliação de instrumentos financeiros a valor justo, quando realizada em conta do patrimônio líquido, deve ser evidenciada na demonstração do resultado abrangente.",
+        "options": [
+          "Certo",
+          "Errado"
+        ],
+        "correct": 0,
+        "explanation": "35 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 Item correto, pois uma das classificações previstas no CPC 48 é de Instrumentos Financeiros Avaliados a Valor Justo por meio dos Outros Resultados Abrangentes. Como o próprio nome já nos fornece a dica, esses ativos e passivos financeiros sofrem variação a valor justo, porém a contrapartida será em Outros Resultados Abrangentes (ORA) e não no resultado do exercício. Ademais, o CPC 26, quando trata da Demonstração do Resultado Abrangente nos apresenta: 82. Além dos itens requeridos em outros pronunciamentos, a demonstração do resultado do período deve, no mínimo, incluir as seguintes rubricas, obedecidas também às determinações legais: (ca) se o ativo financeiro for reclassificado da categoria de mensuração ao custo amortizado de modo que seja mensurado ao valor justo por meio do resultado, qualquer ganho ou perda decorrente da diferença entre o custo amortizado anterior do ativo financeiro e seu valor justo na data da reclassificação (conforme definido no CPC 48); (Incluída pela Revisão CPC 12) (cb) se o ativo financeiro for reclassificado da categoria de mensuração ao valor justo por meio de outros resultados abrangentes de modo que seja mensurado ao valor justo por meio do resultado, qualquer ganho ou perda acumulado reconhecido anteriormente em outros resultados abrangentes que sejam reclassificados para o resultado; (Incluída pela Revisão CPC 12)",
+        "type": "true-false"
+      },
+      {
+        "id": "aula26_q22",
+        "question": "(FCC/TRE-SP/Analista Judiciário/Contabilidade/2017 - ADAPTADA) 1A empresa Manequim Challenger S.A. fez uma aplicação financeira em 30/11/2018, adquirindo um título no mercado financeiro no valor de R$ 5.000,00, que remunera à taxa de 10% ao mês. Este título, conforme orientação da controladoria da empresa, foi classificado na data da aquisição como “mantido para recebimento de fluxo de caixa” e o seu valor de mercado 30 dias após a sua aquisição era R$ 5.450,00. De acordo com estas informações, em 30/12/2018, a empresa reconheceu",
+        "options": [
+          "receita financeira no valor de R$ 500,00.",
+          "receita financeira no valor de R$ 450,00.",
+          "receita financeira no valor de R$ 500,00 e ajustes de avaliação patrimonial, no patrimônio líquido, no valor de R$ 50,00 (saldo devedor).",
+          "receita financeira no valor de R$ 450,00 e ajustes de avaliação patrimonial, no patrimônio líquido, no valor de R$ 50,00 (saldo credor).",
+          "no patrimônio líquido, em ajustes de avaliação patrimonial, o valor de R$ 500,00."
+        ],
+        "correct": 0,
+        "explanation": "1 (Atenção: alteramos as datas para 2018, pois o CPC 48 entrou em vigor em 01/01/2018). 36 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 Os títulos classificados como “mantidos para recebimento de fluxos de caixa” ficam avaliados pela “curva do papel” ou “custo amortizado”, que corresponde ao valor do título mais os rendimentos (juros). Os rendimentos são classificados como Receita Financeira, no Resultado do Exercício. Esses títulos não são ajustados pelo valor justo. Portanto, o valor de mercado está ai só para confundir, pois não será usado. Assim, temos: Valor do título $5.000 x juros 10% = $500. Classificado como Receita financeira.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula26_q23",
+        "question": "(FGV/Analista de Controle Interno/Recife/2014-ADAPTADA) Determinada empresa possuía, em 31/12/2013, instrumentos financeiros avaliados em R$ 200.000,00 e classificados como mantidos para receber fluxo de caixa e para venda. Na data, foi verificado que o valor justo destes era de R$ 180.000,00. A variação deve ser reconhecida, contabilmente, como",
+        "options": [
+          "ajuste no patrimônio líquido.",
+          "receita financeira.",
+          "receita a apropriar.",
+          "variação monetária.",
+          "despesa."
+        ],
+        "correct": 0,
+        "explanation": "A empresa comprou títulos e os classificou como “mantido para receber fluxo de caixa e para venda”. Os títulos dessa categoria são atualizados pelos juros (“curva do papel”), os quais são contabilizados no resultado. Depois, sofrem o ajuste para o valor justo, e a diferença entre o valor justo e o valor atualizado pelos juros (“curva do papel”) vai para o Patrimônio Líquido, na conta Ajuste de Avaliação Patrimonial.",
+        "type": "multiple-choice"
+      },
+      {
+        "id": "aula26_q25",
+        "question": "(FCC/Auditor Fiscal/SEFAZ/PE/2014 - ADAPTADA) Uma empresa aplicou R$ 120.000,00 em ativos financeiros, sendo R$ 50.000,00 em títulos classificados como mantidos dentro de modelo de negócios com o objetivo de manter ativos financeiros com o fim de receber fluxos de caixa contratuais, e R$ 70.000,00 em títulos classificados dentro de modelo de negócios cujo objetivo seja atingido tanto pelo recebimento de fluxos de caixa contratuais quanto pela venda de ativos financeiros. As aplicações foram efetuadas no dia 31/12/2018 e todos os títulos remuneram a taxa de juros compostos de 10% ao ano. Em 31/12/2019, os valores justos de negociação dos dois títulos no mercado eram os seguintes: Classificação dos títulos Valor Justo em 31/12/2019 (R$) Receber fluxos de caixa contratuais 52.000 receber fluxos de caixa contratuais/venda de ativos financeiros 80.000 38 Rosa e S SEFAZ-RN (Auditor Fiscal de Receitas Estaduais) Contabilidade Geral e Avançada (Profs. Julio Cardozo, Luciano www.estrategiaconcursos.com.br 50 Os valores em reais que deveriam ser apresentados no Balanço Patrimonial, em 31/12/2019, para os títulos que a empresa mantém para receber fluxos de caixa contratuais e para os títulos para receber fluxos de caixa contratuais/venda de ativos financeiros, eram, respectivamente,",
+        "options": [
+          "52.000,00 e 77.000,00.",
+          "52.000,00 e 80.000,00.",
+          "55.000,00 e 80.000,00.",
+          "55.000,00 e 77.000,00.",
+          "55.000,00 e 70.000,00."
+        ],
+        "correct": 2,
+        "explanation": "1 – Mantidos para receber fluxos de caixa contratuais: Neste caso, não há avaliação a valor justo. O título fica registrado “pela curva”, ou “pelo custo amortizado”, ou seja, pelo valor pago mais os rendimentos apropriados por competência. Portanto, os mantidos até o vencimento serão avaliados por R$ 55.000,00 (50.000,00 + 10% de juros) 2 – Mantidos para receber fluxos de caixa contratuais ou para venda do ativo: Pelo rendimento: D – Instrumentos financeiros para receber fluxos de caixa ou venda do ativo 7.000 C – Receita de juros (resultado) 7.000 Pela avaliação a valor justo: D – Instrumentos financeiros para receber fluxos de caixa ou venda do ativo 3.000 C – Ajuste de Avaliação Patrimonial (PL) 3.000 Portanto, Mantidos para receber fluxo de caixa: 55.000,00 Mantidos para receber fluxo de caixa ou para venda: 80.000,00",
+        "type": "multiple-choice"
       }
     ]
   }

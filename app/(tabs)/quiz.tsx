@@ -75,7 +75,7 @@ export default function QuizScreen() {
 
   return (
     <ScreenContainer className="p-4">
-      <ScrollView contentContainerStyle={{ flexGrow: 1 }} showsVerticalScrollIndicator={false}>
+      <ScrollView contentContainerStyle={{ flexGrow: 1, paddingBottom: 40 }} showsVerticalScrollIndicator={true}>
         <View className="flex-1 gap-4">
           {/* Header */}
           <View className="gap-2">
@@ -108,7 +108,7 @@ export default function QuizScreen() {
 
           {/* Question */}
           <View className="bg-surface rounded-xl p-4 border border-border gap-4">
-            <MarkdownRenderer content={currentQuestion.question} />
+            <View style={{ minHeight: 100 }}><MarkdownRenderer content={currentQuestion.question} /></View>
 
             {/* Options */}
             <View className="gap-2">
